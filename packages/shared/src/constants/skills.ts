@@ -1,0 +1,66 @@
+import type { Ability } from "./abilities.js";
+
+export const SKILLS = [
+  "acrobatics",
+  "animal_handling",
+  "arcana",
+  "athletics",
+  "deception",
+  "history",
+  "insight",
+  "intimidation",
+  "investigation",
+  "medicine",
+  "nature",
+  "perception",
+  "performance",
+  "persuasion",
+  "religion",
+  "sleight_of_hand",
+  "stealth",
+  "survival",
+] as const;
+
+export type Skill = (typeof SKILLS)[number];
+
+export const SKILL_ABILITY: Record<Skill, Ability> = {
+  acrobatics: "DEX",
+  animal_handling: "WIS",
+  arcana: "INT",
+  athletics: "STR",
+  deception: "CHA",
+  history: "INT",
+  insight: "WIS",
+  intimidation: "CHA",
+  investigation: "INT",
+  medicine: "WIS",
+  nature: "INT",
+  perception: "WIS",
+  performance: "CHA",
+  persuasion: "CHA",
+  religion: "INT",
+  sleight_of_hand: "DEX",
+  stealth: "DEX",
+  survival: "WIS",
+};
+
+export const SKILL_NAMES: Record<Skill, string> = {
+  acrobatics: "Acrobatics",
+  animal_handling: "Animal Handling",
+  arcana: "Arcana",
+  athletics: "Athletics",
+  deception: "Deception",
+  history: "History",
+  insight: "Insight",
+  intimidation: "Intimidation",
+  investigation: "Investigation",
+  medicine: "Medicine",
+  nature: "Nature",
+  perception: "Perception",
+  performance: "Performance",
+  persuasion: "Persuasion",
+  religion: "Religion",
+  sleight_of_hand: "Sleight of Hand",
+  stealth: "Stealth",
+  survival: "Survival",
+};

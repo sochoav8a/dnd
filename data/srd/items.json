@@ -1,0 +1,3634 @@
+[
+  {
+    "slug": "abacus",
+    "name": "Abacus",
+    "description": "Abacus",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 2,
+        "currency": "gp"
+      },
+      "weight": 2
+    }
+  },
+  {
+    "slug": "acid-vial",
+    "name": "Acid (vial)",
+    "description": "As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon.\nOn a hit, the…",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 25,
+        "currency": "gp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "alchemists-fire-flask",
+    "name": "Alchemist's fire (flask)",
+    "description": "This sticky, adhesive fluid ignites when exposed to air.\nAs an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon.\nOn a hit, the target takes 1d4 fire…",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 50,
+        "currency": "gp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "alchemists-supplies",
+    "name": "Alchemist's Supplies",
+    "description": "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 50,
+        "currency": "gp"
+      },
+      "weight": 8
+    }
+  },
+  {
+    "slug": "alms-box",
+    "name": "Alms box",
+    "description": "A small box for alms, typically found in a priest's pack.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 0,
+        "currency": "cp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "amulet",
+    "name": "Amulet",
+    "description": "A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic.\nAppendix B lists the symbols…",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "gp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "animal-feed-1-day",
+    "name": "Animal Feed (1 day)",
+    "description": "Animal Feed (1 day)",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "cp"
+      },
+      "weight": 10
+    }
+  },
+  {
+    "slug": "antitoxin-vial",
+    "name": "Antitoxin (vial)",
+    "description": "A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 50,
+        "currency": "gp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "arrow",
+    "name": "Arrow",
+    "description": "Arrow",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "gp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "backpack",
+    "name": "Backpack",
+    "description": "Backpack",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 2,
+        "currency": "gp"
+      },
+      "weight": 5
+    }
+  },
+  {
+    "slug": "bagpipes",
+    "name": "Bagpipes",
+    "description": "Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 30,
+        "currency": "gp"
+      },
+      "weight": 6
+    }
+  },
+  {
+    "slug": "ball-bearings-bag-of-1000",
+    "name": "Ball bearings (bag of 1,000)",
+    "description": "As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side.\nA creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone.\nA creature moving through the area at half speed…",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "gp"
+      },
+      "weight": 2
+    }
+  },
+  {
+    "slug": "barding-breastplate",
+    "name": "Barding: Breastplate",
+    "description": "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1600,
+        "currency": "gp"
+      },
+      "weight": 40
+    }
+  },
+  {
+    "slug": "barding-chain-mail",
+    "name": "Barding: Chain mail",
+    "description": "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 300,
+        "currency": "gp"
+      },
+      "weight": 110
+    }
+  },
+  {
+    "slug": "barding-chain-shirt",
+    "name": "Barding: Chain shirt",
+    "description": "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 200,
+        "currency": "gp"
+      },
+      "weight": 40
+    }
+  },
+  {
+    "slug": "barding-half-plate",
+    "name": "Barding: Half plate",
+    "description": "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 3000,
+        "currency": "gp"
+      },
+      "weight": 80
+    }
+  },
+  {
+    "slug": "barding-hide",
+    "name": "Barding: Hide",
+    "description": "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 40,
+        "currency": "gp"
+      },
+      "weight": 24
+    }
+  },
+  {
+    "slug": "barding-leather",
+    "name": "Barding: Leather",
+    "description": "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 40,
+        "currency": "gp"
+      },
+      "weight": 20
+    }
+  },
+  {
+    "slug": "barding-padded",
+    "name": "Barding: Padded",
+    "description": "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 20,
+        "currency": "gp"
+      },
+      "weight": 16
+    }
+  },
+  {
+    "slug": "barding-plate",
+    "name": "Barding: Plate",
+    "description": "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 6000,
+        "currency": "gp"
+      },
+      "weight": 130
+    }
+  },
+  {
+    "slug": "barding-ring-mail",
+    "name": "Barding: Ring mail",
+    "description": "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 12,
+        "currency": "gp"
+      },
+      "weight": 80
+    }
+  },
+  {
+    "slug": "barding-scale-mail",
+    "name": "Barding: Scale mail",
+    "description": "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 200,
+        "currency": "gp"
+      },
+      "weight": 90
+    }
+  },
+  {
+    "slug": "barding-splint",
+    "name": "Barding: Splint",
+    "description": "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 800,
+        "currency": "gp"
+      },
+      "weight": 120
+    }
+  },
+  {
+    "slug": "barding-studded-leather",
+    "name": "Barding: Studded Leather",
+    "description": "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 180,
+        "currency": "gp"
+      },
+      "weight": 26
+    }
+  },
+  {
+    "slug": "barrel",
+    "name": "Barrel",
+    "description": "Barrel",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 2,
+        "currency": "gp"
+      },
+      "weight": 70
+    }
+  },
+  {
+    "slug": "basket",
+    "name": "Basket",
+    "description": "Basket",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 4,
+        "currency": "sp"
+      },
+      "weight": 2
+    }
+  },
+  {
+    "slug": "battleaxe",
+    "name": "Battleaxe",
+    "description": "Battleaxe",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 10,
+        "currency": "gp"
+      },
+      "weight": 4,
+      "weapon": {
+        "damage_dice": "1d8",
+        "damage_type": "slashing",
+        "properties": [
+          "Versatile",
+          "versatile (1d10)"
+        ],
+        "range": {
+          "normal": 5,
+          "long": 5
+        }
+      }
+    }
+  },
+  {
+    "slug": "bedroll",
+    "name": "Bedroll",
+    "description": "Bedroll",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "gp"
+      },
+      "weight": 7
+    }
+  },
+  {
+    "slug": "bell",
+    "name": "Bell",
+    "description": "Bell",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "gp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "bit-and-bridle",
+    "name": "Bit and bridle",
+    "description": "Bit and bridle",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 2,
+        "currency": "gp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "blanket",
+    "name": "Blanket",
+    "description": "Blanket",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "sp"
+      },
+      "weight": 3
+    }
+  },
+  {
+    "slug": "block-and-tackle",
+    "name": "Block and tackle",
+    "description": "A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "gp"
+      },
+      "weight": 5
+    }
+  },
+  {
+    "slug": "block-of-incense",
+    "name": "Block of incense",
+    "description": "A block of incense, typically found in a priest's pack.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 0,
+        "currency": "cp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "blowgun",
+    "name": "Blowgun",
+    "description": "Blowgun",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 10,
+        "currency": "gp"
+      },
+      "weight": 1,
+      "weapon": {
+        "damage_dice": "1",
+        "damage_type": "piercing",
+        "properties": [
+          "Ammunition",
+          "Loading"
+        ],
+        "range": {
+          "normal": 25,
+          "long": 100
+        }
+      }
+    }
+  },
+  {
+    "slug": "blowgun-needle",
+    "name": "Blowgun needle",
+    "description": "Blowgun needle",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "gp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "book",
+    "name": "Book",
+    "description": "A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a spellbook (described later in…",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 25,
+        "currency": "gp"
+      },
+      "weight": 5
+    }
+  },
+  {
+    "slug": "bottle-glass",
+    "name": "Bottle, glass",
+    "description": "Bottle, glass",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 2,
+        "currency": "gp"
+      },
+      "weight": 2
+    }
+  },
+  {
+    "slug": "breastplate",
+    "name": "Breastplate",
+    "description": "Breastplate",
+    "data": {
+      "category": "armor",
+      "cost": {
+        "amount": 400,
+        "currency": "gp"
+      },
+      "weight": 20,
+      "armor": {
+        "base_ac": 14,
+        "type": "medium"
+      }
+    }
+  },
+  {
+    "slug": "brewers-supplies",
+    "name": "Brewer's Supplies",
+    "description": "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 20,
+        "currency": "gp"
+      },
+      "weight": 9
+    }
+  },
+  {
+    "slug": "bucket",
+    "name": "Bucket",
+    "description": "Bucket",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "cp"
+      },
+      "weight": 2
+    }
+  },
+  {
+    "slug": "burglars-pack",
+    "name": "Burglar's Pack",
+    "description": "Burglar's Pack",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 16,
+        "currency": "gp"
+      }
+    }
+  },
+  {
+    "slug": "calligraphers-supplies",
+    "name": "Calligrapher's Supplies",
+    "description": "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 10,
+        "currency": "gp"
+      },
+      "weight": 5
+    }
+  },
+  {
+    "slug": "caltrops",
+    "name": "Caltrops",
+    "description": "As an action, you can spread a bag of caltrops to cover a square area that is 5 feet on a side.\nAny creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving this turn and take 1 piercing damage.\nTaking this damage reduces the creature's…",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "cp"
+      },
+      "weight": 2
+    }
+  },
+  {
+    "slug": "camel",
+    "name": "Camel",
+    "description": "Camel",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 50,
+        "currency": "gp"
+      }
+    }
+  },
+  {
+    "slug": "candle",
+    "name": "Candle",
+    "description": "For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "cp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "carpenters-tools",
+    "name": "Carpenter's Tools",
+    "description": "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 8,
+        "currency": "gp"
+      },
+      "weight": 6
+    }
+  },
+  {
+    "slug": "carriage",
+    "name": "Carriage",
+    "description": "Carriage",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 100,
+        "currency": "gp"
+      },
+      "weight": 600
+    }
+  },
+  {
+    "slug": "cart",
+    "name": "Cart",
+    "description": "Cart",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 15,
+        "currency": "gp"
+      },
+      "weight": 200
+    }
+  },
+  {
+    "slug": "cartographers-tools",
+    "name": "Cartographer's Tools",
+    "description": "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 15,
+        "currency": "gp"
+      },
+      "weight": 6
+    }
+  },
+  {
+    "slug": "case-crossbow-bolt",
+    "name": "Case, crossbow bolt",
+    "description": "This wooden case can hold up to twenty crossbow bolts.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "gp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "case-map-or-scroll",
+    "name": "Case, map or scroll",
+    "description": "This cylindrical leather case can hold up to ten rolled-up sheets of paper or five rolled-up sheets of parchment.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "gp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "censer",
+    "name": "Censer",
+    "description": "A censer, typically found in a priest's pack.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 0,
+        "currency": "cp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "chain-10-feet",
+    "name": "Chain (10 feet)",
+    "description": "A chain has 10 hit points. It can be burst with a successful DC 20 Strength check.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "gp"
+      },
+      "weight": 10
+    }
+  },
+  {
+    "slug": "chain-mail",
+    "name": "Chain Mail",
+    "description": "Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows.",
+    "data": {
+      "category": "armor",
+      "cost": {
+        "amount": 75,
+        "currency": "gp"
+      },
+      "weight": 55,
+      "armor": {
+        "base_ac": 16,
+        "type": "heavy",
+        "max_dex_bonus": 0,
+        "strength_requirement": 13,
+        "stealth_disadvantage": true
+      }
+    }
+  },
+  {
+    "slug": "chain-shirt",
+    "name": "Chain Shirt",
+    "description": "Chain Shirt",
+    "data": {
+      "category": "armor",
+      "cost": {
+        "amount": 50,
+        "currency": "gp"
+      },
+      "weight": 20,
+      "armor": {
+        "base_ac": 13,
+        "type": "medium"
+      }
+    }
+  },
+  {
+    "slug": "chalk-1-piece",
+    "name": "Chalk (1 piece)",
+    "description": "Chalk (1 piece)",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "cp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "chariot",
+    "name": "Chariot",
+    "description": "Chariot",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 250,
+        "currency": "gp"
+      },
+      "weight": 100
+    }
+  },
+  {
+    "slug": "chest",
+    "name": "Chest",
+    "description": "Chest",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "gp"
+      },
+      "weight": 25
+    }
+  },
+  {
+    "slug": "climbers-kit",
+    "name": "Climber's Kit",
+    "description": "A climber's kit includes special pitons, boot tips, gloves, and a harness. You can use the climber's kit as an action to anchor yourself; when you do, you can't fall more than 25 feet from the point where you anchored yourself, and you can't climb more than 25 feet away from…",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 25,
+        "currency": "gp"
+      },
+      "weight": 12
+    }
+  },
+  {
+    "slug": "clothes-common",
+    "name": "Clothes, common",
+    "description": "Clothes, common",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "sp"
+      },
+      "weight": 3
+    }
+  },
+  {
+    "slug": "clothes-costume",
+    "name": "Clothes, costume",
+    "description": "Clothes, costume",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "gp"
+      },
+      "weight": 4
+    }
+  },
+  {
+    "slug": "clothes-fine",
+    "name": "Clothes, fine",
+    "description": "Clothes, fine",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 15,
+        "currency": "gp"
+      },
+      "weight": 6
+    }
+  },
+  {
+    "slug": "clothes-travelers",
+    "name": "Clothes, traveler's",
+    "description": "Clothes, traveler's",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 2,
+        "currency": "gp"
+      },
+      "weight": 4
+    }
+  },
+  {
+    "slug": "club",
+    "name": "Club",
+    "description": "Club",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 1,
+        "currency": "sp"
+      },
+      "weight": 2,
+      "weapon": {
+        "damage_dice": "1d4",
+        "damage_type": "bludgeoning",
+        "properties": [
+          "Light",
+          "Monk"
+        ],
+        "range": {
+          "normal": 5,
+          "long": 5
+        }
+      }
+    }
+  },
+  {
+    "slug": "cobblers-tools",
+    "name": "Cobbler's Tools",
+    "description": "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 5,
+        "currency": "gp"
+      },
+      "weight": 5
+    }
+  },
+  {
+    "slug": "component-pouch",
+    "name": "Component pouch",
+    "description": "A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description).",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 25,
+        "currency": "gp"
+      },
+      "weight": 2
+    }
+  },
+  {
+    "slug": "cooks-utensils",
+    "name": "Cook's utensils",
+    "description": "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 1,
+        "currency": "gp"
+      },
+      "weight": 8
+    }
+  },
+  {
+    "slug": "crossbow-bolt",
+    "name": "Crossbow bolt",
+    "description": "Crossbow bolt",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "gp"
+      },
+      "weight": 1.5
+    }
+  },
+  {
+    "slug": "crossbow-hand",
+    "name": "Crossbow, hand",
+    "description": "Crossbow, hand",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 75,
+        "currency": "gp"
+      },
+      "weight": 3,
+      "weapon": {
+        "damage_dice": "1d6",
+        "damage_type": "piercing",
+        "properties": [
+          "Ammunition",
+          "Light",
+          "Loading"
+        ],
+        "range": {
+          "normal": 30,
+          "long": 120
+        }
+      }
+    }
+  },
+  {
+    "slug": "crossbow-heavy",
+    "name": "Crossbow, heavy",
+    "description": "Crossbow, heavy",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 50,
+        "currency": "gp"
+      },
+      "weight": 18,
+      "weapon": {
+        "damage_dice": "1d10",
+        "damage_type": "piercing",
+        "properties": [
+          "Ammunition",
+          "Heavy",
+          "Loading",
+          "Two-Handed"
+        ],
+        "range": {
+          "normal": 100,
+          "long": 400
+        }
+      }
+    }
+  },
+  {
+    "slug": "crossbow-light",
+    "name": "Crossbow, light",
+    "description": "Crossbow, light",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 25,
+        "currency": "gp"
+      },
+      "weight": 5,
+      "weapon": {
+        "damage_dice": "1d8",
+        "damage_type": "piercing",
+        "properties": [
+          "Ammunition",
+          "Loading",
+          "Two-Handed"
+        ],
+        "range": {
+          "normal": 80,
+          "long": 320
+        }
+      }
+    }
+  },
+  {
+    "slug": "crowbar",
+    "name": "Crowbar",
+    "description": "Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 2,
+        "currency": "gp"
+      },
+      "weight": 5
+    }
+  },
+  {
+    "slug": "crystal",
+    "name": "Crystal",
+    "description": "An arcane focus is a special item--an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item--designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 10,
+        "currency": "gp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "dagger",
+    "name": "Dagger",
+    "description": "A light finesse simple melee weapon.",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 2,
+        "currency": "gp"
+      },
+      "weight": 1,
+      "weapon": {
+        "damage_dice": "1d4",
+        "damage_type": "piercing",
+        "properties": [
+          "finesse",
+          "light",
+          "thrown"
+        ],
+        "range": {
+          "normal": 20,
+          "long": 60
+        }
+      }
+    }
+  },
+  {
+    "slug": "dart",
+    "name": "Dart",
+    "description": "Dart",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 5,
+        "currency": "cp"
+      },
+      "weight": 0.25,
+      "weapon": {
+        "damage_dice": "1d4",
+        "damage_type": "piercing",
+        "properties": [
+          "Finesse",
+          "Thrown"
+        ],
+        "range": {
+          "normal": 20,
+          "long": 60
+        }
+      }
+    }
+  },
+  {
+    "slug": "dice-set",
+    "name": "Dice Set",
+    "description": "This item encompasses a wide range of game pieces, including dice and decks of cards (for games such as Three-Dragon Ante). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 1,
+        "currency": "sp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "diplomats-pack",
+    "name": "Diplomat's Pack",
+    "description": "Diplomat's Pack",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 39,
+        "currency": "gp"
+      }
+    }
+  },
+  {
+    "slug": "disguise-kit",
+    "name": "Disguise Kit",
+    "description": "This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 25,
+        "currency": "gp"
+      },
+      "weight": 3
+    }
+  },
+  {
+    "slug": "donkey",
+    "name": "Donkey",
+    "description": "Donkey",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 8,
+        "currency": "gp"
+      }
+    }
+  },
+  {
+    "slug": "drum",
+    "name": "Drum",
+    "description": "Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 6,
+        "currency": "gp"
+      },
+      "weight": 3
+    }
+  },
+  {
+    "slug": "dulcimer",
+    "name": "Dulcimer",
+    "description": "Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 25,
+        "currency": "gp"
+      },
+      "weight": 10
+    }
+  },
+  {
+    "slug": "dungeoneer-pack",
+    "name": "Dungeoneer's Pack",
+    "description": "Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 12,
+        "currency": "gp"
+      },
+      "weight": 61
+    }
+  },
+  {
+    "slug": "dungeoneers-pack",
+    "name": "Dungeoneer's Pack",
+    "description": "Dungeoneer's Pack",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 12,
+        "currency": "gp"
+      }
+    }
+  },
+  {
+    "slug": "elephant",
+    "name": "Elephant",
+    "description": "Elephant",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 200,
+        "currency": "gp"
+      }
+    }
+  },
+  {
+    "slug": "emblem",
+    "name": "Emblem",
+    "description": "A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic.\nAppendix B lists the symbols…",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "gp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "entertainers-pack",
+    "name": "Entertainer's Pack",
+    "description": "Entertainer's Pack",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 40,
+        "currency": "gp"
+      }
+    }
+  },
+  {
+    "slug": "explorer-pack",
+    "name": "Explorer's Pack",
+    "description": "Includes a backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 10,
+        "currency": "gp"
+      },
+      "weight": 59
+    }
+  },
+  {
+    "slug": "explorers-pack",
+    "name": "Explorer's Pack",
+    "description": "Explorer's Pack",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 10,
+        "currency": "gp"
+      }
+    }
+  },
+  {
+    "slug": "fishing-tackle",
+    "name": "Fishing tackle",
+    "description": "This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "gp"
+      },
+      "weight": 4
+    }
+  },
+  {
+    "slug": "flail",
+    "name": "Flail",
+    "description": "Flail",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 10,
+        "currency": "gp"
+      },
+      "weight": 2,
+      "weapon": {
+        "damage_dice": "1d8",
+        "damage_type": "bludgeoning",
+        "properties": [],
+        "range": {
+          "normal": 5,
+          "long": 5
+        }
+      }
+    }
+  },
+  {
+    "slug": "flask-or-tankard",
+    "name": "Flask or tankard",
+    "description": "Flask or tankard",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 2,
+        "currency": "cp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "flute",
+    "name": "Flute",
+    "description": "Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 2,
+        "currency": "gp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "forgery-kit",
+    "name": "Forgery Kit",
+    "description": "This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents. Proficiency with this kit lets you add your proficiency bonus to any…",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 15,
+        "currency": "gp"
+      },
+      "weight": 5
+    }
+  },
+  {
+    "slug": "galley",
+    "name": "Galley",
+    "description": "Galley",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 30000,
+        "currency": "gp"
+      }
+    }
+  },
+  {
+    "slug": "glaive",
+    "name": "Glaive",
+    "description": "Glaive",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 20,
+        "currency": "gp"
+      },
+      "weight": 6,
+      "weapon": {
+        "damage_dice": "1d10",
+        "damage_type": "slashing",
+        "properties": [
+          "Heavy",
+          "Reach",
+          "Two-Handed"
+        ],
+        "range": {
+          "normal": 5,
+          "long": 5
+        }
+      }
+    }
+  },
+  {
+    "slug": "glassblowers-tools",
+    "name": "Glassblower's Tools",
+    "description": "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 30,
+        "currency": "gp"
+      },
+      "weight": 5
+    }
+  },
+  {
+    "slug": "grappling-hook",
+    "name": "Grappling hook",
+    "description": "Grappling hook",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 2,
+        "currency": "gp"
+      },
+      "weight": 4
+    }
+  },
+  {
+    "slug": "greataxe",
+    "name": "Greataxe",
+    "description": "A heavy two-handed martial melee weapon.",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 30,
+        "currency": "gp"
+      },
+      "weight": 7,
+      "weapon": {
+        "damage_dice": "1d12",
+        "damage_type": "slashing",
+        "properties": [
+          "heavy",
+          "two-handed"
+        ]
+      }
+    }
+  },
+  {
+    "slug": "greatclub",
+    "name": "Greatclub",
+    "description": "A two-handed simple melee weapon.",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 0,
+        "currency": "gp"
+      },
+      "weight": 10,
+      "weapon": {
+        "damage_dice": "1d8",
+        "damage_type": "bludgeoning",
+        "properties": [
+          "two-handed"
+        ]
+      }
+    }
+  },
+  {
+    "slug": "greatsword",
+    "name": "Greatsword",
+    "description": "Greatsword",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 50,
+        "currency": "gp"
+      },
+      "weight": 6,
+      "weapon": {
+        "damage_dice": "2d6",
+        "damage_type": "slashing",
+        "properties": [
+          "Heavy",
+          "Two-Handed"
+        ],
+        "range": {
+          "normal": 5,
+          "long": 5
+        }
+      }
+    }
+  },
+  {
+    "slug": "halberd",
+    "name": "Halberd",
+    "description": "Halberd",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 20,
+        "currency": "gp"
+      },
+      "weight": 6,
+      "weapon": {
+        "damage_dice": "1d10",
+        "damage_type": "slashing",
+        "properties": [
+          "Heavy",
+          "Reach",
+          "Two-Handed"
+        ],
+        "range": {
+          "normal": 5,
+          "long": 5
+        }
+      }
+    }
+  },
+  {
+    "slug": "half-plate",
+    "name": "Half Plate",
+    "description": "Half plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps.",
+    "data": {
+      "category": "armor",
+      "cost": {
+        "amount": 750,
+        "currency": "gp"
+      },
+      "weight": 40,
+      "armor": {
+        "base_ac": 15,
+        "type": "medium",
+        "max_dex_bonus": 2,
+        "stealth_disadvantage": true
+      }
+    }
+  },
+  {
+    "slug": "half-plate-armor",
+    "name": "Half Plate Armor",
+    "description": "Half Plate Armor",
+    "data": {
+      "category": "armor",
+      "cost": {
+        "amount": 750,
+        "currency": "gp"
+      },
+      "weight": 40,
+      "armor": {
+        "base_ac": 15,
+        "type": "medium",
+        "stealth_disadvantage": true
+      }
+    }
+  },
+  {
+    "slug": "hammer",
+    "name": "Hammer",
+    "description": "Hammer",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "gp"
+      },
+      "weight": 3
+    }
+  },
+  {
+    "slug": "hammer-sledge",
+    "name": "Hammer, sledge",
+    "description": "Hammer, sledge",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 2,
+        "currency": "gp"
+      },
+      "weight": 10
+    }
+  },
+  {
+    "slug": "handaxe",
+    "name": "Handaxe",
+    "description": "A light thrown simple melee weapon.",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 5,
+        "currency": "gp"
+      },
+      "weight": 2,
+      "weapon": {
+        "damage_dice": "1d6",
+        "damage_type": "slashing",
+        "properties": [
+          "light",
+          "thrown"
+        ],
+        "range": {
+          "normal": 20,
+          "long": 60
+        }
+      }
+    }
+  },
+  {
+    "slug": "healers-kit",
+    "name": "Healer's Kit",
+    "description": "This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "gp"
+      },
+      "weight": 3
+    }
+  },
+  {
+    "slug": "herbalism-kit",
+    "name": "Herbalism Kit",
+    "description": "This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs.…",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "gp"
+      },
+      "weight": 3
+    }
+  },
+  {
+    "slug": "hide-armor",
+    "name": "Hide Armor",
+    "description": "Hide Armor",
+    "data": {
+      "category": "armor",
+      "cost": {
+        "amount": 10,
+        "currency": "gp"
+      },
+      "weight": 12,
+      "armor": {
+        "base_ac": 12,
+        "type": "medium"
+      }
+    }
+  },
+  {
+    "slug": "holy-water-flask",
+    "name": "Holy water (flask)",
+    "description": "As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon.\nIf the target is a…",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 25,
+        "currency": "gp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "horn",
+    "name": "Horn",
+    "description": "Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 3,
+        "currency": "gp"
+      },
+      "weight": 2
+    }
+  },
+  {
+    "slug": "horse-draft",
+    "name": "Horse, draft",
+    "description": "Horse, draft",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 50,
+        "currency": "gp"
+      }
+    }
+  },
+  {
+    "slug": "horse-riding",
+    "name": "Horse, riding",
+    "description": "Horse, riding",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 75,
+        "currency": "gp"
+      }
+    }
+  },
+  {
+    "slug": "hourglass",
+    "name": "Hourglass",
+    "description": "Hourglass",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 25,
+        "currency": "gp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "hunting-trap",
+    "name": "Hunting trap",
+    "description": "When you use your action to set it, this trap forms a saw-toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground.\nA creature that…",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "gp"
+      },
+      "weight": 25
+    }
+  },
+  {
+    "slug": "ink-1-ounce-bottle",
+    "name": "Ink (1 ounce bottle)",
+    "description": "Ink (1 ounce bottle)",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 10,
+        "currency": "gp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "ink-pen",
+    "name": "Ink pen",
+    "description": "Ink pen",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 2,
+        "currency": "cp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "javelin",
+    "name": "Javelin",
+    "description": "Javelin",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 5,
+        "currency": "sp"
+      },
+      "weight": 2,
+      "weapon": {
+        "damage_dice": "1d6",
+        "damage_type": "piercing",
+        "properties": [
+          "Thrown",
+          "Monk"
+        ],
+        "range": {
+          "normal": 5,
+          "long": 5
+        }
+      }
+    }
+  },
+  {
+    "slug": "jewelers-tools",
+    "name": "Jeweler's Tools",
+    "description": "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 25,
+        "currency": "gp"
+      },
+      "weight": 2
+    }
+  },
+  {
+    "slug": "jug-or-pitcher",
+    "name": "Jug or pitcher",
+    "description": "Jug or pitcher",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 2,
+        "currency": "cp"
+      },
+      "weight": 4
+    }
+  },
+  {
+    "slug": "keelboat",
+    "name": "Keelboat",
+    "description": "Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on…",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 3000,
+        "currency": "gp"
+      }
+    }
+  },
+  {
+    "slug": "ladder-10-foot",
+    "name": "Ladder (10-foot)",
+    "description": "Ladder (10-foot)",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "sp"
+      },
+      "weight": 25
+    }
+  },
+  {
+    "slug": "lamp",
+    "name": "Lamp",
+    "description": "A lamp casts bright light in a 15-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "sp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "lance",
+    "name": "Lance",
+    "description": "Lance",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 10,
+        "currency": "gp"
+      },
+      "weight": 6,
+      "weapon": {
+        "damage_dice": "1d12",
+        "damage_type": "piercing",
+        "properties": [
+          "Reach",
+          "Special"
+        ],
+        "range": {
+          "normal": 5,
+          "long": 5
+        }
+      }
+    }
+  },
+  {
+    "slug": "lantern-bullseye",
+    "name": "Lantern, bullseye",
+    "description": "A bullseye lantern casts bright light in a 60-foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 10,
+        "currency": "gp"
+      },
+      "weight": 2
+    }
+  },
+  {
+    "slug": "lantern-hooded",
+    "name": "Lantern, hooded",
+    "description": "A hooded lantern casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "gp"
+      },
+      "weight": 2
+    }
+  },
+  {
+    "slug": "leather-armor",
+    "name": "Leather Armor",
+    "description": "Leather Armor",
+    "data": {
+      "category": "armor",
+      "cost": {
+        "amount": 10,
+        "currency": "gp"
+      },
+      "weight": 10,
+      "armor": {
+        "base_ac": 11,
+        "type": "light"
+      }
+    }
+  },
+  {
+    "slug": "leatherworkers-tools",
+    "name": "Leatherworker's Tools",
+    "description": "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 5,
+        "currency": "gp"
+      },
+      "weight": 5
+    }
+  },
+  {
+    "slug": "light-armor-leather",
+    "name": "Leather Armor",
+    "description": "The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil.",
+    "data": {
+      "category": "armor",
+      "cost": {
+        "amount": 10,
+        "currency": "gp"
+      },
+      "weight": 10,
+      "armor": {
+        "base_ac": 11,
+        "type": "light"
+      }
+    }
+  },
+  {
+    "slug": "light-hammer",
+    "name": "Light hammer",
+    "description": "Light hammer",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 2,
+        "currency": "gp"
+      },
+      "weight": 2,
+      "weapon": {
+        "damage_dice": "1d4",
+        "damage_type": "bludgeoning",
+        "properties": [
+          "Light",
+          "Thrown",
+          "Monk"
+        ],
+        "range": {
+          "normal": 5,
+          "long": 5
+        }
+      }
+    }
+  },
+  {
+    "slug": "little-bag-of-sand",
+    "name": "Little bag of sand",
+    "description": "A small bag of sand, typically found in a scholar's pack.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 0,
+        "currency": "cp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "lock",
+    "name": "Lock",
+    "description": "A key is provided with the lock. Without the key, a creature proficient with thieves' tools can pick this lock with a successful DC 15 Dexterity check. Your GM may decide that better locks are available for higher prices.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 10,
+        "currency": "gp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "longbow",
+    "name": "Longbow",
+    "description": "A heavy two-handed martial ranged weapon.",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 50,
+        "currency": "gp"
+      },
+      "weight": 2,
+      "weapon": {
+        "damage_dice": "1d8",
+        "damage_type": "piercing",
+        "properties": [
+          "ammunition",
+          "heavy",
+          "two-handed"
+        ],
+        "range": {
+          "normal": 150,
+          "long": 600
+        }
+      }
+    }
+  },
+  {
+    "slug": "longship",
+    "name": "Longship",
+    "description": "Longship",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 10000,
+        "currency": "gp"
+      }
+    }
+  },
+  {
+    "slug": "longsword",
+    "name": "Longsword",
+    "description": "A versatile martial melee weapon.",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 15,
+        "currency": "gp"
+      },
+      "weight": 3,
+      "weapon": {
+        "damage_dice": "1d8",
+        "damage_type": "slashing",
+        "properties": [
+          "versatile (1d10)"
+        ]
+      }
+    }
+  },
+  {
+    "slug": "lute",
+    "name": "Lute",
+    "description": "Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 35,
+        "currency": "gp"
+      },
+      "weight": 2
+    }
+  },
+  {
+    "slug": "lyre",
+    "name": "Lyre",
+    "description": "Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 30,
+        "currency": "gp"
+      },
+      "weight": 2
+    }
+  },
+  {
+    "slug": "mace",
+    "name": "Mace",
+    "description": "Mace",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 5,
+        "currency": "gp"
+      },
+      "weight": 4,
+      "weapon": {
+        "damage_dice": "1d6",
+        "damage_type": "bludgeoning",
+        "properties": [
+          "Monk"
+        ],
+        "range": {
+          "normal": 5,
+          "long": 5
+        }
+      }
+    }
+  },
+  {
+    "slug": "magnifying-glass",
+    "name": "Magnifying glass",
+    "description": "This lens allows a closer look at small objects. It is also useful as a substitute for flint and steel when starting fires. Lighting a fire with a magnifying glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite.\nA…",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 100,
+        "currency": "gp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "manacles",
+    "name": "Manacles",
+    "description": "These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check.\nEach set of manacles comes with one key. Without the key, a creature proficient with thieves'…",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 2,
+        "currency": "gp"
+      },
+      "weight": 6
+    }
+  },
+  {
+    "slug": "masons-tools",
+    "name": "Mason's Tools",
+    "description": "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 10,
+        "currency": "gp"
+      },
+      "weight": 8
+    }
+  },
+  {
+    "slug": "mastiff",
+    "name": "Mastiff",
+    "description": "Mastiff",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 25,
+        "currency": "gp"
+      }
+    }
+  },
+  {
+    "slug": "maul",
+    "name": "Maul",
+    "description": "Maul",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 10,
+        "currency": "gp"
+      },
+      "weight": 10,
+      "weapon": {
+        "damage_dice": "2d6",
+        "damage_type": "bludgeoning",
+        "properties": [
+          "Heavy",
+          "Two-Handed"
+        ],
+        "range": {
+          "normal": 5,
+          "long": 5
+        }
+      }
+    }
+  },
+  {
+    "slug": "mess-kit",
+    "name": "Mess Kit",
+    "description": "This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 2,
+        "currency": "sp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "mirror-steel",
+    "name": "Mirror, steel",
+    "description": "Mirror, steel",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "gp"
+      },
+      "weight": 0.5
+    }
+  },
+  {
+    "slug": "morningstar",
+    "name": "Morningstar",
+    "description": "Morningstar",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 15,
+        "currency": "gp"
+      },
+      "weight": 4,
+      "weapon": {
+        "damage_dice": "1d8",
+        "damage_type": "piercing",
+        "properties": [],
+        "range": {
+          "normal": 5,
+          "long": 5
+        }
+      }
+    }
+  },
+  {
+    "slug": "mule",
+    "name": "Mule",
+    "description": "Mule",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 8,
+        "currency": "gp"
+      }
+    }
+  },
+  {
+    "slug": "navigators-tools",
+    "name": "Navigator's Tools",
+    "description": "This set of instruments is used for navigation at sea. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 25,
+        "currency": "gp"
+      },
+      "weight": 2
+    }
+  },
+  {
+    "slug": "net",
+    "name": "Net",
+    "description": "Net",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 1,
+        "currency": "gp"
+      },
+      "weight": 3,
+      "weapon": {
+        "damage_dice": "1d4",
+        "damage_type": "bludgeoning",
+        "properties": [
+          "Thrown",
+          "Special"
+        ],
+        "range": {
+          "normal": 5,
+          "long": 15
+        }
+      }
+    }
+  },
+  {
+    "slug": "oil-flask",
+    "name": "Oil (flask)",
+    "description": "Oil usually comes in a clay flask that holds 1 pint.\nAs an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an…",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "sp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "orb",
+    "name": "Orb",
+    "description": "An arcane focus is a special item--an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item--designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 20,
+        "currency": "gp"
+      },
+      "weight": 3
+    }
+  },
+  {
+    "slug": "padded-armor",
+    "name": "Padded Armor",
+    "description": "Padded Armor",
+    "data": {
+      "category": "armor",
+      "cost": {
+        "amount": 5,
+        "currency": "gp"
+      },
+      "weight": 8,
+      "armor": {
+        "base_ac": 11,
+        "type": "light",
+        "stealth_disadvantage": true
+      }
+    }
+  },
+  {
+    "slug": "painters-supplies",
+    "name": "Painter's Supplies",
+    "description": "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 10,
+        "currency": "gp"
+      },
+      "weight": 5
+    }
+  },
+  {
+    "slug": "pan-flute",
+    "name": "Pan flute",
+    "description": "Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 12,
+        "currency": "gp"
+      },
+      "weight": 2
+    }
+  },
+  {
+    "slug": "paper-one-sheet",
+    "name": "Paper (one sheet)",
+    "description": "Paper (one sheet)",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 2,
+        "currency": "sp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "parchment-one-sheet",
+    "name": "Parchment (one sheet)",
+    "description": "Parchment (one sheet)",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "sp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "perfume-vial",
+    "name": "Perfume (vial)",
+    "description": "Perfume (vial)",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "gp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "pick-miners",
+    "name": "Pick, miner's",
+    "description": "Pick, miner's",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 2,
+        "currency": "gp"
+      },
+      "weight": 10
+    }
+  },
+  {
+    "slug": "pike",
+    "name": "Pike",
+    "description": "Pike",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 5,
+        "currency": "gp"
+      },
+      "weight": 18,
+      "weapon": {
+        "damage_dice": "1d10",
+        "damage_type": "piercing",
+        "properties": [
+          "Heavy",
+          "Reach",
+          "Two-Handed"
+        ],
+        "range": {
+          "normal": 5,
+          "long": 5
+        }
+      }
+    }
+  },
+  {
+    "slug": "piton",
+    "name": "Piton",
+    "description": "Piton",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "cp"
+      },
+      "weight": 0.25
+    }
+  },
+  {
+    "slug": "plate-armor",
+    "name": "Plate Armor",
+    "description": "Plate consists of shaped, interlocking metal plates to cover the entire body.",
+    "data": {
+      "category": "armor",
+      "cost": {
+        "amount": 1500,
+        "currency": "gp"
+      },
+      "weight": 65,
+      "armor": {
+        "base_ac": 18,
+        "type": "heavy",
+        "max_dex_bonus": 0,
+        "strength_requirement": 15,
+        "stealth_disadvantage": true
+      }
+    }
+  },
+  {
+    "slug": "playing-card-set",
+    "name": "Playing Card Set",
+    "description": "This item encompasses a wide range of game pieces, including dice and decks of cards (for games such as Three-Dragon Ante). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 5,
+        "currency": "sp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "poison-basic-vial",
+    "name": "Poison, basic (vial)",
+    "description": "You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once…",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 100,
+        "currency": "gp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "poisoners-kit",
+    "name": "Poisoner's Kit",
+    "description": "A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 50,
+        "currency": "gp"
+      },
+      "weight": 2
+    }
+  },
+  {
+    "slug": "pole-10-foot",
+    "name": "Pole (10-foot)",
+    "description": "Pole (10-foot)",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "cp"
+      },
+      "weight": 7
+    }
+  },
+  {
+    "slug": "pony",
+    "name": "Pony",
+    "description": "Pony",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 30,
+        "currency": "gp"
+      }
+    }
+  },
+  {
+    "slug": "pot-iron",
+    "name": "Pot, iron",
+    "description": "Pot, iron",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 2,
+        "currency": "gp"
+      },
+      "weight": 10
+    }
+  },
+  {
+    "slug": "potters-tools",
+    "name": "Potter's Tools",
+    "description": "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 10,
+        "currency": "gp"
+      },
+      "weight": 3
+    }
+  },
+  {
+    "slug": "pouch",
+    "name": "Pouch",
+    "description": "A cloth or leather pouch can hold up to 20 sling bullets or 50 blowgun needles, among other things. A compartmentalized pouch for holding spell components is called a component pouch (described earlier in this section).",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "sp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "priests-pack",
+    "name": "Priest's Pack",
+    "description": "Priest's Pack",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 19,
+        "currency": "gp"
+      }
+    }
+  },
+  {
+    "slug": "quarterstaff",
+    "name": "Quarterstaff",
+    "description": "A versatile simple melee weapon.",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 0,
+        "currency": "gp"
+      },
+      "weight": 4,
+      "weapon": {
+        "damage_dice": "1d6",
+        "damage_type": "bludgeoning",
+        "properties": [
+          "versatile (1d8)"
+        ]
+      }
+    }
+  },
+  {
+    "slug": "quiver",
+    "name": "Quiver",
+    "description": "A quiver can hold up to 20 arrows.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "gp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "ram-portable",
+    "name": "Ram, portable",
+    "description": "You can use a portable ram to break down doors. When doing so, you gain a +4 bonus on the Strength check. One other character can help you use the ram, giving you advantage on this check.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 4,
+        "currency": "gp"
+      },
+      "weight": 35
+    }
+  },
+  {
+    "slug": "rapier",
+    "name": "Rapier",
+    "description": "A finesse martial melee weapon.",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 25,
+        "currency": "gp"
+      },
+      "weight": 2,
+      "weapon": {
+        "damage_dice": "1d8",
+        "damage_type": "piercing",
+        "properties": [
+          "finesse"
+        ]
+      }
+    }
+  },
+  {
+    "slug": "rations-1-day",
+    "name": "Rations (1 day)",
+    "description": "Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "sp"
+      },
+      "weight": 2
+    }
+  },
+  {
+    "slug": "reliquary",
+    "name": "Reliquary",
+    "description": "A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic.\nAppendix B lists the symbols…",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "gp"
+      },
+      "weight": 2
+    }
+  },
+  {
+    "slug": "ring-mail",
+    "name": "Ring Mail",
+    "description": "Ring Mail",
+    "data": {
+      "category": "armor",
+      "cost": {
+        "amount": 30,
+        "currency": "gp"
+      },
+      "weight": 40,
+      "armor": {
+        "base_ac": 14,
+        "type": "heavy",
+        "max_dex_bonus": 0,
+        "stealth_disadvantage": true
+      }
+    }
+  },
+  {
+    "slug": "robes",
+    "name": "Robes",
+    "description": "Robes",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "gp"
+      },
+      "weight": 4
+    }
+  },
+  {
+    "slug": "rod",
+    "name": "Rod",
+    "description": "An arcane focus is a special item--an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item--designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 10,
+        "currency": "gp"
+      },
+      "weight": 2
+    }
+  },
+  {
+    "slug": "rope-hempen-50-feet",
+    "name": "Rope, hempen (50 feet)",
+    "description": "Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "gp"
+      },
+      "weight": 10
+    }
+  },
+  {
+    "slug": "rope-silk-50-feet",
+    "name": "Rope, silk (50 feet)",
+    "description": "Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 10,
+        "currency": "gp"
+      },
+      "weight": 5
+    }
+  },
+  {
+    "slug": "rowboat",
+    "name": "Rowboat",
+    "description": "Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on…",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 50,
+        "currency": "gp"
+      }
+    }
+  },
+  {
+    "slug": "sack",
+    "name": "Sack",
+    "description": "Sack",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "cp"
+      },
+      "weight": 0.5
+    }
+  },
+  {
+    "slug": "saddle-exotic",
+    "name": "Saddle, Exotic",
+    "description": "An exotic saddle is required for riding any aquatic or flying mount.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 60,
+        "currency": "gp"
+      },
+      "weight": 50
+    }
+  },
+  {
+    "slug": "saddle-military",
+    "name": "Saddle, Military",
+    "description": "A military saddle braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 20,
+        "currency": "gp"
+      },
+      "weight": 30
+    }
+  },
+  {
+    "slug": "saddle-pack",
+    "name": "Saddle, Pack",
+    "description": "Saddle, Pack",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "gp"
+      },
+      "weight": 15
+    }
+  },
+  {
+    "slug": "saddle-riding",
+    "name": "Saddle, Riding",
+    "description": "Saddle, Riding",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 10,
+        "currency": "gp"
+      },
+      "weight": 25
+    }
+  },
+  {
+    "slug": "saddlebags",
+    "name": "Saddlebags",
+    "description": "Saddlebags",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 4,
+        "currency": "gp"
+      },
+      "weight": 8
+    }
+  },
+  {
+    "slug": "sailing-ship",
+    "name": "Sailing ship",
+    "description": "Sailing ship",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 10000,
+        "currency": "gp"
+      }
+    }
+  },
+  {
+    "slug": "scale-mail",
+    "name": "Scale Mail",
+    "description": "This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish.",
+    "data": {
+      "category": "armor",
+      "cost": {
+        "amount": 50,
+        "currency": "gp"
+      },
+      "weight": 45,
+      "armor": {
+        "base_ac": 14,
+        "type": "medium",
+        "max_dex_bonus": 2,
+        "stealth_disadvantage": true
+      }
+    }
+  },
+  {
+    "slug": "scale-merchants",
+    "name": "Scale, merchant's",
+    "description": "A scale includes a small balance, pans, and a suitable assortment of weights up to 2 pounds. With it, you can measure the exact weight of small objects, such as raw precious metals or trade goods, to help determine their worth.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "gp"
+      },
+      "weight": 3
+    }
+  },
+  {
+    "slug": "scholars-pack",
+    "name": "Scholar's Pack",
+    "description": "Scholar's Pack",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 40,
+        "currency": "gp"
+      }
+    }
+  },
+  {
+    "slug": "scimitar",
+    "name": "Scimitar",
+    "description": "Scimitar",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 25,
+        "currency": "gp"
+      },
+      "weight": 3,
+      "weapon": {
+        "damage_dice": "1d6",
+        "damage_type": "slashing",
+        "properties": [
+          "Finesse",
+          "Light"
+        ],
+        "range": {
+          "normal": 5,
+          "long": 5
+        }
+      }
+    }
+  },
+  {
+    "slug": "sealing-wax",
+    "name": "Sealing wax",
+    "description": "Sealing wax",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "sp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "shawm",
+    "name": "Shawm",
+    "description": "Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 2,
+        "currency": "gp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "shield",
+    "name": "Shield",
+    "description": "A shield is made from wood or metal and is carried in one hand.",
+    "data": {
+      "category": "shield",
+      "cost": {
+        "amount": 10,
+        "currency": "gp"
+      },
+      "weight": 6,
+      "armor": {
+        "base_ac": 2,
+        "type": "shield"
+      },
+      "modifiers": [
+        {
+          "target": "ac",
+          "type": "bonus",
+          "value": 2,
+          "source": "item:shield",
+          "priority": 30
+        }
+      ]
+    }
+  },
+  {
+    "slug": "shortbow",
+    "name": "Shortbow",
+    "description": "A two-handed simple ranged weapon.",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 25,
+        "currency": "gp"
+      },
+      "weight": 2,
+      "weapon": {
+        "damage_dice": "1d6",
+        "damage_type": "piercing",
+        "properties": [
+          "ammunition",
+          "two-handed"
+        ],
+        "range": {
+          "normal": 80,
+          "long": 320
+        }
+      }
+    }
+  },
+  {
+    "slug": "shortsword",
+    "name": "Shortsword",
+    "description": "A light, finesse martial melee weapon.",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 10,
+        "currency": "gp"
+      },
+      "weight": 2,
+      "weapon": {
+        "damage_dice": "1d6",
+        "damage_type": "piercing",
+        "properties": [
+          "finesse",
+          "light"
+        ]
+      }
+    }
+  },
+  {
+    "slug": "shovel",
+    "name": "Shovel",
+    "description": "Shovel",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 2,
+        "currency": "gp"
+      },
+      "weight": 5
+    }
+  },
+  {
+    "slug": "sickle",
+    "name": "Sickle",
+    "description": "Sickle",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 1,
+        "currency": "gp"
+      },
+      "weight": 2,
+      "weapon": {
+        "damage_dice": "1d4",
+        "damage_type": "slashing",
+        "properties": [
+          "Light",
+          "Monk"
+        ],
+        "range": {
+          "normal": 5,
+          "long": 5
+        }
+      }
+    }
+  },
+  {
+    "slug": "signal-whistle",
+    "name": "Signal whistle",
+    "description": "Signal whistle",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "cp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "signet-ring",
+    "name": "Signet ring",
+    "description": "Signet ring",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "gp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "sled",
+    "name": "Sled",
+    "description": "Sled",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 20,
+        "currency": "gp"
+      },
+      "weight": 300
+    }
+  },
+  {
+    "slug": "sling",
+    "name": "Sling",
+    "description": "Sling",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 1,
+        "currency": "sp"
+      },
+      "weight": 0,
+      "weapon": {
+        "damage_dice": "1d4",
+        "damage_type": "bludgeoning",
+        "properties": [
+          "Ammunition"
+        ],
+        "range": {
+          "normal": 30,
+          "long": 120
+        }
+      }
+    }
+  },
+  {
+    "slug": "sling-bullet",
+    "name": "Sling bullet",
+    "description": "Sling bullet",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 4,
+        "currency": "cp"
+      },
+      "weight": 1.5
+    }
+  },
+  {
+    "slug": "small-knife",
+    "name": "Small knife",
+    "description": "A small knife, typically found in a scholar's pack.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 0,
+        "currency": "cp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "smiths-tools",
+    "name": "Smith's Tools",
+    "description": "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 20,
+        "currency": "gp"
+      },
+      "weight": 8
+    }
+  },
+  {
+    "slug": "soap",
+    "name": "Soap",
+    "description": "Soap",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 2,
+        "currency": "cp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "spear",
+    "name": "Spear",
+    "description": "Spear",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 1,
+        "currency": "gp"
+      },
+      "weight": 3,
+      "weapon": {
+        "damage_dice": "1d6",
+        "damage_type": "piercing",
+        "properties": [
+          "Thrown",
+          "Versatile",
+          "Monk",
+          "versatile (1d8)"
+        ],
+        "range": {
+          "normal": 5,
+          "long": 5
+        }
+      }
+    }
+  },
+  {
+    "slug": "spellbook",
+    "name": "Spellbook",
+    "description": "Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 50,
+        "currency": "gp"
+      },
+      "weight": 3
+    }
+  },
+  {
+    "slug": "spike-iron",
+    "name": "Spike, iron",
+    "description": "Spike, iron",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "sp"
+      },
+      "weight": 5
+    }
+  },
+  {
+    "slug": "splint-armor",
+    "name": "Splint Armor",
+    "description": "Splint Armor",
+    "data": {
+      "category": "armor",
+      "cost": {
+        "amount": 200,
+        "currency": "gp"
+      },
+      "weight": 60,
+      "armor": {
+        "base_ac": 17,
+        "type": "heavy",
+        "max_dex_bonus": 0,
+        "strength_requirement": 15,
+        "stealth_disadvantage": true
+      }
+    }
+  },
+  {
+    "slug": "sprig-of-mistletoe",
+    "name": "Sprig of mistletoe",
+    "description": "A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A druid can use such an object as a…",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "gp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "spyglass",
+    "name": "Spyglass",
+    "description": "Objects viewed through a spyglass are magnified to twice their size.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1000,
+        "currency": "gp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "stabling-1-day",
+    "name": "Stabling (1 day)",
+    "description": "Stabling (1 day)",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "sp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "staff",
+    "name": "Staff",
+    "description": "An arcane focus is a special item--an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item--designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "gp"
+      },
+      "weight": 4
+    }
+  },
+  {
+    "slug": "string-10-feet",
+    "name": "String (10 feet)",
+    "description": "A 10-foot length of string, typically found in a burglar's pack.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 0,
+        "currency": "cp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "studded-leather",
+    "name": "Studded Leather",
+    "description": "Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.",
+    "data": {
+      "category": "armor",
+      "cost": {
+        "amount": 45,
+        "currency": "gp"
+      },
+      "weight": 13,
+      "armor": {
+        "base_ac": 12,
+        "type": "light"
+      }
+    }
+  },
+  {
+    "slug": "studded-leather-armor",
+    "name": "Studded Leather Armor",
+    "description": "Studded Leather Armor",
+    "data": {
+      "category": "armor",
+      "cost": {
+        "amount": 45,
+        "currency": "gp"
+      },
+      "weight": 13,
+      "armor": {
+        "base_ac": 12,
+        "type": "light"
+      }
+    }
+  },
+  {
+    "slug": "tent-two-person",
+    "name": "Tent, two-person",
+    "description": "A simple and portable canvas shelter, a tent sleeps two.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 2,
+        "currency": "gp"
+      },
+      "weight": 20
+    }
+  },
+  {
+    "slug": "thieves-tools",
+    "name": "Thieves' Tools",
+    "description": "This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 25,
+        "currency": "gp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "tinderbox",
+    "name": "Tinderbox",
+    "description": "This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch--or anything else with abundant, exposed fuel--takes an action.\nLighting any other fire takes 1 minute.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "sp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "tinkers-tools",
+    "name": "Tinker's Tools",
+    "description": "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 50,
+        "currency": "gp"
+      },
+      "weight": 10
+    }
+  },
+  {
+    "slug": "torch",
+    "name": "Torch",
+    "description": "A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "cp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "totem",
+    "name": "Totem",
+    "description": "A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A druid can use such an object as a…",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "gp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "trident",
+    "name": "Trident",
+    "description": "Trident",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 5,
+        "currency": "gp"
+      },
+      "weight": 4,
+      "weapon": {
+        "damage_dice": "1d6",
+        "damage_type": "piercing",
+        "properties": [
+          "Thrown",
+          "Versatile",
+          "versatile (1d8)"
+        ],
+        "range": {
+          "normal": 5,
+          "long": 5
+        }
+      }
+    }
+  },
+  {
+    "slug": "vestments",
+    "name": "Vestments",
+    "description": "Religious clothing, typically found in a priest's pack.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 0,
+        "currency": "cp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "vial",
+    "name": "Vial",
+    "description": "Vial",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "gp"
+      },
+      "weight": 0
+    }
+  },
+  {
+    "slug": "viol",
+    "name": "Viol",
+    "description": "Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 30,
+        "currency": "gp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "wagon",
+    "name": "Wagon",
+    "description": "Wagon",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 35,
+        "currency": "gp"
+      },
+      "weight": 400
+    }
+  },
+  {
+    "slug": "wand",
+    "name": "Wand",
+    "description": "An arcane focus is a special item--an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item--designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 10,
+        "currency": "gp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "war-pick",
+    "name": "War pick",
+    "description": "War pick",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 5,
+        "currency": "gp"
+      },
+      "weight": 2,
+      "weapon": {
+        "damage_dice": "1d8",
+        "damage_type": "piercing",
+        "properties": [],
+        "range": {
+          "normal": 5,
+          "long": 5
+        }
+      }
+    }
+  },
+  {
+    "slug": "warhammer",
+    "name": "Warhammer",
+    "description": "Warhammer",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 15,
+        "currency": "gp"
+      },
+      "weight": 2,
+      "weapon": {
+        "damage_dice": "1d8",
+        "damage_type": "bludgeoning",
+        "properties": [
+          "Versatile",
+          "versatile (1d10)"
+        ],
+        "range": {
+          "normal": 5,
+          "long": 5
+        }
+      }
+    }
+  },
+  {
+    "slug": "warhorse",
+    "name": "Warhorse",
+    "description": "Warhorse",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 400,
+        "currency": "gp"
+      }
+    }
+  },
+  {
+    "slug": "warship",
+    "name": "Warship",
+    "description": "Warship",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 25000,
+        "currency": "gp"
+      }
+    }
+  },
+  {
+    "slug": "waterskin",
+    "name": "Waterskin",
+    "description": "Waterskin",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 2,
+        "currency": "sp"
+      },
+      "weight": 5
+    }
+  },
+  {
+    "slug": "weavers-tools",
+    "name": "Weaver's Tools",
+    "description": "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 1,
+        "currency": "gp"
+      },
+      "weight": 5
+    }
+  },
+  {
+    "slug": "whetstone",
+    "name": "Whetstone",
+    "description": "Whetstone",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 1,
+        "currency": "cp"
+      },
+      "weight": 1
+    }
+  },
+  {
+    "slug": "whip",
+    "name": "Whip",
+    "description": "Whip",
+    "data": {
+      "category": "weapon",
+      "cost": {
+        "amount": 2,
+        "currency": "gp"
+      },
+      "weight": 3,
+      "weapon": {
+        "damage_dice": "1d4",
+        "damage_type": "slashing",
+        "properties": [
+          "Finesse",
+          "Reach"
+        ],
+        "range": {
+          "normal": 5,
+          "long": 5
+        }
+      }
+    }
+  },
+  {
+    "slug": "woodcarvers-tools",
+    "name": "Woodcarver's Tools",
+    "description": "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability…",
+    "data": {
+      "category": "tool",
+      "cost": {
+        "amount": 1,
+        "currency": "gp"
+      },
+      "weight": 5
+    }
+  },
+  {
+    "slug": "wooden-staff",
+    "name": "Wooden staff",
+    "description": "A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A druid can use such an object as a…",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 5,
+        "currency": "gp"
+      },
+      "weight": 4
+    }
+  },
+  {
+    "slug": "yew-wand",
+    "name": "Yew wand",
+    "description": "A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A druid can use such an object as a…",
+    "data": {
+      "category": "gear",
+      "cost": {
+        "amount": 10,
+        "currency": "gp"
+      },
+      "weight": 1
+    }
+  }
+]
