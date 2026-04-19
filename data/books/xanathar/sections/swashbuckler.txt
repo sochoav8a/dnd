@@ -1,0 +1,74 @@
+RASGOS D E E S PADAC H I N
+N ivel d e
+pícaro
+
+Rasgo
+J u ego d e Pies Elega nte, Audacia G a l a nte
+G a rbo
+
+13
+
+M a n io b ra El egante
+
+17
+
+D u e l i sta Experto
+
+jUEGO DE PIES ELEGANTE
+Cuando escoges este arquetipo a nivel 3, aprendes a dar un
+golpe y apartarte sin represalias. Si en tu turno realizas un
+ataque cuerpo a cuerpo contra una criatura, esta no podrá
+realizar ataques de oportunidad contra ti durante el resto
+de tu turno.
+
+AUDAC IA GALANTE
+A partir de nivel 3, tu confianza inconfundible te impulsa
+a luchar. Puedes añadir el modificador de Carisma a tus
+tiradas de iniciativa.
+Además, no necesitas ventaja en tu tirada de ataque
+para usar Ataque Furtivo si ninguna criatura además de tu
+objetivo está a 5 pies o menos de ti. Se te siguen aplicando
+el resto de reglas del rasgo de clase Ataque Furtivo.
+
+GARBO
+A partir de nivel 9, tu encanto se vuelve increíblemente
+seductor. Puedes emplear una acción en hacer una tirada de
+Carisma (Persuasión) enfrentada a la prueba de Sabiduría
+(Perspicacia) de una criatura. La criatura debe poder oírte y
+debéis tener un idioma en común.
+Si superas la tirada y la criatura te es hostil, esta tendrá
+desventaja en las tiradas de ataque contra objetivos distintos
+a ti y no podrá hacer ataques de oportunidad contra cual�
+quier objetivo que no seas tú. El efecto dura 1 minuto, hasta
+que uno de tus compañeros ataque al objetivo, use un con­
+juro que le afecte o hasta que el objetivo y tú os encontréis a
+'
+más de 60 pies de distancia.
+Si superas la tirada y la criatura no te es hostil, la habrás
+hechizado durante 1 minuto y te considerará un conocido
+amistoso. Este efecto acaba de forma inmediata si tú o tus
+compañeros le hacéis algún daño.
+
+MANIOBRA ELEGANTE
+A partir de nivel 1 3 , puedes usar una acción adicional
+durante tu turno para conseguir ventaja en la siguiente
+prueba de Destreza (Acrobacias) o Fuerza (Atletismo) que
+hagas en el mismo turno.
+
+DUELISTA EXPERTO
+A partir de nivel 17, tu dominio de la espada te permite
+convertir un fallo durante el combate en un éxito. Si fallas
+una tirada de ataque, puedes volver a tirar con ventaja. Una
+vez hecho esto, deberás terminar un descanso corto o largo
+para poder volver a usar este rasgo.
+
+INQU I SITIVO
+Como Inquisitivo arquetípico, te distingues por tu capacidad
+para desenterrar secretos y desentrañar misterios. Recurres
+a tu enorme atención al detalle y tu bien entrenada habilidad
+para leer las palabras y acciones de los demás para determi­
+nar sus verdaderas intenciones. Eres un experto en derrotar
+a criaturas que se ocultan entre la gente común y hacen de
+ellos tu presa. Tu maestría de la cultura popular y tus saga­
+ces deducciones te permiten estar bien equipado para sacar
+a la luz y acabar con males ocultos.

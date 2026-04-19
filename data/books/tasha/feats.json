@@ -1,0 +1,261 @@
+[
+  {
+    "slug": "gunner",
+    "name": "Artillero",
+    "description": "deellos se detallan tras la descripción de la clase. Esta elección te proporciona ciertos rasgos cuando alcanzas los niveles S, 9y 1S. LA HERRAMIENTA ADECUADA PARA LA TAREA Rasgodeartífice denivel3 Hasaprendido a fabricar exactamente la herramienta que necesitas: con herramientas deladrón o de artesano a mano, puedes crear mágicamente unjuego deherra­ mientas de artesano en un espacio sin ocupar aspies o menos de ti. Para estacreación, necesitarás 1 hora de trabajo ininterrumpido, que puedecoincidircon un descanso corto o largo. Pese a que son producto de la magia, estas herramientas no son mágicas y se desvanecerán cuando vuelvas a utilizar este rasgo. MEJORA DE CARACTERÍSTICA Rasgode artffice denive/4 Cuando alcances los niveles 4, 8, 12, 16y 19, podrás elegir una puntuación de caracte",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Caldero de Tasha para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "telekinetic",
+    "name": "Telequinético",
+    "description": "ycreando barreras de fuerza mental. Muchosgithyanki seentrenan para convertirseenestetipode guerreros, al igual que algunos delosaltoselfos más disciplinados. En elmundo deEberron, muchosjóvenes kalashtar sueñan con convertirseen Guerreros Psiónicos. ComoGuerreroPsiónico, es posible quehayas perfeccionado tus habilidadespsiónicas a travésde la autodisciplina,que las hayas desbloqueadobajolatutela de un maestro oque lashayaspulido en una academia dedicadaa desarrollarlascapacidadesofensivas ydefensivas de lamente. PODER PsiÓNico Rasgode GuerreroPsiónicodenivel3 Albergasuna fuentedeenergíapsiónicaentu interior. Esta energíaestá representada portus dadosde Energía Psiónica, quesond6. Tienes unacantidad deestosdadosigual al doble de tubonificadorpor competencia,ysirven para alimentarlosdistint",
+    "data": {
+      "modifiers": [],
+      "ability_score_choice": {
+        "amount": 1,
+        "from": [
+          "INT",
+          "WIS",
+          "CHA"
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "Caldero de Tasha para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "metamagic-adept",
+    "name": "Adepto de la Metamagia",
+    "description": "CUCHILLAS DELALMA Rasgo de Rebanaalmas denivel9 Tu Hoja Psíquicaesahora una expresióndetu alma henchida de fuerza psíquica, otorgándoteestos poderes que utilizan tus dados de Energía Psiónica: Golpes Teledirigidos. Si realizas unatiradadeataque con tu Hoja Psíquicay fallas,podrástirarundado de Energía Psiónicay sumarel númeroobtenido ala tirada de ataque. Sieso haceque el ataque impacte,gastarás eldado de Energía Psiónica. TeletransportePsl quico. Comoacción adicional, manifiestasuna Hoja Psíquica, gastas un dado deEnergíaPsiónicay lo tiras,y lanzas la cuchilla a un espaciosin ocuparquepuedasvera hasta una cantidad de pies igual a 10vecesel resultado. Luegote teletransportarás aese espacioy la cuchilla desparecerá. VELO PsíQ.urco Rasgo deRebanaalmas denive/ 13 Puedes tejerunvelode interf",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Caldero de Tasha para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "eldritch-adept",
+    "name": "Adepto Sobrenatural",
+    "description": "Requisitos:rasgoLanzamientode ConjurosoMagia delPacto Graciasalestudio deconocimientos ocultos, has liberadounpodersobrenatural en tu interior: aprendes unaopción de Invocación Sobrenatural de tu elección de laclasebrujo. Si la invocación tiene requisitos de cualquier tipo,solopodrás elegirlasi eres un brujo que loscumpla. Siemprequesubas un nivel,podrássustituir la invocación porotra de la clase brujo. ARTILLERO Eres rápidoy preciso con las armasde fuego, loque te otorga lossiguientes beneficios: • Aumenta tu puntuación de Destreza en 1, hasta un máximode 20. • Obtienes competencia con armas defuego(consulta lasección \"Armas defuego\" en laDungeon Master'sCuide). • Ignoras la propiedad \"recarga\" de las armasde fuego. • Estar aspies omenos de una criaturahostil noprovocadesventaja en tust",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Caldero de Tasha para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "chef",
+    "name": "Chef",
+    "description": "El tiempo invertido en dominar lasartes culinariasha dado sus frutos,otorgándote los siguientesbeneficios: • Aumenta tu puntuación de Constitución oSabiduría en 1, hasta un máximo de 20.• También obtienescompetenciaconútilesdecocinero saún no la tienes. • Comoparte de undescansocorto,puedespreparar comida especial, siempreque tengas a mano losingredientesy útiles decocinero. Puedes prepararsuficientedeesta comida como para una cantidaddecriaturas igual a 4+tu bonificadorpor competencia. Al final deldescansocorto, cualquier criaturaquecomalacomiday gaste unoomásDados de Golpe para recuperar puntos degolpe recuperará ld8 puntosdegolpeadicionales. • Con unahorade trabajoo trasfinalizarun descanso largo, puedes preparar una cantidad dedeliciasigual a tu bonificador porcompetencia. Estas del",
+    "data": {
+      "modifiers": [
+        {
+          "target": "tool.cooks-utensils",
+          "type": "proficiency",
+          "value": "cooks-utensils",
+          "source": "feat:chef",
+          "priority": 10
+        }
+      ],
+      "ability_score_choice": {
+        "amount": 1,
+        "from": [
+          "CON",
+          "WIS"
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "Caldero de Tasha para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "poisoner",
+    "name": "Envenenador",
+    "description": "Puedes preparary suministrarvenenos letales, lo que te proporciona lossiguientesbeneficios: • Cuando hagas una tirada de dañoquecausedaño deveneno, esta ignorará la resistencia aesedaño. • Puedesaplicarvenenoa un arma omunicióncomo acción adicional, en vez decomoacción. Tambiénganascompetenciaconútilesdeenvenenador saún no la tienes. Con una horade trabajo usando útiles deenvenenadory gastando 50 pode materiales, puedescrear una cantidad dedosisdepotenteveneno igual a tu bonificador porcompetencia. Unavez aplicado a un arma o munición, el venenoconserva su potencia durante 1 minuto ohastaque impactes aun objetivo con el arma o la munición. Cuando una criatura sufradañodeese arma o munición envenenadas, deberá superar unatiradadesalvación de Constitución con CD 14 osufrirá 2d8 dedaño deve",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Caldero de Tasha para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "skill-expert",
+    "name": "Experto en Habilidades",
+    "description": "Hasperfeccionadotucompetencia en determinadas habilidades, lo que teconcedelossiguientesbeneficios: • Aumentauna puntuación decaracterísticadetu elecciónen 1, hasta un máximode20. • Ganascompetenciaen una habilidaddetuelección. • Elige una habilidaden la quetengascompetencia. Ganaspericia con esa habilidad, loque significa que tu bonificadorporcompetenciase duplica para cualquier pruebadecaracterísticaquehagas con ella. La habilidad elegidadebe serunaque aún nose beneficie de un rasgo, como Pericia, que duplica tu bonificador porcompetencia.",
+    "data": {
+      "modifiers": [],
+      "ability_score_choice": {
+        "amount": 1,
+        "from": [
+          "STR",
+          "DEX",
+          "CON",
+          "INT",
+          "WIS",
+          "CHA"
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "Caldero de Tasha para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "artificer-initiate",
+    "name": "Iniciado Artífice",
+    "description": "ADEPTO SoBRENATuRAL Has adquiridopartede lainventivadeun artífice: • Aprendes un truco de tu elección escogido de entre losde la lista deconjurosdeartífice y aprendes un conjuro de nivel lde tu elección deesalista. La Inteligencia estuaptitud mágica paraestosconjuros. • Puedes lanzarel conjuro de nivel lde esta dote sin unespaciode conjuroy debes finalizar un descanso largoantesde podervolvera lanzarlo deestemodo. También puedes lanzarel conjurousandocualquier espaciodeconjuroquetengas. • Obtienes competencia con el tipo de herramientas de artesano de tueleccióny puedes emplearese tipo de herramientascomocanalizadormágico para cualquierconjuroque lancesy queuse la Inteligencia comosu aptitud mágica. CAPÍTULO 1 1 OPCIONES DE LOS PERSONAJES 79Len_ ) Ed Ya Ya Lan _) n e. Len_en) e",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Caldero de Tasha para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "fighting-initiate",
+    "name": "Iniciado en Combate",
+    "description": "Requisitos:competencia con unarma marcial Tuentrenamiento marcial te haayudado adesarrollar un estilode combate particular. Como resultado, aprendes una opción de Estilo de Combate de tu eleccióndelaclase guerrero. Siyatienesunestilo, elque elijasdebe ser diferente. Cuando alcanzas un nivel que otorga el rasgo Mejora de Característica, puedessustituirel estilo de combate de esta doteporotrode la clase guerrero que no tengas.",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Caldero de Tasha para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "piercer",
+    "name": "Perforador",
+    "description": "Hasconseguido una precisión perforadora en combate, que te concede los siguientes beneficios: • Aumenta tu Fuerza otu Destreza en 1, hasta un máximode 20. • Unavez por turno, cuando impactesa una criatura con un ataque que cause daño perforante, podrás volvera tirar uno de losdadosde daño delataque, perotendrásque usar el nuevoresultado. • Cuando causes un críticoque haga dañoperforante aunacriatura, podrás tirar un dado dedaño adicional al determinarel dañoperforante adicional que recibe el objetivo.",
+    "data": {
+      "modifiers": [],
+      "ability_score_choice": {
+        "amount": 1,
+        "from": [
+          "STR",
+          "DEX"
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "Caldero de Tasha para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "slasher",
+    "name": "Rebanador",
+    "description": "Has aprendido dónde cortar paraobtenerlosmejores resultados, lo que te concede los siguientes beneficios: • Aumenta tu Fuerzao tu Destreza en 1, hasta un máximo de 20. • Unavezporturno, cuando impactes a una criatura con unataquequecausedañocortante, podrás reducirlavelocidad delobjetivoen 10 pieshasta el principiode tu siguiente turno. • Cuandocauses un crftico que hagadañocortante a una criatura, la herirásgravemente. Hasta el principiode tu siguiente turno, el objetivo tendrá desventaja en todaslas tiradas de ataque.",
+    "data": {
+      "modifiers": [],
+      "ability_score_choice": {
+        "amount": 1,
+        "from": [
+          "STR",
+          "DEX"
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "Caldero de Tasha para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "telepathic",
+    "name": "Telepático",
+    "description": "Despiertas la capacidaddeconectar mentalmente con losdemás, lo que te concede los siguientes beneficios: • Aumenta tu puntuación de Inteligencia, Sabiduría o Carisma en 1, hasta un máximode 20. • Puedes hablartelepáticamenteconcualquiercriatura quepuedasvera60piesomenosde ti. Hablas telepáticamente en un idioma que conoces, yla 8o CAPÍTULO 1 1 OPClONES DE LOS PERSONAJES criatura solo te entiendesitambién conoce dicho idioma. Tucomunicación no concede a la criatura lacapacidad de responderte telepáticamente. • Puedes lanzarel conjurodetectarpensamientossin necesidad de un espaciode conjuro ni componentes y debes finalizarun descansolargoantes de volver a lanzarlodeeste modo. La aptitud mágicadelconjuro es la característica aumentada por esta dote. Si tienes espaciosdeconjurode nivel 2 osupe",
+    "data": {
+      "modifiers": [],
+      "ability_score_choice": {
+        "amount": 1,
+        "from": [
+          "INT",
+          "WIS",
+          "CHA"
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "Caldero de Tasha para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "fey-touched",
+    "name": "Toque Feérico",
+    "description": "Tu exposición a la magiade Feywild tehacambiado, otorgándotelossiguientesbeneficios: • Aumenta tu puntuación de Inteligencia, Sabiduría oCarisma en 1, hasta un máximo de 20. • Aprendes el conjuropaso brumosoy un conjuro de nivel 1 de tu elección. El conjuro de nivel 1 debeserde laescuela mágicadeadivinación ode encantamiento. Puedes lanzarcada uno de estos conjuros sin gastar un espacio de conjuro. Cuando lances cualquiera de estos conjuros de este modo, no podrásvolvera hacerlo hasta que finalices un descanso largo.También puedes lanzar estos conjuros usando espaciosde conjuro que tengasdel nivel apropiado. Laaptitud mágicade losconjuros es la característica aumentada por esta dote.h—. la an - e — 4¡\"'*- ,a *4?¿:r M E í = ii : = Á LOMOS DE UN UNICORNIO, UNA BARDE TELÉPATA INSPIRA A SU COM",
+    "data": {
+      "modifiers": [],
+      "ability_score_choice": {
+        "amount": 1,
+        "from": [
+          "INT",
+          "WIS",
+          "CHA"
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "Caldero de Tasha para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "shadow-touched",
+    "name": "Toque Sombrío",
+    "description": "Tu exposición a la magia de Shadowfell te ha cambiado, otorgándotelos siguientes beneficios: Aumenta tu puntuación de Inteligencia, Sabiduría o Carisma en 1, hasta un máximo de 20. • Aprendesel conjuroinvisibilidadyunconjuro de nivel 1 de tu elección. Elconjuro de nivel 1 debeser de laescuela mágica de nigromanciao ilusionismo. Puedeslanzarcada unodeestos con jurossin gastar un espaciode con juro. Cuando lancescualquiera deestos conjuros deeste modo,nopodrásvolver ahacerlo hasta que finalices un descanso largo. También puedes lanzarestos conjurosusando espacios de conjuro quetengas delnivelapropiado. La aptitud mágica de los conjuroseslacaracterística aumentada por esta dote.",
+    "data": {
+      "modifiers": [],
+      "ability_score_choice": {
+        "amount": 1,
+        "from": [
+          "INT",
+          "WIS",
+          "CHA"
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "Caldero de Tasha para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "crusher",
+    "name": "Triturador",
+    "description": "Tienesexperienciaenel arte de triturara tus enemigos, loqueteotorgalossiguientes beneficios: • Aumenta tu Fuerza o tu Constitución en 1, hasta unmáximo de 20. • Unavezpor turno, cuandoimpactesa una criatura con un ataqueque cause dañocontundente, podrás moverla 5 pieshastaun espaciosin ocupar, siempre que el objetivo no tenga un tamañoqueesté, como mucho, una categoría porencimade la tuya. • Cuando causes un críticoquehagadaño contundente aunacriatura, las tiradasdeataquecontraesa criaturase harán con ventaja hastael principio de tu siguiente turno.UN GRUPO OE HECHICEROS SE CONSI\\GRI\\ 1\\ SU PI\\TRONI\\, TI\\S...I\\, \" REINI\\ 8RUJII.CAPÍTULO 2 PATRONES DE GRUPO ODOGRUPO DEAVENTUREROS ESTÁUNIDO por unvínculo, lasmisionesen lasque se embarcanylospeligrosalosque e nfrentan juntos. Este capítulo t",
+    "data": {
+      "modifiers": [],
+      "ability_score_choice": {
+        "amount": 1,
+        "from": [
+          "STR",
+          "CON"
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "Caldero de Tasha para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  }
+]

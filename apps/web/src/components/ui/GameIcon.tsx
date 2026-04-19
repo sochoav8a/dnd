@@ -15,6 +15,7 @@ function ensureRegistered() {
 // ── Mappings: semantic slug → iconify icon name ─────────────────────────────
 
 export const CLASS_ICONS: Record<string, string> = {
+  artificer: "flat-hammer",
   barbarian: "barbarian",
   bard: "harp",
   cleric: "holy-symbol",

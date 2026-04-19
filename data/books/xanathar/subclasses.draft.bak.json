@@ -1,0 +1,1170 @@
+[
+  {
+    "slug": "zealot",
+    "name": "Senda del Fanático",
+    "description": null,
+    "data": {
+      "parent_class": "barbarian",
+      "flavor_name": "Senda del Fanático",
+      "features_by_level": {
+        "14": [
+          {
+            "name": "Furia más a l l á d e l a M u erte",
+            "description": "encuentre a 30 pies o menos de ti recibe daño, puedes usar A partir de nivel 14, el poder divino que alimenta tu furia te tu reacción para reducir ese daño en 2d6. permite ignorar golpes letales. Según alcances ciertos niveles de esta clase, esta reduc­ Mientras estés enfurecido, tener O puntos de golpe no ción de daño se incrementa: 3d6 a nivel 10 y 4d6 a nivel 14. te hace caer inconsciente. Todavía debes realizar tiradas de salvación contra muerte, del mismo modo que sufres C oNSULTAR A LOS E sPÍRITUS los efectos normales de recibir daño estando a O puntos A nivel 1 0, obtienes la capacidad de comunicarte con de golpe. Sin embargo, si fueras a fallecer debido a haber tus espíritus ancestrales. Cuando lo haces, lanzas el fallado tiradas de salvación contra muerte, no mueres hasta conjuro de augurio o clarividencia sin utilizar un espacio que tu furia termine. Incluso en ese caso, solo fallecerías si de conjuro o componentes materiales. En vez de crear todavía tienes O puntos de golpe. un sensor esférico, esta manera de emplear clarividencia invoca a una de las ánimas de tus antepasados en la loca­ S E N DA D E L GUARDIÁN A N C E STRAL lización deseada. Tu aptitud mágica para estos conjuros Algunos bárbaros descienden de culturas que veneran a es Sabiduría. sus ancestros. Estas tribus enseñan que los guerreros del Después de lanzar uno de los dos conjuros de este modo, pasado permanecen en el mundo como poderosos espíritus, no puedes volver a usar este rasgo hasta que termines un de modo que pueden guiar y proteger a los vivos. Cuando descanso corto o largo. uno de los seguidores de esta senda se enfurece, entra en contacto con el mundo de los espíritus y recurre a la ayuda ANCE STRO S VENGATIVO S de estos guardianes. A nivel 14, tus espíritus ancestrales se han vuelto tan pode­ Los bárbaros que buscan el apoyo de estos espíritus rosos que son capaces de contraatacar. Cuando utilizas tu ancestrales son más capaces de proteger a sus tribus y a sus Escudo de los Espíritus para reducir el daño de un ataque, el aliados. Para afianzar los vínculos con estos guardianes, atacante recibe tanto daño de fuerza como el daño prevenido los bárbaros que siguen esta senda se cubren de elaborados por el Escudo de los Espíritus. tatuajes en homenaje a las gestas de sus ancestros. Estos dibujos cuentan sagas de victorias contra monstruos terri­ S E N DA D E L H E RALD O D E bles y rivales imponentes. L A S TOR M E NTA S"
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 13,
+      "body_features_extracted": 1,
+      "warnings": [
+        "No se encontró el cuerpo del rasgo \"Las cosas mágicas n o traen más q u e problemas.\"",
+        "No se encontró el cuerpo del rasgo \"N u nca d u e rmas situado a menos de d iez pies d e u n\"",
+        "No se encontró el cuerpo del rasgo \"o bjeto mágico. FURIA DIVINA\"",
+        "No se encontró el cuerpo del rasgo \"Cuando atravieses u n cementerio asegú rate d e l l eva r Desde el momento en que elijas esta senda a nivel 3\"",
+        "No se encontró el cuerpo del rasgo \"algo de pl ata. De lo contrario\"",
+        "No se encontró el cuerpo del rasgo \"un fa ntasma pod ría puedes canalizar la furia divina en l os golpes de tus armas.\"",
+        "No se encontró el cuerpo del rasgo \"entrar en tu cuerpo. Cuando estés enfurecido\"",
+        "No se encontró el cuerpo del rasgo \"la primera criatura a la que\"",
+        "No se encontró el cuerpo del rasgo \"S i una elfa te m i ra a los ojos\"",
+        "No se encontró el cuerpo del rasgo \"está i ntenta ndo leerte impactes en cada uno de tus turnos con un ataque con arma\"",
+        "No se encontró el cuerpo del rasgo \"nal. Este daño adicional es necrótico o radiante. El tipo de\"",
+        "No se encontró el cuerpo del rasgo \"daño se elige al obtener este rasgo.\""
+      ]
+    }
+  },
+  {
+    "slug": "ancestral-guardian",
+    "name": "Senda del Guardián Ancestral",
+    "description": null,
+    "data": {
+      "parent_class": "barbarian",
+      "flavor_name": "Senda del Guardián Ancestral",
+      "features_by_level": {}
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 15,
+      "body_features_extracted": 0,
+      "warnings": [
+        "No se encontró el cuerpo del rasgo \"Consu ltar a los Espíritus\"",
+        "No se encontró el cuerpo del rasgo \"esta senda es capaz de utilizar las fuerzas de la naturaleza\"",
+        "No se encontró el cuerpo del rasgo \"Escudo d e los Espíritus (3d6) para crear poderosos efectos mágicos.\"",
+        "No se encontró el cuerpo del rasgo \"Ancestros Vengativos\"",
+        "No se encontró el cuerpo del rasgo \"Los heraldos de la tormenta suelen ser guerreros de élite\"",
+        "No se encontró el cuerpo del rasgo \"Escudo d e los Espíritus (4d6) que entrenan junto a druidas\"",
+        "No se encontró el cuerpo del rasgo \"exploradores y ciertos pro­\"",
+        "No se encontró el cuerpo del rasgo \"tectores jurados de la naturaleza. Otros seguidores de esta\"",
+        "No se encontró el cuerpo del rasgo \"PROTECTORES ANC E STRALES senda perfeccionan sus habilidades en regiones castigadas\"",
+        "No se encontró el cuerpo del rasgo \"Desde el momento en que elijas esta senda a nivel 3\"",
+        "No se encontró el cuerpo del rasgo \"cada por tempestades\"",
+        "No se encontró el cuerpo del rasgo \"en los confines helados del fin del mundo o\"",
+        "No se encontró el cuerpo del rasgo \"vez que te enfurezcas aparecerán guerreros espectrales. en la profundidad de ardientes desiertos.\"",
+        "No se encontró el cuerpo del rasgo \"Mientras estés en ese estado\"",
+        "No se encontró el cuerpo del rasgo \"la primera criatura que\""
+      ]
+    }
+  },
+  {
+    "slug": "storm-herald",
+    "name": "Senda del Heraldo de las Tormentas",
+    "description": null,
+    "data": {
+      "parent_class": "barbarian",
+      "flavor_name": "Senda del Heraldo de las Tormentas",
+      "features_by_level": {
+        "10": [
+          {
+            "name": "To rmenta P rotectora",
+            "description": "esta clase: 3 a nivel 5, 4 a nivel 10, 5 a nivel 15 y 6 a nivel 20. A nivel 10, aprendes a utilizar tu dominio sobre la tormenta Mar. Cuando se activa este efecto, puedes escoger a una para proteger a otros. Todas las criaturas de tu elección criatura que puedas ver y se encuentre en tu aura. El objetivo tienen la resistencia al daño que ganaste del rasgo Alma de deberá hacer una tirada de salvación de Destreza. Sufrirá Tormenta mientras se encuentren en tu Aura de Tormenta. 1d6 puntos de daño de relámpago si falla la tirada o la mitad del daño si la supera. Este daño aumenta cuando alcanzas TORMENTA ENFURECIDA ciertos niveles de esta clase: 2d6 a nivel 10, 3d6 a nivel 15 y A nivel 14, tu tormenta se vuelve aún más poderosa, ata­ 4d6 a nivel 20. cando a tus enemigos. Este efecto está basado en el entorno Tundra. Cuando se activa este efecto, cada criatura de tu que hayas elegido para tu Aura de Tormenta. elección situada en el aura gana 2 puntos de golpe tempera+ Desierto. Inmediatamente después de que una criatura les, gracias a los espíritus de hielo que les habitúan al daño. situad::. dentro de tu aura te impacte con un ataque, puedes Los puntos de golpe temporales aumentan cuando alcanzas usar tu reacción para obligarla a realizar una tirada de sal­ ciertos niveles en esta clase: 3 a nivel 5, 4 a nivel 10, 5 a vación de Destreza. Si la falla, dicha criatura sufrirá la mitad nivel 15 y 6 a nivel 20. de tu nivel de bárbaro de daño de fuego. Mar. Cuando impactas a una criatura que se encuentra ALMA DE TORMENTA dentro de tu aura con un ataque, puedes usar tu reacción A nivel 6, la tormenta te proporciona beneficios incluso para obligarla a realizar una tirada de salvación de Fuerza. cuando tu aura no está activa. Estos beneficios dependen del Si falla la tirada, dicha criatura queda derribada, como si entorno elegido para tu Aura de Tormenta. hubiera sido golpeada por una ola. Desierto. Ganas resistencia al daño de fuego y no sufres Tundra. Cuando el efecto de tu Aura de Tormentas se los efectos del calor extremo, tal y como se describen en el activa, puedes elegir una criatura que puedas ver y esté Dungeon Master's Cuide. Adicionalmente, utilizando una situada dentro del aura. El objetivo deberá tener éxito en acción, puedes tocar un objeto inflamable que no lleve o vista una tirada de salvación de Fuerza o su velocidad quedará nadie y hacerlo arder. reducida a O hasta el principio de tu próximo turno debido a Mar. Adquieres resistencia al daño de relámpago y la la escarcha mágica que la cubre. capacidad de respirar bajo el agua. También ganas una velocidad nadando de 30 pies. Obra característica \" Los tres fl a m b i n i s \", u n a atrevida canción d e identidades equ ivocadas y d e s e o s i n trabas. \" E l vals de los m i có n i d os\", una a legre melodía que gu sta especi a l mente a los n i ños. \" E l trasero d o rado d e Asmod eo\", u n poema d ramático cuya i n s p i ración fue tu s u puesta vis ita personal a l Averno. \" Los piratas de Luskan\", u n rel ato de primera mano de tu secuestro por unos pi ratas cuando eras solo u n niño. \"Un a ro, dos pichones y u n sabueso i n fernal\", u n a sutil parod i a de u n noble i n com petente. \" U n pard i l l o en el Abis mo\", poema cómico sobre un bufón y sus viajes entre demonios. BARDO I N STRU M E NTO LA MÚSICA ES LA FRUTA DEL ÁRBOL DIVINO QUE VIBRA E n l a búsqueda de un bardo de la interpretación definitiva y el máximo aplauso, su instrumento es tan importante con las Palabras de Creación. Pero lo q u e yo te pregunto es: como su habilidad vocal. La calidad de su manufactura es, ¿Puede un bardo llegar a la raíz de este árbol? ¿Es posible por tanto, crítica: los mejores instrumentos crean la mejor acceder a la fuente de ese poder? Ah, ¡la música que podría música, por lo que algunos bardos no paran de buscar uno traer a este m undo! mejor. Pero quizá sea igual de importante el impacto que -Fletcher D anairia, maestro bardo pueda causar el instrumento en sí mismo. Es más probable que aquellos construidos de forma extraña o con materiales Los bardos proporcionan desenfado en tiempos oscuros, exóticos dejen un recuerdo duradero en el público. otorgan sabiduría para contrarrestar la ignorancia y hacen Puede que tu instrumento actual sea \"de tienda\", porque que lo ridículo parezca sublime. Son conservadores de no te podías permitir otra cosa, o que haya sido un regalo la historia más antigua, usando canciones y relatos para y sea muy elaborado. ¿Estás satisfecho con el que tienes o perpetuar a través de los tiempos la memoria de grandes quieres reemplazarlo por uno realmente peculiar? acontecimientos. Este conocimiento es tan importante que I NSTRU MENTO será aprendido y difundido, sobreviviendo de esta manera cuando no quede nada escrito. d6 Instrumento También es parte del papel de un bardo ser cronista de Un violín med i a n o d e excelente man ufactura hechos menores y más contemporáneos: las historias de los Un cuerno de mithral hecho por elfos héroes de hoy, desde sus mayores gestas a sus poco impre­ U n a cítara fa bricada con seda d e araña d row sionantes fracasos. Un tambor o rco No obstante, en el mundo hay muchas personas que Una caja de madera que croa como un b u l lywug pueden seguir una melodía o contar bien una historia, razón por la que un bardo aventurero no posee solo su labia y una El a rpa d e u n m a n itas, d e d i seño gnomo voz melodiosa. Lo que realmente distingue a una de estas personas (y lo diferencia de otros bardos) es el estilo y la VE RGÜ E N Z A sustancia de su interpretación. Para conquistar y mantener la atención del público, los Casi cualquier bardo ha sufrido a l menos una mala expe­ bardos normalmente actúan de forma ostentosa y extrover­ riencia de cara al público, y lo normal es que tú no seas la tida. Los más famosos son el equivalente en el mundo de excepción. Al fin y al cabo, nadie se vuelve famoso de golpe. D&D a una estrella del pop. Si tu personaje es un miembro Quizá tuviste alguna dificultad al principio de tu carrera o de esta clase, considera usar a uno de tus músicos favoritos necesitaste tiempo para limpiar tu reputación tras una noche como referente para tu aventurero. agónica en la que el destino conspiró para traer la ruina a Puedes añadir aspectos únicos a tu personaje con las tus interpretaciones. siguientes sugerencias. Una actuación puede ir mal de tantas maneras como peces hay en el mar. Pero, sea cual sea el desastre, un bardo Ü B RA C ARAC T E R Í S T I C A tiene el coraje y la confianza necesaria para recuperarse tras el descalabro, ya sea continuando la actuación, si es posible, Todo bardo d e éxito es conocido por u n a obra de arte o prometiendo volver mañana con un éxito seguro. interpretativo, normalmente una canción o un poema que encandila a quien quiera que la escuche. Estas piezas son capaces de cambiar la vida del público o, por lo menos, de hacer que hablen de ella durante años. Si tu personaje está empezando, tu obra característica probablemente aún no ha llegado, pero, para poder ganarte la vida con tu profesión, seguro que ya tienes dos o tres piezas que han sido un éxito en tu repertorio. I' De I \"I.Q.U I ERDA A D ERE C H A: B ARDOS DE LOS C O L E G I O S D E L G L A MOUR, DE L A S E S P A D A S V DE LOS S U S URROS VERGÜENZAS desconocido para extraer el poder de la tierra, mientras sus ramas se estiran hacia el sol para alimentar sus flores d6 Vergüenza y fruta. La naturaleza ha sido testigo del alzamiento y caída Esa vez que tu canción cómica \" La s traves u ras del de todos los reinos, incluso aquellos cuyos nombres han G ra n To m \" (que, por cierto, crees q u e es b ri l l a nte) sido olvidados y esperan ser redescubiertos. Los dioses n o l e sentó bien al G r a n Tom. de la naturaleza comparten sus secretos con druidas y L a m a t i n é en l a q u e el oso lechuza del ci rco escapó y sabios, abriendo sus corazones y mentes a nuevas maneras aterrorizó al p ú b l ico. de ver. Tú, al igual que ellos, sientes que tu creatividad Cuando tu primer acto fue tu entusiástica, florece cuando vagas por un campo abierto de ondulada pero u n ivers a l mente abo rrecida, i nterpretación hierba o cuando caminas en silencio por una arboleda de d e \" La canción del ra n a m ot\". robles ancianos. La pri mera y ú ltima i nterpretación en públ ico de Amor. Buscas identificar la esencia del amor verdadero. \" M i rt, h o m b re d e m u n do\". Aunque no desdeñas el amor superficial de la carne y el La vez q u e tu peluca se prendió fuego y la ti raste aspecto, lo que realmente te interesa es esa forma de amor a l suelo, incendiando el escenario. profundo que puede inspirar a miles o llenar de alegría Cuando te sentaste por error en tu laúd d u rante l a cada pequeño momento. El amor de este tipo es omnipre­ ú l t i m a estrofa de \"Seren ata a l a l u z d e las estre l l as\". sente, por lo que puede tomar muchos aspectos: desde el brillo de una pieclra preciosa a la canción de un simple LA M U S A D E L B A R D O pescador, que agradece al mar su abundancia. Sigues el rastro del amor, la emoción más preciosa y misteriosa de Como e s natural, todo bardo posee un repertorio de todas y, así, tu búsqueda llena tus historias y canciones con canciones e historias. Algunos son genera listas, capaces vitalidad y pasión. de recurrir a una amplia variedad de temas para cada Conflicto. El drama supone el enfrentamiento encar­ actuación, y están orgullosos de su versatilidad. Otros tienen nado: las mejores historias giran alrededor del conflicto. un enfoque más personal en su arte, llevados por su apego a Desde la historia de la mañana siguiente de una pelea de una musa, un concepto especial que inspira mucho de lo que taberna a la saga que recuerda una batalla épica; desde esos artistas despliegan delante de una audiencia. una disputa de enamorados a una pugna entre poderosas Un bardo que sigue a una musa normalmente lo hace para dinastías, el conflicto es lo que inspira a los cuentacuentos ganar una comprensión más profunda de lo que esta repre­ a crear sus mejores obras. El conflicto puede sacar lo mejor senta, con el fin de ser capaz de transmitir este conocimiento de algunos, haciendo que brille su naturaleza heroica y a otros a través de su interpretación. transformen el mundo, pero también provoca que otros se Si tu personaje bardo tiene una musa, podría ser una de vean atraídos hacia la oscuridad y caigan bajo el influjo las tres descritas aquí, pero también otra creada por ti. del mal. Aspiras a experimentar o ser testigo de todas las Naturaleza. Sientes una afinidad por la naturaleza. Su formas de conflicto, grandes y pequeñas, para estudiar belleza y misterio te inspiran. Para ti, un árbol es profun­ este aspecto eterno de la vida y poder inmortalizarlo en tus damente simbólico. Sus profundas raíces ahondan en lo palabras y tu música. C OLEGI O S BÁRDI C O S A nivel 3, un bardo consigue el rasgo Colegio Bárdico. Las siguientes opciones, además de las que se ofrecen en el Player's Handbook, están disponibles: el Colegio de las Espadas, el Colegio del Glamour y el Colegio de los Susurros. C OL E GI O D E LAS E S PADAS L o s bardos d e l Colegio de l a s Espadas reciben e l nombre de filos, ya que entretienen con osadas proezas de pericia en armas. Realizan interpretaciones tales como combates fingidos, tragarse sables, lanzamiento de cuchillos o mala­ bares con dagas. Aunque utilizan sus armas para entretener, también son guerreros entrenados y de gran habilidad. Su talento con las armas lleva a muchos filos a llevar dobles vidas. Uno de estos bardos quizá use a una compañía circense como tapadera para perversos actos, como asesi­ natos, robos y chantajes. Otros filos cazan a los malvados, dispensando justicia a los crueles y poderosos. La mayoría de compañías no tienen problema en añadir el talento de uno de ellos a sus filas, debido a la gran emoción que añaden a una actuación, pero pocos se fían por completo de lo que puedan hacer. Aquellos bardos que dejan sus vidas como animadores muchas veces acaban teniendo problemas que les impiden mantener en secreto sus otras actividades. Un filo al que pillen robando o haciendo de justiciero supone un lastre demasiado grande para la mayor parte de compañías. Con su habilidad con las armas y su magia, estos bardos acaban encontrando trabajo como sicarios de algún gremio de ladrones o salen en busca de aventuras."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 3,
+      "body_features_extracted": 1,
+      "warnings": [
+        "No se encontró el cuerpo del rasgo \"daño de dicho ataque. Este efecto finaliza antes de tiempo si\"",
+        "No se encontró el cuerpo del rasgo \"tu furia termina. 14 To rmenta E nfu recida\""
+      ]
+    }
+  },
+  {
+    "slug": "swords",
+    "name": "Colegio de las Espadas",
+    "description": null,
+    "data": {
+      "parent_class": "bard",
+      "flavor_name": "Colegio de las Espadas",
+      "features_by_level": {
+        "14": [
+          {
+            "name": "puedes",
+            "description": "vez de emplear uno de tus dados de Inspiración Bárdica. C OLEGIO D E L GLA M O U R E l Colegio del Glamour es e l hogar d e aquellos bardos que han afinado su habilidad en el vibrante reino del Feywild o bajo la tutela de alguien que vivió allí. Con sátiros, eladrines y otros feéricos como profesores, estos aventureros apren­ den a usar su magia para cautivar y hacer las delicias de quienes los escuchan. Los bardos de este colegio son recibidos con una mezcla de admiración y miedo. Sus actuaciones son legendarias. Su elocuencia es tal que un discurso o una de sus canciones quedará hechizado por ti. Mientras esté hechizado((ie esta puede conseguir que sus captores los liberen o, incluso, acu­ manera, esa criatura te idolatrará, hablará muy bien de ti a nar a un furioso dragón y que se vuelva autocomplaciente. cualquiera con el que se encuentre y tratará de obstaculizar La misma magia que les permite apaciguar a las bestias a cualquiera que esté en tu contra, aunque evitará la violen­ es capaz de someter voluntades. Los bardos malvados son cia si no estaba ya dispuesto a luchar por ti. Este efecto se"
+          },
+          {
+            "name": "1:",
+            "description": "usando su magia para convertir a sus anfitriones en siervos. daño, si le atacas o si te ve atacando o dañando a cualquiera En contraste, aquellos miembros más heroicos de este de sus aliados. colegio utilizan su poder para regocijar a los oprimidos y Si una criatura tiene éxito en su tirada de salvación, no debilitar a los opresores. será consciente de que has intentado hechizada. Una vez utilizado este rasgo, deberás terminar un des­"
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 37,
+      "body_features_extracted": 2,
+      "warnings": [
+        "No se encontró el cuerpo del rasgo \"Floritura del Maestro Cuando realizas una acción de Atacar en tu turno\"",
+        "No se encontró el cuerpo del rasgo \"tu velo­\"",
+        "No se encontró el cuerpo del rasgo \"cidad aumenta en 1 0 pies hasta el final del turno. Además\"",
+        "No se encontró el cuerpo del rasgo \"C OMPETENCIAS ADICIONALES si un ataque que haces como parte de esta acción impacta a\"",
+        "No se encontró el cuerpo del rasgo \"Cuando t e unes al Colegio de l a s Espadas\"",
+        "No se encontró el cuerpo del rasgo \"al alcanzar el una criatura\"",
+        "No se encontró el cuerpo del rasgo \"puedes usar una de las siguientes Florituras\"",
+        "No se encontró el cuerpo del rasgo \"nivel 3\"",
+        "No se encontró el cuerpo del rasgo \"ganas competencia con armaduras medias y con con la Espada a tu elección. Solo puedes emplear una de las\"",
+        "No se encontró el cuerpo del rasgo \"cimitarras. opciones de Floritura con la Espada cada turno.\"",
+        "No se encontró el cuerpo del rasgo \"Si eres competente en el uso de un arma cuerpo a cuerpo Floritura defensiva. Puedes gastar uno de tus usos de\"",
+        "No se encontró el cuerpo del rasgo \"sencilla o marcial\"",
+        "No se encontró el cuerpo del rasgo \"puedes utilizarla como canalizador Inspiración Bárdica para que el arma inflija daño adicional\"",
+        "No se encontró el cuerpo del rasgo \"mágico para tus conjuros de bardo. al objetivo impactado. El daño es igual al número que obten­\"",
+        "No se encontró el cuerpo del rasgo \"gas en el dado de Inspiración Bárdica. También añades ese\"",
+        "No se encontró el cuerpo del rasgo \"E STILO DE C O MBATE dado a tu CA hasta el comienzo de tu próximo turno.\"",
+        "No se encontró el cuerpo del rasgo \"A nivel 3\"",
+        "No se encontró el cuerpo del rasgo \"te especializas en un estilo de combate. Elige una Floritura cortante. Puedes utilizar uno de tus usos de\"",
+        "No se encontró el cuerpo del rasgo \"de las siguientes opciones que aparecen a continuación. No Inspiración Bárdica para hacer que el arma inflija daño\"",
+        "No se encontró el cuerpo del rasgo \"puedes volver a escoger una de las opciones de este rasgo\"",
+        "No se encontró el cuerpo del rasgo \"adicional a la criatura impactada y a cualquier otra criatura\"",
+        "No se encontró el cuerpo del rasgo \"incluso si algún elemento del juego te deja seleccionar de de tu elección que se encuentre hasta a 5 pies de ti y a la que\"",
+        "No se encontró el cuerpo del rasgo \"nuevo entre varios estilos de combate. puedas ver. El daño es igual al número que obtengas en el\"",
+        "No se encontró el cuerpo del rasgo \"D u elo. Cuando empuñes una única arma cuerpo a cuerpo dado de Inspiración Bárdica.\"",
+        "No se encontró el cuerpo del rasgo \"que solo requiera de una mano para usarse recibes un +2 a Floritura móvil. Puedes emplear uno de tus usos de\"",
+        "No se encontró el cuerpo del rasgo \"tus tiradas de daño con esa arma. Inspiración Bárdica para que el arma inflija daño adicional\"",
+        "No se encontró el cuerpo del rasgo \"Combate con dos armas. Cuando estés combatiendo con al objetivo impactado. El daño es igual al número que\"",
+        "No se encontró el cuerpo del rasgo \"dos armas\"",
+        "No se encontró el cuerpo del rasgo \"puedes añadir tu modificador por característica obtengas en el dado de Inspiración Bárdica. Además\"",
+        "No se encontró el cuerpo del rasgo \"al daño del segundo ataque. empujar a tu objetivo hasta 5 pies más el número que hayas\"",
+        "No se encontró el cuerpo del rasgo \"obtenido en este dado. Inmediatamente después\"",
+        "No se encontró el cuerpo del rasgo \"utilizar tu reacción para moverte hasta tu velocidad cami­\"",
+        "No se encontró el cuerpo del rasgo \"nando a un espacio libre que se encuentre a 5 pies o menos\"",
+        "No se encontró el cuerpo del rasgo \"del objetivo.\""
+      ]
+    }
+  },
+  {
+    "slug": "glamour",
+    "name": "Colegio del Glamour",
+    "description": null,
+    "data": {
+      "parent_class": "bard",
+      "flavor_name": "Colegio del Glamour",
+      "features_by_level": {
+        "14": [
+          {
+            "name": "puedes",
+            "description": "forma mágica usando tu reacción. De este modo, la retienes hasta que la utilices o hasta que completes un descanso largo. Como acción, puedes emplear la sombra. Si lo haces, esta desaparece, transformándose en un disfraz mágico que se coloca sobre ti. Pasas a tener el aspecto de la persona muerta, pero vivo y en perfecto estado de salud. El disfraz dura 1 hora o hasta que decidas retirarlo como acción C oL E GI O DE L O S S u s u RRO S adicional. La mayoría de la gente no tiene problema en acoger a un Mientras estás disfrazado, tienes acceso a toda la infor­ bardo. De esto se aprovechan los miembros del Colegio de mación que el humanoide hubiera compartido libremente los Susurros. Se comportan como el resto de bardos: com­ con un conocido. Esta incluye detalles generales sobre su parten noticias, cantan canciones y cuentan historias para trasfondo y vida personal, pero no secretos. Estos datos el público. Pero, en realidad, este colegio enseña a sus estu­ son suficientes como para hacerte pasar por esta persona diantes a ser como lobos entre el rebaño. Sus integrantes usando sus recuerdos. utilizan su conocimiento y su magia para descubrir secretos Otra criatura podría detectar el disfraz teniendo éxito en y volverlos contra otros, normalmente en forma de extorsión una tirada enfrentada entre su prueba de Sabiduría (Pers­ y amenazas. picacia) y tu prueba de Carisma (Engaño). Disfrutas de un Muchos otros bardos odian al Colegio de los Susurros. bonificador de +S en esta prueba. Lo ven como un parásito que usa la reputación de los de Una vez capturas una sombra utilizando este rasgo, no su clase para adquirir riqueza y poder. Por este motivo, los puedes apresar otra hasta que no termines un descanso miembros de este colegio rara vez revelan su verdadera corto o largo. naturaleza. Normalmente dicen ser de otro colegio o no descubren su verdadera afiliación para poder infiltrarse y SABER DE LAS SOMBRAS aprovecharse de cortes reales o entornos similares. A nivel 14 eres capaz de entretejer magia oscura en tus palabras y acceder a los miedos más profundos de una"
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 62,
+      "body_features_extracted": 1,
+      "warnings": [
+        "No se encontró el cuerpo del rasgo \"M ajestad I n q u ebrantable espacio de conjuro y\"",
+        "No se encontró el cuerpo del rasgo \"además\"",
+        "No se encontró el cuerpo del rasgo \"tu aspecto queda envuelto en\"",
+        "No se encontró el cuerpo del rasgo \"una belleza sobrenatural durante 1 minuto o hasta que tu\"",
+        "No se encontró el cuerpo del rasgo \"MANTO DE INSPIRACIÓN concentración termine (como si estuvieras concentrándote\"",
+        "No se encontró el cuerpo del rasgo \"Cuando te unes al Colegio del Glamour\"",
+        "No se encontró el cuerpo del rasgo \"en el nivel 3\"",
+        "No se encontró el cuerpo del rasgo \"ganas en un conjuro). Durante este espacio de tiempo\"",
+        "No se encontró el cuerpo del rasgo \"la habilidad de urdir una canción con magia feérica\"",
+        "No se encontró el cuerpo del rasgo \"la cual lanzar orden imperiosa como acción adicional cada turno\"",
+        "No se encontró el cuerpo del rasgo \"infundirá en tus aliados vigor y velocidad. sin emplear un espacio de conjuro.\"",
+        "No se encontró el cuerpo del rasgo \"Como acción adicional\"",
+        "No se encontró el cuerpo del rasgo \"puedes gastar uno de tus usos Cualquier criatura hechizada por ti falla automáticamente\"",
+        "No se encontró el cuerpo del rasgo \"de Inspiración Bárdica para imbuirte de una apariencia su tirada de salvación contra la orden imperiosa que lanzas\"",
+        "No se encontró el cuerpo del rasgo \"maravillosa. Cuando lo hagas\"",
+        "No se encontró el cuerpo del rasgo \"elige un número de criatu­ con este rasgo.\"",
+        "No se encontró el cuerpo del rasgo \"ras igual a tu modificador de Carisma\"",
+        "No se encontró el cuerpo del rasgo \"que puedas ver y Una vez utilizado este rasgo\"",
+        "No se encontró el cuerpo del rasgo \"deberás finalizar un des­\"",
+        "No se encontró el cuerpo del rasgo \"que te puedan ver y se encuentren a 60 pies o menos de canso largo para poder volver a usarlo.\"",
+        "No se encontró el cuerpo del rasgo \"ti. Cada una de ellas gana S puntos de golpe temporales.\"",
+        "No se encontró el cuerpo del rasgo \"Cuando una criatura consigue estos puntos de golpe MAJ E STAD INQUEBRANTABLE\"",
+        "No se encontró el cuerpo del rasgo \"temporales\"",
+        "No se encontró el cuerpo del rasgo \"puede utilizar inmediatamente su reacción A nivel 14\"",
+        "No se encontró el cuerpo del rasgo \"tu apariencia se altera de forma permanente\"",
+        "No se encontró el cuerpo del rasgo \"para mover hasta su velocidad\"",
+        "No se encontró el cuerpo del rasgo \"sin provocar ataques de adoptando un aspecto de otro mundo\"",
+        "No se encontró el cuerpo del rasgo \"que te hace parecer\"",
+        "No se encontró el cuerpo del rasgo \"oportunidad. más agradable y fiero.\"",
+        "No se encontró el cuerpo del rasgo \"El número de puntos de golpe temporales aumenta según Además\"",
+        "No se encontró el cuerpo del rasgo \"puedes asumir una\"",
+        "No se encontró el cuerpo del rasgo \"alcanzas ciertos niveles en esta clase\"",
+        "No se encontró el cuerpo del rasgo \"incrementándose presencia mágica majestuosa durante 1 minuto o hasta\"",
+        "No se encontró el cuerpo del rasgo \"a 8 en el nivel 5\"",
+        "No se encontró el cuerpo del rasgo \"a 11 en el nivel 10 y finalmente a 14 en que quedes incapacitado. Hasta que termine la duración de\"",
+        "No se encontró el cuerpo del rasgo \"el nivel 1 5 . este efecto\"",
+        "No se encontró el cuerpo del rasgo \"cuando cualquier criatura te ataque por primera\"",
+        "No se encontró el cuerpo del rasgo \"vez en un turno\"",
+        "No se encontró el cuerpo del rasgo \"deberá realizar una tirada de salvación de\"",
+        "No se encontró el cuerpo del rasgo \"INTERPRETACIÓN CAUTIVADORA Carisma contra tu salvación de conjuros. Si falla\"",
+        "No se encontró el cuerpo del rasgo \"no podrá\"",
+        "No se encontró el cuerpo del rasgo \"A partir de nivel 3\"",
+        "No se encontró el cuerpo del rasgo \"puedes cargar tu interpretación de ener­ atacarte ese turno y deberá elegir un nuevo objetivo para\"",
+        "No se encontró el cuerpo del rasgo \"gía seductora\"",
+        "No se encontró el cuerpo del rasgo \"usando para ello magia feérica. su ataque o este será desperdiciado. En cambio\"",
+        "No se encontró el cuerpo del rasgo \"si tiene\"",
+        "No se encontró el cuerpo del rasgo \"Si actúas durante al menos 1 minuto\"",
+        "No se encontró el cuerpo del rasgo \"puedes intentar éxito\"",
+        "No se encontró el cuerpo del rasgo \"podrá atacarte ese turno\"",
+        "No se encontró el cuerpo del rasgo \"pero tendrá desventaja en\"",
+        "No se encontró el cuerpo del rasgo \"maravillar a tu público\"",
+        "No se encontró el cuerpo del rasgo \"ya sea cantando\"",
+        "No se encontró el cuerpo del rasgo \"recitando un poema cualquier tirada de salvación que haga contra tus conjuros\"",
+        "No se encontró el cuerpo del rasgo \"o bailando. Al final de la actuación\"",
+        "No se encontró el cuerpo del rasgo \"elige tantos humanoides durante tu próximo turno.\"",
+        "No se encontró el cuerpo del rasgo \"como tu modificador de Carisma. Deben estar situados Una vez asumes esta presencia majestuosa\"",
+        "No se encontró el cuerpo del rasgo \"no puedes\"",
+        "No se encontró el cuerpo del rasgo \"a 60 pies o menos de ti y haber escuchado o visto todo el emplearla de nuevo hasta que termines un descanso\"",
+        "No se encontró el cuerpo del rasgo \"espectáculo. Cada objetivo deberá tener éxito en una tirada corto o largo.\"",
+        "No se encontró el cuerpo del rasgo \"de salvación de Sabiduría contra tu salvación de conjuros o\""
+      ]
+    }
+  },
+  {
+    "slug": "whispers",
+    "name": "Colegio de los Susurros",
+    "description": null,
+    "data": {
+      "parent_class": "bard",
+      "flavor_name": "Colegio de los Susurros",
+      "features_by_level": {
+        "1": [
+          {
+            "name": "hasta",
+            "description": "mínimo rayo de luz sagrada que ilumina el multiverso. Estar conectado con estos poderes puede causar cambios en tu comportamiento y en tus creencias. Puede que te encuentres impulsado a aniquilar muertos vivientes, derro­ tar infernales y proteger a los inocentes. A veces, tu corazón añorará el reino celestial de tu patrón, poder vagar por ese paraíso el resto de tus días. No obstante, sabes que tu misión está entre los mortalés por ahora y que tu pacto te obliga a llevar luz a los rincones más oscuros del mundo."
+          }
+        ],
+        "14": [
+          {
+            "name": "este",
+            "description": "vaya a pasar. que el brujo queda vinculado. A diferencia de un clérigo, que normalmente adopta la ética y principios de una TÉ R M I N OS ESPECIALES deidad, un brujo no tiene por qué sentir nada por su patrón, ni viceversa. d6 Término Los siguientes apartados proporcionan maneras de Cuando se te i n d i q u e, debes tom a r acciones enriquecer a un personaje brujo, creando interesantes opor­ i n m ediatas contra u n enemigo específico de tu patrón. tunidades narrativas y de interpretación. Tu pacto pone a prueba tu fuerza d e volu ntad: estás o b l i gado a no tomar alcohol n i estu pefacientes. ACTITUD D E L PATRÓN Por lo menos una vez a l d ía has de i n scri b i r o grabar el símbolo o nom b re de tu patrón en el m u ro d e Toda relación es un camino de doble sentido, pero en el caso u n edificio. de los brujos y sus patrones no es necesariamente cierto De vez en cuando debes l levar a cabo extravagantes que ambos lados del camino sean del mismo ancho o estén rituales para mantener tu pacto. hechos del mismo material. Los sentimientos que un brujo N u nca puedes repet i r tu atuendo, ya q u e tu patrón tenga hacia su patrón, ya sean positivos o negativos, pueden co nsid era que ser predeci ble es ser a b u rrido. ser recíprocos o contrarios desde el punto de vista de la Cuando util izas u n a i nvocación sobrenatu ra l, h a s de otra parte. decir e l no mbre de tu patrón en voz a lta o arriesgarte a Cuando determines la actitud que tu personaje bruj o atraer su i ra. mantiene respecto a su patrón, considera también el punto de vista de este. ¿Cómo se comporta tu patrón contigo? ¿Es tu patrón un amigo o aliado o, por el contrario, un enemigo que te otorga poder porque le forzaste a acep- tar un pacto? PATRON E S S OB R E NATURALE S A nivel 1, el brujo consigue el rasgo Patrón Sobrenatural. Las siguientes opciones, además de las ofrecidas en el Player's Handbook, están disponibles para un brujo: el Celestial y el Filo Maléfico. EL C E L E STIAL Tu patrón es un poderoso s e r de l o s Planos Superiores. Te has vinculado con un antiguo empíreo, solar, kirin, unicornio u otra entidad que resida en los planos de dicha dimensión."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 51,
+      "body_features_extracted": 2,
+      "warnings": [
+        "No se encontró el cuerpo del rasgo \"Saber d e l a s Sombras supera\"",
+        "No se encontró el cuerpo del rasgo \"tu susurro parecerá un murmullo ininteligible y no\"",
+        "No se encontró el cuerpo del rasgo \"tendrá efecto. En cambio\"",
+        "No se encontró el cuerpo del rasgo \"si la falla\"",
+        "No se encontró el cuerpo del rasgo \"quedará hechizado por\"",
+        "No se encontró el cuerpo del rasgo \"HOJA PSÍQUICA ti durante 8 horas\"",
+        "No se encontró el cuerpo del rasgo \"o hasta que tú o uno de tus aliados le\"",
+        "No se encontró el cuerpo del rasgo \"Cuando t e u n e s al Colegio de l o s Susurros\"",
+        "No se encontró el cuerpo del rasgo \"a nivel 3\"",
+        "No se encontró el cuerpo del rasgo \"consi­ ataquéis\"",
+        "No se encontró el cuerpo del rasgo \"dañéis o forcéis a realizar una tirada de salvación.\"",
+        "No se encontró el cuerpo del rasgo \"gues la capacidad de hacer que tu arma intoxique de forma El susurro le parecerá una descripción de su secreto más\"",
+        "No se encontró el cuerpo del rasgo \"mágica la mente de una criatura. vergonzoso. No consigues ninguna información sobre\"",
+        "No se encontró el cuerpo del rasgo \"Cuando impactas a una criatura con un ataque con arma\"",
+        "No se encontró el cuerpo del rasgo \"pero tu objetivo estará convencido de que conoces\"",
+        "No se encontró el cuerpo del rasgo \"puedes emplear uno de tus usos de Inspiración Bárdica su secreto.\"",
+        "No se encontró el cuerpo del rasgo \"para infligir 2d6 de daño psíquico adicional al objetivo. Solo La criatura hechizada obedecerá tus instrucciones por\"",
+        "No se encontró el cuerpo del rasgo \"puedes realizar esto una vez por asalto\"",
+        "No se encontró el cuerpo del rasgo \"en tu turno. miedo a que reveles el secreto. No arriesgará su vida o\"",
+        "No se encontró el cuerpo del rasgo \"El daño psíquico toma nuevos valores cuando llegas a luchará por ti\"",
+        "No se encontró el cuerpo del rasgo \"a menos que ya estuviera dispuesta a hacerlo\"",
+        "No se encontró el cuerpo del rasgo \"niveles concretos de esta clase: 3d6 a nivel S\"",
+        "No se encontró el cuerpo del rasgo \"Sd6 a nivel 10 antes. Te otorgará favores y regalos que ofrecería a un amigo\"",
+        "No se encontró el cuerpo del rasgo \"y 8d6 a nivel l S . muy cercano.\"",
+        "No se encontró el cuerpo del rasgo \"Cuando el efecto termina\"",
+        "No se encontró el cuerpo del rasgo \"la criatura no entiende por qué\"",
+        "No se encontró el cuerpo del rasgo \"PALABRAS DE TERROR te tenía tanto miedo.\"",
+        "No se encontró el cuerpo del rasgo \"aprendes a infundir palabras aparentemente ino­ Una vez utilizado este rasgo\"",
+        "No se encontró el cuerpo del rasgo \"deberás finalizar un descanso\"",
+        "No se encontró el cuerpo del rasgo \"centes con una magia insidiosa\"",
+        "No se encontró el cuerpo del rasgo \"capaz de infundir terror. largo para poder volver a usarlo.\"",
+        "No se encontró el cuerpo del rasgo \"Si hablas a solas con un humanoide durante por lo menos\"",
+        "No se encontró el cuerpo del rasgo \"minuto\"",
+        "No se encontró el cuerpo del rasgo \"puedes intentar plantar la semilla de la paranoia\"",
+        "No se encontró el cuerpo del rasgo \"en su mente. Al final de la conversación\"",
+        "No se encontró el cuerpo del rasgo \"el objetivo deberá\"",
+        "No se encontró el cuerpo del rasgo \"tener éxito en una tirada de salvación de Sabiduría contra tu\"",
+        "No se encontró el cuerpo del rasgo \"CD de salvación de conjuros o quedará asustado de ti o de\"",
+        "No se encontró el cuerpo del rasgo \"otra criatura de tu elección. Este efecto dura 1 hora\"",
+        "No se encontró el cuerpo del rasgo \"que el objetivo sea atacado o dañado\"",
+        "No se encontró el cuerpo del rasgo \"o hasta que vea a sus\"",
+        "No se encontró el cuerpo del rasgo \"aliados ser atacados o dañados.\"",
+        "No se encontró el cuerpo del rasgo \"Si la criatura tiene éxito en su tirada de salvación\"",
+        "No se encontró el cuerpo del rasgo \"no será\"",
+        "No se encontró el cuerpo del rasgo \"consciente de que has intentado asustarla.\"",
+        "No se encontró el cuerpo del rasgo \"Una vez utilizado este rasgo\"",
+        "No se encontró el cuerpo del rasgo \"deberás terminar un des­\"",
+        "No se encontró el cuerpo del rasgo \"canso corto o largo para poder volver a usarlo.\""
+      ]
+    }
+  },
+  {
+    "slug": "celestial",
+    "name": "El Celestial",
+    "description": null,
+    "data": {
+      "parent_class": "warlock",
+      "flavor_name": "El Celestial",
+      "features_by_level": {
+        "10": [
+          {
+            "name": "Res i l iencia Celestial",
+            "description": "A partir de nivel 1 0, consigues puntos de golpe tempo­ asesino fantasmal, castigo abrumador rales siempre que termines un descanso corto o largo. castigo desterrador, cono de frío Estos son iguales a tu nivel de brujo + tu modificador de Carisma. Además, elige hasta a cinco criaturas que puedas ver en el momento de terminar el descanso. Cada MALDICIÓN DEL FILO MALÉFIC O una de ellas consigue tantos puntos de golpe temporales A nivel l, eres capaz de imponer una maldición terrible. Como iguales como la mitad de tu nivel de brujo + tu modifica­ acción adicional, elige a una criatura que puedas vew y se dor de Carisma. encuentre a 30 pies o menos de ti. El objetivo queda maldito durante 1 minuto. Esta maldición termina antes de ese tiempo"
+          }
+        ],
+        "14": [
+          {
+            "name": "Ve nganza Ard iente",
+            "description": "A nivel 14, la energía radiante que canalizas te permite resistir maldición finalice, obtienes los siguientes beneficios: a la muerte. Cuando tengas que realizar una tirada de salvación Consigues un bonificador a las tiradas de ataque contra contra muerte al principio de tu turno, en vez de eso puedes el objetivo. Este bonificador es igual a tu bonificador por ponerte en pie súbitamente en un estallido de energía radiante. competencia. Recuperas tantos puntos de golpe como tus puntos de golpe Cualquier tirada de ataque que realices contra la cria­ máximos y después puedes levantarte si así lo deseas. Cada tura maldita es un crítico con un resultado de 19 o 20 criatura de tu elección que se encuentre a 30 pies o menos de en el d20. ti recibirá 2d8 + tu modificador de Carisma de daño radiante y Si el objetivo maldito muere, recuperas tantos puntos de quedará cegada hasta el final del turno actual. golpe como tu nivel de brujo + tu modificador de Carisma Una vez utilizado este rasgo, deberás terminar un des­ (mínimo 1 punto de golpe). canso largo para poder volver a usarlo. Una vez utilizado este rasgo, deberás terminar un descanso corto o largo para poder volver a usarlo. EL FILO M A LÉ F I C O Has forjado un pacto con una misteriosa entidad del GUERRERO MALÉFIC O Shadowfell: una fuerza que se manifiesta en armas A nive1 1, adquieres el entrenamiento necesario para conscientes hechas de jirones de sombra. La poderosa armarte de forma efectiva para la batalla. Obtienes compe­ espada Negrarma es la más notable de todas ellas, que se tencia con armaduras medias, escudos y armas marciales. han extendido por el multiverso a lo largo de los años. La La influencia de tu patrón también te permite canalizar fuerza sombría tras estas armas puede ofrecer poder a los tu voluntad místicamente a través de un arma concreta. brujos que forjen pactos con ellas. Muchos seguidores del Tras terminar un descanso largo, puedes tocar un arma con Filo Maléfico crean armas que emulan a las que se forman la que seas competente y que no tenga la propiedad \"a dos en el Shadowfell. Otros las ignoran y se contentan con manos\". Cuando ataques con esa arma, puedes usar tu entretejer la magia oscura de ese plano en su lanzamiento modificador de Carisma, en vez del de Fuerza o Destreza, de conjuros. tanto para las tiradas de ataque como para las de daño. Este Como es sabido, la Reina Cuervo forjó la primera de beneficio dura hasta que completes un descanso largo. Si estas armas, por lo que muchos sabios sostienen que ella consigues más tarde el rasgo Pacto del Filo, este efecto se y la fuerza son en realidad una, y que las armas, junto con extiende a cualquier arma de pacto que conjures con ese los brujos filo maléfico, son herramientas que utiliza para rasgo, independientemente del tipo que sea. manipular los eventos del Plano Material para sus propios fines inescrutables."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 2,
+      "body_features_extracted": 2,
+      "warnings": []
+    }
+  },
+  {
+    "slug": "hexblade",
+    "name": "El Filo Maléfico",
+    "description": null,
+    "data": {
+      "parent_class": "warlock",
+      "flavor_name": "El Filo Maléfico",
+      "features_by_level": {
+        "14": [
+          {
+            "name": "uté",
+            "description": "en p i e q u e se con struyó en h o n o r d e tu d i o s. Aceptas el poder d e las deidades, pero crees que Acó l itos d e varias deidades d e ideologías s i m i l a res l a mayoría de acontec i m i e ntos vienen d i ctados por reci b ía n i n strucción en tu tem plo, todos j u ntos. p u ro azar. Vienes de u n tem plo fa moso por l a cervecería que Aunque puedes u s a r magia divina, n u nca h a s sentido en él opera. Hay q u ien d i ce q u e h u eles como una d e d e verd ad l a presencia de una esencia divina d entro s u s cervezas. de ti. Tu tem p l o es una fortaleza y á rea d e entrenamiento Te asolan pesad i l l a s que crees que tu dios te m a n d a para monjes guerreros. c o m o castigo por a l g u n a tra n sgres ión desconoci d a. Tu tem p l o es u n l u gar pacífico y h u m i lde, con monjes E n momentos s i n esperanza, sientes q u e n o e r e s más sencillos y h uertos d e vegetales. q u e u n j uguete de las deidades, y te mol esta s u l ej a n ía. Servi ste en u n templo en los Planos Exteriores. D OM I N I O S DIVI N O S A nivel 1, u n clérigo obtiene e l rasgo Dominio Divino. Las siguientes opciones, además de las que se ofrecen en el Player's Handbook, están disponibles: el Dominio de la Forja y el Dominio de la Sepultura. D OM I N I O DE LA FORJA Los dioses de la forja son patrones de aquellos artesanos que trabajan con el metal, desde un humilde herrero, que mantiene a su pueblo surtido de herraduras y rejas de arado, al poderoso artesano elfo cuyas flechas de punta de diamante han derrotado a señores demoníacos. Las deidades de la fragua enseñan que, con paciencia y trabajo duro, hasta el metal más intratable puede ser transformado de un trozo de mineral a un objeto bellamente forjado. Los clérigos de estas divinidades buscan artefactos perdidos a manos de las fuerzas del mal, liberan minas infestadas de orcos y descubren raros y preciosos minerales con los que crear potentes objetos mágicos. Los seguidores de estos dioses se enorgullecen de su trabajo y están dispuestos a elaborar y usar pesadas armaduras y poderosas armas para protegerlo. Las deidades de este dominio incluyen a Gond, Reorx, Onatar, Moradin, Hefesto y Goibniu."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 6,
+      "body_features_extracted": 1,
+      "warnings": [
+        "No se encontró el cuerpo del rasgo \"M aestro de M a leficios\"",
+        "No se encontró el cuerpo del rasgo \"iPl• MGl<jicol IQcd \"'o�lor< �é\"",
+        "No se encontró el cuerpo del rasgo \"s \\\"'\"'1 1 Flsi �\"''• d:v.\"",
+        "No se encontró el cuerpo del rasgo \"\" f GÁG �GlvGAG\"",
+        "No se encontró el cuerpo del rasgo \"�GlÁitG o G( �o Gl ¡? puo. . .\""
+      ]
+    }
+  },
+  {
+    "slug": "forge-domain",
+    "name": "Dominio de la Forja",
+    "description": null,
+    "data": {
+      "parent_class": "cleric",
+      "flavor_name": "Dominio de la Forja",
+      "features_by_level": {
+        "14": [
+          {
+            "name": "G o l p e Divino (2d8)",
+            "description": "algunos ejemplos). La creación queda completa al terminar A nivel 8 obtienes la capacidad de infundir los golpes de tu la hora, apareciendo en un espacio desocupado de tu elec­ arma con el fiero poder de la forja. Una vez en cada uno de ción, encima de una superficie que se encuentre a 5 pies o tus turnos, cuando impactes a una criatura con un ataque menos de ti. con arma, puedes hacer que dicho ataque cause ld8 de daño Lo que crees no puede tener un valor superior a 100 po. de fuego adicional al objetivo. Cuando llegas a nivel l4, este Como parte del ritual debes preparar metal, que puede daño adicional pasa a ser 2d8. incluir monedas, de un valor igual al del objeto generado. El"
+          }
+        ],
+        "17": [
+          {
+            "name": "S a nto d e l a Forja y e l Fuego",
+            "description": "dando lugar de forma mágica a las partes no metálicas A nivel 17, tu afinidad sagrada con el fuego y el metal se del objeto. vuelve más poderosa: El ritual puede crear un duplicado de un objeto no mágico Ganas inmunidad al daño de fuego. que contenga metal, como una llave, si tienes en tu posesión Mientras lleves armadura pesada, tienes resistencia al daño el original al llevarlo a cabo. contundente, cortante y perforante de ataques no mágicos. D OM I N I O DE LA S E P U LT U RA Los dioses de la sepultura vigilan la línea entre la vida y la muerte. Para estas deidades, la muerte y el más allá son parte fundamental del universo. Romper la paz de los muertos es una abominación. Las divinidades de la tumba incluyen Kelemvor, Wee jas, los espíritus ancestrales de la Corte Eterna, Hades, Anubis y Osiris. Los seguidores de estas deidades buscan dar descanso a los espíritus errantes, destruir a los muertos vivientes y aliviar el sufrimiento de los moribundos. Su magia también les permite mantener a raya a la muerte durante un tiempo, especialmente si se trata de una persona que todavía debe realizar una gran obra en el mundo. Este hecho representa un retraso de la muerte, no su negación, porque la muerte siempre consigue lo que es suyo."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 2,
+      "body_features_extracted": 2,
+      "warnings": []
+    }
+  },
+  {
+    "slug": "grave-domain",
+    "name": "Dominio de la Sepultura",
+    "description": null,
+    "data": {
+      "parent_class": "cleric",
+      "flavor_name": "Dominio de la Sepultura",
+      "features_by_level": {
+        "17": [
+          {
+            "name": "G u a rd i á n d e Almas",
+            "description": "puedes convertirlo en un impacto normal. Además, cualquier A partir de nivel 17, puedes agarrar una hebra de vitalidad efecto activado como consecuencia de que el ataque sea un de un alma que parte y utilizarla para curar a los vivos. crítico queda cancelado. Cuando un enemigo que puedas ver fallezca y se encuentre a Puedes emplear este rasgo tantas veces como tu modifi­ 60 pies o menos de ti, tú mismo o una criatura de tu elección cador por Sabiduría (mínimo una vez). Recuperas todos los situada a 60 pies o menos de ti recupera tantos puntos de usos tras finalizar un descanso largo. golpe como dados de golpe tuviera el enemigo muerto. Solo puedes usar este rasgo si no estás incapacitado. Una vez lo LANZAMIENTO POTENTE utilices, no puedes volver a hacerlo hasta el comienzo de tu A partir de nivel 8, puedes añadir tu modificador por Sabidu­ siguiente turno. ría al daño que causas con cualquier truco de clérigo. O BJETOS PRECIOSOS d6 Objeto U n a ram ita del árbol d e reu n iones q u e se yergue en el centro de tu aldea. U n vial de agua p rocedente del nacimiento de u n DRUIDA río sagrado. U n hatillo d e h ierbas especi ales. INCLUSO AL MORIR, CADA CRIATURA JUEGA SU PAPEL EN U n cuenco de bronce grabado con i mágenes mantener el Gran Equilibrio. Pero ahora el desequilibrio de a n i m ales. crece, una fuerza que b usca dominar la naturaleza. Es el U n sonajero hecho con u n calabacín seco y comportamiento destructivo de las razas mortales. Cuanto bayas sagradas. U n a hoz d e oro en m i n iatura, legado d e tu mentor. más lejos de la naturaleza les llevan sus acciones, más corrupta se v uelve su influencia. Como druidas, b uscamos principalmente protegery educar, para preservar el Gran AsPECTO GU ÍA Equilibrio, pero hay ocasiones en las que debemos a lzarnos Muchos druidas sienten un fuerte vínculo c o n un aspecto contra el peligro y erradicarlo. concreto del mundo natural, como una masa de agua, un -Safhran, archidruida animal, un tipo de árbol o alguna otra planta. Te identificas con el aspecto elegido: ya sea por su comportamiento o su propia naturaleza, es un ejemplo a seguir. Los druidas son los protectores del mundo natural. Se dice que llegado el momento se convierten en la voz del orden As PECTos G U íA natural, contando verdades demasiado sutiles para el gran público. Muchos de los que se hacen druidas se ven atraídos d6 Aspecto guía hacia la naturaleza: sus fuerzas, ciclos y movimientos llenan Los tejos te recuerd a n renovar l a mente y el espíritu, sus mentes y espíritus de maravillas y conocimientos. Sabios dejar q u e l o anciano muera y l o n u evo prospere. de todo tipo han estudiado el mundo natural, escribiendo Los robles representan fuerza y vita l idad. Meditar bajo tomos sobre su misterio y poder, pero los druidas son seres uno d e estos á rboles llena tu cuerpo y tu mente de especiales: en un momento de sus vidas, comienzan a deci sión y fortaleza. encarnar estas fuerzas naturales, produciendo fenómenos El fl u i r i n fi n ito del río te recuerda l a gran extensión del mágicos que los unen a los espíritus de la naturaleza y al m u ndo. B u scas tener los i ntereses a l a rgo plazo d e la ciclo de la vida. Debido a sus extraños y misteriosos poderes naturaleza siem pre presentes. los miembros de esta clase son muchas veces reverenciados, E l mar es u n caldero s i e m p re batiente de poder y caos. rehuidos o incluso considerados peligrosos por la gente que Te recuerda q u e aceptar el cambio es necesario para les rodea. poder mantenerte en el m u ndo. Tu druida podría ser un verdadero adorador de la natu­ Las aves del cielo son prueba d e q u e i n c l u s o las raleza, alguien que siempre ha despreciado la civilización criaturas más peq ueñas pueden sobrevivir s i se y que encuentra regocijo viviendo en tierras agrestes. mantienen fuera d e la l iza. O quizá tu personaje creció en la ciudad y ahora intenta Como dem uestran las acciones del lobo, la fuerza del que el mundo civilizado y la naturaleza salvaje convivan en i ndividuo n o puede compararse a l poder de l a manada. armonía. Puedes usar las siguientes secciones para dar sus­ tancia a tu druida, independientemente de cómo adoptara M E NTOR la profesión. Es normal que futuros druidas busquen instructores o Ü BJ E T O PRE C I O S O sabios que puedan enseñarles lo básico de las artes mágicas. La mayoría de los miembros de esta clase que aprenden de Algunos druidas llevan uno o más objetos que son sagrados un mentor comienzan su entrenamiento a una edad tem- · para ellos o poseen un significado personal. Estos objetos no prana, por lo que su maestro cumple un papel vital en dar son necesariamente mágicos, pero cada uno de ellos tiene forma a sus actitudes y creencias. un significado que conecta la mente y el corazón del druida a Si tu personaje ha recibido entrenamiento de alguien, un concepto profundo o a una perspectiva espiritual. ¿quién o qué era esa persona y cuál era la naturaleza de Cuando decidas cuál es el objeto precioso para tu perso­ vuestra relación? ¿Te empapó tu mentor de una perspectiva naje, piensa en darle un origen: ¿cómo encontraste el objeto concreta o influyó en tu forma de intentar alcanzar las metas y por qué es tan importante para ti? que te propones? 1: M ENTORES d6 Mentor Tu mentor fue un ent sabio, que te enseñó a pensar en términos d e años y décadas en vez de en d ía s o meses. Apre n d i ste con una d ríade q u e vigilaba u n portal d u rmiente a l Abismo. D u ra nte tu entren a m i ento, te encargaba buscar amenazas ocultas para el m u n d o. T u t u t o r siem pre i nteractuaba contigo en fo rma d e h a l cón. N u nca vi ste s u fo rma h u manoide. Eras u n o de varios jovenzuelos bajo l a tutela de u n viejo druida, h asta q u e u n o de tus co mpañeros traicionó al grupo y asesinó a tu m aestro. Solo has vi sto a tu mentor en visiones. Todavía no te has encontrado n u nca con él. De hecho, n i s i q u iera estás seguro de q u e tenga fo rma morta l. T u m e n t o r f u e u n h o m b re oso q u e t e e n s e ñ ó a tratar a todos los seres vivos con el m i s m o respeto. C Í RC U L O S DRUÍDIC O S A nivel 2, los druidas obtienen el rasgo Círculo Druídico. Las siguientes opciones, además de las que se ofrecen en el Player's Handbook, están disponibles: el Círculo del Pastor y el Círculo de los Sueños. C Í RC U L O D E L PA STOR L o s druidas d e l Círculo d e l Pastor se encuentran en comu­ nión con los espíritus de la naturaleza, especialmente con los de las bestias y los feéricos, a los que recurren en busca de auxilio. Estos druidas entienden que todos los seres vivos D R U I D A DEL (Í R C U L. O D E L. P A S T O R cumplen un papel en el mundo natural, pero se centran en proteger a animales y seres feéricos que tienen dificultades Esta habilidad no te concede amistad con los animales, pero para defenderse a sí mismos. Los pastores, como se los puedes combinarla con regalos para conseguir su favor, conoce, ven a estas criaturas como su responsabilidad. Man­ como lo harías con otro personaje no jugador. tienen a raya a los monstruos que las amenazan, reprenden a los cazadores que abaten a más presas de lo necesario e TóTEM ESPIRITUAL impiden que la civilización invada los hábitats de animales A partir de nivel 2, eres capaz de convocar a los espíritus de raros o lugares sagrados para los feéricos. Muchos de estos la naturaleza para influir en el mundo. Como acción adicio­ druidas son más felices lejos de ciudades y aldeas y se nal, puedes invocar de forma mágica a un animal incorpóreo contentan con pasar sus días en compañía de las bestias y en un punto que puedas ver y se encuentre a 60 pies o menos criaturas feéricas que viven en espacios agrestes. de ti. Este espíritu crea un aura de 30 pies de radio alrede­ Los miembros de este círculo se convierten en aventureros dor de ese punto. No cuenta como criatura ni como objeto, para oponerse a las fuerzas que amenazan a aquellos a su aunque tiene el aspecto espectral del ser que representa. cargo o para conseguir conocimiento o poder que les ayude a Como acción adicional, puedes mover el espíritu hasta ser mejores protectores. Donde quiera que vayan estos drui­ 60 pies a un punto que puedas ver. das, los espíritus de la naturaleza salvaje están con ellos. Este animal incorpóreo persiste durante 1 minuto o hasta que quedes incapacitado."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 1,
+      "body_features_extracted": 1,
+      "warnings": []
+    }
+  },
+  {
+    "slug": "shepherd",
+    "name": "Círculo del Pastor",
+    "description": null,
+    "data": {
+      "parent_class": "druid",
+      "flavor_name": "Círculo del Pastor",
+      "features_by_level": {}
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 15,
+      "body_features_extracted": 0,
+      "warnings": [
+        "No se encontró el cuerpo del rasgo \"Espíritu G u a rd i á n con su aguda vista. Cuando una criatura realice una tirada\"",
+        "No se encontró el cuerpo del rasgo \"Fieles I nvocados de ataque contra un objetivo que se encuentre en el aura\"",
+        "No se encontró el cuerpo del rasgo \"puedes usar tu reacción para otorgar ventaja en esa tirada\"",
+        "No se encontró el cuerpo del rasgo \"LENGUA DE LOS B O S QU E S de ataque. Además\"",
+        "No se encontró el cuerpo del rasgo \"tú y tus aliados tenéis ventaja en las\"",
+        "No se encontró el cuerpo del rasgo \"A nivel 2 obtienes l a capacidad d e hablar con bestias y pruebas de Sabiduría (Percepción) mientras estéis dentro\"",
+        "No se encontró el cuerpo del rasgo \"criaturas feéricas. del aura.\"",
+        "No se encontró el cuerpo del rasgo \"Aprendes a hablar\"",
+        "No se encontró el cuerpo del rasgo \"leer y escribir silvano. Además\"",
+        "No se encontró el cuerpo del rasgo \"los Espíritu de oso. El espíritu del oso te otorga a ti y a tus\"",
+        "No se encontró el cuerpo del rasgo \"animales pueden entenderte cuando hablas y eres capaz aliados su fuerza y resistencia. Cada criatura de tu elección\"",
+        "No se encontró el cuerpo del rasgo \"de descifrar sus sonidos y movimientos. La mayoría de que se encuentre en el aura cuando aparece el espíritu obtiene\"",
+        "No se encontró el cuerpo del rasgo \"entender conceptos sofisticados\"",
+        "No se encontró el cuerpo del rasgo \"pero una criatura amistosa y todos tus aliados tenéis ventaja en las pruebas y tiradas de\"",
+        "No se encontró el cuerpo del rasgo \"podría informar de lo que ha visto u oído recientemente. salvación de Fuerza mientras permanezcáis en el aura.\""
+      ]
+    }
+  },
+  {
+    "slug": "dreams",
+    "name": "Círculo de los Sueños",
+    "description": null,
+    "data": {
+      "parent_class": "druid",
+      "flavor_name": "Círculo de los Sueños",
+      "features_by_level": {
+        "1": [
+          {
+            "name": "�t.",
+            "description": "1 /8 Serpiente voladora Vo l a r CO L I N A 1 /4 Lagarto gigante VD Bestia VolarfNadar 1 /4 Serpiente con strictora Nadar"
+          },
+          {
+            "name": "u",
+            "description": "1 /4 Serpiente venenosa giga nte Nadar o Babuino"
+          },
+          {
+            "name": "l",
+            "description": "B u itre Vol a r Araña gigante Cabra B u itre giga nte Vo l a r o Cuervo Vol a r H i e n a giga nte o Hiena León"
+          },
+          {
+            "name": "1·",
+            "description": "Sapo giga nte Nadar 1 /8 Esti rge Vol a r Serpiente con strictora giga nte Nadar 1 /8 H a lcón san griento Vo l a r Escorpión gigante 1 /8 M a stín 1 /8 Mula M oNTAÑ A 1 /8 Serpiente venenosa Nadar VD Bestia VolarJ N adar Alce o Águ i l a Vol a r Búho g1ga nte Vol a r 1.\"1 o Cabra 1 /4 Jabalí 1 /8 Esti rge Vol a r Lobo 1 /8 H a lcón san griento Vol a r VD Bestia Volarf Nadar VD Bestia Volarf N adar l /4 Ptera nodón Vol a r l /8 Esti rge Vo l a r l /2 Cabra giga nte l /8 H a lcón san griento Vo l a r Águ i l a giga nte Vo lar l /8 Serpi ente venenosa Nadar"
+          },
+          {
+            "name": "León",
+            "description": "A l c e gigante l /4 Alce Ti gre d ientes d e sable l /4 Caballo de monta l /4 Jabalí PANTA N O l /4 Lobo VD Bestia Volarf N adar l /4 Pantera (leopardo) Cuervo Vo l a r l /4 Pico de hacha o Rata l f4 Ptera nodón Vol a r"
+          },
+          {
+            "name": "/8",
+            "description": "l /8 Rata giga nte l /4 Ta rántu l a giga nte l /8 Serpiente venenosa Nadar l f2 Avispa giga nte Vol a r l /4 Lagarto giga nte l /2 Cabra giga nte l /4 Rana gigante Nadar Agu i l a giga nte Vo l a r l /4 Serpiente constrictora Nadar B u itre gigante Vo l a r l /4 Serpiente venenosa giga nte Nadar H iena gigante l /2 Cocod rilo Nadar León Araña giga nte Tigre Sapo giga nte Nadar A l c e gigante Serpiente constrictora giga nte Nadar Alosaurio Cocod rilo giga nte Nadar J a b a l í giga nte R i n oceronte PoLAR A n q u i losauro Elefante VD Bestia VolarfN adar Tri ceratops o Búho Vol a r"
+          },
+          {
+            "name": "H a l cón s a ngriento",
+            "description": "U N D E R DA R K l /4 B ú h o giga nte Vol a r Oso pardo VD Bestia Volarf N adar Oso polar Nadar o Escarabajo de fuego giga nte Tigre d i entes de sable l /8 Esti rge Vo l a r"
+          },
+          {
+            "name": "/8 Rata giga nte",
+            "description": "l /4 Ciempiés giga nte PRADERA l /4 Lagarto giga nte l /4 M u rciélago gigante Vol a r VD Bestia VolarfNadar"
+          },
+          {
+            "name": "/4 Serpiente venenosa giga nte Nadar",
+            "description": "o Agu i l a Vol a r Araña giga nte o B u itre Vo lar"
+          },
+          {
+            "name": "S a p o giga nte Nadar",
+            "description": "o Cabra Oso polar (oso de las cavernas) Nadar o Chacal Serpiente constrictora gigante Nadar o Ciervo G ato o H iena l /8 Comadrej a giga nte So l \"'-\"' �o\"'ltrv<.o. ¿VGl G i\"'t'\"'tGr �GtGr�•7 l(G�Grt• 'G'GJ.or J.• t \"'o\"'G'. VI S I Ó N DEL M U N DO d6 Visión Los pueblos y las ciudades son los mejores sitios para EXPLORADOR aquellos q u e no pueden sobrevivi r por sí m i s m o s. El avance d e l a civilización es l a m e j o r m a n e r a de fru strar el avance del caos, pero h ay q u e tener cuidado. PASO GRAN PARTE DE MI VIDA LEJOS DE LA CIVILIZACIÓN, Los pueblos y l a s c i u d ades son u n m a l necesario, quedándome en la periferia para protegerla. No pienses aunque en cua nto l a naturaleza sea p u rgada d e que porque no hinco mi rodilla ante tu rey no he hecho más amen azas sobrenaturales ya n o los necesitaremos. para defenderle que todos sus caballeros juntos. Los m u ros son para cobardes, q u e se esconden detrás -Soveliss d e ellos mientras otros hacen del m u n d o u n l u ga r más seguro. Los exploradores son vagabundos de mente libre y Visitar u n pueblo no es desagradable, pero después rastreadores que patrullan las fronteras de la civilización, de unos d ías siento u n a i rresi sti b l e llamada d e vuelta repeliendo a los habitantes de las tierras salvajes que a l a n atu raleza. acechan en el exterior. Es un trabajo desagradecido, ya Las c i u dades crean d e b i l i d a d, a i s l a n d o a l a s personas que sus esfuerzos son rara vez comprendidos y casi nunca d e las rigurosas lecciones de l a n atu raleza. recompensados. Aun así, los miembros de esta clase siguen cumpliendo con su deber y nunca dudan de que su trabajo TI E RRA NATAL hace del mundo un lugar más seguro. Su relación con la civilización es lo que define la perso­ Todos los exploradores, independientemente de cómo hayan nalidad e historia de u n explorador. Algunos se ven a sí acabado en su profesión, tienen una fuerte conexión con el mismos como encargados de hacer cumplir la ley, llevando mundo natural y sus variados terrenos. Para algunos miem­ la justicia a los límites de lo salvaje, que no responden ante bros de esta clase, la naturaleza es donde crecieron, ya sea ningún gobierno. Otros son supervivientes, que rehúyen por como resultado de haber nacido en ella o haber llegado allí a completo la civilización. Matan monstruos para mantenerse una edad temprana. Para otros, la civilización era su hogar, seguros mientras viven y viajan por las peligrosas zonas pero la naturaleza se volvió su segunda casa. agrestes del mundo. Si sus esfuerzos también benefician a Piensa en el trasfondo de tu personaje y decide qué los reinos y estados civilizados a los que evitan, que así sea. terreno siente como su hogar, naciera allí o no. ¿Qué dice ese Si estás creando o jugando un personaje explorador, las lugar sobre tu personalidad? ¿Tiene que ver con los conjuros siguientes secciones ofrecen ideas para dar profundidad al que has decidido aprender? ¿Tus experiencias allí influyeron aventurero y ayudarte a interpretarlo. en cuáles son tus enemigos predilectos? TI E RRAS NATALES VI SIÓN D E L M U N D O d6 Tierra natal L a visión del mundo d e un explorador comienza (y a veces Patru l l aste un bosque antiguo, oscuro y corro m p i d o termina) con la opinión de ese personaje de la gente civili­ por muchos portales a l Shadowfe l l. zada y los lugares que habitan. Algunos de ellos tienen una C o m o pa rte d e u n g r u p o de n ó m a d a s, a p rend i ste l a s actitud hacia la civilización profundamente arraigada en h a b i l i dades necesarias para sobrevivir en el desi erto. el desdén, mientas que otros solo compadecen a aquellos a los que han jurado proteger. En el campo de batalla, sin Tus primeros años, pasados en el U nderdark, te prepararon para enfrenta rte a s u s h a bitantes. embargo, es imposible diferenciar entre un explorador y otro. Para los que los han visto trabajar y han sido benefi­ Vivías en el borde d e u n pantano, u n á rea amenazada ciarios de su habilidad, poco importa por qué hacen lo que tanto por criaturas terrestres como acuáticas. hacen. Dicho esto, no hay dos miembros de esta clase que Como creciste entre l a s c u m b res, encontrar el mejor expresen su opinión sobre un asunto de la misma manera. camino a través d e l a s montañas es i n sti ntivo para ti. Si todavía no te has planteado los detalles de la visión Erraste por el lej a n o norte, aprendiendo a protegerte y del mundo que tiene tu personaje, puedes resumirlo en una prosperar en un rei n o cubi erto de hielo. frase, como las que puedes encontrar en la tabla siguiente. ¿Cómo afecta ese punto de vista a la manera en que te comportas? 1: ÜE I\"!Q_U I ERDA A D ERE C H A: C A M I N A N T E D E L. 110R I \"! O N T E, C A <. A OOR DE M O N STRUOS Y A c. E C. H A OOR EN L. A P E N U M BRA E N E M IGO J U RA D O ARQUETIPOS Todo explorador comienza con un enemigo predilecto (o dos). Determinar cuál es puede estar vinculado a un evento en la DE EXPLORAD OR primera etapa de la vida del personaje o, simplemente, puede A nivel 3, el explorador consigue el rasgo Arquetipo de ser una elección. Explorador. Las siguientes opciones, además de las que ¿Qué llevó a tu personaje a elegir a un enemigo concreto? se ofrecen en el Player's Handbook, están disponibles: el Esta decisión, ¿estuvo motivada por la tradición y la curiosi­ Acechador en la Penumbra, el Caminante del Horizonte y el dad o es una cuestión de rencor? Cazador de Monstruos. E N E M IGOS J U RADOS Ac E C HA D O R EN LA P E N U M B RA d6 Enem igo Los acechadores en la penumbra se sienten en casa en los B u scas vengarte en n o m b re d e la natu raleza por las sitios más oscuros: bajo tierra, en callejones tenebrosos, terri bles transgres iones q u e h a cometido tu enemigo. bosques primigenios o cualquier lugar en el que la luz sea Tu s a n cestros o predecesores l u c h a ro n contra estas tenue. La mayoría de las personas entra en esos espacios criaturas, por l o que tú también lo h a rás. turbada, pero estos exploradores se aventuran valerosos en N o sientes enemistad por tu adversario. Acech a s la oscuridad, buscando emboscar a los monstruos antes de a estas criaturas co m o u n cazador rastrea a u n que puedan llegar al mundo exterior. Los acechadores en la a n i m a l salvaje. penumbra suelen encontrarse en el Underdark, pero irán a Encuentras a tu rival fascinante, de modo q u e cualquier sitio donde el mal aceche en las sombras. coleccio n a s l i b ros de h i storia y relatos sobre é l."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 66,
+      "body_features_extracted": 10,
+      "warnings": [
+        "No se encontró el cuerpo del rasgo \"/2 T i b u rón de a rrecife Nadar\"",
+        "No se encontró el cuerpo del rasgo \"tu actual plano de existencia en la que hayas completado un\"",
+        "No se encontró el cuerpo del rasgo \"Pulpo gigante Nadar\"",
+        "No se encontró el cuerpo del rasgo \"descanso largo. Si no has realizado un descanso largo en el\"",
+        "No se encontró el cuerpo del rasgo \"plano actual\"",
+        "No se encontró el cuerpo del rasgo \"el conjuro falla y no se considera usado. Plesiosaurio Nadar\"",
+        "No se encontró el cuerpo del rasgo \"Una vez utilizado este rasgo\"",
+        "No se encontró el cuerpo del rasgo \"deberás terminar un des­ Serpiente con strictora gigante Nadar\"",
+        "No se encontró el cuerpo del rasgo \"canso largo para poder volver a emplearlo. T i b u rón cazador Nadar\"",
+        "No se encontró el cuerpo del rasgo \"O rca Nadar\"",
+        "No se encontró el cuerpo del rasgo \"T i b u rón giga nte\"",
+        "No se encontró el cuerpo del rasgo \"$\\ � v..A i trc\"",
+        "No se encontró el cuerpo del rasgo \"C:olr\\.vt rbr\"\"' t tlr\\. o.lrc\"",
+        "No se encontró el cuerpo del rasgo \"C o .tc\"",
+        "No se encontró el cuerpo del rasgo \"1 lr\\.0 lo �c\"",
+        "No se pudo extraer texto útil para \"rÍc\"",
+        "No se encontró el cuerpo del rasgo \". vor �v\"",
+        "No se encontró el cuerpo del rasgo \". t .l:o�o to\"",
+        "No se encontró el cuerpo del rasgo \". G.t llr\\.{trior e\"",
+        "No se encontró el cuerpo del rasgo \"BosQU E VD Bestia VolarJN adar\"",
+        "No se encontró el cuerpo del rasgo \"VD Bestia VolarfN adar 1 /4 Pantera (puma)\"",
+        "No se encontró el cuerpo del rasgo \"o Babuino 1 /4 P i co de hacha\"",
+        "No se encontró el cuerpo del rasgo \"Búho Vol a r 1 /4 Ta rántu l a giga nte\"",
+        "No se encontró el cuerpo del rasgo \"Qervo 1 /2 Cabra gigante\"",
+        "No se encontró el cuerpo del rasgo \"o G ato Águ i l a gigante Vol a r\"",
+        "No se encontró el cuerpo del rasgo \"o Hiena H i e n a giga nte\"",
+        "No se encontró el cuerpo del rasgo \"o Tej ón 1\"",
+        "No se encontró el cuerpo del rasgo \"/8 Comadreja giga nte Lobo terri b l e 1\"",
+        "No se encontró el cuerpo del rasgo \"/8 Esti rge Vol a r Oso pardo\"",
+        "No se encontró el cuerpo del rasgo \"M astín\"",
+        "No se encontró el cuerpo del rasgo \"Vol a r Alce gigante\"",
+        "No se encontró el cuerpo del rasgo \"J a b a l í giga nte t\"",
+        "No se encontró el cuerpo del rasgo \"/8 Serpi ente venenosa Nadar C osTA\"",
+        "No se encontró el cuerpo del rasgo \"/8 Serpiente voladora Vo l a r VD Bestia VolarJ N adar\"",
+        "No se encontró el cuerpo del rasgo \"/4 Alce o Águ i l a Vol a r\"",
+        "No se encontró el cuerpo del rasgo \"/4 B ú h o gigante Vol a r o Can grejo Nadar\"",
+        "No se encontró el cuerpo del rasgo \"/4 Jabalí 1 /8 Can grejo gigante Nadar\"",
+        "No se encontró el cuerpo del rasgo \"/4 Lagarto gigante 1 /8 Esti rge Vol a r\"",
+        "No se encontró el cuerpo del rasgo \"/4 Lobo 1 /8 H a lcón sangriento Vol a r\"",
+        "No se encontró el cuerpo del rasgo \"/4 M u rciél ago giga nte Vo l a r 1 /8 Serpiente venenosa Nadar\"",
+        "No se encontró el cuerpo del rasgo \"/4 Pa ntera 1 /4 Lagarto gigante\"",
+        "No se encontró el cuerpo del rasgo \"/4 Rana gigante Nadar 1 /4 Pteranodón Vol a r\"",
+        "No se encontró el cuerpo del rasgo \"/4 Serpi ente constrictora Nadar 1 /4 Ta rántu l a giga nte\"",
+        "No se encontró el cuerpo del rasgo \"Águ i l a gigante Vol a r\"",
+        "No se encontró el cuerpo del rasgo \"/4 Ta rántu l a giga nte\"",
+        "No se encontró el cuerpo del rasgo \"/4 Tejó n gigante\"",
+        "No se encontró el cuerpo del rasgo \"Plesiosau rio Nadar\"",
+        "No se encontró el cuerpo del rasgo \"/2 Avi s p a giga nte Vo l a r\"",
+        "No se encontró el cuerpo del rasgo \"/2 Oso negro\""
+      ]
+    }
+  },
+  {
+    "slug": "gloom-stalker",
+    "name": "Acechador en la Penumbra",
+    "description": null,
+    "data": {
+      "parent_class": "ranger",
+      "flavor_name": "Acechador en la Penumbra",
+      "features_by_level": {
+        "15": [
+          {
+            "name": "Esqu iva de las S o mbras",
+            "description": "A partir de nivel 15, puedes esquivar de maneras nunca vistas, con hebras de sombras sobrenaturales a tu Ll\\1í �\"'' G'''�Gl \"'' (Gl ¡o.,.\\:.rG.? '\"\\,\" �v.< alrededor. Cuando una criatura hace una tirada de ataque contra ti, si no tiene ventaja en esa tirada puedes usar cc;¡sl.lo�os w.t�O) los ki.AIMG�os f o}¡t\\MOS vtr tu reacción para obligar a que la realice con desventaja. tiA lG osci.Ari)¡c;¡;\\1 L\"'o? ioAos.lt vt...., o s. Debes usar este rasgo antes de saber el resultado de la tirada de ataque. C A M I NANTE DEL H O R I Z O N T E L o s Caminantes del Horizonte protegen e l mundo de amena­ zas que se originan en otros planos o que buscan asolar los reinos mortales con magia de otro mundo. Rastrean portales interplanares y los vigilan, internándose en los Planos MAGIA DE ACE C HADOR EN LA PENUMBRA Exteriores e Interiores si fuera necesario para perseguir a Empezando a nivel 3, aprenderás conjuros adicionales al sus enemigos. Estos exploradores también son amigos de alcanzar ciertos niveles de esta clase, como se puede ver en cualquier fuerza del multiverso (especialmente dragones la tabla \"Conjuros de Acechador en la Penumbra\". Estos se benévolos, feéricos y elementales) que trabaje para preservar consideran conjuros de explorador para ti, pero no contra los la vida y el orden en los planos. conjuros totales de explorador que puedes conocer."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 3,
+      "body_features_extracted": 1,
+      "warnings": [
+        "No se encontró el cuerpo del rasgo \"M ente de H i e rro\"",
+        "No se encontró el cuerpo del rasgo \"Oleada del Acechador\""
+      ]
+    }
+  },
+  {
+    "slug": "horizon-walker",
+    "name": "Caminante del Horizonte",
+    "description": null,
+    "data": {
+      "parent_class": "ranger",
+      "flavor_name": "Caminante del Horizonte",
+      "features_by_level": {}
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 2,
+      "body_features_extracted": 0,
+      "warnings": [
+        "No se encontró el cuerpo del rasgo \"invisibilidad mejorada 15 Defensa Es pectral\"",
+        "No se encontró el cuerpo del rasgo \"apariencia\""
+      ]
+    }
+  },
+  {
+    "slug": "monster-slayer",
+    "name": "Cazador de Monstruos",
+    "description": null,
+    "data": {
+      "parent_class": "ranger",
+      "flavor_name": "Cazador de Monstruos",
+      "features_by_level": {
+        "11": [
+          {
+            "name": "Némesis d e M agos",
+            "description": "A partir de nivel 3, aprenderás conjuros adicionales al Cuando alcanzas e l nivel 1 1 eres capaz d e frustrar la magia alcanzar ciertos niveles de esta clase, como se puede ver de otros. Si ves a una criatura a 60 pies o menos de ti en la tabla \"Conjuros de Cazador de Monstruos\". Estos se lanzando un conjuro o teletransportándose, puedes emplear consideran conjuros de explorador para ti, pero no contra los tu reacción para intentar desbaratar su acción. El objetivo conjuros totales de explorador que puedes conocer. deberá tener éxito en una tirada de salvación de Sabiduría contra tu CD de salvación de conjuros o su conjuro o teJe­ C O N J U ROS D E C AZADOR D E M O N STRUOS transporte fallará y se malgastará. N ivel de Una vez utilizado este rasgo, deberás terminar un des­ explorador Conj uro canso corto o largo para poder volver a usarlo. protección contra el bien y el mal"
+          }
+        ],
+        "15": [
+          {
+            "name": "Contraataq u e del Cazador",
+            "description": "zona de la verdad A nivel 1 5 aprendes a contraatacar cuando tu presa intenta círculo mágico sabotearte. Si el objetivo de tu rasgo Presa te obliga a rea­ l3 destierro lizar una tirada de salvación, puedes usar tu reacción para 17 inmovilizar monstruo hacer un ataque con arma contra esa criatura. Realizas el ataque inmediatamente antes de la tirada de salvación. Si tu ataque impacta, tu tirada de salvación tiene éxito automática­ mente, además de los efectos normales del ataque. I N STRUCTOR Algunos guerreros s o n luchadores natos, c o n un talento especial para sobrevivir en la batalla. Otros han desa­ rrollado los fundamentos del combate en sus años de formación, aprendiendo de los líderes del ejército u otra organización marcial. Un tercer tipo de guerrero viene de entre los que han GUERRERO recibido entrenamiento personal de un veterano consumado. Este instructor es, posiblemente, un experto en un aspecto del combate relacionado con el pasado del estudiante. AVÍSAME CUANDO HAYAS ACABADO DE HABLAR. Si decides que tu personaje estudió bajo un maestro, ¿cuál era su especialidad? ¿Emulaste a tu instructor en su estilo o -Tordek tomaste sus enseñanzas y las adaptaste a tus propósitos? De todos los aventureros del mundo de D&D, el guerrero I NSTRUCTORES es quizá la mayor paradoja. Por un lado, una característica singular de la clase es que no hay dos miembros con las d6 Instructor mismas habilidades: sus armaduras, armas y tácticas cubren Gladiador. Tu mentor fue un esclavo que l uchó por un amplio espectro. Por otro lado, independientemente de su l i bertad en la arena o u n o q u e el igió l a vida del sus herramientas y métodos, en el corazón de todo guerrero gladiador para ganar fa m a y fort una. yace la misma verdad: es mejor herir que ser herido. Militar. Tu entrenador s i rvió con u n g rupo de soldados Aunque algunos aventureros de esta clase arriesgan su y sabe mucho de trabaj a r en eq u i po. vida por gloria o riquezas, muchos de ellos se ven movidos G uardia de la ciudad. El control de m u ltitudes por proteger a los demás; dan más valor al bienestar de la y mantener l a paz son las es peci a l idades de tu sociedad, la aldea o el grupo que a su propia seguridad. i n structor. Incluso aunque haya oro de por medio, la verdadera Guerrero tribal. Tu m aestro creció en u n a tri bu, recompensa de la mayoría de los guerreros está en mandar donde l u c h a r por l a propia vida es a l go habitual. enemigos al Abismo. Luchador callejero. Tu entrenador sobresale en e l La siguiente sección ofrece maneras de añadir profundi­ com bate urbano, co m b i n a n d o l a l u c h a c o d o con codo dad y toques personales a personajes de esta clase. con el silencio y l a eficacia. Maestro de armas. Tu mentor te ayudó a hacerte u n o S í M B OLO H E RÁLDIC O c o n tu a r m a elegida, tra n s m itiéndote el conocim iento específico para b l a n d i r l a lo mejor posible. Los guerreros normalmente pelean por una causa. Algunos para defender a reinos sitiados por monstruos y otros en una búsqueda personal de gloria. Sea como fuere, un miembro de E STILO CARACTERÍSTICO esta clase suele lucir un símbolo heráldico que representa su Muchos guerreros s e distinguen d e sus pares a l adoptar y causa. Puede haber adoptado el de una nación o linaje real, o perfeccionar un estilo particular de combate. Aunque este haber creado su escudo para representar su propio interés. puede ser una consecuencia natural de la personalidad Tu personaje podría estar ya afiliado a una organización o del luchador, no siempre es así. El enfoque vital de cada causa, de modo que viaje bajo su estandarte. Si no es el caso, uno no siempre dicta cómo esa persona actúa cuando hay piensa en crear un símbolo heráldico que represente un vidas en juego. aspecto de tu naturaleza o esté relacionado con tu propósito ¿Tienes un estilo de combate que refleja tu actitud frente en el mundo. a la vida o hay algo más dentro de ti, que liberas cuando se desenvainan las armas? S í M BOLO H E R Á LDICO d6 Símbolo Un d ragón d o rado rampa nte sobre un campo verde, representa ndo el valor y l a búsqueda de l a riq ueza. E l puño de u n gigante d e las tormentas a nte una n u be tormentosa, q u e s i m bol iza la ira y el poder. Espadones cruzados delante de la puerta de u n casti l l o, señal de defensa d e u n a ciudad o reino. Una cal avera con u n a daga atravesada, q u e representa l a condenación que l l evas a tus enemigos. U n fén ix en u n anillo de fuego, expresión de u n espíritu indomable. Tres gotas de san gre bajo u n a espada h o rizontal sobre un fondo negro, s i m bolizando tres enemigos a los q u e has j u rado matar. E STI LOS CARACTERÍSTICOS LG< jl«�Gl ¡o\" (o ¡ ••r. Ll• jG\"' �\"''�• d6 Estilo Elegante. Te m u eves con gracia y control tota l, n u nca empleas más energía d e l a necesaria. J(�\"\"' f r� w-t }\\.A.�Ao An·,Jro. f\\A�\"\"'GJ1 �l cltlo Brutal. Tus ataques son verdaderos m azazos, <.1:1, totG(�<\"'t< lOI,r<vG(OfG�O. capaces de romper h u esos y derra m a r san gre. Astuto. Cuando l lega el momento j u sto, atacas como u n rayo, usando tácticas a peq ueña esca l a para cambiar las tornas a tu favor. N aturalidad. En bata l l a, raramente sudas o m u estras a l go que n o sea una expres ión esto ica. Energético. Cantas y bailas d u ra nte el com bate mientras tu espíritu se eleva. Eres feliz cuando tienes Una vez por turno, cuando dispares una flecha desde u n enemigo enfrente y u n arma en la mano. un arco corto o largo como parte de una acción de Ataque, Sin iestro. Luchas con el ceño fru ncido y m i radas puedes aplicar una de tus opciones de Disparo Arcano de desdén, b u r l á n d ote de tus adversarios m ientras a ese proyectil. Decides usar la opción cuando la flecha los de rrotas. impacta a una criatura, a menos que la opción no implique tirada de ataque alguna. Posees dos usos de esta habilidad, los cuales recuperas cuando completas un descanpo corto ARQUETI P O S MARC IALE S o largo. A nivel 3, un guerrero obtiene el rasgo Arquetipo Marcial. Ganas una opción adicional de Disparo Arcano a tu Las siguientes opciones, además de las que se ofrecen en el elección cuando alcanzas ciertos niveles en esta clase: 7, 10, Player's Handbook, están disponibles: el Arquero Arcano, 1 5 y 18. Todas las opciones mejoran cuando llegas a ser un el Caballero y el Samurái. guerrero de nivel 1 8. ARQU E RO ARCANO FLECHA MÁGICA A nivel 7 eres capaz de infundir magia en tus proyectiles. E l arquero arcano estudia un método único de arquería Cuando disparas una flecha no mágica desde un arco corto de origen élfico que entreteje magia en sus ataques para o largo, puedes convertirla en mágica en lo que a superar producir efectos sobrenaturales. Estos guerreros son parte resistencias e inmunidades a ataques y daño no mágico se de los cuerpos de élite élficos. Guardianes de las fronteras refiere. La magia se desvanece del proyectil inmediatamente de los dominios de esta raza, se mantienen alerta en busca después de impactar o fallar a su objetivo. de invasores y usan sus flechas infundidas con magia para derrotarlos antes de que puedan llegar a sus asentamientos. DISPARO CURVO A lo largo de los siglos, los métodos de estos arqueros elfos A nivel 7 aprendes a dirigir un proyectil errante hacia un se han extendido también a miembros de otras razas, por nuevo objetivo. Cuando realizas una tirada de ataque con tanto capaces de conjugar aptitud arcana y arquería. una flecha mágica y fallas, puedes usar una acción adicional para volver a hacer la tirada de ataque contra un objetivo"
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 5,
+      "body_features_extracted": 2,
+      "warnings": [
+        "No se encontró el cuerpo del rasgo \"tienes que hacer una prueba de característica para escapar\"",
+        "No se encontró el cuerpo del rasgo \"del agarre de esa criatura\"",
+        "No se encontró el cuerpo del rasgo \"añade ld6 a tu tirada.\""
+      ]
+    }
+  },
+  {
+    "slug": "arcane-archer",
+    "name": "Arquero Arcano",
+    "description": null,
+    "data": {
+      "parent_class": "fighter",
+      "flavor_name": "Arquero Arcano",
+      "features_by_level": {
+        "18": [
+          {
+            "name": "A nivel 3",
+            "description": "recibirá daño como si hubiera sido impactada por la flecha, nes ventaja en tiradas de salvación que realices para evitar más 1d6 de daño perforante adicional. Si tiene éxito, recibe caer de tu montura. Además, si al caer de ella desciendes la mitad de daño. menos de 1 0 pies y no estás incapacitado, puedes aterrizar El daño perforante aumenta a 2d6 cuando alcanzas el de pie. nivel 1 8 de esta clase. Por último, montar o desmontar de una criatura solo te cuesta 5 pies de movimiento, en vez de la mitad de C ABALLERO tu velocidad. El arquetipo Caballero sobresale en el combate montado. MARCA INQU EBRANTABLE Normalmente de nacimiento noble y criado en la corte, se A partir de nivel 3, puedes amenazar a tus enemigos, siente como en casa tanto en una conversación ingeniosa en impidiendo sus ataques y castigándoles por dañar a otros. una cena de estado como liderando una carga de caballería. Cuando impactas a una criatura con un ataque cuerpo Estos guerreros también aprenden a proteger del peligro a a cuerpo con arma, puedes marcarla hasta el final de tu aquellos a su cargo, siendo frecuentemente guardianes tanto siguiente turno. Este efecto acaba si quedas incapacitado, de sus superiores como de los más débiles. Motivados por el mueres u otro marca a la misma criatura. afán por deshacer entuertos o conseguir prestigio, muchos Mientras esté a 5 pies o menos de ti, una criatura marcada de ellos dejan sus vidas confortables para embarcarse en por ti tendrá desventaja en cualquier tirada de ataque que no gloriosas aventuras. te tenga como objetivo. Además, si una criatura marcada por ti inflige daño a"
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 33,
+      "body_features_extracted": 1,
+      "warnings": [
+        "No se encontró el cuerpo del rasgo \"D i s p a ro S i e m p re Listo\"",
+        "No se encontró el cuerpo del rasgo \"El rasgo Disparo Arcano te permite elegir entre varias opcio­\"",
+        "No se encontró el cuerpo del rasgo \"D i s p a ro Arca no (S opciones)\"",
+        "No se encontró el cuerpo del rasgo \"nes a ciertos niveles. Aquí se presentan en orden alfabético.\"",
+        "No se encontró el cuerpo del rasgo \"D i s p a ro Arca n o (6 opciones\"",
+        "No se encontró el cuerpo del rasgo \"d i s paros mejorados) Se consideran efectos mágicos\"",
+        "No se encontró el cuerpo del rasgo \"por lo que cada flecha está\"",
+        "No se encontró el cuerpo del rasgo \"asociada a una de las escuelas de magia.\"",
+        "No se encontró el cuerpo del rasgo \"C ONOCIMIENTO DE ARQUERO ARCANO Si una de las opciones requiere una tirada de salvación\"",
+        "No se encontró el cuerpo del rasgo \"puedes conocer teoría mágica o secretos de la natu­ la de tu Disparo Arcano es igual a 8 + tu bonificador por\"",
+        "No se encontró el cuerpo del rasgo \"raleza\"",
+        "No se encontró el cuerpo del rasgo \"algo normal para los practicantes de esta disciplina competencia + tu modificador por Inteligencia.\"",
+        "No se encontró el cuerpo del rasgo \"marcial élfica. Elige una habilidad entre Conocimiento Arcano Flecha B uscadora. Utilizando magia de adivinación\"",
+        "No se encontró el cuerpo del rasgo \"o Naturaleza\"",
+        "No se encontró el cuerpo del rasgo \"con la que obtienes competencia\"",
+        "No se encontró el cuerpo del rasgo \"y aprendes un haces que tu flecha sea capaz de buscar a un objetivo.\"",
+        "No se encontró el cuerpo del rasgo \"truco\"",
+        "No se encontró el cuerpo del rasgo \"a elegir entre prestidigitación o saber druídico. Cuando utilizas esta opción\"",
+        "No se encontró el cuerpo del rasgo \"no realizas una tirada de ataque\"",
+        "No se encontró el cuerpo del rasgo \"para el ataque. En vez de eso\"",
+        "No se encontró el cuerpo del rasgo \"elige a una criatura a la que\"",
+        "No se encontró el cuerpo del rasgo \"D ISPARO ARCANO hayas visto en el último minuto. El proyectil vuela hacia el\"",
+        "No se encontró el cuerpo del rasgo \"A nivel 3 consigues desatar efectos mágicos con algunos objetivo\"",
+        "No se encontró el cuerpo del rasgo \"doblando esquinas de ser necesario e ignorando\"",
+        "No se encontró el cuerpo del rasgo \"de tus disparos. Cuando obtienes este rasgo\"",
+        "No se encontró el cuerpo del rasgo \"aprendes dos cobertura media y tres cuartos. Si la criatura está dentro\"",
+        "No se encontró el cuerpo del rasgo \"opciones de Disparo Arcano a tu elección (consulta \"Opcio­ del alcance del arma y hay un camino suficientemente\"",
+        "No se encontró el cuerpo del rasgo \"nes de Disparo Arcano\" más adelante). amplio para que viaje la flecha\"",
+        "No se encontró el cuerpo del rasgo \"el objetivo deberá realizar\"",
+        "No se encontró el cuerpo del rasgo \"una tirada de salvación de Destreza. Si no se cumplen estas\"",
+        "No se encontró el cuerpo del rasgo \"condiciones\"",
+        "No se encontró el cuerpo del rasgo \"el proyectil desaparecerá después de viajar\""
+      ]
+    }
+  },
+  {
+    "slug": "cavalier",
+    "name": "Caballero",
+    "description": null,
+    "data": {
+      "parent_class": "fighter",
+      "flavor_name": "Caballero",
+      "features_by_level": {
+        "18": [
+          {
+            "name": "Defensor Atento",
+            "description": "A nivel 1 8, te enfrentas al peligro con una atención extraor· dinaria. En combate, recibes una reacción especial, que puedes usar una vez en el turno de cada criatura, menos en el tuyo. Esta reacción especial solo puedes emplearla para realizar un ataque de oportunidad, así que no puedes utili­ zarla en el mismo turno en que uses tu reacción normal. SAMURÁI E l Samurái es un guerrero que u s a s u implacable espíritu de lucha para superar a sus enemigos. Su determinación es inquebrantable, por lo que los adversarios que se encuentren en su camino tienen dos opciones: rendirse o morir luchando."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 6,
+      "body_features_extracted": 1,
+      "warnings": [
+        "No se encontró el cuerpo del rasgo \"M a n iobra de P rotección Independientemente del número de criaturas que marques\"",
+        "No se encontró el cuerpo del rasgo \"M a ntener l a Formación puedes realizar este ataque especial tantas veces como tu\"",
+        "No se encontró el cuerpo del rasgo \"modificador por Fuerza (mínimo de uno). Recuperas todos\"",
+        "No se encontró el cuerpo del rasgo \"lS Carga Feroz\"",
+        "No se encontró el cuerpo del rasgo \"los usos cuando completas un descanso largo.\""
+      ]
+    }
+  },
+  {
+    "slug": "samurai",
+    "name": "Samurái",
+    "description": null,
+    "data": {
+      "parent_class": "fighter",
+      "flavor_name": "Samurái",
+      "features_by_level": {
+        "10": [
+          {
+            "name": "Es p íritu I n cansa ble",
+            "description": "Cuando eliges este arquetipo a nivel 3, obtienes competencia A partir de nivel 10, siempre que realices una tirada de ini­"
+          },
+          {
+            "name": "Espíritu d e Lucha (lO pg temporales)",
+            "description": "Interpretación, Perspicacia o Persuasión. Como alternativa, uno de ellos. puedes aprender un idioma, el que prefieras. GOLPE SúBITO ESPÍRITU DE LUCHA A nivel 1 5 aprendes a intercambiar precisión por rapidez A nivel 3, tu intensidad en batalla puede escudarte y ayu­ en el ataque. Si realizas una acción de Atacar en tu turno y darte a golpear de forma certera. Como acción adicional en tienes ventaja contra uno de los objetivos, puedes renunciar tu turno puedes obtener ventaja en las tiradas de ataque con a la ventaja en esa tirada para realizar un ataque con arma arma hasta el final del mismo turno. Si lo haces, también adicional contra el objetivo, como parte de la misma acción. ganas 5 puntos de golpe temporales. Este número de puntos No puedes hacer esto más de una vez por turno. de golpe temporales aumenta según alcanzas ciertos niveles"
+          }
+        ],
+        "18": [
+          {
+            "name": "Forta leza a nte l a M ue rte",
+            "description": "el nivel l 5. A partir de nivel 1 8, la fuerza de tu espíritu es capaz de Puedes utilizar este rasgo tres veces, recuperando todos impedir el abrazo de la muerte. Si sufres una cantidad de los usos gastados cuando terminas u n descanso largo. daño que reduce tus puntos de golpe a O, pero no te mata, puedes usar tu reacción para no caer inconsciente y obtener C O RTE SANO ELEGANTE un turno adicional inmediatamente, interrumpiendo el A partir de nivel 7, tu disciplina y atención al detalle te actual. Mientras tengas O puntos de golpe durante ese turno permiten brillar en situaciones sociales. Cuando realices adicional, recibir daño causa fallos en tiradas de salvación una prueba de Carisma (Persuasión), recibes un bonificador contra muerte de la forma habitual y tres fallos en tiradas de igual a tu modificador de Sabiduría. salvación contra muerte todavía pueden matarte. Cuando el Tu autocontrol también te hace ganar competencia en tira­ turno adicional termina, caes inconsciente si todavía tienes das de salvación de Sabiduría. Si ya tienes esta competencia, O puntos de golpe. en vez de eso obtienes competencia en tiradas de salvación Una vez utilizado este rasgo, deberás terminar un des­ de Inteligencia o Carisma, a tu elección. canso largo para poder volver a usarlo. 1, .lif.lr\\H. por h.A.f.r.lf-1 1o.lf.lr\\ �O v.lr\\,¡v.. O if'\\.lÓir\\. 0 Ü R [G E N E S ARCANOS d6 Origen Tu poder viene de tu estirpe. Estás vinculado a u n a criatura poderosa o h e reda ste u n a bendición o maldición. Eres l a reencarnación de u n ser d e otro plano de existencia. HECHICERO Una entidad poderosa entró en el m u ndo. S � magia te cambió. PRACTICAR Y ESTUDIAR ES PARA AFICIONADOS. EL VER­ Tu nacim iento fue profetizado en u n antiguo texto, el c u a l presagia q u e uti lizarás tu poder p a ra dadero poder es un derecho de nacimiento. fi nes terri bles. -Hennet, vástago de Tiamat Eres el prod u cto d e generaciones d e reprod ucción c u i dadosa y selectiva. Cuando se trata de sacar a la luz sus habilidades en tiempos Te creó u n a l q u i m i sta: s a l i ste d e una cu beta. de necesidad, los hechiceros lo tienen fácil comparados con otros aventureros. Su poder descansa en su interior, pero también necesita ser contenido. Todos los de su clase REAC C IÓN nacen para desempeñar su destino o caen en él por el azar Cuando un nuevo hechicero aparece en e l mundo, y a s e a a l cósmico. Al contrario que otros personajes, que deben nacer o cuando s u poder s e hace evidente, l a s consecuencias aprender, aceptar y dedicarse a sus talentos, a los hechiceros de este evento dependen enormemente de cómo los testigos sus poderes les vienen dados. reaccionen a lo que han visto. La idea de un ser de poder mágico innato deambulando Cuando aparecieron tus poderes de hechicero, ¿cómo por ahí no suele sentar bien, así que los miembros de esta respondió el mundo a ellos? ¿Se mostraron alentadores clase generan desconfianza y sospechas en los demás. A los demás, tuvieron miedo o reaccionaron de forma pesar de ello, muchos consiguen sobreponerse a los prejui­ ambivalente? cios mediante acciones que benefician a sus compatriotas con menos aptitud mágica. REACC I O N E S Los hechiceros suelen quedar definidos por cómo se mani­ d6 Reacción festó su poder. Para los que lo reciben como un esperado derecho de nacimiento, su aparición es motivo de celebra­ Tus poderes son u n a gran bendición para los que te rodean y, además, se espera q u e los uses al servicio de ción. Otros, en cambio, son marginados y expulsados de sus la co m u n idad. casas tras la aterradora manifestación de sus habilidades. Jugar con un personaje hechicero puede ser tan gratifi­ Tu s poderes c a u s a ron destrucción e i n c l u s o m u e rte cuando se m a n i festa ron, razón por la q u e te trata ron cante como desafiante. Los siguientes apartados ofrecen como a u n cri m i n a l. sugerencias sobre cómo dar cuerpo y personalizar a tu hechicero. Tu s vecinos t e o d i a n y tienen m i edo d e tu poder, de modo q u e te rechaza n. ÜRIGEN ARCANO Llamaste l a atención de u n s i n iestro cu lto q u e p l a nea explotar tus h a b i l i d ades. Algunos hechiceros entienden d e dónde vino su poder, La gente q u e te rodea cree q u e tus poderes son bas á ndose en cómo se manifestaron sus habilidades. Otros, u n a m a l d ición i m p uesta a tu fa m i l i a por una sin embargo, solo pueden especular, ya que sus poderes transgresión pasada. aparecieron sin sugerir ningún origen en particular. Se piensa q u e tus poderes están vinculados a un ¿Conoce tu personaje la fuente de su poder mágico? ¿Está antiguo l i n aje d e reyes locos q u e acabó en una vinculado a un pariente lejano, a un evento cósmico o sim­ s a n grienta revuelta h ace más de u n s i glo. plemente a la pura suerte? Si tu hechicero no sabe de dónde procede su poder, tu DM puede usar esta tabla (o elegir una de las entradas) y revelártelo cuando esta información pueda tener un papel importante en la campaña. 1: DE 11.Q.U I E R O A A O E R E C. � A: A L M A D I V I N A, li E C. H I C. E R O DE LA TO R M E N TA Y li E C. H I C. E R O DE L A S S O M B R A S MARCA S O B R E NATURAL S I GN O S DE H E C H I C E RÍ A Un hechicero en reposo es casi indistinguible de una Como e s bien sabido, a algunos hechiceros s e les d a mejor persona normal: solo cuando vuelan los conjuros se revela que a otros controlar su lanzamiento de conjuros. A veces su verdadera naturaleza. No obstante, muchos miembros de una ráfaga de magia salvaje desviada emana de uno de ellos esta clase también tienen un atributo físico, sutil pero inequí­ en el momento en que lanza un conjuro. Pero incluso cuando voco, que les diferencia de un individuo corriente. la magia funciona como estaba planeado, el acto de emplear Si tu hechicero tiene una marca sobrenatural, quizá sea el conjuro suele ir acompañado de un símbolo claro que una que se oculta con facilidad o algo de lo que se enorgu­ indica de dónde salió esa energía mágica. llece y que muestra continuamente. Cuando tu hechicero lanza un conjuro, ¿se revela el esfuerzo con un signo de hechicería? ¿Está el signo vincu­ M ARCAS S O B R E N ATU RALES lado a tu origen, a algún otro aspecto de tu ser o parece un d6 M arca fenómeno aleatorio? Tu s ojos son de un color i n u s u a l, como el rojo. S i G N OS DE H E C H I C E R [A Tienes u n dedo de más en u n pie. d6 Símbolo Una d e t u s orej a s es bastante más gra nde q u e l a otra. Pro n u ncias los componentes verbales de tus conj u ros Tu pelo crece a una velocidad p rod igiosa. con una atro n a d o ra voz d e titá n. Arrugas l a na riz repetidas veces cuando masticas. D u rante u n mom ento, después de q u e l a n ces u n Una mancha roj a apa rece en tu cuello u n a vez a l d ía, conj u ro, el área a tu a l rededor s e vuelve oscura pero desaparece a l cabo d e u n a hora. y tenebrosa. Sudas a b u n d a ntemente mientras lanzas u n conj u ro y también u n o s segundos después. Tu pelo y vestimentas se m u even, como s i los agitara una brisa, s i e m p re que i nvocas u n con j u ro. S i te encuentras d e pie a l lanzar u n con j u ro, te elevas seis p u l ga d a s y después caes lentamente. Llamas azules i l u sorias coro n a n tu cabeza a l em pezar el l a n z a m iento, pero desaparecen abru ptamente. ¿por �\"'-¡ tG\"'tGl CO!Gl Ct(t!l:iG(t! l:¡'\"''\"' G(Gl �' f G1Gr• '1 (Gl Co!Gl i\"'jtr\"'G(tl G(Gl �' \"\"\"'-rcil(G j•7 ORÍGE N E S MÁGIC O S \\)Grt'• Grl,.itrGrio. Í'D•I,.tr(G �GI,.tr \"' \"' G\"' j'l A nivel 1, los hechiceros ganan el rasgo Origen Mágico. Las siguientes opciones, además de las que se ofrecen en el Player's Handbook, están disponibles: Alma Divina, Hechi­ cería de Tormenta y Magia de las Sombras. 0 ALMA D IV I NA A veces la chispa de magia que da poder a un hechicero Una vez utilizado este rasgo, deberás terminar un descanso viene de una fuente divina que ilumina desde el interior del corto o largo para poder volver a usarlo. alma. Tener una esencia así, bendita, es un signo de que tu magia podría venir de una conexión familiar distante, pero CURAC IÓN M EJORADA poderosa, con un ser divino. Quizá un ancestro tuyo era un A partir de nivel 6, la energía divina que corre por tus venas ángel, transformado en mortal y enviado a luchar en nombre puede mejorar tus conjuros de curación. Cuando tú o un de un dios. Tal vez tu nacimiento se alineó con una antigua aliado situado a 5 pies o menos de ti haga una tirada para profecía, marcándote como sirviente de las deidades o recep­ determinar cuántos puntos de golpe recupera un conjuro, tor escogido de magia divina. puedes utilizar 1 punto de hechicería para volver a tirar Este tipo de hechiceros, con su magnetismo natural, son cualquier número de esos dados, siempre que no estés inca­ considerados una amenaza por algunas jerarquías religio­ pacitado. Solo puedes usar este rasgo una vez por turno. sas. Al tratarse de alguien de fuera de la estructura, pero que domina·un poder sagrado, un alma divina puede socavar ALAS DE ÜTRO MUNDO la legitimidad de una orden al mostrar una conexión directa A partir de nivel 14, puedes utilizar una acción adicional con lo sagrado. para manifestar un par de alas espectrales en tu espalda. En algunas culturas, solo aquellos que pueden demostrar Mientras se encuentren presentes, tienes una velocidad ser un alma divina pueden tener poder religioso. En estas volando de 30 pies. Permanecerán hasta que quedes incapa­ tierras, las posiciones eclesiásticas están dominadas por citado, mueras o las descartes con una acción adicional. unos pocos linajes, que se preservan durante generaciones. La afinidad que elijas para tu magia divina determinará la apariencia de estas alas espectrales: alas de águila para el"
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 5,
+      "body_features_extracted": 3,
+      "warnings": [
+        "No se encontró el cuerpo del rasgo \"lS G o l pe S ú b ito\""
+      ]
+    }
+  },
+  {
+    "slug": "divine-soul",
+    "name": "Alma Divina",
+    "description": null,
+    "data": {
+      "parent_class": "sorcerer",
+      "flavor_name": "Alma Divina",
+      "features_by_level": {}
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 36,
+      "body_features_extracted": 0,
+      "warnings": [
+        "No se encontró el cuerpo del rasgo \"Alas de Otro M u n do mitad de tus puntos de golpe máximos\"",
+        "No se encontró el cuerpo del rasgo \"puedes recuperar\"",
+        "No se encontró el cuerpo del rasgo \"Recuperación Extrate rrena tantos puntos de golpe como la mitad de tus puntos de golpe\"",
+        "No se encontró el cuerpo del rasgo \"máximos. Una vez utilizado este rasgo\"",
+        "No se encontró el cuerpo del rasgo \"deberás terminar un\"",
+        "No se encontró el cuerpo del rasgo \"MAGIA DIVINA descanso largo para poder volver a usarlo.\"",
+        "No se encontró el cuerpo del rasgo \"Gracias a tu enlace con lo divino eres capaz de aprender con­\"",
+        "No se encontró el cuerpo del rasgo \"juros de clérigo. Cuando tu rasgo Lanzamiento de Conjuros H E C HIC E R Í A DE TOR M E NTA\"",
+        "No se encontró el cuerpo del rasgo \"te permite reemplazar un truco o conjuro de hechicero de Tu magia innata viene del poder elemental del aire. Muchos\"",
+        "No se encontró el cuerpo del rasgo \"nivel 1 o superior\"",
+        "No se encontró el cuerpo del rasgo \"puedes elegir el nuevo conjuro de la lista de los que poseen este don pueden encontrar el origen de\"",
+        "No se encontró el cuerpo del rasgo \"de conjuros de clérigo o de la lista de conjuros de hechicero. su magia en una experiencia cercana a la muerte causada\"",
+        "No se encontró el cuerpo del rasgo \"Debes cumplir el resto de restricciones relacionadas con por la Gran Lluvia\"",
+        "No se encontró el cuerpo del rasgo \"aunque puede que nacieras durante un\"",
+        "No se encontró el cuerpo del rasgo \"la elección del conjuro\"",
+        "No se encontró el cuerpo del rasgo \"que se convierte en un conjuro de aullante vendaval\"",
+        "No se encontró el cuerpo del rasgo \"tan fuerte que todavía se cuenten historias\"",
+        "No se encontró el cuerpo del rasgo \"hechicero para ti. sobre él o que en tu linaje influyan criaturas aéreas porten­\"",
+        "No se encontró el cuerpo del rasgo \"Además\"",
+        "No se encontró el cuerpo del rasgo \"escoge una afinidad para la fuente de tu poder tosas\"",
+        "No se encontró el cuerpo del rasgo \"como los vaatis o los djinns. Sea como fuere\"",
+        "No se encontró el cuerpo del rasgo \"la magia\"",
+        "No se encontró el cuerpo del rasgo \"divino: bien\"",
+        "No se encontró el cuerpo del rasgo \"mal\"",
+        "No se encontró el cuerpo del rasgo \"ley\"",
+        "No se encontró el cuerpo del rasgo \"caos o neutralidad. Aprendes un con­ de la tormenta impregna tu ser.\"",
+        "No se encontró el cuerpo del rasgo \"juro adicional basado en esa afinidad\"",
+        "No se encontró el cuerpo del rasgo \"como se muestra más Los hechiceros de la tormenta no tienen precio como\"",
+        "No se encontró el cuerpo del rasgo \"abajo. Se considera un conjuro de hechicero para ti\"",
+        "No se encontró el cuerpo del rasgo \"pero no miembros de la tripulación de un barco. Su magia les per­\"",
+        "No se encontró el cuerpo del rasgo \"cuenta como parte de tus conjuros de hechicero conocidos. mite controlar el viento y el estado atmosférico en su entorno\"",
+        "No se encontró el cuerpo del rasgo \"Si más tarde reemplazas este conjuro\"",
+        "No se encontró el cuerpo del rasgo \"debes hacerlo con inmediato. Sus habilidades también son útiles para repeler\"",
+        "No se encontró el cuerpo del rasgo \"uno de la lista de conjuros de clérigo. ataques de sahuagins\"",
+        "No se encontró el cuerpo del rasgo \"piratas y otras amenazas acuáticas.\"",
+        "No se encontró el cuerpo del rasgo \"Afinidad Conjuro\""
+      ]
+    }
+  },
+  {
+    "slug": "storm-sorcery",
+    "name": "Hechicería de Tormenta",
+    "description": null,
+    "data": {
+      "parent_class": "sorcerer",
+      "flavor_name": "Hechicería de Tormenta",
+      "features_by_level": {
+        "18": [
+          {
+            "name": "Alma del Viento",
+            "description": "conjuro de nivel 1 o superior que inflija daño de relámpago A partir del nivel 1 8 consigues inmunidad al daño de relám­ o de trueno, de ti manará una magia tormentosa. Esta pago y de trueno. explosión provocará que las criaturas que elijas, puedas ver y También obtienes una velocidad volando mágica de se encuentren a 10 pies o menos de ti reciban la mitad de tu 60 pies. Puedes usar tu acción para reducir tu velocidad nivel de hechicero de daño de relámpago o de trueno (elígelo volando a 30 pies durante una hora y elegir a 3 + tu modifi­ cada vez que uses esta opción). cador de Carisma criaturas situadas a 30 pies o menos de ti. Las criaturas escogidas ganan una velocidad volando de GUÍA DE LA TORMENTA 30 pies durante una hora. Si reduces tu velocidad volando Cuando llegas a nivel 6, obtienes la habilidad de controlar de este modo, no puedes volver a hacerlo hasta terminar un sutilmente el clima que te rodea. descanso corto o largo. Si está lloviendo, puedes emplear una acción para que cese la lluvia en una esfera de 2 0 pies de radio en la que MAGIA DE LAS S O M BRAS seas el centro. Puedes terminar este efecto como acción Eres u n a criatura d e l a s sombras, y a que t u magia innata adicional. viene del propio Shadowfell. Quizá seas un descendiente de una entidad de ese lugar o tal vez quedaste expuesto a su energía corrupta y esta te transformó. El poder de la magia de las sombras tiene un efecto lúgubre sobre tu apariencia física. La chispa de la vida que te sostenía ha quedado sofocada, aunque lucha por existir bajo la energía oscura que imbuye tu alma. Como opción, puedes elegir o tirar en la tabla \" Peculiaridades del Hechicero de las Sombras\" para crear una característica singular para tu personaje. j f s,� t l•�•\"'t• \" •l 'i•l• l(•rG\"'- A• � ritG\"'- A• 0 j f 0'}\"\" ul:i, A•�Gl iGA• l•j•s J,, �r. PECU L I A R I DADES D E L H EC H ICERO DE LAS S OM B RAS d6 Peculiaridad S i e m p re estás helado a l tacto. C u a n d o d u ermes, pa rece que no res pi ras (a u n q u e debes res pirar para sobreviv i r). Prácticamente n o s a n gras, i n c l u s o cuando estás gravemente herido. Tu corazón l ate una vez por m i n uto. Esto a veces te sorprende. Te cuesta reco rdar q u e las criaturas vivie ntes y los cadáveres deben ser tratados de fo rma d i fe rente. Parpadeaste. Una vez. La semana pasada."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 1,
+      "body_features_extracted": 1,
+      "warnings": []
+    }
+  },
+  {
+    "slug": "shadow-magic",
+    "name": "Magia de las Sombras",
+    "description": null,
+    "data": {
+      "parent_class": "sorcerer",
+      "flavor_name": "Magia de las Sombras",
+      "features_by_level": {
+        "14": [
+          {
+            "name": "C a m i n a nte d e S o m b ra s",
+            "description": "de oscuridad para acosar a tus enemigos. Como acción A nivel l4, obtienes la habilidad para saltar de una sombra adicional, puedes gastar 3 puntos de hechicería para a otra. Cuando te encuentres bajo luz tenue u oscuridad invocar mágica mente a un sabueso de mal agüero, que podrás, usando una acción adicional, teletransportarte mági­ tendrá como objetivo a una criatura que puedas ver y se ca mente hasta 120 pies a un espacio desocupado que puedas encuentre a 120 pies o menos de ti. Este animal utiliza el ver y que también se encuentre bajo luz tenue u oscuridad. perfil de un lobo terrible (consulta el Monster Manual o"
+          }
+        ],
+        "18": [
+          {
+            "name": "F o r m a d e U m bra",
+            "description": "modificaciones: A partir de nive1 18, puedes gastar 6 puntos de hechicería y una acción adicional para transformarte mágícamente en una forma hecha de sombras. Cuando te encuentres bajo esta forma, tendrás resistencia a todo el daño excepto el de fuerza y radiante, y podrás moverte a través de otras cria­ turas y objetos como si fueran terreno difícil. Recibes S de daño de fuerza si terminas tu turno dentro de un objeto. A v(Cts � (Silf\\b �ro e, Permaneces en esta forma durante 1 minuto. Este efecto termina antes de tiempo si estás incapacitado, si mueres o si so....,.\\o rc, f or }v.. t ....,. ¡ lo das por terminado usando una acción adicional. f itlf\\!O }v.. t o t ro 0 u L I BROS DE CO N J U ROS d6 Libro de conju ros Un tomo cuyas pági n a s son fi n a s l á m i n a s de metal, c o n l o s conj u ros grabados en e l l a s con ácido. Largas tiras de cuero en l a s q u e están recogidos los hechizos, envueltas a l rededor d e u n b astón para MAGO trans porta rlas con faci l i d a d. U n t o m o maltratado, con p i ctogra mas q u e solo tú puedes entender. S E R U N MAGO REQUIERE D E ENTENDIMIENTO. EL CONO­ Peq ueñas piedras con conj u ros i n scritos, q u e l l evas en cim iento de cómo y por qué funciona la magia. De hecho, u n a bolsa de tel a. n uestros esfuerzos para ampliar ese conocimiento han U n l i b ro q u e m a d o, devastado por el fuego de u n traído los avances clave de la civilización a lo largo de d ragón, con l a s letras de t u s conj u ros difíc i l mente los siglos. legi bles. -Gimble el ilusionista U n tomo de pági nas negras cuya letra solo puede verse en luz ten u e o en l a oscu ridad. Solo algunas personas escogidas en todo el mundo son capaces de usar la magia. De entre ellos, los magos se AM B I C I Ó N encuentran solos en la cima de este arte. El menos capaz Pocos aspirantes a mago emprenden e l estudio d e l a de entre ellos puede manipular fuerzas que se burlan de magia sin algún tipo d e objetivo personal. Muchos d e ellos las leyes de la naturaleza, mientras que los mejores lanzan utilizan sus conjuros como una herramienta para producir conjuros cuyos efectos hacen retumbar el mundo entero. un beneficio tangible, en estatus o bienes materiales, para Los magos pagan por su maestría en la moneda más ellos mismos o para sus compañeros. Para otros, el aspecto valiosa: tiempo. Son necesarios años de estudio, instrucción teórico de la magia tiene un gran atractivo, llevando a estos y experimentación para aprender a emplear la energía magos a buscar conocimiento que soporte nuevos postula­ mágica y almacenar conjuros en la mente. Para Jos magos dos o confirme viejas teorías de lo arcano. aventureros y otros lanzadores de conjuros que aspiran a Más allá de lo obvio, ¿por qué estudia magia tu mago y qué los más altos escalafones de la profesión, el estudio nunca quiere conseguir? Si no has pensado mucho en ello, ahora termina, de la misma forma que no lo hace la búsqueda de tienes la oportunidad. Las respuestas que halles probable­ conocimiento y poder. mente afectarán a cómo se desarrolle tu futuro. Si estás jugando con un mago, aprovecha la oportunidad para hacer de tu personaje algo más que el típico tiraconju­ AMBICIONES ros. Utiliza la información que se presenta a continuación para añadir algunos toques interesantes a cómo tu mago d6 Ambición interactúa con el mundo. Vas a demostrar que los d i oses no s o n tan poderosos como cree el com ú n de los m o rtales. L I B RO DE C ONJ U RO S La i n morta l i d a d es l a meta fi n a l de t u s estudios. S i puedes comprender l a magia por co mpleto, L a posesión más preciada d e t u personaje mago, su libro de podrás extender s u uso a todo e l m u ndo, traye ndo conjuros, puede tener muchos aspectos distintos. Es posible u n a era de igualdad. que sea u n volumen de aspecto inocuo cuyas cubiertas no La magia es u n a herramienta peligrosa. La u s a s para dan ninguna pista de lo que está dentro, pero a muchos proteger l o q u e más q u ieres. miembros de esta clase les gusta mostrar su estilo usando El poder arcano debe ser a rrebatado a los que a b u s a n libros de conjuros inusuales. Si no tienes todavía un objeto de é l. así, puede que tu objetivo sea encontrar un libro distintivo, ya sea por su apariencia o su material. Te convertirás en el m ago más poderoso q u e e l m u n d o h a vi sto en siglos. 1' hO fV.t�t.I V..! Gr w-C, �ic,, EXC ENTRIC I DAD Incontables horas pasadas estudiando e investigando en soledad tienen su efecto en las habilidades sociales de cualquiera. Los magos, ya de por si particulares, no son la excepción. Una manía o dos no son necesariamente algo malo: una rareza de este tipo es normalmente inofensiva y una potencial fuente de diversión, incluso una tarjeta de presentación. Si tu personaje tiene una excentricidad, ¿es mental o física? ¿Te hace esta rareza conocido? ¿Luchas por superarla o la adoptas como un pequeño símbolo de tu fama? E xc ENTR I C I DADES d6 Excentricidad Tienes la cost u m b re d e gol petear i n cesa ntemente con el pie en el s u elo, lo que suele res u ltar molesto a los demás. Tu memoria es bastante buena, pero no te cuesta fi n g i r ser d i straído cuando t e conviene. N u nca entras e n una h a bitación sin ver lo q u e cuelga del techo. Tu posesión m á s querida es u n gusano muerto que guardas dentro d e u n vial de poción. Cuando q u i eres q u e l a gente te deje en paz, empiezas a hablar solo. Suele fu ncionar. Tu cuidado personal y estilo, o más bien la falta de a m bos, h ace q u e m u c h a s veces piensen q u e eres u n mendigo. TRADICIÓN ARCANA MAGO DE GUERRA A nivel 2, el mago obtiene el rasgo Tradición Arcana."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 19,
+      "body_features_extracted": 2,
+      "warnings": [
+        "No se encontró el cuerpo del rasgo \"ÜJO S DE LA Ü SC U RIDAD El sabueso es de tamaño Mediano\"",
+        "No se encontró el cuerpo del rasgo \"no Grande\"",
+        "No se encontró el cuerpo del rasgo \"y es consi­\"",
+        "No se encontró el cuerpo del rasgo \"Desde el nivel 1\"",
+        "No se encontró el cuerpo del rasgo \"tienes visión en la oscuridad hasta derado una monstruosidad\"",
+        "No se encontró el cuerpo del rasgo \"no una bestia.\"",
+        "No se encontró el cuerpo del rasgo \"a 120 pies. Aparece con un número de puntos de golpe temporales\"",
+        "No se encontró el cuerpo del rasgo \"conjuro de oscuridad\"",
+        "No se encontró el cuerpo del rasgo \"pero no cuenta como uno de tus con­ Puede moverse a través de otras criaturas y objetos como\"",
+        "No se encontró el cuerpo del rasgo \"juros de hechicero conocidos. Podrás lanzarlo utilizando un si fueran terreno difícil. El sabueso recibirá 5 de daño si\"",
+        "No se encontró el cuerpo del rasgo \"espacio de conjuro o gastando 2 puntos de hechicería. Si lo acaba su turno dentro de un objeto.\"",
+        "No se encontró el cuerpo del rasgo \"utilizas con puntos de hechicería\"",
+        "No se encontró el cuerpo del rasgo \"eres capaz de ver a través Al principio de su turno\"",
+        "No se encontró el cuerpo del rasgo \"aprende automáticamente la loca­\"",
+        "No se encontró el cuerpo del rasgo \"de la oscuridad creada por el conjuro. lización de su objetivo. Si este estaba escondido\"",
+        "No se encontró el cuerpo del rasgo \"ya no es\"",
+        "No se encontró el cuerpo del rasgo \"considerado así para el sabueso.\""
+      ]
+    }
+  },
+  {
+    "slug": "war-magic",
+    "name": "Magia de Guerra",
+    "description": null,
+    "data": {
+      "parent_class": "wizard",
+      "flavor_name": "Magia de Guerra",
+      "features_by_level": {}
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 0,
+      "body_features_extracted": 0,
+      "warnings": []
+    }
+  },
+  {
+    "slug": "sun-soul",
+    "name": "Camino del Alma Solar",
+    "description": null,
+    "data": {
+      "parent_class": "monk",
+      "flavor_name": "Camino del Alma Solar",
+      "features_by_level": {}
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 0,
+      "body_features_extracted": 0,
+      "warnings": []
+    }
+  },
+  {
+    "slug": "kensei",
+    "name": "Camino del Kensei",
+    "description": null,
+    "data": {
+      "parent_class": "monk",
+      "flavor_name": "Camino del Kensei",
+      "features_by_level": {}
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 0,
+      "body_features_extracted": 0,
+      "warnings": []
+    }
+  },
+  {
+    "slug": "drunken-master",
+    "name": "Camino del Maestro Borracho",
+    "description": null,
+    "data": {
+      "parent_class": "monk",
+      "flavor_name": "Camino del Maestro Borracho",
+      "features_by_level": {}
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 0,
+      "body_features_extracted": 0,
+      "warnings": []
+    }
+  },
+  {
+    "slug": "conquest",
+    "name": "Juramento de Conquista",
+    "description": null,
+    "data": {
+      "parent_class": "paladin",
+      "flavor_name": "Juramento de Conquista",
+      "features_by_level": {
+        "3": [
+          {
+            "name": "Canalizar Divi nidad",
+            "description": "Cuando asumes este juramento, a nivel 3, obtienes las malvados. Contra estos adversarios, los paladines así jura­ siguientes dos opciones de Canalizar Divinidad. Puedes con­ mentados descargan todo el peso de su ira, mediante armas sultar el rasgo de clase juramento Sagrado para ver cómo y conjuros. A pesar de ello, los redentores rezan para que, funciona Canalizar Divinidad. algún día, incluso las criaturas de pura maldad lleguen a su Presencia de Conquistador. Puedes usar tu Canalizar propia redención. Divinidad para proyectar una presencia terrorífica. Como acción, puedes forzar a todas las criaturas de tu elección que PRINCIPIOS DE LA REDENCIÓN puedas ver y se encuentren a 30 pies o menos de ti a realizar Los principios del juramento de Redención atan a los paladi­ una tirada de salvación de Sabiduría. Las que fallen queda­ nes a unos criterios estrictos de paz y justicia. rán asustadas de ti durante 1 minuto. Un objetivo asustado Paz. La violencia es el último recurso. La diplomacia y la puede repetir la tirada de salvación al final de cada uno de comprensión son el camino a la paz duradera. sus turnos, librándose del efecto si tiene éxito. Inocencia. Todas las personas comienzan su vida en un Golpe Guiado. Puedes utilizar tu Canalizar Divinidad estado de inocencia. Es su entorno o la influencia de fuerzas para atacar con una precisión sobrenatural. Cuando hagas oscuras lo que las lleva hacia el mal. Dar ejemplo y trabajar una tirada de ataque, podrás usar tu Canalizar Divinidad para curar las heridas de este mundo imperfecto puede para sumar +lO al resultado de dicha tirada. Puedes elegir conseguir que cualquiera vuelva al camino recto. emplear este rasgo después de ver el resultado de la tirada, Paciencia. El cambio lleva tiempo. A los que han cami­ pero antes de que el DM te diga si el ataque impacta o no. nado por la senda de los malvados hay que recordarles que se mantengan honestos y veraces. Una vez has plantado la"
+          },
+          {
+            "name": "Au ra de C o n q u i sta ( l O pies) '",
+            "description": "A partir de nivel 7, emanas constantemente un aura de día para permitir que esta sobreviva y florezca. amenaza cuando no estás inconsciente. Esta se extiende Sabidu rfa. Tu corazón y tu mente deben permanecer hasta 10 pies desde ti en todas direcciones, pero no a través claros, porque antes o después te verás obligado a admitir"
+          },
+          {
+            "name": "puedes",
+            "description": "1: G Gl �I.Aitlr\\ 1 h lo Cow.u? A w-l uo ti«�M f r« algunas han viajado tanto por el camino del mal que no tienes más remedio que terminar con su vida por el bien mayor. Cualquier acción de este tipo ha de ser sopesada con cuidado, y sus consecuencias consideradas por completo, pero una vez hayas tomado la decisión haz lo que debes sabiendo que tu camino es justo."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 19,
+      "body_features_extracted": 3,
+      "warnings": [
+        "No se encontró el cuerpo del rasgo \"Conju ros de J u ram ento\"",
+        "No se encontró el cuerpo del rasgo \"Tienes resistencia a todo el daño.\"",
+        "No se encontró el cuerpo del rasgo \"Cuando empleas la acción de Atacar en tu turno\"",
+        "No se encontró el cuerpo del rasgo \"Repri menda Despreciativa realizar un ataque adicional como parte de esa acción.\"",
+        "No se encontró el cuerpo del rasgo \"Aura d e Co n q u i sta (30 pies) Tus ataques con arma cuerpo a cuerpo causan críticos con\"",
+        "No se encontró el cuerpo del rasgo \"Conqu istador I nvencible resultados de 1 9 o 20 en el d20.\"",
+        "No se encontró el cuerpo del rasgo \"Una vez utilizado este rasgo\"",
+        "No se encontró el cuerpo del rasgo \"deberás terminar un descanso\"",
+        "No se encontró el cuerpo del rasgo \"C O NJURO S DE JURAMENTO largo para poder volver a usarlo.\"",
+        "No se encontró el cuerpo del rasgo \"Consigues conjuros de juramento en los niveles de paladín\"",
+        "No se encontró el cuerpo del rasgo \"indicados en la tabla \"Conjuros del Juramento de Conquista\". JURA M E NTO DE R E D E N C I Ó N\"",
+        "No se encontró el cuerpo del rasgo \"Puedes consultar el rasgo de clase juramento Sagrado para E l Juramento d e Redención sitúa al paladín en un camino\"",
+        "No se encontró el cuerpo del rasgo \"ver cómo funcionan los conjuros de juramento.\"",
+        "No se encontró el cuerpo del rasgo \"difícil\"",
+        "No se encontró el cuerpo del rasgo \"ya que exige a este guerrero sagrado que solo\"",
+        "No se encontró el cuerpo del rasgo \"utilice la violencia como último recurso. Aquellos que se\""
+      ]
+    }
+  },
+  {
+    "slug": "redemption",
+    "name": "Juramento de Redención",
+    "description": null,
+    "data": {
+      "parent_class": "paladin",
+      "flavor_name": "Juramento de Redención",
+      "features_by_level": {
+        "7": [
+          {
+            "name": "Aura del G u a rd i á n ( l O pies)",
+            "description": "calmar emociones, inmovilizar persona A nivel 7, puedes proteger a otros del daño a expensas de tu propia salud. Cuando una criatura que se encuentre a contrahechizo, patrón hipnótico 10 pies o menos de ti recibe daño, puedes usar tu reacción 13 esfera elástica de Otiluke, piel pétrea para recibir mágica mente ese daño, en vez de que lo sufra 17 inmovilizar monstruo, muro de fuerza esa criatura. Este rasgo no transfiere ningún otro efecto que pueda acompañar al daño y, además, este daño no puede ser CANALIZAR DIVINIDAD reducido de ninguna manera. Cuando asumes este juramento, a nivel 3, obtienes las A nivel 1 8 el alcance de esta aura aumenta a 30 pies. siguientes dos opciones de Canalizar Divinidad. Emisario de Paz. Puedes usar tu Canalizar Divinidad ESPÍRITU PROTECTOR para hacer más intensa tu presencia mediante el poder A partir de nivel 15, una presencia sagrada cura tus heridas divino. Como acción adicional, puedes obtener un bonifica­ en batalla. Recuperas ld6 + la mitad de tu nivel de paladín dar de +5 a las pruebas de Carisma (Persuasión) durante los puntos de golpe si terminas tu turno en combate con menos próximos 1 0 miñutos. de la mitad de tus puntos de golpe y no estás incapacitado. Reprender a Jos Violentos. Puedes utilizar tu Canalizar"
+          }
+        ],
+        "20": [
+          {
+            "name": "E m i s a rio de Redención",
+            "description": "Inmediatamente después de que un atacante situado a A nivel 2 0 te conviertes en u n avatar de la p a z, lo q u e t e 30 pies o menos de ti inflija daño con un ataque a una cria­ proporciona l o s siguientes beneficios: tura distinta a ti, puedes emplear tu reacción para forzar al Tienes resistencia al daño infligido por otras criaturas atacante a realizar una tirada de salvación de Sabiduría. Si (sus ataques, conjuros y otros efectos). falla, recibirá tanto daño radiante como el daño que acaba de Cuando una criatura te impacta con un ataque, recibe infligir. Si la supera, sufre la mitad del daño. daño igual a la mitad del daño que tú recibas del ataque. Si atacas a una criatura, lanzas un conjuro sobre ella o le haces daño de cualquier manera distinta a este rasgo, nin­ guno de sus beneficios funcionará contra esa criatura hasta que completes un descanso largo. 1, cv.. c, l �v.. i (r c, ¿Cuál es la tentación a la que tu pícaro es incapaz de resistirse cuando se presenta la oportunidad, incluso aunque sea problemático para ti y tus compañeros? PLACERES CU LPABLES PÍCARO d6 Placer Las piedras preciosas grandes LA GENTE SE OLVIDA DE QUE LA VERDADERA RAZÓN POR La sonrisa d e una cara bon ita la que bajas a u n a tumba polvorienta es para traer de Un a n i l l o n uevo para tus dedos vuelta los tesoros escondidos que puedas encontrar. La oportu n i d a d de desi nfl a r el ego d e alguien Pelear es para idiotas. Un hombre m uerto no puede gastar La mejor com i d a y bebida su dinero. Añad i r u n a pieza a tu colección d e monedas exóticas -Barnabas Bladecutter Cuando la fuerza bruta no consigue terminar el trabajo, o ADVE RSARIO la magia no está disponible o no es útil, el pícaro entra en Naturalmente, aquellos que hacen cumplir la ley acaban acción. Con habilidades ligadas al sigilo, el subterfugio y el encontrándose con los que la rompen, por lo que un pícaro engaño, los miembros de esta clase son capaces de meterse que no tiene su cara en un cartel de \"Se busca\" es poco y salir de los problemas de maneras que pocos otros perso­ común. Además, como parte de su profesión, es normal que najes pueden emular. los miembros de esta clase entren en contacto con elemen­ Algunos pícaros que se meten a aventureros antes eran tos criminales, ya sea por elección o necesidad. Algunas criminales, habiendo decidido que esquivar monstruos de esas personas pueden ser adversarios y normalmente es mejor que esquivar el largo brazo de la ley. Otros son será más difícil encargarse de ellos que de la guardia de asesinos profesionales que buscan un uso productivo de la ciudad. sus talentos entre contrato y contrato. A otros simplemente Si el trasfondo de tu aventurero no incluye todavía a un les encanta la emoción de superar cualquier desafío que se personaje de este tipo, puedes trabajar con tu DM para les presente. encontrar una razón por la que un adversario ha entrado De aventuras, un pícaro suele combinar un enfoque en tu vida. Quizá hay alguien que lleva tiempo vigilándote y aparentemente cauteloso (pocos miembros de esta clase quiere usarte para terribles propósitos, pero tú acabas de ser disfrutan del combate) con un hambre voraz por el botín. La consciente de su existencia. Este tipo de incidente podría ser mayor parte del tiempo, piensa el pícaro, enfrentarse a una la base de una aventura futura. criatura no tiene como objetivo matarla, sino convertirse en ¿Tiene tu pícaro un adversario que también es un criminal? el nuevo dueño de sus tesoros. Si es así, ¿cómo afecta esta relación a tu vida? Las siguientes secciones exploran ciertos aspectos de lo que implica ser un pícaro, y podrás usarlos para añadir ADVERSARIOS profundidad a tu personaje. d6 Adversario El capitán p i rata en cuyo barco servi ste tiempo atrás. P LAC E R C U LPA B L E Lo q u e tú l l a m a s \"pasar a otra cosa\", el capitán lo La mayor parte d e l a s cosas que hace un pícaro giran alrede­ llama motín. dor de obtener tesoro y evitar que otros lo consigan. Pocos Un maestro espía al que s i n q u erer d i ste i n formación se interpondrán entre ellos y esos objetivos, aunque muchos errónea, lo que le l l evó a ases i n a r a l objetivo inco rrecto. pícaros se ven desviados del camino por una compulsión El maestro del gremio de l a d rones local, que q u iere que nubla su juicio: una irresistible necesidad que debe ser que te u n as a él o salgas d e l a c i u d a d. satisfecha, incluso aunque hacerlo sea arriesgado. U n colecci o n i sta de a rte q u e utiliza medios ilegales El placer culpable de un pícaro podría ser conseguir para conseg u i r obras m aestras. un determinado objeto, experimentar algo o simplemente Un comercia nte de objetos ro bados, que te usa como una manera de comportarse en ciertas circunstancias. Por mensajero para reu n iones i l ícitas. ejemplo, un pícaro podría ser incapaz de dejar pasar la El propietario de una arena de luchad ores del pozo en oportunidad de robar cualquier cosa hecha de plata, incluso l a q u e fu i ste corred o r d e a p uestas. si esta está colgando del cuello de un guardia del castillo. En cambio, para otro podría ser imposible permanecer un día en la ciudad sin birlar un par de bolsas, solo para mante­ nerse en forma. De I \"I. Q.U I E R O A 11. D E R E C H A: E s P A D A C H Í N, M E N T E M A E S T R A, l N Q.U I S I T i vo v B A n o o R. B E N E FACTOR ARQUETI P O S DE PÍC ARO Pocos pícaros llegan lejos s i n necesitar la ayuda d e alguien, A nivel 3, el pícaro puede escoger un arquetipo. Las lo que implica deber un gran favor a ese benefactor. siguientes opciones, además de las ofrecidas en el Player's Si el trasfondo de tu aventurero no incluye este tipo de Handbook, están disponibles para esta clase: el Batidor, personaje, puedes colaborar con tu DM para determinar por el Espadachín, el Inquisitivo y la Mente Maestra. qué hay un benefactor en tu vida. Quizá fuiste favorecido por algo que hizo tu benefactor, sin que supieras quién era BAT I D O R�--------------------- el responsable de ello, y acabas de conocer la existencia Estás versado en el sigilo y en la supervivencia lejos de las de esa persona. ¿Quién te ayudó en el pasado, lo supieras calles de la ciudad, lo que te permite explorar por delante o no en ese momento, y qué le debes a esa persona como de tus compañeros de expedición. Los pícaros que adoptan recompensa? este arquetipo se sienten como en casa en la naturaleza, B E N E FACTO RES entre bárbaros y exploradores. Muchos batidores son los ojos y oídos de una escuadra militar. Emboscador, espía, d6 Benefactor cazarrecompensas: estos son solo algunos de los roles des­ Un contra b a n d i sta q u e evitó q u e te capturara n, pero empeñados por estos pícaros cuando viajan por el mundo. perdió u n i m portante carga me nto a l hacerlo. Ahora le"
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 4,
+      "body_features_extracted": 2,
+      "warnings": [
+        "No se encontró el cuerpo del rasgo \"lS Espíritu Protector\""
+      ]
+    }
+  },
+  {
+    "slug": "scout",
+    "name": "Batidor",
+    "description": null,
+    "data": {
+      "parent_class": "rogue",
+      "flavor_name": "Batidor",
+      "features_by_level": {}
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 0,
+      "body_features_extracted": 0,
+      "warnings": []
+    }
+  },
+  {
+    "slug": "swashbuckler",
+    "name": "Espadachín",
+    "description": null,
+    "data": {
+      "parent_class": "rogue",
+      "flavor_name": "Espadachín",
+      "features_by_level": {}
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 3,
+      "body_features_extracted": 0,
+      "warnings": [
+        "No se encontró el cuerpo del rasgo \"M a n io b ra El egante ellos tu presa. Tu maestría de la cultura popular y tus saga­\"",
+        "No se encontró el cuerpo del rasgo \"D u e l i sta Experto ces deducciones te permiten estar bien equipado para sacar\"",
+        "No se encontró el cuerpo del rasgo \"a la luz y acabar con males ocultos.\""
+      ]
+    }
+  },
+  {
+    "slug": "inquisitive",
+    "name": "Inquisitivo",
+    "description": null,
+    "data": {
+      "parent_class": "rogue",
+      "flavor_name": "Inquisitivo",
+      "features_by_level": {}
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 0,
+      "body_features_extracted": 0,
+      "warnings": []
+    }
+  },
+  {
+    "slug": "mastermind",
+    "name": "Mente Maestra",
+    "description": null,
+    "data": {
+      "parent_class": "rogue",
+      "flavor_name": "Mente Maestra",
+      "features_by_level": {}
+    },
+    "metadata": {
+      "draft": true,
+      "source_pdf": "/home/santiago/dnd/homebrew/Guia de Xanathar Para Todo.pdf",
+      "extractor": "scripts/extract-xanathar-subclasses.mjs",
+      "table_features_detected": 4,
+      "body_features_extracted": 0,
+      "warnings": [
+        "No se encontró el cuerpo del rasgo \"Di stracción efecto mágico que determine si estás diciendo la verdad\"",
+        "No se encontró el cuerpo del rasgo \"Alma Engañosa indica que estás siendo sincero si así lo deseas y no se te\"",
+        "No se encontró el cuerpo del rasgo \"puede obligar a decir la verdad mediante magia.\"",
+        "No se encontró el cuerpo del rasgo \"1'\""
+      ]
+    }
+  }
+]

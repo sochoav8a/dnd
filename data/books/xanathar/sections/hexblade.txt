@@ -1,0 +1,388 @@
+RASGOS DEL FI LO M A LÉF I CO
+N ivel de
+brujo
+
+Rasgo
+
+l
+
+Li sta de Conjuros Ampliada, M a l d i ción del F i l o
+M a léfico, G u errero M a léfico
+
+lO
+
+Arma d u ra de M a leficios
+
+14
+
+M aestro de M a leficios
+
+Es pectro M a l d ito
+
+arma elemental, desplazamiento
+asesino fantasmal, castigo abrumador
+castigo desterrador, cono de frío
+
+MALDICIÓN DEL FILO MALÉFIC O
+A nivel l , eres capaz de imponer una maldición terrible. Como
+acción adicional, elige a una criatura que puedas vew y se
+encuentre a 30 pies o menos de ti. El objetivo queda maldito
+durante 1 minuto. Esta maldición termina antes de ese tiempo
+si el objetivo o tú morís, o si quedas incapacitado. Hasta que la
+maldición finalice, obtienes los siguientes beneficios:
+Consigues un bonificador a las tiradas de ataque contra
+el objetivo. Este bonificador es igual a tu bonificador por
+competencia.
+Cualquier tirada de ataque que realices contra la cria­
+tura maldita es un crítico con un resultado de 19 o 20
+en el d20.
+Si el objetivo maldito muere, recuperas tantos puntos de
+golpe como tu nivel de brujo + tu modificador de Carisma
+(mínimo 1 punto de golpe).
+Una vez utilizado este rasgo, deberás terminar un descanso
+corto o largo para poder volver a usarlo.
+
+GUERRERO MALÉFIC O
+A nive1 1 , adquieres el entrenamiento necesario para
+armarte de forma efectiva para la batalla. Obtienes compe­
+tencia con armaduras medias, escudos y armas marciales.
+La influencia de tu patrón también te permite canalizar
+tu voluntad místicamente a través de un arma concreta.
+Tras terminar un descanso largo, puedes tocar un arma con
+la que seas competente y que no tenga la propiedad "a dos
+manos". Cuando ataques con esa arma, puedes usar tu
+modificador de Carisma, en vez del de Fuerza o Destreza,
+tanto para las tiradas de ataque como para las de daño. Este
+beneficio dura hasta que completes un descanso largo. Si
+consigues más tarde el rasgo Pacto del Filo, este efecto se
+extiende a cualquier arma de pacto que conjures con ese
+rasgo, independientemente del tipo que sea.
+
+iPl• MGl<jicol IQcd "'o�lor< �é,s \"'"'1 1 Flsi �"''• d:v.
+" f GÁG �GlvGAG, uté, �GlÁitG o G( �o Gl ¡? puo. . .
+tru w-c;(o, Lv...o? Vc,(t1 1G v...o w-t �I..A t .l:.c; tl v...o w-brt. LoJ
+v...o w-bru v...o sov... �I..A: is si ""o .l:itl-\tV... uv...l: iAo. Cow-o tl
+.
+�ro: "-l XG"'Gt�Gr. Lv•? 1"-< \"'"'1 1 i l{ b'"'' ""'bJ,ol
+U
+
+0
+
+INVO CAC I ON E S
+SOBRENATURALE S
+A nivel 2, el brujo obtiene el rasgo Invocaciones Sobre­
+naturales. Aquí tienes opciones nuevas para este rasgo,
+adicionales a las presentadas en el Player's Handbook.
+Si la invocación sobrenatural tiene un requisito, debes
+cumplirlo para poder aprenderla, aunque puedes satisfacer
+estas condiciones al mismo tiempo que adquieres la invoca­
+ción. Cualquier requisito que haga referencia a un nivel se
+referirá únicamente a niveles en esta clase.
+
+AGARRE DE HADAR
+Requisitos: el truco descarga sobrenatural
+Una vez en cada uno de tus turnos, cuando impactes a una
+criatura con tu descarga sobrenatural, puedes mover a ese
+objetivo en línea recta 1 0 pies acercándolo a ti.
+
+ARMA DE PACTO MEJORADA
+Requisitos: rasgo Pacto del Filo
+BRU.JO O E L F I LO M A L É F I C.O
+
+ESPECTRO MALDITO
+A partir de nivel 6, puedes maldecir el alma de una persona
+a la que mates, forzándola a servirte temporalmente.
+Cuando acabas con la vida de un humanoide, puedes hacer
+que su espíritu se alce de su cadáver como un espectro.
+Puedes encontrar su perfil en el Monster Manual. Cuando
+el espectro aparece, este obtiene tantos puntos de golpe
+temporales como la mitad de tu nivel de brujo. Haz una
+tirada de iniciativa para el espectro, que tiene sus propios
+turnos. Obedecerá tus órdenes verbales y, además, cuenta
+con un bonificador especial a sus tiradas de ataque igual a tu
+modificador de Carisma (mínimo de +0).
+El espectro estará a tu servicio hasta el final de tu
+siguiente descanso largo, momento en el que se disipará en
+el más allá.
+Una vez ates a un alma con este rasgo, no podrás utilizarlo
+de nuevo hasta que acabes un descanso largo.
+
+ARMADURA DE MALEFICIOS
+A nivel 10, tu maleficio se vuelve más poderoso. Si el objetivo
+de tu Maldición del Filo Maléfico te impacta con una tirada
+de ataque, puedes utilizar tu reacción para tirar un d6. Con
+un resultado de 4 o superior, el ataque falla, independiente­
+mente de su tirada.
+
+MAESTRO DE MALDICIONES
+A partir de nivel 14, puedes extender tu Maldición del Filo
+Maléfico de una criatura derrotada a otra. Cuando el objetivo
+afectado por tu Maldición del Filo Maléfico muera, puedes
+trasladar la maldición a una criatura diferente que puedas
+ver y se encuentre a 30 pies o menos de ti, siempre que no
+estés incapacitado. Cuando transfieres la maldición de este
+modo, no recuperas puntos de golpe por la muerte de la
+criatura previamente maldita.
+L
+
+CAPÍTULO OPCIONES DE PERSONAJE
+
+Puedes usar cualquier arma que invoques con tu rasgo
+Pacto del Filo como canalizador mágico para tus conjuros
+de brujo.
+Además, el arma gana un bonificador de +1 a sus tiradas
+de ataque y daño, a menos que esta sea mágica y ya tenga un
+bonificador a esas tiradas.
+Por último, el arma que conjuras puede ser un arco corto,
+arco largo, ballesta ligera o ballesta pesada.
+
+ASPECTO DE LA LUNA
+Requisitos: rasgo Pacto del Grimorio
+Ya no necesitas dormir y no pueden forzarte a hacerlo de
+ninguna manera. Para conseguir los beneficios de un des­
+canso largo, puedes pasar 8 horas realizando actividades
+poco intensas, como leer tu Libro de las Sombras o montar
+guardia.
+
+CASTIGO ARCANO
+Requisitos: nivel S, rasgo Pacto del Filo
+Una vez por turno, cuando impactas a una criatura con tu
+arma de pacto, puedes uti.lizar un espacio de conjuro de
+brujo para infligir ld8 de daño de fuerza adicional, más ld8
+por cada nivel del espacio de conjuro empleado. Además,
+si el objetivo es de tamaño Enorme o menor, puedes
+derribarlo.
+
+CAPA DE MOSCAS
+Requisitos: nivel S
+Como acción adicional, puedes rodearte de un aura mágica
+con apariencia de moscas zumbando. Esta cubre un área de
+5 pies alrededor de ti en todas direcciones, pero no atraviesa
+la cobertura completa. Dura hasta que quedes incapacitado
+o la des por terminada usando una acción adicional.
+
+El aura te otorga ventaja en las pruebas de Carisma
+(Intimidación) y desventaja en todo el resto de pruebas de
+Carisma. Cualquier otra criatura que comience su turno en
+el área recibe tanto daño de veneno como tu modificador de
+Carisma (mínimo O de daño).
+Una vez utilizada esta invocación, deberás terminar un
+descanso corto o largo para poder volver a usarla.
+
+DON DE LAS PROFUNDIDADES
+Requisitos: nivel S
+Puedes respirar bajo el agua y ganas una velocidad nadando
+igual a tu velocidad caminando.
+También puedes lanzar respirar bajo el agua una vez sin
+gastar un espacio de conjuro. Recuperas la capacidad para
+hacerlo tras finalizar un descanso largo.
+
+DON DE LOS SIEMPRE VIVOS
+Requisitos: rasgo Pacto de la Cadena
+Cuando recuperes puntos de golpe y tu familiar esté a
+100 pies o menos de ti, trata el resultado de cualquier dado
+tirado para determinar los puntos de golpe que recuperas
+como si hubiera obtenido el máximo resultado.
+
+HUIDA SAGAZ
+Requisitos: nivel 7
+Puedes lanzar libertad de movimiento u na vez sobre ti
+mismo sin utilizar un espacio de conjuro. Recuperas la capa­
+cidad para hacerlo tras finalizar un descanso largo.
+
+LANZA DE LETARGO
+Requisitos: el truco descarga sobrenatural
+Una vez en cada uno de tus turnos, cuando impactes a un
+objetivo con tu descarga sobrenatural, puedes reducir la
+velocidad de esa criatura en 10 pies hasta el final de tu
+próximo turno.
+
+MALDICIÓN E N LO QUECEDORA
+Requisitos: nivel S y; o el conjuro de maleficio o un rasgo de
+brujo que maldiga
+Como acción adicional, causas una perturbación psíquica
+alrededor de una criatura afectada por tu conjuro maleficio
+o por uno de tus rasgos de Brujo, como la Marca del Mal
+Augurio o la Maldición del Filo Maléfico. Cuando lo hagas,
+infliges daño psíquico al objetivo y a cada criatura de tu
+elección que puedas ver y esté a 5 pies o menos de él.
+El daño psíquico es igual a tu modificador de Carisma
+(mínimo 1 de daño). Para utilizar esta invocación, debes
+ser capaz de ver al objetivo maldito, que ha de encontrarse a
+30 pies o menos de ti.
+
+MALDICIÓN IMPLACABLE
+Requisitos: nivel 7 y; o el conjuro de maleficio o un rasgo de
+brujo que maldiga
+Tu maldición crea un vínculo temporal entre ti y tu objetivo.
+Como acción adicional, puedes teletransportarte mágica­
+mente hasta 30 pies a un espacio libre que puedas ver y
+se encuentre a 5 pies o menos del objetivo maldito por tu
+conjuro de maleficio o por uno de tus rasgos de Brujo, como
+la Marca del Mal Augurio o la Maldición del Filo Maléfico.
+Para teletransportarte de esta manera, debes ser capaz de
+ver al objetivo.
+
+MIRADA FANTASMAL
+Requisitos: nivel 7
+Como acción, obtienes la habilidad de ver a través de objetos
+sólidos situados hasta a 30 pies de distancia. Dentro de ese
+alcance, además, tienes visión en la oscuridad si no la tenías
+ya. Esta vista especial dura 1 minuto o hasta que acabe tu
+concentración (como si te estuvieras concentrando en un
+conjuro). Durante ese tiempo, percibes los objetos como
+imágenes fantasmales, transparentes.
+Una vez utilizada esta invocación, deberás terminar un
+descanso corto o largo para poder volver a usarla.
+
+SUDARIO DE S OM BRAS
+Requisitos: nivel JS
+Puedes lanzar invisibilidad a voluntad, sin utilizar un espa­
+cio de conjuro.
+
+TUMBA DE LEVISTUS
+Requisitos: nivel S
+Como reacción cuando recibes daño, puedes encerrarte en
+un bloque de hielo, que se derretirá al final de tu próximo
+turno. Obtienes 10 puntos de golpe temporales por cada
+nivel de brujo, que absorben todo el daño que sea posible del
+ataque. Inmediatamente después de recibir el daño, te vuel­
+ves vulnerable al daño de fuego, tu velocidad se reduce a O y
+quedas incapacitado. Estos efectos, incluyendo cualesquiera
+puntos de golpe temporales que quedaran, terminan cuando
+el hielo se derrita.
+Una vez utilizada esta invocación, deberás terminar un
+descanso corto o largo para poder volver a usarla.
+
+RECUERDO
+
+CLÉRIGO
+HACERSE CLÉRIGO E S CONVERTIRSE E N MENSAJERO DE
+los dioses. El poder que ofrece lo divino es impresionante,
+pero también conlleva una enorme responsabilidad.
+-Riggby el Patriarca
+
+Casi todas las personas que adoran a una deidad viven sus
+vidas sin ser directamente tocados por un ser divino. Así, no
+pueden saber lo que es ser un clérigo, alguien que no solo es
+un adorador devoto, sino que también ha sido imbuido con
+una pizca del poder de ese dios.
+Esta cuestión ha sido debatida largo y tendido: ¿Se
+convierte el mortal en clérigo como consecuencia de su pro­
+funda devoción hacia su deidad, atrayendo de esta manera
+el favor del dios? ¿O es la divinidad la que ve el potencial
+de una persona y la llama a su servicio? Al final, quizá, no
+importe la respuesta. Independientemente de cómo se creen
+los clérigos, el mundo los necesita tanto como los clérigos y
+las deidades se necesitan los unos a los otros.
+Si juegas un aventurero clérigo, las siguientes secciones
+te ofrecen maneras de añadir algo de detalle a la historia y
+personalidad de ese personaje.
+
+TE MPLO
+La mayoría d e los miembros d e esta clase comienzan sus
+vidas como sacerdotes en una orden. Más tarde, se dan
+cuenta de que han sido bendecidos por su dios con las cualida­
+des necesarias para convertirse en clérigos. Para prepararse
+para este nuevo deber, normalmente los candidatos reciben
+entrenamiento de otro miembro de su clase, venido de un
+templo o de un lugar de estudio similar dedicado a su deidad.
+Algunos santuarios se aíslan del mundo para que sus
+ocupantes puedan concentrarse en su devoción, mientras
+que otros abren sus puertas para cuidar y curar a las masas.
+¿Qué característica del templo en que estudiaste destaca?
+
+RECUE RDOS
+d6
+
+Recuerdo
+El h u eso del dedo d e un santo.
+Un l i b ro fo rrado en metal que te ayuda a cazar y
+destru i r criaturas i n fern ales.
+U n s i l bato para cerdos q u e te recuerda a tu querido y
+h u m ilde mentor.
+U n a trenza de pelo de la cola de un u n i corn io.
+U n perga m i n o q u e describe cómo l i brar a l m u n d o
+d e n igromantes.
+Una piedra rúnica que se d i ce fue bendecida
+por tu d ios.
+
+S E C RETO
+Ningún alma mortal está completamente libre de dudas.
+Incluso un clérigo debe luchar contra deseos oscuros o
+la atracción prohibida de lo opuesto a las enseñanzas de
+su deidad.
+Si no has considerado este aspecto de tu personaje toda­
+vía, en la siguiente tabla encontrarás algunas posibilidades,
+que puedes utilizar o dejar que te sirvan como inspiración
+para idear algo apropiado. Tu sombrío y profundo secreto
+puede ser sobre algo que has hecho (o estás haciendo) o
+puede relacionarse con la manera en que te sientes sobre el
+mundo y tu papel en él.
+SECRETO
+d6
+
+Secreto
+Un d i a b l i l l o te aconseja. I ntentas ignorar a la criatura,
+pero a veces s u consej o es de ayuda.
+
+TE M PLOS
+d6
+
+Muchos clérigos cuentan entre sus efectos personales con
+objetos que simbolizan su fe, les recuerdan sus votos o les
+ayudan de alguna otra manera a mantenerse en el camino
+elegido. Aunque estos objetos no están imbuidos de poder
+divino, son de vital importancia para su propietario por lo
+que representan.
+
+Templo
+Se d i ce q u e tu templo es l a estructura más antigua a ú n
+en p i e q u e se con struyó en h o n o r d e tu d i o s .
+Acó l itos d e varias deidades d e ideologías s i m i l a res
+reci b ía n i n strucción en tu tem plo, todos j u ntos.
+Vienes de u n tem plo fa moso por l a cervecería que
+en él opera. Hay q u ien d i ce q u e h u eles como una d e
+s u s cervezas.
+Tu tem p l o es una fortaleza y á rea d e entrenamiento
+para monjes guerreros.
+Tu tem p l o es u n l u gar pacífico y h u m i lde, con monjes
+sencillos y h uertos d e vegetales.
+Servi ste en u n templo en los Planos Exteriores.
+
+Crees que, a l final, los dioses n o son nada más que
+mortales u ltrapoderosos.
+Aceptas el poder d e las deidades, pero crees que
+l a mayoría de acontec i m i e ntos vienen d i ctados por
+p u ro azar.
+Aunque puedes u s a r magia divina, n u nca h a s sentido
+d e verd ad l a presencia de una esencia divina d entro
+de ti.
+Te asolan pesad i l l a s que crees que tu dios te m a n d a
+c o m o castigo por a l g u n a tra n sgres ión desconoci d a .
+E n momentos s i n esperanza, sientes q u e n o e r e s más
+q u e u n j uguete de las deidades, y te mol esta s u l ej a n ía .
+
+D OM I N I O S DIVI N O S
+A nivel 1 , u n clérigo obtiene e l rasgo Dominio Divino. Las
+siguientes opciones, además de las que se ofrecen en el
+Player's Handbook, están disponibles: el Dominio de la Forja
+y el Dominio de la Sepultura.
+
+D OM I N I O DE LA FORJA
+Los dioses de la forja son patrones de aquellos artesanos
+que trabajan con el metal, desde un humilde herrero, que
+mantiene a su pueblo surtido de herraduras y rejas de
+arado, al poderoso artesano elfo cuyas flechas de punta
+de diamante han derrotado a señores demoníacos. Las
+deidades de la fragua enseñan que, con paciencia y trabajo
+duro, hasta el metal más intratable puede ser transformado
+de un trozo de mineral a un objeto bellamente forjado. Los
+clérigos de estas divinidades buscan artefactos perdidos a
+manos de las fuerzas del mal, liberan minas infestadas de
+orcos y descubren raros y preciosos minerales con los que
+crear potentes objetos mágicos. Los seguidores de estos
+dioses se enorgullecen de su trabajo y están dispuestos a
+elaborar y usar pesadas armaduras y poderosas armas para
+protegerlo. Las deidades de este dominio incluyen a Gond,
+Reorx, Onatar, Moradin, Hefesto y Goibniu.

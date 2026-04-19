@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "elemental-weapon",
+    "name": "Arma Elemental",
+    "description": "Un arma no mágica que toques se convierte en mágica. Elige uno de los siguientes tipos de daño: ácido, frío, fuego, relámpago o trueno. Hasta el final de la duración del con- juro, el arma tiene un bonificador de +1 a las tiradas de ataque y hace 1d4 de daño adicionales del tipo elegido cuando impacta. A niveles superiores. Cuando lanzas este conjuro utili- zando un espacio de conjuro de nivel 5 0 6, el bonificador a tiradas de ataque aumenta a +2 y el daño adicional a 2d4. Cuando utilizas un espacio de conjuro de nivel 7 o mayor, el modificador aumenta a +3 y el daño adicional a 3d4. ARMA ESPIRITUAL Evocación nivel 2 Tiempo de lanzamiento: 1 acción adicional Alcance: 60 pies Componentes: V, S Duración: 1 minuto Creas un arma espectral flotante dentro del alcance, que permanece hasta el final de la duración del conjuro o hasta que lo utilices de nuevo. Cuando lanzas este conjuro, pue- des hacer un ataque de conjuro cuerpo a cuerpo contra una criatura que se encuentre a 5 pies o menos del arma. Si impactas, la criatura recibe tanto daño de fuerza como 1d8 + tu modificador de aptitud mágica. Como acción adicional puedes mover el arma hasta 20 pies y repetir el ataque contra una criatura que se encuentre a 5 pies o menos de ella. El arma puede tener la forma que desees. Los clérigos cuyas deidades estén asociadas con un arma en particular (como San Cuthbert, conocido por su maza, o Thor, famoso por su martillo) utilizan esa arma como aspecto visual del conjuro. A niveles superiores. Cuando lanzas este conjuro uti- lizando un espacio de conjuro de nivel 3 o más, el daño aumenta en 1d8 por cada dos niveles por encima de 2 que tenga el espacio que hayas empleado. ARMA MÁGICA Transmutación nivel 2 Tiempo de lanzamiento: 1 acción adicional Alcance: Toque Componentes: V, S Duración: Concentración, hasta 1 hora Tocas un arma no mágica. Hasta el final del conjuro, esa arma se convierte en un arma mágica con un bonificador de +1 a las tiradas de ataque y de daño. A niveles superiores. Cuando lanzas este conjuro utilizando un espacio de conjuro de nivel 4 o más, los bonificadores aumentan a +2. Cuando usas un espacio de conjuro de nivel 6 o más, los modificadores aumentan a +3. CAPÍTULO [: CONJUROS",
+    "data": {
+      "level": 3,
+      "school": "transmutation",
+      "casting_time": "1 acción",
+      "range": "Toque",
+      "components": {
+        "V": true,
+        "S": true
+      },
+      "duration": "Concentración, hasta 1 hora",
+      "concentration": true,
+      "classes": [
+        "artificer",
+        "paladin",
+        "ranger"
+      ],
+      "description": "Un arma no mágica que toques se convierte en mágica. Elige uno de los siguientes tipos de daño: ácido, frío, fuego, relámpago o trueno. Hasta el final de la duración del con- juro, el arma tiene un bonificador de +1 a las tiradas de ataque y hace 1d4 de daño adicionales del tipo elegido cuando impacta. A niveles superiores. Cuando lanzas este conjuro utili- zando un espacio de conjuro de nivel 5 0 6, el bonificador a tiradas de ataque aumenta a +2 y el daño adicional a 2d4. Cuando utilizas un espacio de conjuro de nivel 7 o mayor, el modificador aumenta a +3 y el daño adicional a 3d4. ARMA ESPIRITUAL Evocación nivel 2 Tiempo de lanzamiento: 1 acción adicional Alcance: 60 pies Componentes: V, S Duración: 1 minuto Creas un arma espectral flotante dentro del alcance, que permanece hasta el final de la duración del conjuro o hasta que lo utilices de nuevo. Cuando lanzas este conjuro, pue- des hacer un ataque de conjuro cuerpo a cuerpo contra una criatura que se encuentre a 5 pies o menos del arma. Si impactas, la criatura recibe tanto daño de fuerza como 1d8 + tu modificador de aptitud mágica. Como acción adicional puedes mover el arma hasta 20 pies y repetir el ataque contra una criatura que se encuentre a 5 pies o menos de ella. El arma puede tener la forma que desees. Los clérigos cuyas deidades estén asociadas con un arma en particular (como San Cuthbert, conocido por su maza, o Thor, famoso por su martillo) utilizan esa arma como aspecto visual del conjuro. A niveles superiores. Cuando lanzas este conjuro uti- lizando un espacio de conjuro de nivel 3 o más, el daño aumenta en 1d8 por cada dos niveles por encima de 2 que tenga el espacio que hayas empleado. ARMA MÁGICA Transmutación nivel 2 Tiempo de lanzamiento: 1 acción adicional Alcance: Toque Componentes: V, S Duración: Concentración, hasta 1 hora Tocas un arma no mágica. Hasta el final del conjuro, esa arma se convierte en un arma mágica con un bonificador de +1 a las tiradas de ataque y de daño. A niveles superiores. Cuando lanzas este conjuro utilizando un espacio de conjuro de nivel 4 o más, los bonificadores aumentan a +2. Cuando usas un espacio de conjuro de nivel 6 o más, los modificadores aumentan a +3. CAPÍTULO [: CONJUROS"
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "thorn-whip",
+    "name": "Látigo de Espinas",
+    "description": "Creas un látigo largo, similar a una enredadera cubierta de espinas, que fustiga bajo tus órdenes a una criatura dentro del alcance. Haz un ataque de conjuro cuerpo a cuerpo con- tra el objetivo. Si el ataque impacta, la criatura sufre 1d6 de daño perforante. Además, si el objetivo es de tamaño Grande o menor, tiras de él 10 pies hacia ti. A niveles superiores. El daño del conjuro aumenta en 1d6 cuando alcanzas nivel 5 (2d6), nivel 11 (3d6) y nivel 17 (4d6). LEVANTAR MALDICIÓN Abjuración nivel 3 Tiempo de lanzamiento: 1 acción Alcance: Toque Componentes: V, S Duración: Instantáneo CAPÍTULO |]: CONJUROS Tu toque levanta todas las maldiciones que afecten a una criatura u objeto. Si el objetivo es un objeto mágico mal- dito, la maldición permanecerá, pero este conjuro rompe la sintonización del objeto con el dueño, permitiendo a este quitárselo o deshacerse de él. LEVITAR Transmutación nivel 2 Tiempo de lanzamiento: 1 acción Alcance: 60 pies Componentes: V, S, M (un pequeño lazo de cuero o una pieza de alambre dorado con la forma de una taza y una pata larga en un lado) Duración: Concentración, hasta 10 minutos Una criatura u objeto de tu elección que puedas ver dentro del alcance se eleva hasta 20 pies y se mantiene suspen- dido hasta el final de la duración del conjuro. El conjuro puede hacer levitar a un objetivo de hasta 500 libras. Una criatura no voluntaria que tenga éxito en una tirada de sal- vación de Constitución no se verá afectada. El objetivo solo puede moverse empujándose o tirando de un objeto fijo o una superficie a su alcance (como una pared o techo), lo que le permite desplazarse como si estu- viera escalando. En tu turno, puedes variar la altura del objetivo en hasta 20 pies en cada sentido. Si túmismo eres el objetivo, te puedes mover hacia arriba o abajo como parte de tu movimiento. En caso contrario, para mover al objetivo tienes que utilizar tu acción, mantenién- dole siempre dentro del alcance. Cuando el conjuro acabe, el objetivo flotará suavemente hasta el suelo si todavía está en el aire. LIBERTAD DE MOVIMIENTO Abjuración nivel 4 Tiempo de lanzamiento: 1 acción Alcance: Toque Componentes: V, S, M (una tira de cuero atada alrededor del brazo o apéndice similar) Duración: 1 hora Tocas a una criatura voluntaria. Hasta el final de la dura- ción del conjuro, el movimiento del objetivo no se ve afectado por el terreno difícil y los conjuro",
+    "data": {
+      "level": 0,
+      "school": "transmutation",
+      "casting_time": "1 acción",
+      "range": "30 pies",
+      "components": {
+        "V": true,
+        "S": true,
+        "M": "el tallo de una planta con espinas"
+      },
+      "duration": "Instantáneo",
+      "concentration": false,
+      "classes": [
+        "artificer",
+        "druid"
+      ],
+      "description": "Creas un látigo largo, similar a una enredadera cubierta de espinas, que fustiga bajo tus órdenes a una criatura dentro del alcance. Haz un ataque de conjuro cuerpo a cuerpo con- tra el objetivo. Si el ataque impacta, la criatura sufre 1d6 de daño perforante. Además, si el objetivo es de tamaño Grande o menor, tiras de él 10 pies hacia ti. A niveles superiores. El daño del conjuro aumenta en 1d6 cuando alcanzas nivel 5 (2d6), nivel 11 (3d6) y nivel 17 (4d6). LEVANTAR MALDICIÓN Abjuración nivel 3 Tiempo de lanzamiento: 1 acción Alcance: Toque Componentes: V, S Duración: Instantáneo CAPÍTULO |]: CONJUROS Tu toque levanta todas las maldiciones que afecten a una criatura u objeto. Si el objetivo es un objeto mágico mal- dito, la maldición permanecerá, pero este conjuro rompe la sintonización del objeto con el dueño, permitiendo a este quitárselo o deshacerse de él. LEVITAR Transmutación nivel 2 Tiempo de lanzamiento: 1 acción Alcance: 60 pies Componentes: V, S, M (un pequeño lazo de cuero o una pieza de alambre dorado con la forma de una taza y una pata larga en un lado) Duración: Concentración, hasta 10 minutos Una criatura u objeto de tu elección que puedas ver dentro del alcance se eleva hasta 20 pies y se mantiene suspen- dido hasta el final de la duración del conjuro. El conjuro puede hacer levitar a un objetivo de hasta 500 libras. Una criatura no voluntaria que tenga éxito en una tirada de sal- vación de Constitución no se verá afectada. El objetivo solo puede moverse empujándose o tirando de un objeto fijo o una superficie a su alcance (como una pared o techo), lo que le permite desplazarse como si estu- viera escalando. En tu turno, puedes variar la altura del objetivo en hasta 20 pies en cada sentido. Si túmismo eres el objetivo, te puedes mover hacia arriba o abajo como parte de tu movimiento. En caso contrario, para mover al objetivo tienes que utilizar tu acción, mantenién- dole siempre dentro del alcance. Cuando el conjuro acabe, el objetivo flotará suavemente hasta el suelo si todavía está en el aire. LIBERTAD DE MOVIMIENTO Abjuración nivel 4 Tiempo de lanzamiento: 1 acción Alcance: Toque Componentes: V, S, M (una tira de cuero atada alrededor del brazo o apéndice similar) Duración: 1 hora Tocas a una criatura voluntaria. Hasta el final de la dura- ción del conjuro, el movimiento del objetivo no se ve afectado por el terreno difícil y los conjuro"
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  }
+]

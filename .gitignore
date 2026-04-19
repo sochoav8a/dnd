@@ -10,3 +10,4 @@ coverage/
 drizzle/
 homebrew/
 *.pdf
+homebrew/.ocr-tmp/

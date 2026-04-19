@@ -1,0 +1,153 @@
+RASGOS DEL CELESTIAL
+N ivel de
+brujo
+
+Rasgo
+Li sta d e Con j u ros Ampliada, Trucos Ad icionales,
+Luz Sanadora
+Alma Radia nte
+
+10
+
+Res i l iencia Celestial
+
+14
+
+Ve nganza Ard iente
+
+LISTA DE C ONJUROS AMPLIADA
+El Celestial te permite elegir de entre una lista de conjuros
+ampliada cada vez que aprendes un conjuro de brujo. Los
+siguientes conjuros también forman parte de tu lista de
+conjuros de brujo.
+
+MARCA V I N C U LANTE
+Algunos patrones tienen como hábito marcar de algún
+modo a los brujos que están bajo su influencia. Una marca
+vinculante deja claro (para aquellos que saben de ello), que
+el individuo en cuestión está bajo patronazgo. Este puede
+querer aprovecharse de esa marca, usándola como prueba
+del pacto, o preferir ocultarla (si es posible) para evitar las
+dificultades que pueda traer.
+Si tu pacto de brujo tiene una marca vinculante, cómo te
+sientes acerca de mostrarla depende de la naturaleza de tu
+relación con quien te la dio. ¿Es esta marca un motivo de
+orgullo o algo de lo que te avergüenzas en secreto?
+M ARCAS V I N C U LANTES
+d6
+
+liSTA DE CO N J U ROS A M PLIADA DEL CE LESTIAL
+N ivel de
+conjuro
+
+Conjuros
+
+curar heridas, saeta guía
+esfera de llamas, restablecimiento menor
+luz del día, revivir
+guardián de la fe, muro de fuego
+golpe flamígero, restablecimiento mayor
+
+TRUCOS ADICIONALES
+A nivel l , aprendes los trucos luz y llama sagrada. Se consi­
+deran trucos de brujo para ti, pero no cuentan como parte de
+tu número de trucos conocidos.
+
+M arca
+
+Luz SANADORA
+
+U n o de tus ojos tiene el m i s m o as pecto q u e el de
+tu patrón .
+
+A nivel 1 obtienes la capacidad de canalizar energía celestial
+para curar heridas. Tienes una reserva de dados (d6) que
+puedes gastar para realizar esta curación. La cantidad de
+estos dados es igual a 1 + tu nivel de brujo.
+Como acción adicional, puedes sanar a una criatura que
+puedas ver y se encuentre a 60 pies o menos de ti, gastando
+dados de dicha reserva. El máximo número de ellos que pue­
+des emplear a la vez es igual a tu modificador de Carisma
+(mínimo de 1 dado). Lanza los dados que hayas decidido,
+suma los resultados y restaura ese número total de puntos
+de golpe a la criatura escogida.
+
+C a d a vez q u e te levantas, l a peq ueña m a rca d e tu cara
+apa rece en u n sitio d i stinto.
+M uestras los s ínto m a s d e u n a enfermedad, pero no
+sufres los efectos negativos.
+Tu lengua es d e u n color antinatura l .
+Tienes u n a c o l a vestigial.
+Tu nariz b r i l l a en l a oscuridad.
+
+1:
+
+CAPÍTULO OPCIONES DE PERSONAJE
+
+Tu reserva recupera todos los dados gastados cuando
+completas un descanso largo.
+
+ALMA RADIANTE
+A partir de nivel 6 , tu vínculo con el Celestial te permite
+servir como conducto para la energía luminosa. Obtienes
+resistencia al daño radiante y, además, cuando lanzas
+un conjuro que inflige daño de fuego o radiante, puedes
+añadir tu modificador de Carisma a una tirada de daño
+radiante o de fuego de ese conjuro, contra uno de sus
+objetivos.
+
+LISTA DE C ONJUROS AMPLIADA
+El Filo Maléfico te permite elegir de entre una lista de con­
+juros ampliada cada vez que aprendes un conjuro de brujo.
+Los siguientes conjuros también forman parte de tu lista de
+conjuros de brujo.
+LISTA DE CONJU ROS A M P L I ADA DEL FI LO M ALÉ F I CO
+N ivel de
+conjuro
+
+Conjuros
+
+castigo furioso, escudo
+castigo marcador, contorno borroso
+
+RESILIENCIA CELESTIAL
+A partir de nivel 1 0 , consigues puntos de golpe tempo­
+rales siempre que termines un descanso corto o largo.
+Estos son iguales a tu nivel de brujo + tu modificador
+de Carisma. Además, elige hasta a cinco criaturas que
+puedas ver en el momento de terminar el descanso. Cada
+una de ellas consigue tantos puntos de golpe temporales
+iguales como la mitad de tu nivel de brujo + tu modifica­
+dor de Carisma.
+
+VENGANZA ARDIENTE
+A nivel 14, la energía radiante que canalizas te permite resistir
+a la muerte. Cuando tengas que realizar una tirada de salvación
+contra muerte al principio de tu turno, en vez de eso puedes
+ponerte en pie súbitamente en un estallido de energía radiante.
+Recuperas tantos puntos de golpe como tus puntos de golpe
+máximos y después puedes levantarte si así lo deseas. Cada
+criatura de tu elección que se encuentre a 30 pies o menos de
+ti recibirá 2d8 + tu modificador de Carisma de daño radiante y
+quedará cegada hasta el final del turno actual.
+Una vez utilizado este rasgo, deberás terminar un des­
+canso largo para poder volver a usarlo.
+
+EL FILO M A LÉ F I C O
+Has forjado un pacto con una misteriosa entidad del
+Shadowfell: una fuerza que se manifiesta en armas
+conscientes hechas de jirones de sombra. La poderosa
+espada Negrarma es la más notable de todas ellas, que se
+han extendido por el multiverso a lo largo de los años. La
+fuerza sombría tras estas armas puede ofrecer poder a los
+brujos que forjen pactos con ellas. Muchos seguidores del
+Filo Maléfico crean armas que emulan a las que se forman
+en el Shadowfell. Otros las ignoran y se contentan con
+entretejer la magia oscura de ese plano en su lanzamiento
+de conjuros.
+Como es sabido, la Reina Cuervo forjó la primera de
+estas armas, por lo que muchos sabios sostienen que ella
+y la fuerza son en realidad una, y que las armas, junto con
+los brujos filo maléfico, son herramientas que utiliza para
+manipular los eventos del Plano Material para sus propios
+fines inescrutables.

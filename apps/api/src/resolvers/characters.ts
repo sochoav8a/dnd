@@ -284,6 +284,7 @@ export const characterResolvers = {
           subclassId?: string;
           abilityScoreImprovements?: Partial<AbilityScores>;
           featId?: string;
+          featAbilityChoice?: string;
           knownSpellSlugs?: string[];
           preparedSpellSlugs?: string[];
         };
@@ -291,7 +292,7 @@ export const characterResolvers = {
       ctx: GraphQLContext,
     ) {
       const user = requireAuth(ctx);
-      const { characterId, newLevel, hitPointRoll, subclassId, abilityScoreImprovements, featId, knownSpellSlugs, preparedSpellSlugs } = input;
+      const { characterId, newLevel, hitPointRoll, subclassId, abilityScoreImprovements, featId, featAbilityChoice, knownSpellSlugs, preparedSpellSlugs } = input;
 
       if (newLevel < 2 || newLevel > 20) {
         throw new Error("Level must be between 2 and 20");
@@ -356,7 +357,8 @@ export const characterResolvers = {
         state.hit_dice.push({ die: classData.hit_die, total: levelsGained, remaining: levelsGained });
       }
 
-      // Record feat selection as a custom modifier bucket (actual feat data lookup handled by compute via featsModifiers if needed later)
+      // Record feat selection: apply ability_score_improvement (half-feats)
+      // and push modifiers into custom_modifiers so rules engine sees them.
       if (featId) {
         const [featItem] = await ctx.db
           .select()
@@ -366,8 +368,44 @@ export const characterResolvers = {
         if (featItem) {
           const existingNote = state.notes ? `${state.notes}\n` : "";
           state.notes = `${existingNote}Nivel ${newLevel}: feat "${featItem.name}"`;
-          // Append feat modifiers into custom_modifiers for now; a proper feats table could normalize later.
-          const featData = featItem.data as { modifiers?: unknown[] } | null;
+
+          const featData = featItem.data as {
+            modifiers?: unknown[];
+            ability_score_improvement?: Partial<Record<keyof AbilityScores, number>>;
+            ability_score_choice?: { amount: number; from: string[] };
+          } | null;
+
+          // Fixed half-feats (e.g. Actor +1 CHA, Durable +1 CON)
+          if (featData?.ability_score_improvement) {
+            for (const [ab, bonus] of Object.entries(featData.ability_score_improvement)) {
+              if (!bonus) continue;
+              const key = ab as keyof AbilityScores;
+              state.ability_scores[key] = Math.min(
+                20,
+                (state.ability_scores[key] ?? 0) + bonus,
+              );
+            }
+          }
+
+          // Choice-based half-feats (e.g. Resilient, Athlete): apply picked ability
+          if (featData?.ability_score_choice) {
+            if (!featAbilityChoice) {
+              throw new Error(
+                `El feat "${featItem.name}" requiere elegir una habilidad (${featData.ability_score_choice.from.join("/")})`,
+              );
+            }
+            if (!featData.ability_score_choice.from.includes(featAbilityChoice)) {
+              throw new Error(
+                `La habilidad "${featAbilityChoice}" no es válida para "${featItem.name}"`,
+              );
+            }
+            const key = featAbilityChoice as keyof AbilityScores;
+            state.ability_scores[key] = Math.min(
+              20,
+              (state.ability_scores[key] ?? 0) + featData.ability_score_choice.amount,
+            );
+          }
+
           if (featData?.modifiers && Array.isArray(featData.modifiers)) {
             state.custom_modifiers = [
               ...state.custom_modifiers,

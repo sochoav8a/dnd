@@ -1,0 +1,264 @@
+RASGOS DEL j U RAM ENTO D E R E D E N C I Ó N
+N ivel de
+paladín
+
+Rasgo
+Conj u ros d e J u ram ento, Canalizar D i v i n i d a d
+Aura del G u a rd i á n ( l O pies)
+
+7
+lS
+
+Espíritu Protector
+
+18
+
+Aura del G u ardián (30 pies)
+
+20
+
+E m i s a rio de Redención
+
+C ONJUROS DE jURAMENTO
+Consigues conjuros de juramento en los niveles de paladín
+indicados en la tabla "Conjuros del ]uramento de Redención".
+Puedes consultar el rasgo de clase juramento Sagrado para
+ver cómo funcionan los conjuros de juramento.
+C O NJ U ROS DEL j U R A M E NTO D E R E D E N C I Ó N
+N ivel de
+paladín
+
+Conju ros
+
+dormir, santuario
+
+3
+
+calmar emociones, inmovilizar persona
+contrahechizo, patrón hipnótico
+13
+
+esfera elástica de Otiluke, piel pétrea
+
+17
+
+inmovilizar monstruo, muro de fuerza
+
+CANALIZAR DIVINIDAD
+Cuando asumes este juramento, a nivel 3 , obtienes las
+siguientes dos opciones de Canalizar Divinidad.
+Emisario de Paz. Puedes usar tu Canalizar Divinidad
+para hacer más intensa tu presencia mediante el poder
+divino. Como acción adicional, puedes obtener un bonifica­
+dar de +5 a las pruebas de Carisma (Persuasión) durante los
+próximos 1 0 miñutos.
+Reprender a Jos Violentos. Puedes utilizar tu Canalizar
+Divinidad para reprender a los que recurran a la violencia.
+Inmediatamente después de que un atacante situado a
+30 pies o menos de ti inflija daño con un ataque a una cria­
+tura distinta a ti, puedes emplear tu reacción para forzar al
+atacante a realizar una tirada de salvación de Sabiduría. Si
+falla, recibirá tanto daño radiante como el daño que acaba de
+infligir. Si la supera, sufre la mitad del daño.
+
+AURA DEL GUARDIÁN
+A nivel 7, puedes proteger a otros del daño a expensas de
+tu propia salud. Cuando una criatura que se encuentre a
+10 pies o menos de ti recibe daño, puedes usar tu reacción
+para recibir mágica mente ese daño, en vez de que lo sufra
+esa criatura. Este rasgo no transfiere ningún otro efecto que
+pueda acompañar al daño y, además, este daño no puede ser
+reducido de ninguna manera.
+A nivel 1 8 el alcance de esta aura aumenta a 30 pies.
+
+ESPÍRITU PROTECTOR
+A partir de nivel 15, una presencia sagrada cura tus heridas
+en batalla. Recuperas ld6 + la mitad de tu nivel de paladín
+puntos de golpe si terminas tu turno en combate con menos
+de la mitad de tus puntos de golpe y no estás incapacitado.
+
+EMISARIO DE REDENCIÓN
+A nivel 2 0 te conviertes en u n avatar de la p a z , lo q u e t e
+proporciona l o s siguientes beneficios:
+Tienes resistencia al daño infligido por otras criaturas
+(sus ataques, conjuros y otros efectos).
+Cuando una criatura te impacta con un ataque, recibe
+daño igual a la mitad del daño que tú recibas del ataque.
+Si atacas a una criatura, lanzas un conjuro sobre ella o le
+haces daño de cualquier manera distinta a este rasgo, nin­
+guno de sus beneficios funcionará contra esa criatura hasta
+que completes un descanso largo.
+
+1,
+
+CAPÍTULO OPCIONES DE PERSONAJE
+
+cv.. c, l �v.. i (r c,
+.. \:o'\
+
+�o "''"' Á•
+
+¿Cuál es la tentación a la que tu pícaro es incapaz de
+resistirse cuando se presenta la oportunidad, incluso aunque
+sea problemático para ti y tus compañeros?
+PLACERES CU LPABLES
+
+PÍCARO
+
+d6
+
+La sonrisa d e una cara bon ita
+
+la que bajas a u n a tumba polvorienta es para traer de
+
+Un a n i l l o n uevo para tus dedos
+
+vuelta los tesoros escondidos que puedas encontrar.
+
+La oportu n i d a d de desi nfl a r el ego d e alguien
+
+Pelear es para idiotas. Un hombre m uerto no puede gastar
+
+La mejor com i d a y bebida
+
+su dinero.
+
+Añad i r u n a pieza a tu colección d e monedas exóticas
+
+-Barnabas Bladecutter
+
+Cuando la fuerza bruta no consigue terminar el trabajo, o
+la magia no está disponible o no es útil, el pícaro entra en
+acción. Con habilidades ligadas al sigilo, el subterfugio y el
+engaño, los miembros de esta clase son capaces de meterse
+y salir de los problemas de maneras que pocos otros perso­
+najes pueden emular.
+Algunos pícaros que se meten a aventureros antes eran
+criminales, habiendo decidido que esquivar monstruos
+es mejor que esquivar el largo brazo de la ley. Otros son
+asesinos profesionales que buscan un uso productivo de
+sus talentos entre contrato y contrato. A otros simplemente
+les encanta la emoción de superar cualquier desafío que se
+les presente.
+De aventuras, un pícaro suele combinar un enfoque
+aparentemente cauteloso (pocos miembros de esta clase
+disfrutan del combate) con un hambre voraz por el botín. La
+mayor parte del tiempo, piensa el pícaro, enfrentarse a una
+criatura no tiene como objetivo matarla, sino convertirse en
+el nuevo dueño de sus tesoros.
+Las siguientes secciones exploran ciertos aspectos de
+lo que implica ser un pícaro, y podrás usarlos para añadir
+profundidad a tu personaje.
+
+P LAC E R C U LPA B L E
+La mayor parte d e l a s cosas que hace un pícaro giran alrede­
+dor de obtener tesoro y evitar que otros lo consigan. Pocos
+se interpondrán entre ellos y esos objetivos, aunque muchos
+pícaros se ven desviados del camino por una compulsión
+que nubla su juicio: una irresistible necesidad que debe ser
+satisfecha, incluso aunque hacerlo sea arriesgado.
+El placer culpable de un pícaro podría ser conseguir
+un determinado objeto, experimentar algo o simplemente
+una manera de comportarse en ciertas circunstancias. Por
+ejemplo, un pícaro podría ser incapaz de dejar pasar la
+oportunidad de robar cualquier cosa hecha de plata, incluso
+si esta está colgando del cuello de un guardia del castillo.
+En cambio, para otro podría ser imposible permanecer un
+día en la ciudad sin birlar un par de bolsas, solo para mante­
+nerse en forma.
+
+Placer
+Las piedras preciosas grandes
+
+LA GENTE SE OLVIDA DE QUE LA VERDADERA RAZÓN POR
+
+ADVE RSARIO
+Naturalmente, aquellos que hacen cumplir la ley acaban
+encontrándose con los que la rompen, por lo que un pícaro
+que no tiene su cara en un cartel de "Se busca" es poco
+común. Además, como parte de su profesión, es normal que
+los miembros de esta clase entren en contacto con elemen­
+tos criminales, ya sea por elección o necesidad. Algunas
+de esas personas pueden ser adversarios y normalmente
+será más difícil encargarse de ellos que de la guardia de
+la ciudad.
+Si el trasfondo de tu aventurero no incluye todavía a un
+personaje de este tipo, puedes trabajar con tu DM para
+encontrar una razón por la que un adversario ha entrado
+en tu vida. Quizá hay alguien que lleva tiempo vigilándote y
+quiere usarte para terribles propósitos, pero tú acabas de ser
+consciente de su existencia. Este tipo de incidente podría ser
+la base de una aventura futura.
+¿Tiene tu pícaro un adversario que también es un criminal?
+Si es así, ¿cómo afecta esta relación a tu vida?
+ADVERSARIOS
+d6
+
+Adversario
+El capitán p i rata en cuyo barco servi ste tiempo atrás.
+Lo q u e tú l l a m a s "pasar a otra cosa", el capitán lo
+llama motín .
+Un maestro espía al que s i n q u erer d i ste i n formación
+errónea, lo que le l l evó a ases i n a r a l objetivo inco rrecto.
+El maestro del gremio de l a d rones local, que q u iere
+que te u n as a él o salgas d e l a c i u d a d .
+U n colecci o n i sta de a rte q u e utiliza medios ilegales
+para conseg u i r obras m aestras.
+Un comercia nte de objetos ro bados, que te usa como
+mensajero para reu n iones i l ícitas.
+El propietario de una arena de luchad ores del pozo en
+l a q u e fu i ste corred o r d e a p uestas.
+
+De I "I. Q.U I E R O A 11. D E R E C H A : E s P A D A C H Í N , M E N T E M A E S T R A , l N Q.U I S I T i vo v B A n o o R.
+
+B E N E FACTOR
+
+ARQUETI P O S DE PÍC ARO
+
+Pocos pícaros llegan lejos s i n necesitar la ayuda d e alguien,
+lo que implica deber un gran favor a ese benefactor.
+Si el trasfondo de tu aventurero no incluye este tipo de
+personaje, puedes colaborar con tu DM para determinar por
+qué hay un benefactor en tu vida. Quizá fuiste favorecido
+por algo que hizo tu benefactor, sin que supieras quién era
+el responsable de ello, y acabas de conocer la existencia
+de esa persona. ¿Quién te ayudó en el pasado, lo supieras
+o no en ese momento, y qué le debes a esa persona como
+recompensa?
+
+A nivel 3, el pícaro puede escoger un arquetipo. Las
+siguientes opciones, además de las ofrecidas en el Player's
+Handbook, están disponibles para esta clase: el Batidor,
+el Espadachín, el Inquisitivo y la Mente Maestra.
+
+B E N E FACTO RES
+d6
+
+Benefactor
+Un contra b a n d i sta q u e evitó q u e te capturara n , pero
+perdió u n i m portante carga me nto a l hacerlo. Ahora le
+debes a esa persona u n favor igual de valioso.
+El Rey Mend igo te h a esco n d i d o muchas veces d e tus
+persegu i dores, a cambio de favores futuros.
+U n magistrado te m a ntuvo fuera d e l a cárcel, pero en
+co mpensación tuvi ste q u e dar información sobre un
+poderoso señor del crimen.
+Tu s pad res util izaron s u s a h o rros para sacarte d e un
+problema y a h o ra está n desamparados.
+U n d ragón n o te comió cuando tuvo l a oport u n i d a d y,
+a cambio, prometi ste guardarle los mejores tesoros.
+Un d r u i d a te ayudó una vez a s a l i r de una situación
+d i fíci l . Ahora cualquier a n i m a l q u e ves pod ría ser ese
+ben efactor, q u izá l l egado para ped i rte q u e le devuelvas
+el favor.
+
+CAPÍTULO ¡, OPCIONES DE PERSONAJE
+
+BAT I D O R�--------------------Estás versado en el sigilo y en la supervivencia lejos de las
+calles de la ciudad, lo que te permite explorar por delante
+de tus compañeros de expedición. Los pícaros que adoptan
+este arquetipo se sienten como en casa en la naturaleza,
+entre bárbaros y exploradores. Muchos batidores son los
+ojos y oídos de una escuadra militar. Emboscador, espía,
+cazarrecompensas: estos son solo algunos de los roles des­
+empeñados por estos pícaros cuando viajan por el mundo.

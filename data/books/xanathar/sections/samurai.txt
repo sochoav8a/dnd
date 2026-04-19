@@ -1,0 +1,282 @@
+RASGOS D E SAM U R Á I
+N ivel de
+G uerrero
+
+Rasgo
+Com petencia Adicion a l ,
+Es píritu de L u c h a (S pg temporales)
+Cortesano Elegante
+
+10
+
+Es p íritu I n cansa ble,
+Espíritu d e Lucha (lO pg temporales)
+
+lS
+
+G o l pe S ú b ito,
+Es píritu d e Lucha (l S pg temporales)
+
+18
+
+Forta leza a nte l a M ue rte
+
+C O M PETENCIA ADICIONAL
+Cuando eliges este arquetipo a nivel 3, obtienes competencia
+en una de las siguientes habilidades, a tu elección: Historia,
+Interpretación, Perspicacia o Persuasión. Como alternativa,
+puedes aprender un idioma, el que prefieras.
+
+ESPÍRITU DE LUCHA
+A nivel 3, tu intensidad en batalla puede escudarte y ayu­
+darte a golpear de forma certera. Como acción adicional en
+tu turno puedes obtener ventaja en las tiradas de ataque con
+arma hasta el final del mismo turno. Si lo haces, también
+ganas 5 puntos de golpe temporales. Este número de puntos
+de golpe temporales aumenta según alcanzas ciertos niveles
+en esta clase, incrementándose a 10 en el nivel 10 y a 15 en
+el nivel l 5 .
+Puedes utilizar este rasgo tres veces, recuperando todos
+los usos gastados cuando terminas u n descanso largo.
+
+C O RTE SANO ELEGANTE
+A partir de nivel 7, tu disciplina y atención al detalle te
+permiten brillar en situaciones sociales. Cuando realices
+una prueba de Carisma (Persuasión), recibes un bonificador
+igual a tu modificador de Sabiduría.
+Tu autocontrol también te hace ganar competencia en tira­
+das de salvación de Sabiduría. Si ya tienes esta competencia,
+en vez de eso obtienes competencia en tiradas de salvación
+de Inteligencia o Carisma, a tu elección.
+
+1,
+
+CAPÍTULO OPCIONES DE PERSONAJE
+
+E SPÍRITU INCANSABLE
+A partir de nivel 10, siempre que realices una tirada de ini­
+ciativa y no te queden usos de Espíritu de Lucha, recuperas
+uno de ellos.
+
+GOLPE SúBITO
+A nivel 1 5 aprendes a intercambiar precisión por rapidez
+en el ataque. Si realizas una acción de Atacar en tu turno y
+tienes ventaja contra uno de los objetivos, puedes renunciar
+a la ventaja en esa tirada para realizar un ataque con arma
+adicional contra el objetivo, como parte de la misma acción.
+No puedes hacer esto más de una vez por turno.
+
+FORTALEZA ANTE LA MUERTE
+A partir de nivel 1 8 , la fuerza de tu espíritu es capaz de
+impedir el abrazo de la muerte. Si sufres una cantidad de
+daño que reduce tus puntos de golpe a O, pero no te mata,
+puedes usar tu reacción para no caer inconsciente y obtener
+un turno adicional inmediatamente, interrumpiendo el
+actual. Mientras tengas O puntos de golpe durante ese turno
+adicional, recibir daño causa fallos en tiradas de salvación
+contra muerte de la forma habitual y tres fallos en tiradas de
+salvación contra muerte todavía pueden matarte. Cuando el
+turno adicional termina, caes inconsciente si todavía tienes
+O puntos de golpe.
+Una vez utilizado este rasgo, deberás terminar un des­
+canso largo para poder volver a usarlo.
+
+L '\)ivihG? Lflr<GhG? LQv-i <� t orte �'
+)¡ólr\Af. vf.lr\ �G tG ""'G �iG? 0 ter .t¡f.lr\U o 11'\0 ter
+.lif.lr\H. por h.A.f.r.lf-1 1o .lf.lr\ �O v.lr\ ,¡v.. O if'\.lÓir\.
+
+0
+
+Ü R [G E N E S ARCANOS
+d6
+
+Origen
+Tu poder viene de tu estirpe. Estás vinculado
+a u n a criatura poderosa o h e reda ste u n a bendición
+o maldición.
+Eres l a reencarnación de u n ser d e otro plano
+de existencia.
+
+HECHICERO
+
+Una entidad poderosa entró en el m u ndo. S � magia
+te cambió.
+Tu nacim iento fue profetizado en u n antiguo
+texto, el c u a l presagia q u e uti lizarás tu poder p a ra
+fi nes terri bles.
+
+PRACTICAR Y ESTUDIAR ES PARA AFICIONADOS. EL VER­
+dadero poder es un derecho de nacimiento.
+-Hennet, vástago de Tiamat
+
+Cuando se trata de sacar a la luz sus habilidades en tiempos
+de necesidad, los hechiceros lo tienen fácil comparados
+con otros aventureros. Su poder descansa en su interior,
+pero también necesita ser contenido. Todos los de su clase
+nacen para desempeñar su destino o caen en él por el azar
+cósmico. Al contrario que otros personajes, que deben
+aprender, aceptar y dedicarse a sus talentos, a los hechiceros
+sus poderes les vienen dados.
+La idea de un ser de poder mágico innato deambulando
+por ahí no suele sentar bien, así que los miembros de esta
+clase generan desconfianza y sospechas en los demás. A
+pesar de ello, muchos consiguen sobreponerse a los prejui­
+cios mediante acciones que benefician a sus compatriotas
+con menos aptitud mágica.
+Los hechiceros suelen quedar definidos por cómo se mani­
+festó su poder. Para los que lo reciben como un esperado
+derecho de nacimiento, su aparición es motivo de celebra­
+ción. Otros, en cambio, son marginados y expulsados de sus
+casas tras la aterradora manifestación de sus habilidades.
+Jugar con un personaje hechicero puede ser tan gratifi­
+cante como desafiante. Los siguientes apartados ofrecen
+sugerencias sobre cómo dar cuerpo y personalizar a
+tu hechicero.
+
+ÜRIGEN ARCANO
+Algunos hechiceros entienden d e dónde vino su poder,
+bas á ndose en cómo se manifestaron sus habilidades. Otros,
+sin embargo, solo pueden especular, ya que sus poderes
+aparecieron sin sugerir ningún origen en particular.
+¿Conoce tu personaje la fuente de su poder mágico? ¿Está
+vinculado a un pariente lejano, a un evento cósmico o sim­
+plemente a la pura suerte? Si tu hechicero no sabe de dónde
+procede su poder, tu DM puede usar esta tabla (o elegir una
+de las entradas) y revelártelo cuando esta información pueda
+tener un papel importante en la campaña.
+
+Eres el prod u cto d e generaciones d e reprod ucción
+c u i dadosa y selectiva.
+Te creó u n a l q u i m i sta: s a l i ste d e una cu beta.
+
+REAC C IÓN
+Cuando un nuevo hechicero aparece en e l mundo, y a s e a a l
+nacer o cuando s u poder s e hace evidente, l a s consecuencias
+de este evento dependen enormemente de cómo los testigos
+reaccionen a lo que han visto.
+Cuando aparecieron tus poderes de hechicero, ¿cómo
+respondió el mundo a ellos? ¿Se mostraron alentadores
+los demás, tuvieron miedo o reaccionaron de forma
+ambivalente?
+REACC I O N E S
+d6
+
+Reacción
+Tus poderes son u n a gran bendición para los que te
+rodean y, además, se espera q u e los uses al servicio de
+la co m u n idad.
+Tu s poderes c a u s a ron destrucción e i n c l u s o m u e rte
+cuando se m a n i festa ron, razón por la q u e te trata ron
+como a u n cri m i n a l .
+Tu s vecinos t e o d i a n y tienen m i edo d e tu poder,
+de modo q u e te rechaza n .
+Llamaste l a atención de u n s i n iestro cu lto q u e p l a nea
+explotar tus h a b i l i d ades.
+La gente q u e te rodea cree q u e tus poderes son
+u n a m a l d ición i m p uesta a tu fa m i l i a por una
+transgresión pasada.
+Se piensa q u e tus poderes están vinculados a un
+antiguo l i n aje d e reyes locos q u e acabó en una
+s a n grienta revuelta h ace más de u n s i glo.
+
+1:
+
+CAPÍTULO OPCIONES DE PERSONAJE
+
+DE 11.Q.U I E R O A A O E R E C. � A : A L M A D I V I N A , li E C. H I C. E R O DE LA TO R M E N TA Y li E C. H I C. E R O DE L A S S O M B R A S
+
+MARCA S O B R E NATURAL
+
+S I GN O S DE H E C H I C E RÍ A
+
+Un hechicero en reposo es casi indistinguible de una
+persona normal: solo cuando vuelan los conjuros se revela
+su verdadera naturaleza. No obstante, muchos miembros de
+esta clase también tienen un atributo físico, sutil pero inequí­
+voco, que les diferencia de un individuo corriente.
+Si tu hechicero tiene una marca sobrenatural, quizá sea
+una que se oculta con facilidad o algo de lo que se enorgu­
+llece y que muestra continuamente.
+
+Como e s bien sabido, a algunos hechiceros s e les d a mejor
+que a otros controlar su lanzamiento de conjuros. A veces
+una ráfaga de magia salvaje desviada emana de uno de ellos
+en el momento en que lanza un conjuro. Pero incluso cuando
+la magia funciona como estaba planeado, el acto de emplear
+el conjuro suele ir acompañado de un símbolo claro que
+indica de dónde salió esa energía mágica.
+Cuando tu hechicero lanza un conjuro, ¿se revela el
+esfuerzo con un signo de hechicería? ¿Está el signo vincu­
+lado a tu origen, a algún otro aspecto de tu ser o parece un
+fenómeno aleatorio?
+
+M ARCAS S O B R E N ATU RALES
+d6
+
+M arca
+Tu s ojos son de un color i n u s u a l , como el rojo.
+Tienes u n dedo de más en u n pie.
+Una d e t u s orej a s es bastante más gra nde q u e l a otra.
+Tu pelo crece a una velocidad p rod igiosa.
+Arrugas l a na riz repetidas veces cuando masticas.
+Una mancha roj a apa rece en tu cuello u n a vez a l d ía,
+pero desaparece a l cabo d e u n a hora.
+
+S i G N OS DE H E C H I C E R [A
+d6
+
+Símbolo
+Pro n u ncias los componentes verbales de tus conj u ros
+con una atro n a d o ra voz d e titá n .
+D u rante u n mom ento, después de q u e l a n ces u n
+conj u ro, el área a tu a l rededor s e vuelve oscura
+y tenebrosa.
+Sudas a b u n d a ntemente mientras lanzas u n conj u ro y
+también u n o s segundos después.
+Tu pelo y vestimentas se m u even, como s i los agitara
+una brisa, s i e m p re que i nvocas u n con j u ro.
+S i te encuentras d e pie a l lanzar u n con j u ro, te elevas
+seis p u l ga d a s y después caes lentamente.
+Llamas azules i l u sorias coro n a n tu cabeza a l em pezar
+el l a n z a m iento, pero desaparecen abru ptamente.
+
+L
+
+CAPÍTULO OPCIONES DE PERSONAJE
+
+¿por �"'-¡ tG"'tGl CO!Gl Ct(t!l:iG(t! l:¡'"''"' G(Gl �'
+
+ORÍGE N E S MÁGIC O S
+A nivel 1 , los hechiceros ganan el rasgo Origen Mágico. Las
+siguientes opciones, además de las que se ofrecen en el
+Player's Handbook, están disponibles: Alma Divina, Hechi­
+cería de Tormenta y Magia de las Sombras.
+
+f G1Gr• '1 (Gl Co!Gl i"'jtr"'G(tl G(Gl �' """'-rcil(G j•7
+
+\)Grt'• Grl,.itrGrio. Í'D•I,.tr(G �GI,.tr "' "' G"' j'l
+w.�.A-rcl(lc, �o !
+
+�
+�,.�-
+
+ALMA D IV I NA
+A veces la chispa de magia que da poder a un hechicero
+viene de una fuente divina que ilumina desde el interior del
+alma. Tener una esencia así, bendita, es un signo de que tu
+magia podría venir de una conexión familiar distante, pero
+poderosa, con un ser divino. Quizá un ancestro tuyo era un
+ángel, transformado en mortal y enviado a luchar en nombre
+de un dios. Tal vez tu nacimiento se alineó con una antigua
+profecía, marcándote como sirviente de las deidades o recep­
+tor escogido de magia divina.
+Este tipo de hechiceros, con su magnetismo natural, son
+considerados una amenaza por algunas jerarquías religio­
+sas. Al tratarse de alguien de fuera de la estructura, pero
+que domina·un poder sagrado, un alma divina puede socavar
+la legitimidad de una orden al mostrar una conexión directa
+con lo sagrado.
+En algunas culturas, solo aquellos que pueden demostrar
+ser un alma divina pueden tener poder religioso. En estas
+tierras, las posiciones eclesiásticas están dominadas por
+unos pocos linajes, que se preservan durante generaciones.

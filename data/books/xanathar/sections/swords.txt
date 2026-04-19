@@ -1,0 +1,98 @@
+RASGOS DEL C o LEG I O DE LAS E S PADAS
+N ivel de
+bardo
+
+Rasgo
+Com petencias Ad icionales, Esti l o d e Com bate,
+Floritura con l a Espada
+Ataque Ad icional
+Floritura del Maestro
+
+14
+
+C OMPETENCIAS ADICIONALES
+Cuando t e unes al Colegio de l a s Espadas, al alcanzar el
+nivel 3, ganas competencia con armaduras medias y con
+cimitarras.
+Si eres competente en el uso de un arma cuerpo a cuerpo
+sencilla o marcial, puedes utilizarla como canalizador
+mágico para tus conjuros de bardo.
+
+E STILO DE C O MBATE
+A nivel 3, te especializas en un estilo de combate. Elige una
+de las siguientes opciones que aparecen a continuación. No
+puedes volver a escoger una de las opciones de este rasgo,
+incluso si algún elemento del juego te deja seleccionar de
+nuevo entre varios estilos de combate.
+D u elo. Cuando empuñes una única arma cuerpo a cuerpo
+que solo requiera de una mano para usarse recibes un +2 a
+tus tiradas de daño con esa arma.
+Combate con dos armas. Cuando estés combatiendo con
+dos armas, puedes añadir tu modificador por característica
+al daño del segundo ataque.
+
+1:
+
+CAPÍTULO OPCIONES DE PERSONAJE
+
+FLORITURA CON LA ESPADA
+A nivel 3, aprendes a realizar impresionantes muestras de
+velocidad y de habilidad marcial.
+Cuando realizas una acción de Atacar en tu turno, tu velo­
+cidad aumenta en 1 0 pies hasta el final del turno. Además,
+si un ataque que haces como parte de esta acción impacta a
+una criatura, puedes usar una de las siguientes Florituras
+con la Espada a tu elección. Solo puedes emplear una de las
+opciones de Floritura con la Espada cada turno.
+Floritura defensiva. Puedes gastar uno de tus usos de
+Inspiración Bárdica para que el arma inflija daño adicional
+al objetivo impactado. El daño es igual al número que obten­
+gas en el dado de Inspiración Bárdica. También añades ese
+dado a tu CA hasta el comienzo de tu próximo turno.
+Floritura cortante. Puedes utilizar uno de tus usos de
+Inspiración Bárdica para hacer que el arma inflija daño
+adicional a la criatura impactada y a cualquier otra criatura
+de tu elección que se encuentre hasta a 5 pies de ti y a la que
+puedas ver. El daño es igual al número que obtengas en el
+dado de Inspiración Bárdica.
+Floritura móvil. Puedes emplear uno de tus usos de
+Inspiración Bárdica para que el arma inflija daño adicional
+al objetivo impactado. El daño es igual al número que
+obtengas en el dado de Inspiración Bárdica. Además, puedes
+empujar a tu objetivo hasta 5 pies más el número que hayas
+obtenido en este dado. Inmediatamente después, puedes
+utilizar tu reacción para moverte hasta tu velocidad cami­
+nando a un espacio libre que se encuentre a 5 pies o menos
+del objetivo.
+
+1
+'v1
+
+ATAQUE ADICIONAL
+A partir de nivel 6, cuando lleves a cabo la acción de Atacar
+durante tu turno, podrás hacer dos ataques en lugar de uno.
+
+FLORITURA DEL MAE STRO
+A partir de nivel 14, siempre que uses una de las opciones de
+Floritura con la Espada, puedes lanzar un d6 y utilizarlo en
+vez de emplear uno de tus dados de Inspiración Bárdica.
+
+C OLEGIO D E L GLA M O U R
+E l Colegio del Glamour es e l hogar d e aquellos bardos que
+han afinado su habilidad en el vibrante reino del Feywild o
+bajo la tutela de alguien que vivió allí. Con sátiros, eladrines
+y otros feéricos como profesores, estos aventureros apren­
+den a usar su magia para cautivar y hacer las delicias de
+quienes los escuchan.
+Los bardos de este colegio son recibidos con una mezcla
+de admiración y miedo. Sus actuaciones son legendarias.
+Su elocuencia es tal que un discurso o una de sus canciones
+puede conseguir que sus captores los liberen o, incluso, acu­
+nar a un furioso dragón y que se vuelva autocomplaciente.
+La misma magia que les permite apaciguar a las bestias
+es capaz de someter voluntades. Los bardos malvados son
+capaces de explotar a una comunidad durante semanas,
+usando su magia para convertir a sus anfitriones en siervos.
+En contraste, aquellos miembros más heroicos de este
+colegio utilizan su poder para regocijar a los oprimidos y
+debilitar a los opresores.

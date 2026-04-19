@@ -82,6 +82,15 @@ export function LevelUpWizard({ character, subclasses, feats, spells, token }: P
   const [asiMode, setAsiMode] = useState<"asi" | "feat">("asi");
   const [asi, setAsi] = useState<Partial<Record<Ability, number>>>({});
   const [selectedFeat, setSelectedFeat] = useState<ContentItem | null>(null);
+  const [featAbilityChoice, setFeatAbilityChoice] = useState<Ability | "">("");
+  const [showAllFeats, setShowAllFeats] = useState(false);
+
+  const eligibleFeats = useMemo(() => {
+    return feats.filter((f) => {
+      const data = f.data as { prerequisites?: unknown };
+      return prereqFailureReason(data.prerequisites, character) === null;
+    });
+  }, [feats, character]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
@@ -190,6 +199,9 @@ export function LevelUpWizard({ character, subclasses, feats, spells, token }: P
           input["abilityScoreImprovements"] = asi;
         } else if (asiMode === "feat" && selectedFeat) {
           input["featId"] = selectedFeat.id;
+          if (featAbilityChoice) {
+            input["featAbilityChoice"] = featAbilityChoice;
+          }
         }
       }
       if (needsSpellsStep) {
@@ -214,7 +226,15 @@ export function LevelUpWizard({ character, subclasses, feats, spells, token }: P
         const n = parseInt(hpRoll);
         return !isNaN(n) && n >= 1 && n <= hitDie;
       case "subclass": return !!selectedSubclass;
-      case "asi": return asiMode === "asi" ? asiValid : !!selectedFeat;
+      case "asi":
+        if (asiMode === "asi") return asiValid;
+        if (!selectedFeat) return false;
+        // If the feat requires an ability choice, user must pick one
+        const featData = selectedFeat.data as {
+          ability_score_choice?: { amount: number; from: string[] };
+        };
+        if (featData.ability_score_choice && !featAbilityChoice) return false;
+        return true;
       case "spells": return true;
       case "confirm": return !loading;
       default: return true;
@@ -482,25 +502,121 @@ export function LevelUpWizard({ character, subclasses, feats, spells, token }: P
             )}
 
             {asiMode === "feat" && (
-              <div className="grid max-h-96 gap-2 overflow-y-auto pr-1">
-                {feats.map((f) => (
-                  <button
-                    key={f.id}
-                    onClick={() => setSelectedFeat(f)}
-                    className={`rounded-lg border p-3 text-left transition-all ${
-                      selectedFeat?.id === f.id
-                        ? "border-parchment-500 bg-parchment-600/10 shadow-glow"
-                        : "border-stone-800 bg-stone-900/50 hover:border-parchment-800/50"
-                    }`}
-                  >
-                    <div className="font-display text-sm text-stone-100">{f.name}</div>
-                    {f.description && (
-                      <p className="mt-1 text-xs leading-relaxed text-stone-400">
-                        {f.description}
-                      </p>
-                    )}
-                  </button>
-                ))}
+              <div className="space-y-3">
+                <FeatFilterToggle
+                  showAll={showAllFeats}
+                  onToggle={() => setShowAllFeats((v) => !v)}
+                  filteredOut={feats.length - eligibleFeats.length}
+                />
+                <div className="grid max-h-96 gap-2 overflow-y-auto pr-1">
+                  {(showAllFeats ? feats : eligibleFeats).map((f) => {
+                    const fd = f.data as {
+                      ability_score_improvement?: Record<string, number>;
+                      ability_score_choice?: { amount: number; from: string[] };
+                      prerequisites?: unknown;
+                    };
+                    const asiHint = fd.ability_score_improvement
+                      ? Object.entries(fd.ability_score_improvement)
+                          .filter(([, v]) => v)
+                          .map(([k, v]) => `+${v} ${k}`)
+                          .join(", ")
+                      : null;
+                    const choiceHint = fd.ability_score_choice
+                      ? `+${fd.ability_score_choice.amount} a elegir (${fd.ability_score_choice.from.join("/")})`
+                      : null;
+                    const prereqFailReason = prereqFailureReason(
+                      fd.prerequisites,
+                      character,
+                    );
+                    const disabled = !!prereqFailReason && showAllFeats;
+                    return (
+                      <button
+                        key={f.id}
+                        onClick={() => {
+                          if (disabled) return;
+                          setSelectedFeat(f);
+                          setFeatAbilityChoice("");
+                        }}
+                        disabled={disabled}
+                        className={`rounded-lg border p-3 text-left transition-all ${
+                          selectedFeat?.id === f.id
+                            ? "border-parchment-500 bg-parchment-600/10 shadow-glow"
+                            : disabled
+                              ? "border-stone-800 bg-stone-900/30 opacity-50 cursor-not-allowed"
+                              : "border-stone-800 bg-stone-900/50 hover:border-parchment-800/50"
+                        }`}
+                        title={prereqFailReason ?? undefined}
+                      >
+                        <div className="flex items-center justify-between gap-2">
+                          <div className="font-display text-sm text-stone-100">
+                            {f.name}
+                          </div>
+                          <div className="flex items-center gap-1">
+                            {prereqFailReason && (
+                              <span className="badge-danger text-[9px]">
+                                {prereqFailReason}
+                              </span>
+                            )}
+                            {(asiHint || choiceHint) && (
+                              <span className="badge-primary text-[9px]">
+                                {asiHint ?? choiceHint}
+                              </span>
+                            )}
+                          </div>
+                        </div>
+                        {f.description && (
+                          <p className="mt-1 text-xs leading-relaxed text-stone-400">
+                            {f.description}
+                          </p>
+                        )}
+                      </button>
+                    );
+                  })}
+                </div>
+
+                {/* Ability choice picker (only when feat requires it) */}
+                {selectedFeat &&
+                  (() => {
+                    const fd = selectedFeat.data as {
+                      ability_score_choice?: { amount: number; from: string[] };
+                    };
+                    if (!fd.ability_score_choice) return null;
+                    const { amount, from } = fd.ability_score_choice;
+                    return (
+                      <div className="rounded-lg border border-parchment-800/50 bg-parchment-600/5 p-3">
+                        <p className="mb-2 font-serif text-sm italic text-parchment-300">
+                          {selectedFeat.name} otorga +{amount} a una habilidad.
+                          Elige cuál:
+                        </p>
+                        <div className="flex flex-wrap gap-1.5">
+                          {from.map((ab) => {
+                            const abKey = ab as Ability;
+                            const isSelected = featAbilityChoice === abKey;
+                            const current = character.state.ability_scores[abKey];
+                            return (
+                              <button
+                                key={ab}
+                                type="button"
+                                onClick={() => setFeatAbilityChoice(abKey)}
+                                className={`flex flex-col items-center gap-0.5 rounded-md border px-3 py-1.5 transition-colors ${
+                                  isSelected
+                                    ? "border-parchment-500 bg-parchment-600/20 text-parchment-200 shadow-inset"
+                                    : "border-stone-700 bg-stone-900 text-stone-400 hover:border-parchment-700/60 hover:text-stone-200"
+                                }`}
+                              >
+                                <span className="font-display text-xs font-semibold">
+                                  {ab}
+                                </span>
+                                <span className="font-mono text-[10px]">
+                                  {current} → {Math.min(20, current + amount)}
+                                </span>
+                              </button>
+                            );
+                          })}
+                        </div>
+                      </div>
+                    );
+                  })()}
               </div>
             )}
           </div>
@@ -833,4 +949,111 @@ function spellsLevelUpNote({
     return `Añades 2 hechizos nuevos al grimorio (cap ${nextCaps.spellsKnown}).${cantripsDelta > 0 ? ` Cantrips nuevos: +${cantripsDelta}.` : ""}`;
   }
   return "Esta clase no lanza hechizos.";
+}
+
+// ─── Feat prerequisites ─────────────────────────────────────────────────────
+
+interface FeatPrereqObject {
+  ability_scores?: Record<string, number>;
+  class?: string;
+  race?: string;
+  proficiency?: string | string[];
+  notes?: string;
+}
+
+/**
+ * Returns a short failure reason string if the character doesn't meet the feat
+ * prerequisites, or null if they qualify. Accepts either the legacy array shape
+ * (`["DEX 13"]`) or the structured object shape used by our bundled SRD feats.
+ */
+function prereqFailureReason(
+  prereq: unknown,
+  character: Character,
+): string | null {
+  if (prereq === undefined || prereq === null) return null;
+
+  // String-list form: parse "ABIL NN" entries; ignore anything else.
+  if (Array.isArray(prereq)) {
+    for (const p of prereq) {
+      if (typeof p !== "string") continue;
+      const match = p.match(/\b(STR|DEX|CON|INT|WIS|CHA)\b\s*(\d+)/i);
+      if (match && match[1] && match[2]) {
+        const ab = match[1].toUpperCase() as Ability;
+        const required = parseInt(match[2], 10);
+        const current = character.state.ability_scores[ab] ?? 0;
+        if (current < required) return `${ab} ${required}+`;
+      }
+    }
+    return null;
+  }
+
+  if (typeof prereq !== "object") return null;
+  const p = prereq as FeatPrereqObject;
+
+  if (p.ability_scores) {
+    for (const [ab, req] of Object.entries(p.ability_scores)) {
+      if (typeof req !== "number") continue;
+      const key = ab.toUpperCase() as Ability;
+      const current = character.state.ability_scores[key] ?? 0;
+      if (current < req) return `${key} ${req}+`;
+    }
+  }
+
+  const charWithRelations = character as unknown as {
+    class?: { slug?: string };
+    race?: { slug?: string };
+  };
+  if (p.class && charWithRelations.class?.slug !== p.class) {
+    return `clase ${p.class}`;
+  }
+  if (p.race && charWithRelations.race?.slug !== p.race) {
+    return `raza ${p.race}`;
+  }
+
+  // Proficiency prereqs (e.g. Heavy Armor Master requires heavy armor proficiency)
+  const required = Array.isArray(p.proficiency)
+    ? p.proficiency
+    : p.proficiency
+      ? [p.proficiency]
+      : [];
+  if (required.length > 0) {
+    const computed = character.computed as { armorProficiencies?: string[]; weaponProficiencies?: string[] } | null;
+    const have = new Set([
+      ...(computed?.armorProficiencies ?? []),
+      ...(computed?.weaponProficiencies ?? []),
+    ]);
+    for (const r of required) {
+      if (!have.has(r)) return `requiere ${r}`;
+    }
+  }
+
+  return null;
+}
+
+function FeatFilterToggle({
+  showAll,
+  onToggle,
+  filteredOut,
+}: {
+  showAll: boolean;
+  onToggle: () => void;
+  filteredOut: number;
+}) {
+  if (filteredOut === 0 && !showAll) return null;
+  return (
+    <div className="flex items-center justify-between rounded-md border border-stone-800 bg-stone-900/40 px-3 py-1.5 text-xs">
+      <span className="text-stone-400">
+        {showAll
+          ? `Mostrando todos (${filteredOut} no cumplen requisitos)`
+          : `${filteredOut} feat${filteredOut === 1 ? "" : "s"} oculto${filteredOut === 1 ? "" : "s"} por no cumplir requisitos`}
+      </span>
+      <button
+        type="button"
+        onClick={onToggle}
+        className="text-parchment-400 hover:text-parchment-300"
+      >
+        {showAll ? "Ocultar" : "Mostrar todos"}
+      </button>
+    </div>
+  );
 }

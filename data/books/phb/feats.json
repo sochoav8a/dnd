@@ -1,0 +1,656 @@
+[
+  {
+    "slug": "tough",
+    "name": "Duro",
+    "description": "paladín. Si no sabes por dónde empezar,echa un vistazo a las ilustraciones de este libro hasta que encuentres algo que te llame la atención. Cuando tengas un personaje en mente, procede según los siguientes pasos, tomando las decisiones que mejor representen el aventurero que quieres. Tu concepto de personaje podría evolu- cionar con cada elección que hagas. Lo importante es que llegues a la mesa con un aventurero con el que te ilusione jugar. Alo largo de este capítulo usamos el término hoja de per- sonaje para referirnos a cualquier sistema que utilices para registrar la información de tu personaje, ya sea una hoja de per- sonaje propiamente dicha (como la que aparece al final de este libro), un archivo digital o simplemente una hoja de cuaderno. La hoja de personaje oficial de DEDes u",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "lucky",
+    "name": "Afortunado",
+    "description": "tirada de ataque, prueba de característica o tirada de salvación, puedes volvera tirar el dado, pero tendrás que utilizar el resul- tado nuevo. Valiente. Posees ventaja en las tiradas de salvación para evi- tar ser asustado. Agilidad de Mediano. Puedes moverte a través del espacio ocupado por una criatura cuyo tamaño sea, al menos, una cate- goría superior al tuyo. Idiomas. Puedes hablar, leer y escribir en común y mediano. El idioma de los medianos no es secreto, pero estos son reti- centes a compartirlo con otros. Escriben poco, por lo que no tienen una gran producción literaria. No obstante, su tradición oral es muy rica. Prácticamente todos los medianos hablan común para poder comunicarse con los que viven junto a ellos o en los lugares por los que viajan. Subraza. Los dos tipos princi",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "healer",
+    "name": "Sanador",
+    "description": "La magia divina, como su propio nombre indica, es el poder de los dioses, que fluye de ellos hasta el mundo. Los clérigos son los catalizadores de dicho poder, que se manifiesta en forma de efectos milagro- sos. Los dioses no conceden este poder a todo el que lo busca, sino únicamente a los elegidos para cumplir con una vocación excelsa. Dominar la magia divina no depende del estudio o del entrena- miento; un clérigo podría memorizar de forma literal oraciones y ritos anti- guos, pero la capacidad de lanzar conjuros clericales yace en la devoción y en una comprensión intuitiva de los deseos de la deidad. Los clérigos combinan la útil magia curativa y la capacidad de inspirar a sus aliados con conjuros que dañan y obstacu- lizan a sus enemigos. Pueden infundir admiración y terror, maldecir",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "resilient",
+    "name": "Resiliente",
+    "description": "pueden ser los zombis y los vampiros. Tan grande es este odio que algunas veces llegan a dirigir incursiones contra este tipo de criaturas, especialmente cuando dichos mons- truos penetran en los territorios de un druida. Los druidas suelen custodiar lugares sagrados o vigilar extensiones de naturaleza virgen. Sin embargo, cuando un gran peligro aparece, ya sea para amenazar el equilibrio de la naturaleza o las tierras que protegen, los druidas se ven obligados a combatir la amenaza de forma más activa: convir- tiéndose en aventureros. CREACIÓN DE UN DRUIDA Cuando crees un druida, piensa en por qué tu personaje posee un lazo tan fuerte con la naturaleza. Quizá viva en una sociedad en la que la Antiguafe aún medra o fue criado por un druida tras ser abandonado en las profundidades de un bo",
+    "data": {
+      "modifiers": [],
+      "ability_score_choice": {
+        "amount": 1,
+        "from": [
+          "STR",
+          "DEX",
+          "CON",
+          "INT",
+          "WIS",
+          "CHA"
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "dungeon-delver",
+    "name": "Explorador de Mazmorras",
+    "description": "de explorador. * Unarco largo y una aljaba con 20 flechas. ENEMIGO PREDILECTO Desde el nivel 1 posees una enorme experiencia estudiando, rastreando, cazando e incluso hablando con un tipo concreto de enemigo. Escoge un tipo de enemigo predilecto: aberraciones, autó- matas, bestias, celestiales, cienos, dragones, elementales, feéricos, gigantes, infernales, monstruosidades, muertos vivientes o plantas. De forma alternativa, puedes elegir dos razas de humanoides (como gnolls y orcos, por ejemplo) como enemigos predilectos. Posees ventaja en las pruebas de Sabiduría (Supervivencia) para rastrear a tus enemigos predilectos, así como en las prue- bas de Inteligencia para recordar información sobre ellos. Cuando obtienes este rasgo también aprendes un idioma de tu elección que sea hablado por tu",
+    "data": {
+      "modifiers": [
+        {
+          "target": "skill.perception",
+          "type": "advantage",
+          "value": 1,
+          "source": "feat:dungeon-delver",
+          "priority": 10
+        },
+        {
+          "target": "skill.investigation",
+          "type": "advantage",
+          "value": 1,
+          "source": "feat:dungeon-delver",
+          "priority": 10
+        }
+      ]
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "athlete",
+    "name": "Atleta",
+    "description": "A partir de nivel 7, puedes añadir la mitad de tu bonificador por competencia (redondeado hacia abajo) a cualquier prueba de Fuerza, Destreza o Constitución que hagas que no se benefi- cie ya de tu bonificador por competencia.Además, cuando realices un salto de longitud habiendo tomado carrerilla, aumentarás la distancia que saltas en tantos pies como tu modificador por Fuerza. ESTILO DE COMBATE ADICIONAL A nivel 10 puedes escoger una segunda opción del rasgo Estilo de Combate. CRÍTICO SUPERIOR A partir de nivel 15, tus ataques con arma causarán críticos con un resultado de 18 a 20 enla tirada. SUPERVIVIENTE A nivel 18 alcanzas el pináculo de la resistencia en batalla. Al comienzo de cada uno de tus turnos, recuperas 5 + tu modifi- cador por Constitución puntos de golpe si no te quedan más",
+    "data": {
+      "modifiers": [],
+      "ability_score_choice": {
+        "amount": 1,
+        "from": [
+          "STR",
+          "DEX"
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "sentinel",
+    "name": "Centinela",
+    "description": "A partir de nivel 15, si tus puntos de golpe se ven reducidos a 0 pero no mueresinstantáneamente, puedes volver a tener 1 punto de golpe. Una vez utilizado este rasgo, deberás termi- nar un descanso largo para poder volver a usarlo otra vez. Además, no sufres de ninguno de losinconvenientes de la vejez y no puedes envejecer por medios mágicos. CAMPEÓN ANCESTRAL A nivel 20 puedes asumir la forma de una antigua fuerza de la naturaleza, tomando una apariencia de tu elección. Por ejem- plo: tu piel podría volverse verduzca o desarrollar una textura parecida a la corteza de un árbol, tu pelo podría mutar en hojas o musgo e incluso podrían salirte astas o una melena como la de un león. Puedes usar tu acción para llevar a cabo esta transforma- ción. Obtienes los siguientes beneficios durante 1",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "grappler",
+    "name": "Apresador",
+    "description": "motivo, tu Fuerza bajara de 13 (quizá por una maldición), deja- rías de recibir los beneficios de Apresador hasta que pudieras restaurar la Fuerza perdida.",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "skulker",
+    "name": "Acechador",
+    "description": "Requisitos: Destreza 13 o más. Eres experto en escabullirte entre las sombras. Obtienes los beneficios siguientes: * Puedesintentar esconderte simplemente con estar en una zona ligeramente oscura desde el punto de vista de la cria- tura de la que deseas ocultarte. * Cuando estás escondido de una criatura y fallas un ataque con arma a distancia contra ella, el haber realizado este ata- que no revela tu ubicación. * Laluz tenue no te provoca desventaja en las pruebas de Sabiduría (Percepción) que dependen de la vista.",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "actor",
+    "name": "Actor",
+    "description": "Debido a tu habilidad para la imitación y el arte dramático, recibes los beneficios siguientes: * Tu puntuación de Carisma aumenta en 1, hasta un máximo de 20. * Tienes ventaja en las pruebas de Carisma (Engaño) y Carisma (Interpretación) que hagas para hacerte pasar por otra persona. * Puedes imitar el habla de otra persona o los sonidos que hacen otras criaturas. Debes haber oído hablar a la persona o los sonidos de la criatura durante al menos 1 minuto. Si quien te escucha vence en una prueba de Sabiduría (Pers- picacia) enfrentada a tu prueba de Carisma (Engaño), sabrá que se trata de una imitación. AFORTUNADO Posees una suerte inexplicable, que te sonríe siempre en el momento idóneo. Tienes 3 puntos de suerte. Cuando hagas una tirada de ata- que, prueba de característicao tirada de sa",
+    "data": {
+      "modifiers": [
+        {
+          "target": "skill.deception",
+          "type": "advantage",
+          "value": 1,
+          "source": "feat:actor",
+          "priority": 10
+        },
+        {
+          "target": "skill.performance",
+          "type": "advantage",
+          "value": 1,
+          "source": "feat:actor",
+          "priority": 10
+        }
+      ],
+      "ability_score_improvement": {
+        "CHA": 1
+      }
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "alert",
+    "name": "Alerta",
+    "description": "Siempre estás atento al peligro. Obtienes los beneficios siguientes: * Ganas un bonificador de +5 a la iniciativa. * Mientras estés consciente no puedes ser sorprendido. * Lascriaturas que te ataquen sin que puedas verlas no reci- ben ventaja en sus tiradas de ataque por este motivo. APRESADOR Requisitos: Fuerza 13 o más. Has desarrollado las aptitudes necesarias para pelear bien a distancias extremadamente cortas. Obtienes los beneficios siguientes: * Tienes ventaja en las tiradas de ataque contra una criatura a la que estés agarrando. * Puedes usar tu acción para intentar someter a un objetivo al que estés agarrando. Para ello, haz otra prueba de agarrar. Si tienes éxito, tanto túcomo la criatura estaréis apresados hasta que el agarre finalice.",
+    "data": {
+      "modifiers": [
+        {
+          "target": "initiative",
+          "type": "bonus",
+          "value": 5,
+          "source": "feat:alert",
+          "priority": 10
+        }
+      ]
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "charger",
+    "name": "Atacante a la Carga",
+    "description": "Cuando utilizas tu acción para Correr,puedes usar una acción adi- cional para hacer un ataque con arma cuerpo a cuerpo o empujar a una criatura. Si mueves al menos 10 pies en línea rectajusto antes de emplear esta acción adicional, podrás elegir entre ganar un bonificador de +5 a la tirada de daño del ataque (si optas por hacer el ataque cuerpo a cuerpo e impactas) o empujar al objetivo hasta 10 pies en dirección contraria a ti (si decides empujar y tienes éxito). CAPITULO 65: OPCIONES DE PERSONALIZACION",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "savage-attacker",
+    "name": "Atacante Salvaje",
+    "description": "Una vez por turno, cuando tiras el daño de un ataque con arma cuerpo a cuerpo, puedes repetir los dados de daño del arma y usar el resultado que prefieras. ATLETA Has seguido un entrenamiento físico muy intenso, que te pro- porciona los beneficios siguientes: * Tu puntuación de Fuerza o Destreza aumenta en 1, hasta un máximo de 20. * Solo te cuesta 5 pies de movimiento levantarte cuando estás derribado. * Nonecesitasinvertir movimiento adicional para trepar. * Puedes hacer un salto con carrerilla, tanto de altura como de longitud, tras haberte movido tan solo 5 pies, en lugar de los 10 pies habituales. CAPITULO 6: OPCIONES DE PERSONALIZACION",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "mage-slayer",
+    "name": "Azote de Magos",
+    "description": "Has ensayado técnicas útiles para luchar en cuerpo a cuerpo contra lanzadores de conjuros, recibiendo los beneficios siguientes: Si una criatura que se encuentre a 5 pies o menos de ti lanza un conjuro, puedes utilizar tu reacción para hacer un ataque con arma cuerpo a cuerpo contra ella. Si infliges daño a una criatura que se está concentrando en un conjuro, esta tendrá desventaja en las tiradas de salva- ción que haga con el fin de mantener la concentración. Tienes ventaja en las tiradas de salvación contra los con- juros lanzados por criaturas que se encuentren a 5 pies o menos de ti. CENTINELA Has dominado una serie de técnicas que te permiten apro- vecharte de la más mínima brecha en las defensas de tu enemigo, por lo que recibes los siguientes beneficios:* Siimpactas a una criatura c",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "dual-wielder",
+    "name": "Combatiente con Dos Armas",
+    "description": "Has dominado el combate con dos armas, obteniendo los bene- ficios siguientes: * Recibes un +1 a tu CAcuando estás empuñando varias armas cuerpo a cuerpo, una en cada mano. * Puedes combatir con dos armasincluso si las armas que estás utilizando no son ligeras. * Puedes envainar y desenvainar dos armas a una mano en aquellas circunstancias en las que antes solo podías hacerlo con una.",
+    "data": {
+      "modifiers": [
+        {
+          "target": "ac",
+          "type": "bonus",
+          "value": 1,
+          "source": "feat:dual-wielder",
+          "priority": 10,
+          "condition": {
+            "wielding": "dual"
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "mounted-combatant",
+    "name": "Combatiente Montado",
+    "description": "Eres un enemigo muy peligroso cuando te encuentras sobre una montura. Obtendrás los beneficios siguientes mientras estés sobre una montura y no estésincapacitado: * Tienes ventaja en las tiradas de ataque cuerpo a cuerpo contra cualquier criatura que no esté montada y sea de un tamaño inferior al de tu montura. * Puedes obligar a que un ataque cuyo objetivo original fuera tu montura te tenga como objetivo a ti en su lugar. * Si tu montura es víctima de un efecto que le permita hacer una tirada de salvación de Destreza para recibir solo la mitad del daño, no recibirá daño alguno si tiene éxito en la tirada de salvación y solo la mitad si falla.",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "defensive-duelist",
+    "name": "Duelista Defensivo",
+    "description": "Requisitos: Destreza 13 o más. Cuando estás empuñando un arma sutil con la que seas com- petente y otra criatura te impacte con un.ataque cuerpo a cuerpo, podrás utilizar tu reacción para sumar tu bonificador por competencia a tu CAa efectos de este ataque. Con suerte, conseguirás que falle. DuRO Tus puntos de golpe máximos aumentan en dos veces tu nivel en el momento en que eliges esta dote. A partir de ese momento, cada vez que alcances un nuevo nivel tus puntos de golpe máximos aumentarán en 2 más.",
+    "data": {
+      "modifiers": [],
+      "prerequisites": {
+        "ability_scores": {
+          "DEX": 13
+        }
+      }
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "crossbow-expert",
+    "name": "Experto en Ballestas",
+    "description": "Debido a una práctica intensa con la ballesta, has conseguido los beneficios siguientes: * Puedes ignorar la propiedad “recarga” de las ballestas con las que eres competente. * Estara5 pies o menos de una criatura hostil no te causa desventaja en las tiradas de ataque a distancia. * Cuando realizas una acción de Atacar y atacas con un arma a una mano, puedes utilizar tu acción adicional para atacar con una ballesta de mano que estés sujetando. EXPLORADOR DE MAZMORRAS Estás alerta a las trampas ocultas y las puertas secretas habituales en muchas mazmorras, lo que te proporciona los beneficios siguientes: * Tienes ventaja en las pruebas de Sabiduría (Percepción) e Inteligencia (Investigación) para detectar la presencia de puertas secretas. * Posees ventaja en las tiradas de salvación para ev",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "skilled",
+    "name": "Habilidoso",
+    "description": "Ganas competencia en cualquier combinación de tres habilida- des o herramientas de tu elección.",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "magic-initiate",
+    "name": "Iniciado en la Magia",
+    "description": "Elige una clase: bardo, brujo, clérigo, druida, hechicero o mago. Aprendes dos trucos de tu elección escogidos de entre los de la lista de conjuros de esa clase. También aprendes el conjuro de nivel 1 que escojas de dicha lista. Podrás emplear esta dote para lanzar una vez este con- juro a su nivel más bajo. Deberás finalizar un descanso largo para poder lanzarlo otra vez mediante esta dote. Tu aptitud mágica para estos conjuros dependerá de la clase que hayas elegido: Carisma para bardo, brujo o hechicero; Sabiduría para clérigo o druida; e Inteligencia para mago.",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "war-caster",
+    "name": "Lanzador en Combate",
+    "description": "Requisitos: la capacidad de lanzar al menos un conjuro. Has practicado cómo lanzar conjuros en medio del com- bate, aprendiendo técnicas que te proporcionan los beneficios siguientes: * Tienes ventaja en las tiradas de salvación de Constitución que hagas para mantener la concentración en un conjuro cuando recibes daño. * Puedes ejecutar los componentes somáticos de tus conju- rosincluso cuando empuñas armas o un escudo, en una 0 ambas manos. * Cuando el movimiento de una criatura hostil te permite hacer un ataque de oportunidad contra ella, puedes usar tu reacción para, en lugar de realizar este ataque, lanzar un conjuro contra la criatura. Dicho conjuro deberá tener un tiempo de lanzamiento de 1 acción y tener como objetivo una única criatura.",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "spell-sniper",
+    "name": "Lanzador Preciso",
+    "description": "Requisitos: la capacidad de lanzar al menos un conjuro. Has aprendido varias técnicas que te permiten mejorar tus ata- ques con ciertos tipos de conjuros, recibiendo los beneficios siguientes: * Cuando lances un conjuro que precise de una tirada de ata- que, su alcance se duplica. * Tus ataques de conjuros a distancia ignoran las coberturas media y tres cuartos. * Aprendes un truco que requiera de una tirada de ata- que. Escógelo de entre las listas de bardo, brujo, clérigo, druida, hechicero o mago. Tu aptitud mágica para este truco dependerá de la clase a la que pertenezca la lista en la que figuraba: Carisma para bardo, brujo o hechicero; Sabiduría para clérigo o druida; e Inteligencia para mago. CAPITULO 6: OPCIONES DE PERSONALIZACIÓN .",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "ritual-caster",
+    "name": "Lanzador Ritual",
+    "description": "Requisitos: Inteligencia o Sabiduría 13 o más. Has aprendido una serie de conjuros que puedes lanzar como rituales. Estos conjuros están escritos en un libro de rituales, que debes tener en las manos para poder lanzar cualquiera de ellos. Cuando escojas esta dote obtendrás este libro, que contendrá dos conjuros de nivel 1 de tu elección. Elige una de las siguien- tes clases: bardo, brujo, clérigo, druida, hechicero o mago. Debes escoger los conjuros de entre los de la lista de dicha clase y ambos deben estar marcados como “ritual”. La clase elegida tam- bién determinará tu aptitud mágica para ellos: Carisma para bardo, brujo o hechicero; Sabiduría para clérigo o druida; e Inteli- gencia para mago. Si te encuentras con un conjuro que esté plasmado por escrito, como en un pergsamino de conju",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "inspiring-leader",
+    "name": "Líder Inspirador",
+    "description": "Requisitos: Carisma 13 o más. Puedesinvertir 10 minutos en inspirar a tus compañeros, apuntalando su voluntad para luchar. Cuando hagas esto, escoge hasta a seis criaturas amistosas (entre las que pue- des encontrarte túmismo) a 30 pies o menos de ti que puedan verte u oírte y sean capaces de entenderte. Cada uno de estos objetivos recibe tantos puntos de golpe temporales como tu nivel + tu modificador por Carisma. Ninguna de las criaturas puede volver a recibir puntos de golpe temporales gracias a esta dote hasta que termine un des- canso corto o largo.",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "lightly-armored",
+    "name": "Ligeramente Acorazado",
+    "description": "Te has entrenado hasta dominar el combate en armaduras lige- ras, obteniendo los beneficios siguientes: * Tu puntuación de Fuerza o Destreza aumenta en 1, hasta un máximo de 20. * Ganas competencia con armaduras ligeras.",
+    "data": {
+      "modifiers": [
+        {
+          "target": "armor.light",
+          "type": "proficiency",
+          "value": "light",
+          "source": "feat:lightly-armored",
+          "priority": 10
+        }
+      ],
+      "ability_score_choice": {
+        "amount": 1,
+        "from": [
+          "STR",
+          "DEX"
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "linguist",
+    "name": "Lingüista",
+    "description": "Has estudiado idiomas y códigos, adquiriendo los beneficios siguientes: * Tu puntuación de Inteligencia aumenta en 1, hasta un máximo de 20. * Aprendes tres idiomas de tu elección. * Eres capaz de inventar códigos para cifrar mensajes escri- tos. Salguien quiere descifrarlos tendrá tres opciones: que le enseñes cómo hacerlo, tener éxito en una prueba de Inte- ligencia (CDtu puntuación de Inteligencia + tu modificador por competencia) o recurrir a la magia.",
+    "data": {
+      "modifiers": [],
+      "ability_score_improvement": {
+        "INT": 1
+      }
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "weapon-master",
+    "name": "Versado en las Armas",
+    "description": "Has practicado intensamente con una gran variedad de armas, por lo que disfrutas de los beneficios siguientes: * Tu puntuación de Fuerza o Destreza aumenta en 1, hasta un máximo de 20. * Ganas competencia con cuatro armas de tu elección. Podrás escoger cualquier arma sencilla o marcial. CAPÍTULO 6: OPCIONES DE PERSONALIZACIÓN",
+    "data": {
+      "modifiers": [],
+      "ability_score_choice": {
+        "amount": 1,
+        "from": [
+          "STR",
+          "DEX"
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "medium-armor-master",
+    "name": "Maestro en Armaduras Medias",
+    "description": "Requisitos: competente con armaduras medias. Te has acostumbrado a moverte con armaduras medias, obte- niendo los beneficios siguientes: * Llevar armadura media no te da desventaja en las pruebas de Destreza (Sigilo). * Cuando portas armadura media puedes sumar 3, en lugar de 2,a tu CAssi tienes Destreza 16 o más.",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "heavy-armor-master",
+    "name": "Maestro en Armaduras Pesadas",
+    "description": "Requisitos: competencia con armaduras pesadas. Eres capaz de emplear tu armadura para desviar golpes que matarían a otros. Obtienes los beneficios siguientes: * Tu puntuación de Fuerza aumenta en 1, hasta un máximo de 20. * Mientras estás llevando armadura pesada, el daño con- tundente, cortante y perforante de armas no mágicas que recibas se reduce en 3.",
+    "data": {
+      "modifiers": [],
+      "ability_score_improvement": {
+        "STR": 1
+      },
+      "prerequisites": {
+        "proficiency": "armor.heavy"
+      }
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "polearm-master",
+    "name": "Maestro en Armas de Asta",
+    "description": "Posees los beneficios siguientes: * Cuando realizas una acción de Atacar y atacas únicamente con una alabarda, bastón o guja, puedes emplear tu acción adicional para ejecutar un ataque cuerpo a cuerpo con el lado opuesto del arma. Este ataque utiliza el mismo modifi- cador por característica que el ataque primario, su dado de daño es d4 e inflige daño contundente. * Mientras estás empuñando una alabarda, bastón, guja o pica, puedes hacer un ataque de oportunidad contra aque- llas criaturas que entren dentro del alcance que estas armas te dan.",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "great-weapon-master",
+    "name": "Maestro en Armas Pesadas",
+    "description": "Has aprendido a usar el peso de tu arma en tu beneficio, empleando su impulso para reforzar tus golpes. Obtienes los beneficios siguientes: * Una vez por turno, cuando, con un arma cuerpo a cuerpo, hagas un crítico o reduzcas los puntos de golpe de una cria- tura a 0, podrás utilizar tu acción adicional para realizar un ataque con arma cuerpo a cuerpo. * Puedes elegir, antes de hacer un ataque cuerpo a cuerpo con un arma pesada con la que seas competente, sufrir un penalizador de —5 a la tirada de ataque. Si impactas, puedes sumar +10 al daño del ataque.",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "shield-master",
+    "name": "Maestro en Escudos",
+    "description": "No solo usas el escudo para protegerte, sino también para atacar. Mientras estés embrazando un escudo recibirás los beneficios siguientes: * Sirealizas una acción de Atacar durante tu turno, pue- des utilizar una acción adicional para intentar empujar una criatura que se encuentre a 5 pies o menos de ti con tu escudo. * Sinoestásincapacitado, puedes añadir el bonificador de CAde tu escudo a cualquier tirada de salvación de Destreza que hagas contra cualquier conjuro u otro efecto pernicioso que solo te tenga como objetivoa ti. * Sieres víctima de un efecto que te permite hacer una tirada de salvación de Destreza para recibir solo la mitad del daño, puedes emplear tu reacción para no recibir daño alguno si tienes éxito en la tirada de salvación, interponiendo tu escudo entre el origen del",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "keen-mind",
+    "name": "Mente Aguda",
+    "description": "Posees una mente con una capacidad asombrosa para percibir el paso del tiempo, orientarse y recordar hasta el más mínimo detalle. Obtienes los beneficios siguientes: * Tu puntuación de Inteligencia aumenta en 1, hasta un máximo de 20. * Siempre distingues dónde está el norte. * Siempre sabes cuántas horas faltan para el siguiente amane- cer o anochecer. * Puedes recordar con exactitud todo lo que hayas visto u oído durante el último mes.",
+    "data": {
+      "modifiers": [],
+      "ability_score_improvement": {
+        "INT": 1
+      }
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "moderately-armored",
+    "name": "Moderadamente Acorazado",
+    "description": "Requisitos: competencia con armaduras ligeras. Te has entrenado hasta dominar el combate en armaduras medias y escudos, obteniendo los beneficios siguientes: * Tu puntuación de Fuerza o Destreza aumenta en 1, hasta un máximo de 20. * Ganas competencia con armaduras medias y escudos.MÓVIL Eres excepcionalmente ágil y veloz. Posees los beneficios siguientes: * Tuvelocidad aumenta en 10 pies. * Al realizar una acción de Correr,el terreno difícil no te cuesta movimiento adicional durante este turno. * Sirealizas un ataque cuerpo a cuerpo contra una criatura (impactes o no), no provocarás ataques de oportunidad de esa criatura durante el resto del turno.",
+    "data": {
+      "modifiers": [
+        {
+          "target": "armor.medium",
+          "type": "proficiency",
+          "value": "medium",
+          "source": "feat:moderately-armored",
+          "priority": 10
+        },
+        {
+          "target": "armor.shield",
+          "type": "proficiency",
+          "value": "shields",
+          "source": "feat:moderately-armored",
+          "priority": 10
+        }
+      ],
+      "ability_score_choice": {
+        "amount": 1,
+        "from": [
+          "STR",
+          "DEX"
+        ]
+      },
+      "prerequisites": {
+        "proficiency": "armor.light"
+      }
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "heavily-armored",
+    "name": "Muy Acorazado",
+    "description": "Requisitos: competente con armaduras medias. Te has entrenado hasta dominar el combate en armaduras pesadas, obteniendo los beneficios siguientes: * Tu puntuación de Fuerza aumenta en 1, hasta un máximo de 20. * Ganas competencia con armaduras pesadas.",
+    "data": {
+      "modifiers": [
+        {
+          "target": "armor.heavy",
+          "type": "proficiency",
+          "value": "heavy",
+          "source": "feat:heavily-armored",
+          "priority": 10
+        }
+      ],
+      "ability_score_improvement": {
+        "STR": 1
+      },
+      "prerequisites": {
+        "proficiency": "armor.medium"
+      }
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "observant",
+    "name": "Observador",
+    "description": "Te percatas con facilidad de los detalles de tu entorno, por lo que recibes los beneficios siguientes: * Tu puntuación de Inteligencia o Sabiduría aumenta en 1, hasta un máximo de 20. * Podrás saber lo que dice, leyendo sus labios, cualquier cria- tura que esté hablando un idioma que conozcas y cuya boca puedas ver. * Tienes un bonificador de +5 a tus puntuaciones de Sabiduría (Percepción) e Inteligencia (Investigación) pasivas. RESILIENTE Elige una puntuación de característica. Obtienes los beneficios siguientes: * Tu puntuación de característica elegida aumenta en 1, hasta un máximo de 20. * Obtienes competencia en las tiradas de salvación de la característica elegida.",
+    "data": {
+      "modifiers": [
+        {
+          "target": "passive_perception",
+          "type": "bonus",
+          "value": 5,
+          "source": "feat:observant",
+          "priority": 10
+        }
+      ],
+      "ability_score_choice": {
+        "amount": 1,
+        "from": [
+          "INT",
+          "WIS"
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "durable",
+    "name": "Resistente",
+    "description": "Tu dureza y resistencia te otorgan los beneficios siguientes: * Tu puntuación de Constitución aumenta en 1, hasta un máximo de 20. * Cuando tiras un Dado de Golpe para recuperar puntos de golpe, el número mínimo que recuperas con esta tirada es dos veces tu modificador por Constitución (como mínimo 2). SANADOR Tienes talento como médico. Eres capaz de cerrar heridas rápidamente, permitiendo a tus aliados volver al combate. Obtienes los beneficios siguientes: CAPÍTULO 6: OPCIONES DE PERSONALIZACIÓN * Cuando estabilizas a una criatura que está agonizando (con 0 puntos de golpe) utilizando unos útiles de sanador, la cria- tura también recupera 1 punto de golpe. * Como acción, puedes gastar uno de los usos de unos útiles de sanador para atender a una criatura y hacerla recuperar 1d6 + 4 puntos",
+    "data": {
+      "modifiers": [],
+      "ability_score_improvement": {
+        "CON": 1
+      }
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "sharpshooter",
+    "name": "Tirador de Primera",
+    "description": "Eres un maestro de las armas a distancia, capaz de acertar con disparos que otros considerarían imposibles. Posees los beneficios siguientes: * Notienes desventaja en las tiradas de ataque con armas a distancia a alcance largo. * Tusataques con armas a distancia ignoran las coberturas media y tres cuartos. * Puedes elegir, antes de hacer un ataque con un arma a dis- tancia con la que seas competente, sufrir un penalizador de —5 a la tirada de ataque. Si impactas, puedes sumar +10 al daño del ataque. VERSADO EN LAS ARMAS Has recibido un entrenamiento marcial que te permite eje- cutar ciertas maniobras de combate. Obtienes los beneficios siguientes: * Aprendes dos maniobras a tu elección de entre las dispo- nibles para el arquetipo Maestro del Combate de la clase guerrero. Salguna exige a",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "elemental-adept",
+    "name": "Versado en un Elemento",
+    "description": "Requisitos: la capacidad de lanzar al menos un conjuro. Cuando obtengas esta dote, elige uno de los siguientes tipos de daño: ácido, frío, fuego, relámpago o trueno. Los conjuros que lances ignoran la resistencia al daño del tipo elegido. Además, cuando tires el daño de uno de tus conju- ros que inflija ese tipo de daño, puedes considerar cualquier 1 en los dados de daño como 2. Puedes escoger esta dote varias veces, pero deberás elegir un tipo de daño distinto cada vez que lo hagas.-2* PARTE Las reglas del juego3 F ' AS SEIS CARACTERÍSTICAS SIRVEN PARA DEFINIR Elas capacidades, tanto físicas como mentales, de a todas las criaturas: * Fuerza, que mide el poderío físico. * Destreza, que mide la agilidad. * Constitución, que mide el aguante. * Inteligencia, que mide la memoria y la capaci-",
+    "data": {
+      "modifiers": []
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  },
+  {
+    "slug": "mobile",
+    "name": "Móvil",
+    "description": "Movimiento .......... 181 RápIdo=.. ua 49 sin Armadura....... 104 Y pOSICIÓN: ... ... . 190 Muerte de monstruos....... 197 instantánea ........ 197 Múldh===\".- aneoc 308 Múlanio=a memao zeeze 31 MUlliCIase a e 163 Mundos de aventura ..... 5 Murciélago ........... 308 Muro de espinas ......... 260 de fuego........... 260 de fuerza - ¿=e === 260 de hielo............ 260 de piedra .......... 261 de viento........... 261 prismático ......... 261 Música y magia......... 51 Muy Acorazado........ 170 Nacido de la Tempestad. . 70 NVel aae si 11 del conjuro......... 201 Noble -4 AAneos 138 Nombre:..=*.. ».... ef 121 Nombres dracónidos.......... 33 [ | ( AE A 22 eÑanos::-..- an 19 gnomos .-a=. 36 medianos: .- ...... 27 semielfos ........... 39 Semiorcos........... 41 HeNnos:..Fe 43 y grupos étni",
+    "data": {
+      "modifiers": [
+        {
+          "target": "speed",
+          "type": "bonus",
+          "value": 10,
+          "source": "feat:mobile",
+          "priority": 10
+        }
+      ]
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "pdftotext -layout"
+    }
+  }
+]

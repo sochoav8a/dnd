@@ -1,0 +1,317 @@
+RASGOS DE LA SEN DA DEL H E RALDO DE LAS TORMENTAS
+N ivel de
+bárbaro
+
+Rasgo
+Aura de To rmenta
+Alma d e Tormenta
+
+10
+
+To rmenta P rotectora
+
+14
+
+To rmenta E nfu recida
+
+AURA DE TORMENTA
+Desde el nivel 3 emanas un aura mágica y tormentosa
+cuando te encuentras enfurecido. Esta aura cubre 10 pies
+alrededor de ti en todas direcciones, pero no atraviesa la
+cobertura completa.
+Esta aura tiene un efecto que se activa cuando te enfu­
+reces y que, además, puedes activar de nuevo en cada uno
+de tus turnos como acción adicional. Elige desierto, mar o
+tundra. El efecto de tu aura depende del entorno elegido,
+como se detalla más abajo. Puedes cambiar tu elección de
+ambiente cada vez que ganes un nivel en esta clase.
+Si los efectos de tu aura requieren de una tirada de salva­
+ción, la CD es igual a 8 + tu bonificador por competencia + tu
+modificador por Constitución.
+Desierto. Cuando se activa este efecto, todas las criaturas
+situadas en tu aura (excepto tú) sufren 2 de daño de fuego cada
+una. Este daño aumenta cuando alcanzas ciertos niveles en
+esta clase: 3 a nivel 5, 4 a nivel 10, 5 a nivel 15 y 6 a nivel 20.
+Mar. Cuando se activa este efecto, puedes escoger a una
+criatura que puedas ver y se encuentre en tu aura. El objetivo
+deberá hacer una tirada de salvación de Destreza. Sufrirá
+1d6 puntos de daño de relámpago si falla la tirada o la mitad
+del daño si la supera. Este daño aumenta cuando alcanzas
+ciertos niveles de esta clase: 2d6 a nivel 10, 3d6 a nivel 15 y
+4d6 a nivel 20.
+Tundra. Cuando se activa este efecto, cada criatura de tu
+elección situada en el aura gana 2 puntos de golpe tempera+
+les, gracias a los espíritus de hielo que les habitúan al daño.
+Los puntos de golpe temporales aumentan cuando alcanzas
+ciertos niveles en esta clase: 3 a nivel 5, 4 a nivel 10, 5 a
+nivel 15 y 6 a nivel 20.
+
+ALMA DE TORMENTA
+A nivel 6, la tormenta te proporciona beneficios incluso
+cuando tu aura no está activa. Estos beneficios dependen del
+entorno elegido para tu Aura de Tormenta.
+Desierto. Ganas resistencia al daño de fuego y no sufres
+los efectos del calor extremo, tal y como se describen en el
+Dungeon Master's Cuide. Adicionalmente, utilizando una
+acción, puedes tocar un objeto inflamable que no lleve o vista
+nadie y hacerlo arder.
+Mar. Adquieres resistencia al daño de relámpago y la
+capacidad de respirar bajo el agua. También ganas una
+velocidad nadando de 30 pies.
+
+¿<;,!,u '"'-Gl (J v.. �o A( los IMG¡oru (¡,(�( { lelos A( vivir
+7 Q"'-' ._o �G �Gl l:¡,� •·
+1IDG • o {:¡(rrG.
+Í
+� '·
+t
+Así }V..( �o lo (J.lrot (lJ.
+Tundra. Obtienes resistencia al daño de frío y no sufres
+los efectos del frío extremo, tal y como se describen en el
+Dungeon Master's Cuide. Además, empleando una acción,
+eres capaz de tocar agua y convertir un cubo de S pies de
+lado de la misma en hielo. Se derretirá pasado 1 minuto.
+Esta acción falla si alguna criatura está dentro del cubo.
+
+TORMENTA PROTECTORA
+A nivel 10, aprendes a utilizar tu dominio sobre la tormenta
+para proteger a otros. Todas las criaturas de tu elección
+tienen la resistencia al daño que ganaste del rasgo Alma de
+Tormenta mientras se encuentren en tu Aura de Tormenta.
+
+TORMENTA ENFURECIDA
+A nivel 14, tu tormenta se vuelve aún más poderosa, ata­
+cando a tus enemigos. Este efecto está basado en el entorno
+que hayas elegido para tu Aura de Tormenta.
+Desierto. Inmediatamente después de que una criatura
+situad::. dentro de tu aura te impacte con un ataque, puedes
+usar tu reacción para obligarla a realizar una tirada de sal­
+vación de Destreza. Si la falla, dicha criatura sufrirá la mitad
+de tu nivel de bárbaro de daño de fuego.
+Mar. Cuando impactas a una criatura que se encuentra
+dentro de tu aura con un ataque, puedes usar tu reacción
+para obligarla a realizar una tirada de salvación de Fuerza.
+Si falla la tirada, dicha criatura queda derribada, como si
+hubiera sido golpeada por una ola.
+Tundra. Cuando el efecto de tu Aura de Tormentas se
+activa, puedes elegir una criatura que puedas ver y esté
+situada dentro del aura. El objetivo deberá tener éxito en
+una tirada de salvación de Fuerza o su velocidad quedará
+reducida a O hasta el principio de tu próximo turno debido a
+la escarcha mágica que la cubre.
+
+Obra característica
+" Los tres fl a m b i n i s ", u n a atrevida canción d e
+identidades equ ivocadas y d e s e o s i n trabas.
+" E l vals de los m i có n i d os", una a legre melodía que
+gu sta especi a l mente a los n i ños.
+" E l trasero d o rado d e Asmod eo", u n poema d ramático
+cuya i n s p i ración fue tu s u puesta vis ita personal
+a l Averno.
+" Los piratas de Luskan", u n rel ato de primera mano de
+tu secuestro por unos pi ratas cuando eras solo u n niño.
+"Un a ro, dos pichones y u n sabueso i n fernal", u n a sutil
+parod i a de u n noble i n com petente.
+" U n pard i l l o en el Abis mo", poema cómico sobre un
+bufón y sus viajes entre demonios.
+
+BARDO
+
+I N STRU M E NTO
+
+LA MÚSICA ES LA FRUTA DEL ÁRBOL DIVINO QUE VIBRA
+con las Palabras de Creación. Pero lo q u e yo te pregunto es:
+¿Puede un bardo llegar a la raíz de este árbol? ¿Es posible
+acceder a la fuente de ese poder? Ah, ¡la música que podría
+traer a este m undo!
+-Fletcher D anairia, maestro bardo
+
+Los bardos proporcionan desenfado en tiempos oscuros,
+otorgan sabiduría para contrarrestar la ignorancia y hacen
+que lo ridículo parezca sublime. Son conservadores de
+la historia más antigua, usando canciones y relatos para
+perpetuar a través de los tiempos la memoria de grandes
+acontecimientos. Este conocimiento es tan importante que
+será aprendido y difundido, sobreviviendo de esta manera
+cuando no quede nada escrito.
+También es parte del papel de un bardo ser cronista de
+hechos menores y más contemporáneos: las historias de los
+héroes de hoy, desde sus mayores gestas a sus poco impre­
+sionantes fracasos.
+No obstante, en el mundo hay muchas personas que
+pueden seguir una melodía o contar bien una historia, razón
+por la que un bardo aventurero no posee solo su labia y una
+voz melodiosa. Lo que realmente distingue a una de estas
+personas (y lo diferencia de otros bardos) es el estilo y la
+sustancia de su interpretación.
+Para conquistar y mantener la atención del público, los
+bardos normalmente actúan de forma ostentosa y extrover­
+tida. Los más famosos son el equivalente en el mundo de
+D&D a una estrella del pop. Si tu personaje es un miembro
+de esta clase, considera usar a uno de tus músicos favoritos
+como referente para tu aventurero.
+Puedes añadir aspectos únicos a tu personaje con las
+siguientes sugerencias.
+
+Ü B RA C ARAC T E R Í S T I C A
+Todo bardo d e éxito es conocido por u n a obra de arte
+interpretativo, normalmente una canción o un poema que
+encandila a quien quiera que la escuche. Estas piezas son
+capaces de cambiar la vida del público o, por lo menos, de
+hacer que hablen de ella durante años.
+Si tu personaje está empezando, tu obra característica
+probablemente aún no ha llegado, pero, para poder ganarte
+la vida con tu profesión, seguro que ya tienes dos o tres
+piezas que han sido un éxito en tu repertorio.
+
+I'
+
+CAPÍTULO OPCIONES DE PERSONAJE
+
+E n l a búsqueda de un bardo de la interpretación definitiva
+y el máximo aplauso, su instrumento es tan importante
+como su habilidad vocal. La calidad de su manufactura es,
+por tanto, crítica: los mejores instrumentos crean la mejor
+música, por lo que algunos bardos no paran de buscar uno
+mejor. Pero quizá sea igual de importante el impacto que
+pueda causar el instrumento en sí mismo. Es más probable
+que aquellos construidos de forma extraña o con materiales
+exóticos dejen un recuerdo duradero en el público.
+Puede que tu instrumento actual sea "de tienda", porque
+no te podías permitir otra cosa, o que haya sido un regalo
+y sea muy elaborado. ¿Estás satisfecho con el que tienes o
+quieres reemplazarlo por uno realmente peculiar?
+I NSTRU MENTO
+d6
+
+Instrumento
+Un violín med i a n o d e excelente man ufactura
+Un cuerno de mithral hecho por elfos
+U n a cítara fa bricada con seda d e araña d row
+Un tambor o rco
+Una caja de madera que croa como un b u l lywug
+El a rpa d e u n m a n itas, d e d i seño gnomo
+
+VE RGÜ E N Z A
+Casi cualquier bardo ha sufrido a l menos una mala expe­
+riencia de cara al público, y lo normal es que tú no seas la
+excepción. Al fin y al cabo, nadie se vuelve famoso de golpe.
+Quizá tuviste alguna dificultad al principio de tu carrera o
+necesitaste tiempo para limpiar tu reputación tras una noche
+agónica en la que el destino conspiró para traer la ruina a
+tus interpretaciones.
+Una actuación puede ir mal de tantas maneras como
+peces hay en el mar. Pero, sea cual sea el desastre, un bardo
+tiene el coraje y la confianza necesaria para recuperarse tras
+el descalabro, ya sea continuando la actuación, si es posible,
+o prometiendo volver mañana con un éxito seguro.
+
+De I "I.Q.U I ERDA A D ERE C H A : B ARDOS DE LOS C O L E G I O S D E L G L A MOUR, DE L A S E S P A D A S V DE LOS S U S URROS
+
+VERGÜENZAS
+d6
+
+Vergüenza
+Esa vez que tu canción cómica " La s traves u ras del
+G ra n To m " (que, por cierto, crees q u e es b ri l l a nte)
+n o l e sentó bien al G r a n Tom .
+L a m a t i n é en l a q u e el oso lechuza del ci rco escapó y
+aterrorizó al p ú b l ico.
+Cuando tu primer acto fue tu entusiástica,
+pero u n ivers a l mente abo rrecida, i nterpretación
+d e " La canción del ra n a m ot".
+La pri mera y ú ltima i nterpretación en públ ico de
+" M i rt, h o m b re d e m u n do".
+La vez q u e tu peluca se prendió fuego y la ti raste
+a l suelo, incendiando el escenario.
+Cuando te sentaste por error en tu laúd d u rante l a
+ú l t i m a estrofa de "Seren ata a l a l u z d e las estre l l as".
+
+LA M U S A D E L B A R D O
+Como e s natural, todo bardo posee un repertorio de
+canciones e historias. Algunos son genera listas, capaces
+de recurrir a una amplia variedad de temas para cada
+actuación, y están orgullosos de su versatilidad. Otros tienen
+un enfoque más personal en su arte, llevados por su apego a
+una musa, un concepto especial que inspira mucho de lo que
+esos artistas despliegan delante de una audiencia.
+Un bardo que sigue a una musa normalmente lo hace para
+ganar una comprensión más profunda de lo que esta repre­
+senta, con el fin de ser capaz de transmitir este conocimiento
+a otros a través de su interpretación.
+Si tu personaje bardo tiene una musa, podría ser una de
+las tres descritas aquí, pero también otra creada por ti.
+Naturaleza. Sientes una afinidad por la naturaleza. Su
+belleza y misterio te inspiran. Para ti, un árbol es profun­
+damente simbólico. Sus profundas raíces ahondan en lo
+
+desconocido para extraer el poder de la tierra, mientras
+sus ramas se estiran hacia el sol para alimentar sus flores
+y fruta. La naturaleza ha sido testigo del alzamiento y caída
+de todos los reinos, incluso aquellos cuyos nombres han
+sido olvidados y esperan ser redescubiertos. Los dioses
+de la naturaleza comparten sus secretos con druidas y
+sabios, abriendo sus corazones y mentes a nuevas maneras
+de ver. Tú, al igual que ellos, sientes que tu creatividad
+florece cuando vagas por un campo abierto de ondulada
+hierba o cuando caminas en silencio por una arboleda de
+robles ancianos.
+Amor. Buscas identificar la esencia del amor verdadero.
+Aunque no desdeñas el amor superficial de la carne y el
+aspecto, lo que realmente te interesa es esa forma de amor
+profundo que puede inspirar a miles o llenar de alegría
+cada pequeño momento. El amor de este tipo es omnipre­
+sente, por lo que puede tomar muchos aspectos: desde el
+brillo de una pieclra preciosa a la canción de un simple
+pescador, que agradece al mar su abundancia. Sigues el
+rastro del amor, la emoción más preciosa y misteriosa de
+todas y, así, tu búsqueda llena tus historias y canciones con
+vitalidad y pasión.
+Conflicto. El drama supone el enfrentamiento encar­
+nado: las mejores historias giran alrededor del conflicto.
+Desde la historia de la mañana siguiente de una pelea de
+taberna a la saga que recuerda una batalla épica; desde
+una disputa de enamorados a una pugna entre poderosas
+dinastías, el conflicto es lo que inspira a los cuentacuentos
+a crear sus mejores obras. El conflicto puede sacar lo mejor
+de algunos, haciendo que brille su naturaleza heroica y
+transformen el mundo, pero también provoca que otros se
+vean atraídos hacia la oscuridad y caigan bajo el influjo
+del mal. Aspiras a experimentar o ser testigo de todas las
+formas de conflicto, grandes y pequeñas, para estudiar
+este aspecto eterno de la vida y poder inmortalizarlo en tus
+palabras y tu música.
+
+CAPÍTULO ¡, OPCIONES DE PERSONAJE
+
+C OLEGI O S BÁRDI C O S
+A nivel 3 , un bardo consigue el rasgo Colegio Bárdico.
+Las siguientes opciones, además de las que se ofrecen
+en el Player's Handbook, están disponibles: el Colegio
+de las Espadas, el Colegio del Glamour y el Colegio de
+los Susurros.
+
+C OL E GI O D E LAS E S PADAS
+L o s bardos d e l Colegio de l a s Espadas reciben e l nombre
+de filos, ya que entretienen con osadas proezas de pericia
+en armas. Realizan interpretaciones tales como combates
+fingidos, tragarse sables, lanzamiento de cuchillos o mala­
+bares con dagas. Aunque utilizan sus armas para entretener,
+también son guerreros entrenados y de gran habilidad.
+Su talento con las armas lleva a muchos filos a llevar
+dobles vidas. Uno de estos bardos quizá use a una compañía
+circense como tapadera para perversos actos, como asesi­
+natos, robos y chantajes. Otros filos cazan a los malvados,
+dispensando justicia a los crueles y poderosos. La mayoría
+de compañías no tienen problema en añadir el talento de
+uno de ellos a sus filas, debido a la gran emoción que añaden
+a una actuación, pero pocos se fían por completo de lo que
+puedan hacer.
+Aquellos bardos que dejan sus vidas como animadores
+muchas veces acaban teniendo problemas que les impiden
+mantener en secreto sus otras actividades. Un filo al que
+pillen robando o haciendo de justiciero supone un lastre
+demasiado grande para la mayor parte de compañías. Con
+su habilidad con las armas y su magia, estos bardos acaban
+encontrando trabajo como sicarios de algún gremio de
+ladrones o salen en busca de aventuras.

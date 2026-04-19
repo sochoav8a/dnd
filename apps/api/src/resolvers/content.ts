@@ -3,6 +3,13 @@ import { requireAuth } from "../graphql/context.js";
 import { and, eq, schema } from "@dnd/db";
 import type { ContentType } from "@dnd/shared";
 
+function sourcePriority(source: typeof schema.contentSources.$inferSelect | undefined) {
+  if (!source) return 0;
+  if (source.type !== "official") return 1;
+  if (source.name === "SRD 5.1") return 3;
+  return 2;
+}
+
 export const contentResolvers = {
   Query: {
     async contentSources(_: unknown, __: unknown, ctx: GraphQLContext) {
@@ -54,11 +61,34 @@ export const contentResolvers = {
         .from(schema.contentItems)
         .where(filters.length === 1 ? filters[0]! : and(...filters));
 
-      return items.filter(
+      const visibleItems = items.filter(
         (item) =>
           entitledSourceIds.has(item.sourceId) &&
           (!sourceId || item.sourceId === sourceId),
       );
+
+      if (sourceId) return visibleItems;
+
+      const sourcesById = new Map(sources.map((source) => [source.id, source]));
+      const deduped = new Map<string, (typeof visibleItems)[number]>();
+
+      for (const item of visibleItems) {
+        const key = `${item.contentType}:${item.slug}`;
+        const existing = deduped.get(key);
+
+        if (!existing) {
+          deduped.set(key, item);
+          continue;
+        }
+
+        const existingPriority = sourcePriority(sourcesById.get(existing.sourceId));
+        const nextPriority = sourcePriority(sourcesById.get(item.sourceId));
+        if (nextPriority > existingPriority) {
+          deduped.set(key, item);
+        }
+      }
+
+      return [...deduped.values()];
     },
 
     async contentItem(_: unknown, { id }: { id: string }, ctx: GraphQLContext) {

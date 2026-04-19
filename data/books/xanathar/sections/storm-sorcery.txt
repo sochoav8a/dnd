@@ -1,0 +1,119 @@
+RASGOS D E LA H EC H I C E R fA D E TO R M E NTA
+N ivel de
+hechicero
+
+Rasgo
+Portavoz del Viento, M agia Tem pestuosa
+Corazón de l a To rmenta, G u ía de l a To rme nta
+
+14
+
+Furia de l a To rmenta
+
+18
+
+Alma del Viento
+
+A nivel 1 , el poder divino protege tu destino. Si fallas una
+tirada de salvación o tirada de ataque, puedes lanzar 2d4
+y añadirlos al total, posiblemente cambiando el resultado.
+1,
+
+CAPÍTULO OPCIONES DE PERSONAJE
+
+PORTAVOZ DEL VIENTO
+La magia arcana que dominas está cargada de aire elemen­
+tal. Puedes hablar, leer y escribir en primordial. Conocer
+este idioma te permite comprender y hacerte entender
+por quienes hablan sus dialectos: acuano, aurano, ígneo
+y terrano. -
+
+MAGIA TEMPESTUOSA
+A partir del nivel 1 puedes usar una acción adicional en tu
+turno para hacer que ráfagas de aire elemental se arremoli­
+nen brevemente y te rodeen justo antes o después de lanzar
+un conjuro de nivel 1 o superior. Hacerlo te permite volar
+hasta 1 0 pies sin provocar un ataque de oportunidad.
+
+C ORAZÓN DE LA TORMENTA
+A partir del nivel 6 obtienes resistencia al daño de relám­
+pago y de trueno. Además, siempre que empieces a lanzar un
+conjuro de nivel 1 o superior que inflija daño de relámpago
+o de trueno, de ti manará una magia tormentosa. Esta
+explosión provocará que las criaturas que elijas, puedas ver y
+se encuentren a 10 pies o menos de ti reciban la mitad de tu
+nivel de hechicero de daño de relámpago o de trueno (elígelo
+cada vez que uses esta opción).
+
+GUÍA DE LA TORMENTA
+Cuando llegas a nivel 6, obtienes la habilidad de controlar
+sutilmente el clima que te rodea.
+Si está lloviendo, puedes emplear una acción para que
+cese la lluvia en una esfera de 2 0 pies de radio en la que
+seas el centro. Puedes terminar este efecto como acción
+adicional.
+
+Si hace viento, puedes usar una acción adicional en cada
+asalto para elegir la dirección en la que sopla el viento en
+una esfera de 100 pies de radio en la que seas el centro. El
+viento soplará en esa dirección hasta el final de tu siguiente
+turno. Este rasgo no altera la velocidad del viento.
+
+FURIA DE LA TORMENTA
+A partir del nivel 14, cuando eres impactado por un ataque
+cuerpo a cuerpo, puedes utilizar tu reacción para hacer
+daño de relámpago al atacante. El daño es equivalente a tu
+nivel de hechicero. El atacante deberá realizar una tirada
+de salvación de Sabiduría con la misma CD que tu tirada
+de salvación de conjuros. Si no supera la tirada, el atacante
+será empujado hasta 2 0 pies en dirección opuesta a ti en
+línea recta.
+
+ALMA DEL VIENTO
+A partir del nivel 1 8 consigues inmunidad al daño de relám­
+pago y de trueno.
+También obtienes una velocidad volando mágica de
+60 pies. Puedes usar tu acción para reducir tu velocidad
+volando a 30 pies durante una hora y elegir a 3 + tu modifi­
+cador de Carisma criaturas situadas a 30 pies o menos de
+ti. Las criaturas escogidas ganan una velocidad volando de
+30 pies durante una hora. Si reduces tu velocidad volando
+de este modo, no puedes volver a hacerlo hasta terminar un
+descanso corto o largo.
+
+MAGIA DE LAS S O M BRAS
+Eres u n a criatura d e l a s sombras, y a que t u magia innata
+viene del propio Shadowfell. Quizá seas un descendiente de
+una entidad de ese lugar o tal vez quedaste expuesto a su
+energía corrupta y esta te transformó.
+El poder de la magia de las sombras tiene un efecto
+lúgubre sobre tu apariencia física. La chispa de la vida que te
+sostenía ha quedado sofocada, aunque lucha por existir bajo
+la energía oscura que imbuye tu alma. Como opción, puedes
+elegir o tirar en la tabla " Peculiaridades del Hechicero de
+las Sombras" para crear una característica singular para
+tu personaje.
+
+¿Qoo.l (< f GlG G (G '"'-t< co"' <( ti•� /
+j
+f
+s,� t l•�•"'t• " •l 'i•l• l(•rG"'- A• � ritG"'- A•
+j
+f 0'}"" ul:i, A•�Gl iGA• l•j•s J, , �r.
+
+0
+
+PECU L I A R I DADES D E L H EC H ICERO DE LAS S OM B RAS
+d6
+
+Peculiaridad
+S i e m p re estás helado a l tacto.
+C u a n d o d u ermes, pa rece que no res pi ras
+( a u n q u e debes res pirar para sobreviv i r) .
+Prácticamente n o s a n gras, i n c l u s o cuando estás
+gravemente herido.
+Tu corazón l ate una vez por m i n uto. Esto a veces
+te sorprende.
+Te cuesta reco rdar q u e las criaturas vivie ntes y los
+cadáveres deben ser tratados de fo rma d i fe rente.
+Parpadeaste. Una vez. La semana pasada.

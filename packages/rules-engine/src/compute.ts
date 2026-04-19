@@ -20,6 +20,7 @@ import { computeAC, type EquippedArmor } from "./ac.js";
 import { computeSkills } from "./skills.js";
 import { computeSavingThrows } from "./saving-throws.js";
 import { computeSpellSlots, computeMulticlassSpellSlots } from "./spell-slots.js";
+import { resolveModifierValue } from "./modifiers.js";
 
 export interface EquipmentItem {
   name: string;
@@ -126,6 +127,20 @@ export function computeCharacter(input: ComputeInput): ComputedCharacter {
     ...(subclass ? collectSubclassModifiers(subclass, level) : []),
   ];
 
+  const equippedItems = equipment.filter((e) => e.equipped);
+  const equippedArmor = resolveEquippedArmor(equippedItems);
+  const hasShield = equippedItems.some(
+    (e) => e.data.category === "shield" || e.data.armor?.type === "shield",
+  );
+  const applicableModifiers = allModifiers.filter((modifier) =>
+    modifierApplies(modifier, {
+      conditions,
+      equippedArmor,
+      hasShield,
+      equippedItems,
+    }),
+  );
+
   // ── Proficiencies ─────────────────────────────────────────────────
   // Primary class: full proficiencies
   const armorProficiencies = [...classData.armor_proficiencies];
@@ -148,14 +163,60 @@ export function computeCharacter(input: ComputeInput): ComputedCharacter {
     weaponProficiencies.push(...subrace.extra_proficiencies.filter(isWeaponProf));
   }
 
+  for (const modifier of applicableModifiers) {
+    if (modifier.type !== "proficiency") continue;
+
+    if (modifier.target.startsWith("armor.")) {
+      const proficiency = String(modifier.value);
+      if (!armorProficiencies.includes(proficiency)) armorProficiencies.push(proficiency);
+      continue;
+    }
+
+    if (modifier.target.startsWith("weapon.")) {
+      const proficiency = String(modifier.value);
+      if (!weaponProficiencies.includes(proficiency)) weaponProficiencies.push(proficiency);
+      continue;
+    }
+
+    if (modifier.target.startsWith("tool.")) {
+      const proficiency = String(modifier.value);
+      if (!toolProficiencies.includes(proficiency)) toolProficiencies.push(proficiency);
+    }
+  }
+
   // Languages
   const languages = [
     ...race.languages,
     ...(subrace?.extra_languages ?? []),
   ];
 
+  for (const modifier of applicableModifiers) {
+    if (modifier.type !== "proficiency") continue;
+    if (!modifier.target.startsWith("language.")) continue;
+
+    const language = String(modifier.value);
+    if (!languages.includes(language)) languages.push(language);
+  }
+
   // ── Skill proficiencies from background ───────────────────────────
-  const skillProficiencies = background.skill_proficiencies as Skill[];
+  const skillProficiencies = [...background.skill_proficiencies] as Skill[];
+  for (const modifier of applicableModifiers) {
+    if (modifier.type !== "proficiency") continue;
+    if (!modifier.target.startsWith("skill.")) continue;
+
+    const skill = modifier.target.slice("skill.".length) as Skill;
+    if (!skillProficiencies.includes(skill)) skillProficiencies.push(skill);
+  }
+
+  const mergedExpertiseSkills = [...expertiseSkills];
+  for (const modifier of applicableModifiers) {
+    if (modifier.type !== "expertise") continue;
+    if (!modifier.target.startsWith("skill.")) continue;
+
+    const skill = modifier.target.slice("skill.".length) as Skill;
+    if (!mergedExpertiseSkills.includes(skill)) mergedExpertiseSkills.push(skill);
+    if (!skillProficiencies.includes(skill)) skillProficiencies.push(skill);
+  }
 
   // ── HP ────────────────────────────────────────────────────────────
   const hillDwarfBonus = hasSubraceTrait(subrace, "Dwarven Toughness") ? 1 : 0;
@@ -171,12 +232,7 @@ export function computeCharacter(input: ComputeInput): ComputedCharacter {
     : computeMaxHp({ hitDie: classData.hit_die, level, abilityScores, hpBonusPerLevel: hillDwarfBonus });
 
   // ── AC ────────────────────────────────────────────────────────────
-  const equippedItems = equipment.filter((e) => e.equipped);
-  const equippedArmor = resolveEquippedArmor(equippedItems);
-  const hasShield = equippedItems.some(
-    (e) => e.data.category === "shield" || e.data.armor?.type === "shield",
-  );
-  const acModifiers = allModifiers.filter((m) => m.target === "ac");
+  const acModifiers = applicableModifiers.filter((m) => m.target === "ac");
   const ac = computeAC({
     abilityModifiers,
     equippedArmor,
@@ -188,18 +244,29 @@ export function computeCharacter(input: ComputeInput): ComputedCharacter {
   let speed = race.speed;
   // Subrace speed overrides (e.g. Wood Elf fleet of foot → handled via traits)
   if (hasSubraceTrait(subrace, "Fleet of Foot")) speed = 35;
-  const speedModifiers = allModifiers.filter((m) => m.target === "speed");
+  const speedModifiers = applicableModifiers.filter((m) => m.target === "speed");
   for (const mod of speedModifiers) {
-    if (mod.type === "bonus" && typeof mod.value === "number") {
-      speed += mod.value;
+    if (mod.type === "bonus") {
+      speed += resolveModifierValue(mod.value, abilityModifiers);
     }
   }
 
   // ── Initiative ────────────────────────────────────────────────────
-  const initiative = abilityModifiers.DEX;
+  let initiative = abilityModifiers.DEX;
+  for (const modifier of applicableModifiers) {
+    if (modifier.target !== "initiative" || modifier.type !== "bonus") continue;
+    initiative += resolveModifierValue(modifier.value, abilityModifiers);
+  }
 
   // ── Saving throws ─────────────────────────────────────────────────
-  const proficientSavingThrows = classData.saving_throws as Ability[];
+  const proficientSavingThrows = [...classData.saving_throws] as Ability[];
+  for (const modifier of applicableModifiers) {
+    if (modifier.type !== "proficiency") continue;
+    if (!modifier.target.startsWith("saving_throw.")) continue;
+
+    const ability = modifier.target.slice("saving_throw.".length) as Ability;
+    if (!proficientSavingThrows.includes(ability)) proficientSavingThrows.push(ability);
+  }
 
   // Paladin Aura of Protection (lv 6+) — adds CHA to all saves
   const savingThrowBonuses: Partial<Record<Ability, number>> = {};
@@ -226,18 +293,27 @@ export function computeCharacter(input: ComputeInput): ComputedCharacter {
   const skills = computeSkills(
     abilityModifiers,
     skillProficiencies,
-    expertiseSkills,
+    mergedExpertiseSkills,
     proficiencyBonus,
     hasJackOfAllTrades,
   );
 
   // ── Passive perception ────────────────────────────────────────────
-  const passivePerception = 10 + skills.perception.total;
+  let passivePerception = 10 + skills.perception.total;
+  for (const modifier of applicableModifiers) {
+    if (modifier.target !== "passive_perception" || modifier.type !== "bonus") continue;
+    passivePerception += resolveModifierValue(modifier.value, abilityModifiers);
+  }
 
   // ── Spellcasting ──────────────────────────────────────────────────
-  const spellcasting = classData.spell_casting
+  // The CLASS spell_casting wins if present; otherwise fall back to the
+  // subclass spell_casting (for third-casters like Eldritch Knight or
+  // Arcane Trickster whose casting comes from the archetype).
+  const effectiveCasting = classData.spell_casting ?? subclass?.spell_casting ?? null;
+
+  const spellcasting = effectiveCasting
     ? (() => {
-        const ability = classData.spell_casting.ability as Ability;
+        const ability = effectiveCasting.ability as Ability;
         const abilityMod = abilityModifiers[ability];
         return {
           ability,
@@ -248,17 +324,17 @@ export function computeCharacter(input: ComputeInput): ComputedCharacter {
     : null;
 
   // ── Spell slots (multiclass combines caster levels, PHB p. 165) ───
-  const spellSlotsByLevel = isMulticlass && (classData.spell_casting || multiclassEntries.some((e) => e.classData.spell_casting))
+  const spellSlotsByLevel = isMulticlass && (effectiveCasting || multiclassEntries.some((e) => e.classData.spell_casting))
     ? computeMulticlassSpellSlots([
-        ...(classData.spell_casting ? [{ type: classData.spell_casting.type, level }] : []),
+        ...(effectiveCasting ? [{ type: effectiveCasting.type, level }] : []),
         ...multiclassEntries
           .filter((e) => e.classData.spell_casting)
           .map((e) => ({ type: e.classData.spell_casting!.type, level: e.level })),
       ])
     : computeSpellSlots(
-        classData.spell_casting?.type ?? null,
+        effectiveCasting?.type ?? null,
         level,
-        classData.spell_casting?.spell_slots,
+        effectiveCasting?.spell_slots,
       );
 
   // ── Attacks ───────────────────────────────────────────────────────
@@ -269,6 +345,19 @@ export function computeCharacter(input: ComputeInput): ComputedCharacter {
     ...(race.resistances ?? []),
     ...(subrace?.resistances ?? []),
   ];
+  const immunities: string[] = [];
+
+  for (const modifier of applicableModifiers) {
+    if (modifier.type === "resistance") {
+      const value = String(modifier.value);
+      if (!resistances.includes(value)) resistances.push(value);
+    }
+
+    if (modifier.type === "immunity") {
+      const value = String(modifier.value);
+      if (!immunities.includes(value)) immunities.push(value);
+    }
+  }
 
   // Apply condition modifiers to resistances
   if (conditions.includes("raging")) {
@@ -294,7 +383,7 @@ export function computeCharacter(input: ComputeInput): ComputedCharacter {
     languages,
     features: activeFeatures,
     resistances: [...new Set(resistances)],
-    immunities: [],
+    immunities: [...new Set(immunities)],
   };
 }
 
@@ -411,6 +500,37 @@ function isArmorProf(prof: string): boolean {
 
 function isWeaponProf(prof: string): boolean {
   return !isArmorProf(prof);
+}
+
+function modifierApplies(
+  modifier: Modifier,
+  context: {
+    conditions: string[];
+    equippedArmor: EquippedArmor | null;
+    hasShield: boolean;
+    equippedItems: EquipmentItem[];
+  },
+): boolean {
+  const { condition } = modifier;
+  if (!condition) return true;
+
+  if (condition.has_feature && !context.conditions.includes(condition.has_feature)) {
+    return false;
+  }
+
+  if (condition.armor_type) {
+    const armorType = context.hasShield && condition.armor_type === "shield"
+      ? "shield"
+      : (context.equippedArmor?.armorType ?? "none");
+    if (condition.armor_type !== armorType) return false;
+  }
+
+  if (condition.wielding === "dual") {
+    const equippedWeapons = context.equippedItems.filter((item) => item.data.weapon);
+    if (equippedWeapons.length < 2) return false;
+  }
+
+  return true;
 }
 
 // Re-export EquippedArmor type

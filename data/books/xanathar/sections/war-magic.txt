@@ -1,0 +1,225 @@
+RASGOS D E M A G I A D E G U E R R A
+N ivel d e
+mago
+
+Rasgo
+Deflección Arca n a , I ngen i o Táctico
+Sobreca rga d e Poder
+
+10
+
+M agia Resi stente
+
+14
+
+M a nto Defl ector
+
+DEFLECCIÓN ARCANA
+A nivel 2 , aprendes a usar tu magia para protegerte del daño.
+Cuando un ataque te impacta o fallas una tirada de salvación,
+puedes usar tu reacción para obtener un bonificador de +2 a
+tu CA contra ese ataque o un bonificador de +4 a esa tirada
+de salvación.
+Cuando usas este rasgo, no podrás utilizar ningún conjuro
+excepto trucos hasta el final de tu siguiente turno.
+
+INGENIO TÁCTICO
+A partir de nivel 2 , tu capacidad para analizar la situación
+tácticamente te permite actuar antes en el combate. Puedes
+ganar un bonificador a las tiradas de iniciativa igual a tu
+modificador de Inteligencia.
+
+CAPÍTULO
+
+1:
+
+Ú,¡._G �iG �< G.v-<rtG7 Lf\l( �v-< Ho �G'< "-"' ""' \o �' ¡v-<rrG7
+f\, o(�o �GI,(Gr �' •l{•l. Cr•• �v-• " vilt<"' �· .,.ofG�•.
+ptro b;. lr\O u.lé,s vu·b.Ao At ..,... o rGAo. Qv.. � .A.tct f ciólr\.
+
+SOBRECARGA DE PODER
+
+MAGIA RESISTENTE
+
+A partir de nivel 6, puedes guardar energía mágica dentro de
+ti para aumentar tus conjuros dañinos más adelante. Cuando
+está almacenada, esta energía se llama carga de poder.
+Puedes guardar un número máximo de cargas igual a tu
+modificador de Inteligencia (mínimo de 1). Cuando acabas
+un descanso largo, tu número de cargas se reinicia a uno.
+Si consigues finalizar un conjuro mediante disipar magia
+o contrahechizo, obtienes una carga de poder, al robar la
+magia del conjuro que desbarataste. Si finalizas un descanso
+corto sin cargas de poder, ganas una.
+Una vez por turno, cuando inflijas daño a una criatura u
+objeto con un conjuro de mago, puedes utilizar una carga
+de poder para añadir tanto daño de fuerza adicional a ese
+objetivo como la mitad de tu nivel de mago.
+
+A partir de nivel lO, la magia que canalizas te ayuda a
+protegerte del peligro. Mientras mantengas la concentración
+en un conjuro, recibes un bonificador de +2 a la CA y a las
+tiradas de salvación.
+
+MANTO DEFLECTOR
+A nivel 14, tu Deflección Arcana queda infundida c o n magia
+letal. Cuando utilizas tu rasgo Deftección Arcana, puedes
+hacer que la magia viaje trazando arcos desde ti. Hasta tres
+criaturas de tu elección que puedas ver y se encuentren a
+60 pies o menos de ti reciben tanto daño de fuerza como la
+mitad de tu nivel de mago.
+
+M oNASTERIOS
+d6
+
+Monasterio
+Tu monasterio está tallado en l a ladera d e u n a
+c u m b re, desde d o n d e se cierne sobre u n peligroso
+paso d e monta ña.
+Tu santuario está en l a s ramas más altas de u n á rbol
+enorme en el Feywi l d .
+T u monasterio f u e fu ndado h ace mucho por u n giga nte
+de las n u bes, por l o que se encuentra en un casti l l o en
+los cielos a l q u e solo se puede llegar volando.
+Tu santuario está constru ido j u nto a u n s i sterha
+volcá n i co de aguas termales, géi seres y esta nques
+s u l fú reos. Solía i s rec i b i r v i s itas d e comercia ntes azers.
+
+MONJE
+
+Tu mo nasterio fue fu ndado por gnomos, de modo
+que en rea lid ad es un l a berinto s u bte rráneo de túneles
+y h a b itaciones.
+
+NO CONFUNDAS MI SILENCIO CON LA ACEPTACIÓN DE TU
+
+Tu santuario fue tallado en u n iceberg, en los confines
+helados del m u ndo.
+
+vileza. Mientras túfanjarroneasy amenazas, he planeado
+cuatro maneras distintas de partirte el cuello con las manos.
+-Ember, gran maestro de las flores
+
+Los monjes caminan una senda contradictoria. Estudian
+su arte como los magos y, al igual que estos, no llevan
+armadura y suelen evitar las armas. Por otro lado, son
+combatientes letales cuyas habilidades suelen estar a la
+par con las de un bárbaro enfurecido o un guerrero magní­
+ficamente entrenado. Los miembros de esta clase aceptan
+esta aparente contradicción, ya que pone en evidencia lo
+fundamental del estudio monástico: conocerse a uno mismo
+completamente es conocer mucho del mundo.
+Esta obsesión de los monjes con el dominio interior es
+lo que lleva a muchos individuos a acabar separados de la
+sociedad, más preocupados por su experiencia personal que
+de lo que ocurre fuera. Los aventureros que pertenecen a
+esta clase son un caso raro dentro de un tipo de personaje
+poco frecuente, que lleva su búsqueda de la perfección más
+allá de los muros del monasterio, al mundo exterior.
+Jugar con un aventurero monje ofrece muchas oportu­
+nidades de hacer algo diferente. Para distinguir aún más
+a tu personaje, considera las opciones de los siguientes
+apartados.
+
+MONASTERIO
+Un monje estudia en un monasterio, preparándose para una
+vida de ascetismo. La mayoría de los que entran en un san­
+tuario lo convierten en su hogar para el resto de sus vidas,
+a excepción de los aventureros y los que tengan una razón
+para partir. Para estos individuos, un monasterio puede ser­
+vir de refugio entre salidas al mundo exterior o como fuente
+de apoyo en tiempo de necesidad.
+¿Qué clase de lugar era tu santuario y dónde estaba
+situado? ¿Contribuyó tu estancia allí a tus vivencias de una
+forma extraña o inusual?
+
+I C O N O MONÁSTIC O
+Incluso e n el estilo de vida monástico, que rehúye el mate­
+rialismo y las posesiones personales, el simbolismo es una
+parte importante de la identidad de una orden. Algunas órde­
+nes monásticas tratan a ciertas criaturas con una reverencia
+especial, ya sea porque están vinculadas a la historia de
+esa orden o porque muestran una cualidad que los monjes
+quieren emular.
+Si el santuario de tu personaje tenía un icono especial, es
+posible que lleves una burda imagen de este en algún lugar
+discreto de tus vestimentas, para servir como símbolo de
+identidad. Quizá el icono de tu orden no tenga una forma
+física, sino que se exprese a través de un gesto o postura que
+adoptas, y que quizá otros monjes sepan interpretar.
+I cONOS M O N Á STICOS
+d6
+
+Icono
+Mono. Entre l a s razones por l a s que tu o rden a d m i ra
+al mono se encuentran s u s rá pidos reflejos y s u
+capacidad p a ra viaj a r entre l a s copas d e l o s árboles.
+Dragón tortuga. Los monjes de tu mo nasterio costero
+veneran a l d ragón tortuga. Recitan antiguas plegarias y
+ofrecen guirnaldas de flores p a ra h o n ra r a este e s p íritu
+del mar viviente.
+Kirin. Tu mona sterio tiene como propósito principal
+vigi l a r y p roteger l a tierra, del m i s m o modo en q u e lo
+hace el kirin.
+Oso lechuza. Los monjes d e tu monasterio veneran a
+u n a fa m i l i a de osos lechuza con los q u e h a n coexistido
+d u rante generaciones.
+Hidra. Tu orden eligió a l a h i d ra por s u capacidad d e
+rea lizar v a r i o s ataq ues s i m u ltáneamente.
+Dragón. U n d ragón tuvo una vez s u guarida en tu
+mo nasterio. S u i n fl uencia aún perd u ra , incluso l a rgo
+tiempo después de s u part id a.
+
+1'
+
+CAPÍTULO OPCIONES DE PERSONAJE
+
+DE l l.Q.U l E R O A. A D E R E C H A ; M A E S T R O B O R R A C H O , K E N S E I Y A L M A S O L A R
+
+M A E STRO
+
+TRADIC IONE S MONÁSTICAS
+
+Lo más probable es que, mientras estudiabas, estuvieras
+bajo la tutela de un maestro que te instruyera en los precep­
+tos de tu orden. Dicho maestro fue el responsable de forjar
+tu comprensión de las artes marciales y tu actitud hacia el
+mundo. ¿Qué clase de persona era tu maestro?, ¿cómo te
+afecta tu relación con él?
+
+A nivel 3, un monje obtiene e l rasgo Tradición Monástica.
+Las siguientes opciones, además de las ofrecidas en el
+Player's Handbook, están disponibles: el Camino del Alma
+Solar, el Camino del Kensei y el Camino del Maestro
+Borracho.
+
+M AESTROS
+d6
+
+Maestro
+Tu maestro era un tirano a l que tuvi ste que derrotar
+en combate s i n g u l a r para d a r por term i nado tu
+aprend izaje.
+Tu m aestro era amable y te enseñó a l u c h a r por l a paz.
+Tu maestro era despiadado, l l evándote h asta tus
+l ím ites. Casi pierdes un ojo d u ra nte una sesión de
+entrenamiento parti c u l a rmente bruta l .
+T u m aestro pa recía t e n e r buenas i ntenciones
+m ientras te enseñaba, pero acabó traici o n a n d o a
+vu estro monasterio.
+Tu m aestro era frío y d i stante. Sospechas que podríais
+ser parientes.
+Tu m aestro era amable y generoso, no critica ndo
+n u nca tus progresos. N o obstante, crees que
+n u nca l l egaste a alcanzar las expectativas q u e h a b ía
+depositado en ti.
+
+1'
+
+CAPÍTULO OPCIONES DE PERSONAJE
+
+C A M I N O D E L ALMA S OLAR
+L o s monjes d e l Camino d e l A l m a Solar aprenden a canalizar
+su propia energía vital en rayos de luz abrasadores. Predican
+que meditar puede desencadenar la habilidad de desatar una
+luz indómita que irradia del alma de toda criatura viva.

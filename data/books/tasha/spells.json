@@ -1,0 +1,172 @@
+[
+  {
+    "slug": "lightning-lure",
+    "name": "Atracción del Relámpago",
+    "description": "Creasunlátigode energíaderelámpagoque golpea a una criatura de tu elección que puedasvera 15 pies o menosde ti. El objetivodeberásuperar una tirada desalvacióndeFuerzaoseráarrastrado hasta 10 pies en línea rectahacia tiy luego recibirá ld8dedaño de relámpago si estáa 5 piesomenosde ti. El daño del conjuroaumentaen 1d8 cuando alcanzas el nivel 5(2d8),elnivel ll (3d8)yel nivel 17 (4d8). BREBAJE CÁUSTICO DE TASHA Evocaciónnivel1 Tiempodelanzamiento: 1 acción Alcance: Lanzador(linearectade 30 pies) Componentes:V, S, M (un poco de comida podrida) Duración: Concentración, hasta 1 minuto De ti emana unchorrodeácido en una línearectade 30 piesde largoy 5 pies de ancho en la dirección que elijas. Cadacriaturaqueseencuentreenestalíneadeberá superarunatirada desalvación de Destrezao quedará cubierta de ácido hasta queel conjuro termine o hasta I06 CAPÍTULO 3 1 MISCELÁNEA MÁGICA queunacriaturausesu acción para quitarse el ácido asímisma o aotracriatura. Unacriatura cubierta de ácidosufre 2d4 de daño deácido al principiodecada unode susturnos. Anivelessuperiores. Cuando lanzasesteconjuro mediante unespaciode conjurode nivel 2 o superior, el daño aumenta en 2d4 por cada nivel porencima de 1 que tengaelespacio que hayas empleado.",
+    "data": {
+      "level": 0,
+      "school": "evocation",
+      "casting_time": "1 acción",
+      "range": "Lanzador (15 pies)",
+      "components": {
+        "V": true,
+        "S": false
+      },
+      "duration": "Instantáneo",
+      "concentration": false,
+      "classes": [
+        "artificer",
+        "sorcerer",
+        "warlock",
+        "wizard"
+      ],
+      "description": "Creasunlátigode energíaderelámpagoque golpea a una criatura de tu elección que puedasvera 15 pies o menosde ti. El objetivodeberásuperar una tirada desalvacióndeFuerzaoseráarrastrado hasta 10 pies en línea rectahacia tiy luego recibirá ld8dedaño de relámpago si estáa 5 piesomenosde ti. El daño del conjuroaumentaen 1d8 cuando alcanzas el nivel 5(2d8),elnivel ll (3d8)yel nivel 17 (4d8). BREBAJE CÁUSTICO DE TASHA Evocaciónnivel1 Tiempodelanzamiento: 1 acción Alcance: Lanzador(linearectade 30 pies) Componentes:V, S, M (un poco de comida podrida) Duración: Concentración, hasta 1 minuto De ti emana unchorrodeácido en una línearectade 30 piesde largoy 5 pies de ancho en la dirección que elijas. Cadacriaturaqueseencuentreenestalíneadeberá superarunatirada desalvación de Destrezao quedará cubierta de ácido hasta queel conjuro termine o hasta I06 CAPÍTULO 3 1 MISCELÁNEA MÁGICA queunacriaturausesu acción para quitarse el ácido asímisma o aotracriatura. Unacriatura cubierta de ácidosufre 2d4 de daño deácido al principiodecada unode susturnos. Anivelessuperiores. Cuando lanzasesteconjuro mediante unespaciode conjurode nivel 2 o superior, el daño aumenta en 2d4 por cada nivel porencima de 1 que tengaelespacio que hayas empleado."
+    },
+    "metadata": {
+      "source_pdf": "Caldero de Tasha para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "sword-burst",
+    "name": "Estallido de Espadas",
+    "description": "Creas un círculomomentáneodeespadasespectrales que hacenunbarridoa tu alrededor.Todaslasdemás criaturasqueestén a5 pies o menosde ti deberán superaruna tiradadesalvación de Destreza orecibirán 1d6 de daño defuerza. El daño delconjuroaumenta en ld6 cuando alcanzas el nivel 5 (2d6),elnivel ll (3d6)yel nivel 17 (4d6).",
+    "data": {
+      "level": 0,
+      "school": "conjuration",
+      "casting_time": "1 acción",
+      "range": "Lanzador (5 pies)",
+      "components": {
+        "V": true,
+        "S": false
+      },
+      "duration": "Instantáneo",
+      "concentration": false,
+      "classes": [
+        "artificer",
+        "sorcerer",
+        "warlock",
+        "wizard"
+      ],
+      "description": "Creas un círculomomentáneodeespadasespectrales que hacenunbarridoa tu alrededor.Todaslasdemás criaturasqueestén a5 pies o menosde ti deberán superaruna tiradadesalvación de Destreza orecibirán 1d6 de daño defuerza. El daño delconjuroaumenta en ld6 cuando alcanzas el nivel 5 (2d6),elnivel ll (3d6)yel nivel 17 (4d6)."
+    },
+    "metadata": {
+      "source_pdf": "Caldero de Tasha para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "booming-blade",
+    "name": "Filo Atronador",
+    "description": "Blandeselarmautilizadaparalanzarelconjuroyhaces con ellaun ataque cuerpoa cuerpo contra unacriatura queestéa 5 pieso menosde ti. Si impacta,el objetivo sufre los efectosnormales del ataqueconarmay luego quedaenvuelto en unaenergía explosivahasta el principio de tu siguiente turno. Si elobjetivo se mueve voluntariamente 5 pies o más antes de ese momento, recibe 1d8dedaño de truenoyelconjurotermina. El dañode este conjuroaumentacuando alcanzas ciertos niveles. En elnivel 5,el ataquecuerpoa cuerpo causa 1d8 de daño de trueno adicional al objetivo si impacta,y el daño queeste recibe por moverse aumenta a 2d8. Lasdostiradasde daño aumentan en 1d8 en elnivel 11 (2d8y 3d8)yenel nivel 17 (3d8y 4d8).",
+    "data": {
+      "level": 0,
+      "school": "evocation",
+      "casting_time": "1 acción",
+      "range": "Lanzador (5 pies)",
+      "components": {
+        "V": false,
+        "S": true,
+        "M": "un arma cuerpo a cuerpo con al menos 1 pode valor"
+      },
+      "duration": "1 asalto",
+      "concentration": false,
+      "classes": [
+        "artificer",
+        "sorcerer",
+        "warlock",
+        "wizard"
+      ],
+      "description": "Blandeselarmautilizadaparalanzarelconjuroyhaces con ellaun ataque cuerpoa cuerpo contra unacriatura queestéa 5 pieso menosde ti. Si impacta,el objetivo sufre los efectosnormales del ataqueconarmay luego quedaenvuelto en unaenergía explosivahasta el principio de tu siguiente turno. Si elobjetivo se mueve voluntariamente 5 pies o más antes de ese momento, recibe 1d8dedaño de truenoyelconjurotermina. El dañode este conjuroaumentacuando alcanzas ciertos niveles. En elnivel 5,el ataquecuerpoa cuerpo causa 1d8 de daño de trueno adicional al objetivo si impacta,y el daño queeste recibe por moverse aumenta a 2d8. Lasdostiradasde daño aumentan en 1d8 en elnivel 11 (2d8y 3d8)yenel nivel 17 (3d8y 4d8)."
+    },
+    "metadata": {
+      "source_pdf": "Caldero de Tasha para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "green-flame-blade",
+    "name": "Filo de Llamas Verdes",
+    "description": "Blandeselarma utilizada para lanzarel conjuroy haces con ella unataquecuerpoa cuerpocontraunacriatura queestéa 5 pieso menos de ti. Si impacta, elobjetivo sufre los efectos normalesdel ataque con armay puedes hacerquesaltefuegoverdedeese objetivoa otracriatura de tu elecciónquepuedasvera 5 pieso menos de él. La segundacriaturarecibirádaño de fuego igual a tu modificadorpor aptitud mágica.- \"En e FORTALETA DEL INTELECTO Eldañodeesteconjuroaumentacuandoalcanzasciertos niveles.Enelnivel 5,elataquecuerpoacuerpoinflige ld8 dedañodefuegoadicionalalobjetivosiimpacta,yeldaño defuegoalasegundacriaturaaumentaa 1d8+tumodifica­ dorporaptitud mágica. Lasdostiradasdedañoaumentan en ld8enelnivel 11 (2d8y2d8)yel nivel 17(3d8y3d8).",
+    "data": {
+      "level": 0,
+      "school": "evocation",
+      "casting_time": "1 acción",
+      "range": "Lanzador (5 pies)",
+      "components": {
+        "V": false,
+        "S": true,
+        "M": "un arma cuerpo a cuerpo con al menos 1 pode valor"
+      },
+      "duration": "Instantáneo",
+      "concentration": false,
+      "classes": [
+        "artificer",
+        "sorcerer",
+        "warlock",
+        "wizard"
+      ],
+      "description": "Blandeselarma utilizada para lanzarel conjuroy haces con ella unataquecuerpoa cuerpocontraunacriatura queestéa 5 pieso menos de ti. Si impacta, elobjetivo sufre los efectos normalesdel ataque con armay puedes hacerquesaltefuegoverdedeese objetivoa otracriatura de tu elecciónquepuedasvera 5 pieso menos de él. La segundacriaturarecibirádaño de fuego igual a tu modificadorpor aptitud mágica.- \"En e FORTALETA DEL INTELECTO Eldañodeesteconjuroaumentacuandoalcanzasciertos niveles.Enelnivel 5,elataquecuerpoacuerpoinflige ld8 dedañodefuegoadicionalalobjetivosiimpacta,yeldaño defuegoalasegundacriaturaaumentaa 1d8+tumodifica­ dorporaptitud mágica. Lasdostiradasdedañoaumentan en ld8enelnivel 11 (2d8y2d8)yel nivel 17(3d8y3d8)."
+    },
+    "metadata": {
+      "source_pdf": "Caldero de Tasha para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "intellect-fortress",
+    "name": "Fortaleza del Intelecto",
+    "description": "Hasta que acabe el conjuro, túo una criatura voluntaria quepuedasverdentro del alcance obtiene resistencia al daño psíquicoyventaja en las tiradas desalvación de Inteligencia, SabiduríayCarisma. Anivelessuperiores.Cuandolanzasesteconjurome­ dianteunespaciodeconjurodenivel4osuperior,puedes elegircomoobjetivoa una criaturaadicionalporcada nivel por encima de 3que tenga el espacio que hayasempleado. En el momento de elegirlascomoobjetivo, las criaturas deben estar a 30 pies o menosde todas las demás. FRAGMENTO MENTAL Encantamiento(truco) Tiempo de lanzamiento: 1 acción Alcance: 60 pies Componentes: V Duración: 1 asalto Introduces una púa desorientadoradeenergía psíquica en lamente deuna criaturaque puedas verdentro delalcance. Elobjetivodeberá superarunatirada de salvaciónde Inteligencia o recibirá 1d6 dedaño psíquico y restará ld4 en lasiguientetirada desalvaciónque haga antesdel final de tusiguiente turno. Eldañode esteconjuro aumenta en ld6 cuando alcanzas ciertosniveles:el nivel 5 (2d6), el nivel ll (3d6) yel nivel 17 (4d6). HOJA DE DESASTRE Conjuraciónnivel9 Tiempodelanzamiento: 1 acción adicional Alcance: 60pies Componentes:V, S Duración: Concentración, hasta 1 minuto Creasuna grietaplanaren formadehojade aproxima­ damente 3piesde largoen un espaciosin ocupar f!uepuedasverdentro del alcance. La hoja durará hastaque acabe elconjuro.Al lanzaresteconjuro, puedeshacer hasta dosataquesdeconjurocuerpoacuerpocon lahoja, cada unocontra una criatura, unobjetosueltoo una estructuraqueseencuentre a5 pieso menosdelahoja. Si impacta, elobjetivorecibe4dl2de dañodefuerza. Este ataquecausarácríticossi la tirada del d20 esde 18 o más. Con un cdtico, lahoja causa un dañodefuerza adicional de8d12 (totalde 12d12 de dañodefuerza). Como acción adicionaldurante tu turno, puedes mover la hoja hasta 30 piesa unespaciosinocupar quepuedasvery luegovolvera hacercon ella dos ataques deconjurocuerpo acuerpo. Lahojapuedeatravesarcualquier barrerasin dañarse, incluido un muo de fuerza.INVOCARABERRACIÓN Conjuración nivel4 Tiempode lanzamiento: 1 acción Alcance: 90 pies Componentes: V, S, M (un tentáculoen salmuera y un globo ocularen un vial con incrustaciones de platinoquevalga al menos 400 po) Duración: Concentración, hasta 1 hora Invocas un espíritu aberrante que se manifiestaen un espacio sin ocupar que puedas verdentro delalcance. Estaforma corpórea usael perfildelespíritu aberra",
+    "data": {
+      "level": 4,
+      "school": "abjuration",
+      "casting_time": "1 acción",
+      "range": "30 pies",
+      "components": {
+        "V": true,
+        "S": false
+      },
+      "duration": "Concentración, hasta 1 hora",
+      "concentration": true,
+      "classes": [
+        "artificer",
+        "bard",
+        "sorcerer",
+        "warlock",
+        "wizard"
+      ],
+      "description": "Hasta que acabe el conjuro, túo una criatura voluntaria quepuedasverdentro del alcance obtiene resistencia al daño psíquicoyventaja en las tiradas desalvación de Inteligencia, SabiduríayCarisma. Anivelessuperiores.Cuandolanzasesteconjurome­ dianteunespaciodeconjurodenivel4osuperior,puedes elegircomoobjetivoa una criaturaadicionalporcada nivel por encima de 3que tenga el espacio que hayasempleado. En el momento de elegirlascomoobjetivo, las criaturas deben estar a 30 pies o menosde todas las demás. FRAGMENTO MENTAL Encantamiento(truco) Tiempo de lanzamiento: 1 acción Alcance: 60 pies Componentes: V Duración: 1 asalto Introduces una púa desorientadoradeenergía psíquica en lamente deuna criaturaque puedas verdentro delalcance. Elobjetivodeberá superarunatirada de salvaciónde Inteligencia o recibirá 1d6 dedaño psíquico y restará ld4 en lasiguientetirada desalvaciónque haga antesdel final de tusiguiente turno. Eldañode esteconjuro aumenta en ld6 cuando alcanzas ciertosniveles:el nivel 5 (2d6), el nivel ll (3d6) yel nivel 17 (4d6). HOJA DE DESASTRE Conjuraciónnivel9 Tiempodelanzamiento: 1 acción adicional Alcance: 60pies Componentes:V, S Duración: Concentración, hasta 1 minuto Creasuna grietaplanaren formadehojade aproxima­ damente 3piesde largoen un espaciosin ocupar f!uepuedasverdentro del alcance. La hoja durará hastaque acabe elconjuro.Al lanzaresteconjuro, puedeshacer hasta dosataquesdeconjurocuerpoacuerpocon lahoja, cada unocontra una criatura, unobjetosueltoo una estructuraqueseencuentre a5 pieso menosdelahoja. Si impacta, elobjetivorecibe4dl2de dañodefuerza. Este ataquecausarácríticossi la tirada del d20 esde 18 o más. Con un cdtico, lahoja causa un dañodefuerza adicional de8d12 (totalde 12d12 de dañodefuerza). Como acción adicionaldurante tu turno, puedes mover la hoja hasta 30 piesa unespaciosinocupar quepuedasvery luegovolvera hacercon ella dos ataques deconjurocuerpo acuerpo. Lahojapuedeatravesarcualquier barrerasin dañarse, incluido un muo de fuerza.INVOCARABERRACIÓN Conjuración nivel4 Tiempode lanzamiento: 1 acción Alcance: 90 pies Componentes: V, S, M (un tentáculoen salmuera y un globo ocularen un vial con incrustaciones de platinoquevalga al menos 400 po) Duración: Concentración, hasta 1 hora Invocas un espíritu aberrante que se manifiestaen un espacio sin ocupar que puedas verdentro delalcance. Estaforma corpórea usael perfildelespíritu aberra"
+    },
+    "metadata": {
+      "source_pdf": "Caldero de Tasha para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "summon-construct",
+    "name": "Invocar Autómata",
+    "description": "Invocas el espíritu de un autómata que se manifiesta en unespaciosinocuparquepuedasverdentrodel alcance. Estaformacorpórea usael perfil del autómata. Cuando lancesel conjuro, elige un material: arciUa, metalo piedra. Lacriatura se pareceráa un gólem oaun modron(atu elección) del material en cuestión, loque determinaráciertosatributosde su perfil. La criatura desaparecerási suspuntosdegolpe se reducen aOosiel conjuro termina. La criatura se considera un aliadopara tiypara tus compañeros. En combate, la criatura comparte tu orden de iniciativa, ero su turnovajusto después del tuyo. EsPÍRITU AUTÓMATA Aut6mata Mediano Clase de Armadura: 13 + el nivel del conjuro (armadura natural) Puntos degolpe:40 + 15 por cada nivel de conjuro superior al 3 Velocidad: 30 pies FUE 18 (+4) DES 10 (+0) CON 18 (+4) Resistencia a dai'lo: veneno INT 14 (+2) SAB 11 (+0) Inmunidad a estados: hechizado, cansancio, asustado, incapacitado, paralizado, petrificado, envenenado CAR 5 (·3) Sentidos: visión en la oscuridad 60 pies, Percepción pasiva 10 Idiomas: entiende los idiomas que hables tú Desafio:- Bonificador porcompetencia: igual a tu bonificador CuerpoAbrasador(solo metal). Una criatura que toque al autómata o le impacte con un ataque cuerpo a cuerpo estando a 5 pies o menos deél sufrirá 1d10 de dai'lo de fuego. LetargoPétreo (solopiedra). Cuando una criatura que el autómata puedavercomience su turno a 10 pies o menos de él, el autómata podrá obligarla a realizar una tirada de salvación de Sabiduría contra tu CDdesalvación de conjuros. Si la falla, el objetivo no podrá usar sus reacciones y su velocidad se reducirá a la mitad hasta el final de su siguienteturno. AcciONES Ataquemúltiple. El autómata realiza un númerodeataques igual a la mitaddelnivelde esteconjuro (redondeadohaciaabajo). Golpe.Ataqueconarma cuer poacuerpo: tu modificador de ataque de conjuros a impactar, alcance 5 pies, un objetivo. Impacto: 1d8 + 4 + el nivel del conjuro de dai'iocontundente. REACCIONES Azoteberserk(soloarcilla).Cuando el autómata reciba daño, realizará un ataque degolpecontra una criatura aleatoriaque esté a 5 pies omenos deél. Si no hay ninguna criatura dentro de su alcance, el autómata se moverá hasta a la mitad de su velocidad hacia un enemigo que pueda ver, sin provocar ataques deoportunidad. Obedece tusórdenesverbales(no requiereacción) y, si nole das ninguna, hace la acción de Esquivar y",
+    "data": {
+      "level": 4,
+      "school": "conjuration",
+      "casting_time": "1 acción",
+      "range": "90 pies",
+      "components": {
+        "V": true,
+        "S": true,
+        "M": "una joya de 400 poengastada en metal, arcilla o piedra"
+      },
+      "duration": "Concentración, hasta 1 hora",
+      "concentration": true,
+      "classes": [
+        "artificer",
+        "wizard"
+      ],
+      "description": "Invocas el espíritu de un autómata que se manifiesta en unespaciosinocuparquepuedasverdentrodel alcance. Estaformacorpórea usael perfil del autómata. Cuando lancesel conjuro, elige un material: arciUa, metalo piedra. Lacriatura se pareceráa un gólem oaun modron(atu elección) del material en cuestión, loque determinaráciertosatributosde su perfil. La criatura desaparecerási suspuntosdegolpe se reducen aOosiel conjuro termina. La criatura se considera un aliadopara tiypara tus compañeros. En combate, la criatura comparte tu orden de iniciativa, ero su turnovajusto después del tuyo. EsPÍRITU AUTÓMATA Aut6mata Mediano Clase de Armadura: 13 + el nivel del conjuro (armadura natural) Puntos degolpe:40 + 15 por cada nivel de conjuro superior al 3 Velocidad: 30 pies FUE 18 (+4) DES 10 (+0) CON 18 (+4) Resistencia a dai'lo: veneno INT 14 (+2) SAB 11 (+0) Inmunidad a estados: hechizado, cansancio, asustado, incapacitado, paralizado, petrificado, envenenado CAR 5 (·3) Sentidos: visión en la oscuridad 60 pies, Percepción pasiva 10 Idiomas: entiende los idiomas que hables tú Desafio:- Bonificador porcompetencia: igual a tu bonificador CuerpoAbrasador(solo metal). Una criatura que toque al autómata o le impacte con un ataque cuerpo a cuerpo estando a 5 pies o menos deél sufrirá 1d10 de dai'lo de fuego. LetargoPétreo (solopiedra). Cuando una criatura que el autómata puedavercomience su turno a 10 pies o menos de él, el autómata podrá obligarla a realizar una tirada de salvación de Sabiduría contra tu CDdesalvación de conjuros. Si la falla, el objetivo no podrá usar sus reacciones y su velocidad se reducirá a la mitad hasta el final de su siguienteturno. AcciONES Ataquemúltiple. El autómata realiza un númerodeataques igual a la mitaddelnivelde esteconjuro (redondeadohaciaabajo). Golpe.Ataqueconarma cuer poacuerpo: tu modificador de ataque de conjuros a impactar, alcance 5 pies, un objetivo. Impacto: 1d8 + 4 + el nivel del conjuro de dai'iocontundente. REACCIONES Azoteberserk(soloarcilla).Cuando el autómata reciba daño, realizará un ataque degolpecontra una criatura aleatoriaque esté a 5 pies omenos deél. Si no hay ninguna criatura dentro de su alcance, el autómata se moverá hasta a la mitad de su velocidad hacia un enemigo que pueda ver, sin provocar ataques deoportunidad. Obedece tusórdenesverbales(no requiereacción) y, si nole das ninguna, hace la acción de Esquivar y"
+    },
+    "metadata": {
+      "source_pdf": "Caldero de Tasha para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  }
+]

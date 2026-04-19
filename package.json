@@ -15,6 +15,16 @@
     "db:generate": "turbo db:generate",
     "db:migrate": "turbo db:migrate",
     "db:seed": "pnpm --filter @dnd/db seed",
+    "books:reocr": "node scripts/reocr-books.mjs",
+    "books:rebuild": "node scripts/rebuild-books.mjs",
+    "books:repair": "node scripts/llm-repair-book.mjs",
+    "books:quality": "node scripts/check-book-quality.mjs",
+    "books:clean-ocr": "node scripts/clean-book-ocr.mjs",
+    "books:xanathar:split": "pdftotext -f 8 -l 61 \"homebrew/Guia de Xanathar Para Todo.pdf\" - | node scripts/split-xanathar-subclass-sections.mjs",
+    "books:xanathar:extract": "pdftotext -layout -f 8 -l 61 \"homebrew/Guia de Xanathar Para Todo.pdf\" - | node scripts/extract-xanathar-subclasses.mjs",
+    "books:xanathar:build": "pdftotext -layout -f 8 -l 61 \"homebrew/Guia de Xanathar Para Todo.pdf\" - | node scripts/build-xanathar-subclasses.mjs",
+    "books:tasha:build": "pdftotext -layout -f 9 -l 80 \"homebrew/Caldero de Tasha para Todo.pdf\" - | node scripts/build-tasha-subclasses.mjs",
+    "books:phb:build": "pdftotext -layout -f 45 -l 140 \"homebrew/Manual del Jugador.pdf\" - | node scripts/build-phb-subclasses.mjs",
     "clean": "turbo clean && find . -name 'node_modules' -type d -prune -exec rm -rf '{}' +"
   },
   "devDependencies": {

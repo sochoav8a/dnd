@@ -1,0 +1,2949 @@
+[
+  {
+    "slug": "berserker",
+    "name": "Senda del Berserker",
+    "description": "Para ciertos bárbaros la furia es el medio para alcanzar un fin: la violencia. La Senda del Berserker se asienta en una rabia sin cortapisas, cubierta de sangre. Al dejarte llevar por la furia del berserker experimentarás el entusiasmo que proporciona el caos del combate, sin reparar en tu propia seguridad o bienestar.",
+    "data": {
+      "parent_class": "barbarian",
+      "flavor_name": "Senda del Berserker",
+      "features_by_level": {
+        "3": [
+          {
+            "name": "Frenesí",
+            "description": "A partir del momento en el que escoges esta senda, a nivel 3, puedes abandonarte al frenesí cuando te enfurezcas. Si eliges hacer esto, mientras estés enfurecido podrás hacer un ataque con arma cuerpo a cuerpo como acción adicional durante cada uno de tus turnos (empezando por el siguiente a haberte enfurecido). A cambio, cuando tu furia termine sufrirás un nivel de cansancio (como se describe en el apéndice A)."
+          }
+        ],
+        "6": [
+          {
+            "name": "Furia Irracional",
+            "description": "A partir de nivel 6, no puedes ser asustado ni hechizado mientras estés enfurecido. Si estabas asustado o hechizado antes de enfurecerte, dejarás de estarlo temporalmente, mientras dure la furia."
+          }
+        ],
+        "10": [
+          {
+            "name": "Presencia Intimidante",
+            "description": "A partir de nivel 10, puedes usar tu acción para asustar a alguien con tu mera presencia. Para hacer esto, elige a una criatura que puedas ver a 30 pies o menos de ti. Si dicha criatura puede verte u ofrte, deberá superar una tirada de salvación de Sabiduría (CD 8 + tu bonificador por competencia + tu bonificador por Carisma) o estará asustada de ti hasta el final de tu siguiente turno. En cada uno de los turnos subo siguientes, podrás utilizar tu acción para alargar la duración de este efecto sobre la criatura asustada hasta el final de tu siguiente turno. Este efecto termina si la criatura termina su turno fuera de tu línea de visión o a 60 pies o más de ti. Si tiene éxito en su tirada de salvación, no podrás volver a usar este rasgo sobre esa criatura hasta que pasen 24 horas."
+          }
+        ],
+        "14": [
+          {
+            "name": "Represalia",
+            "description": "A partir de nivel 14, cuando recibas daño de una criatura que se encuentre a 5 pies o menos de ti, podrás utilizar tu reacción para hacer un ataque con arma cuerpo a cuerpo contra ella."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "totem-warrior",
+    "name": "Senda del Guerrero Totémico",
+    "description": "La Senda del Guerrero Totémico es un viaje espiritual, mediante el cual el bárbaro acepta a un espíritu animal como guía, protector e inspiración. Durante el combate, tu espíritu totémico te llena de poder sobrenatural, añadiendo energías mágicas a tu furia de bárbaro. La mayoría de las tribus bárbaras consideran que cada animal totémico está unido a un clan concreto. En estas tribus no suele ser frecuente ver bárbaros con más de un espíritu animal como tótem, aunque siempre hay excepciones.",
+    "data": {
+      "parent_class": "barbarian",
+      "flavor_name": "Senda del Guerrero Totémico",
+      "features_by_level": {
+        "3": [
+          {
+            "name": "Buscador de Espíritus",
+            "description": "Tu senda busca la armonía con el mundo natural, por lo que posees un vínculo especial con las bestias. A nivel 3, cuando adoptes esta senda, serás capaz de lanzar los conjuros hablar con los animales y sentidos de la bestia, pero únicamente como rituales, tal y como se describe en el capítulo 10: “Lanzamiento de conjuros”."
+          },
+          {
+            "name": "Espíritu Totémico",
+            "description": "A nivel 3, cuando escoges esta senda, también eliges un espíritu totémico y obtienes su rasgo asociado. Debes fabricar o hacerte con un tótem físico (un amuleto o adorno similar) confeccionado a partir de pelaje, plumas, garras, dientes o huesos del animal totémico. Si quieres, también puedes desarrollar pequeños rasgos físicos que recuerden a tu espíritu totémico, De este modo, si tu espíritu totémico es un oso, podrías ser especialmente velludo o tener la piel gruesa, mientras que, si tu tótem es el águila, quizá tus ojos se vuelvan de un color amarillo brillante. Tu animal totémico podría no ser exactamente uno de los enumerados a continuación, sino uno emparentado con alguno de ellos, pero más apropiado a tu tierra natal. Podrías, por ejemplo, elegir un halcón o buitre en vez de un águila. Águila. Mientras estés enfurecido y no lleves armadura pesada, el resto de criaturas tendrán desventaja en sus ataques de oportunidad contra ti y podrás usar la acción de Correr como acción adicional durante tu turno. El espíritu del águila te convierte en un depredador capaz de moverse sin dificultad en medio del combate. Lobo. Mientras estés enfurecido, tus aliados tendrán ventaja en las tiradas de ataque cuerpo a cuerpo contra cualquier criatura que te sea hostil y esté a 5 pies o menos de ti. El espíritu del lobo te transforma en un líder de cazadores. Oso. Mientras estés enfurecido, posees resistencia contra todo el daño, excepto el psíquico. El espíritu del oso te da la dureza necesaria para aguantar cualquier castigo."
+          }
+        ],
+        "6": [
+          {
+            "name": "Semblanza de la Bestia",
+            "description": "A nivel 6 recibes un poder mágico basado en un tótem animal de tu elección. Puedes volver a escoger el mismo animal que elegiste a nivel 3 o uno distinto. Águila. Obtienes la agudeza visual de un águila. Puedes ver hasta a 1 milla de distancia sin problemas y eres capaz de distinguir incluso los detalles más pequeños de los objetos que estén a 100 pies o menos de ti. Además, no sufres desventaja al hacer pruebas de Sabiduría (Percepción) con luz tenue. Lobo. Consigues el instinto para la caza de un lobo. Eres capaz de rastrear a otras criaturas mientras viajas a un ritmo rápido y puedes moverte con sigilo mientras viajas a un ritmo normal (el capítulo 8: “Aventuras” contiene las reglas relativas al ritmo de viaje). Oso. Obtienes el poderío de un oso. Tu capacidad de carga se duplica, tanto para el peso que puedes llevar encima como para el que puedes empujar, arrastrar o levantar. Además, tienes ventaja en las pruebas de Fuerza hechas para levantar, romper, empujar o tirar de objetos."
+          }
+        ],
+        "10": [
+          {
+            "name": "Caminante Espiritual",
+            "description": "A nivel 10 eres capaz de lanzar el conjuro comunión con la naturaleza, pero solo como ritual. Cuando lo hagas, será una versión espiritual de uno de los animales que escogiste para los rasgos Espíritu Totémico o Semblanza de la Bestia quien te comunique la información que buscas."
+          }
+        ],
+        "14": [
+          {
+            "name": "Armonía Totémica",
+            "description": "A nivel 14 recibes un poder mágico basado en un tótem animal de tu elección. Puedes volver a escoger uno de los animales que elegiste anteriormente u otro distinto. Águila. Mientras estés enfurecido, tendrás una velocidad volando igual a tu velocidad caminando actual. Esta capacidad se basa en impulsos breves, por lo que caerás si terminas tu turno en el aire y no hay nada que te sujete. Lobo. Mientras estés enfurecido, cuando impactes a una criatura Grande o más pequeña con un ataque con arma cuerpo a cuerpo durante tu turno, podrás usar una acción adicional para derribarla. Oso. Mientras estés enfurecido, cualquier criatura que te sea hostil que se encuentre a 5 pies o menos de ti tendrá desventaja en las tiradas de ataque contra objetivos que no seáis ni túni otro personaje con este rasgo. Los enemigos que no puedan verte ni oífrte o no puedan ser asustados son inmunes a este efecto."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "lore",
+    "name": "Colegio del Conocimiento",
+    "description": "Los bardos del Colegio del Conocimiento siempre saben algo sobre prácticamente cualquier tema, pues coleccionan perlas de conocimiento procedentes de fuentes muy diversas; desde tratados sobre temas muy especializados hasta cuentos de campesinos. Ya sea cantando baladas populares en una taberna o interpretando elaboradas composiciones en una corte real, estos bardos emplean sus dones para fascinar a sus audiencias. Cuando los aplausos por fin se apagan, los espectadores podrían llegar a plantearse incluso sus creencias más arraigadas; desde la feen los sacerdotes del templo local hasta su fidelidad al rey. Estos bardos depositan su lealtad en la búsqueda de la belleza y la verdad, no en reyes ni en los preceptos de una deidad. Los nobles que recurren a uno de estos bardos como consejero o heraldo saben que este tenderá a comportarse de forma más honesta que diplomática. Los miembros de este colegio se reúnen en bibliotecas y, a veces, en auténticos colegios, con sus aulas y dormitorios, en los que comparten con otros sus conocimientos. También se encuentran en festivales o reuniones de estado, en los que pueden sacar a la luz casos de corrupción, desvelar mentiras o reírse de los vanidosos representantes de la autoridad.",
+    "data": {
+      "parent_class": "bard",
+      "flavor_name": "Colegio del Conocimiento",
+      "features_by_level": {
+        "3": [
+          {
+            "name": "Competencias Adicionales",
+            "description": "Cuando te unes al Colegio del Conocimiento, a nivel 3, ganas competencia en tres habilidades cualquiera, las que elijas."
+          },
+          {
+            "name": "Palabras Cortantes",
+            "description": "También a nivel 3, aprendes cómo usar tu astucia para distraer, confundir y minar la confianza y aptitudes de otros. Cuando una criatura que puedas ver a 60 pies o menos de ti haga una tirada de ataque, prueba de característica o tirada de daño, podrás emplear tu reacción y gastar uno de tus usos de Inspiración Bárdica para tirar el dado de Inspiración Bárdica y restar el número obtenido del resultado de la tirada de la criatura. Puedes elegir utilizar este rasgo después de que la criatura haga su tirada, pero antes de que el DM indique si la tirada de ataque o prueba de característica ha tenido éxito, o la criatura cause el daño. Las criaturas que no puedan ofrte o sean inmunes al estado “hechizado” no pueden verse afectadas por este rasgo."
+          }
+        ],
+        "6": [
+          {
+            "name": "Secretos Mágicos Adicionales",
+            "description": "A nivel 6, aprendes dos conjuros a tu elección de los de las listas de cualquier clase. Ambos conjuros deben ser de un nivel que puedas lanzar, tal y como se indica en la tabla del bardo, o un truco. Estos conjuros se consideran, en lo que a ti respecta, conjuros de bardo, pero no cuentan para el número de conjuros conocidos que puedes tener."
+          }
+        ],
+        "14": [
+          {
+            "name": "Habilidad Sin Parangón",
+            "description": "A partir de nivel 14, cuando hagas una prueba de característica podrás gastar uno de tus usos de Inspiración Bárdica. Tira el dado de Inspiración Bárdica y suma el número obtenido al resultado de la prueba. Puedes elegir hacer esto después de haber hecho la tirada, pero antes de que el DM te diga si tienes éxito o no."
+          }
+        ]
+      },
+      "spell_casting": {
+        "ability": "CHA",
+        "type": "full",
+        "spell_slots": [
+          [
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            1,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            1,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            1,
+            1,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            1,
+            1,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            3,
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            3,
+            2,
+            1,
+            1,
+            1
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            3,
+            2,
+            2,
+            1,
+            1
+          ]
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "valor",
+    "name": "Colegio del Valor",
+    "description": "Los bardos del Colegio del Valor son atrevidos escaldos, cuyas historias mantienen vivo el recuerdo de los grandes campeones del pasado, inspirando así a una nueva generación de héroes. Estos bardos se reúnen en salas de hidromiel o en torno a grandes hogueras para cantar las hazañas de los poderosos, tanto del presente como del pasado. Viajan por el mundo con el fin de ser testigos de grandes eventos en primera persona, para que la memoria de dichos sucesos no se pierda. A través de sus canciones, inspiran a otros para alcanzar las mismas cotas de éxito que los héroes de antaño.",
+    "data": {
+      "parent_class": "bard",
+      "flavor_name": "Colegio del Valor",
+      "features_by_level": {
+        "3": [
+          {
+            "name": "Competencias Adicionales",
+            "description": "- Cuando te unes al Colegio del Valor, a nivel 3, ganas competencia con armaduras medias, escudos y armas marciales."
+          },
+          {
+            "name": "Inspiración en Combate",
+            "description": "También a nivel 3, aprendes cómo inspirar a los demás en combate. Una criatura que posea un dado de Inspiración Bárdica que túle hayas dado podrá tirarlo y añadir el resultado a una tirada de daño con un arma que acabe de hacer. Además, cuando se realice una tirada de ataque que tenga como objetivo a dicha criatura, esta puede usar su reacción para tirar el dado de Inspiración Bárdica y añadir el resultado obtenido a su CAcontra ese ataque. Puede hacer esto tras ver el resultado de la tirada de ataque, pero antes de saber si impacta o no."
+          }
+        ],
+        "6": [
+          {
+            "name": "Ataque Adicional",
+            "description": "A partir de nivel 6, cuando lleves a cabo la acción de Atacar durante tu turno, podrás hacer dos ataques en lugar de uno."
+          }
+        ],
+        "14": [
+          {
+            "name": "Magia de Batalla",
+            "description": "A nivel 14 has logrado dominar el arte de conjugar el lanzamiento de conjuros y el manejo de las armas, mezclándolos armoniosamente. Cuando usas tu acción para lanzar un conjuro de bardo, puedes emplear tu acción adicional para hacer un ataque con arma. A Envuelto en una túnica dorada y con su pseudodragón enroscado en torno al hombro, un joven elfo sonríe con calidez, tejiendo un encantamiento mágico en sus melifluas palabras y doblegando a los centinelas de palacio a su voluntad. Mientras las llamas cobran vida en sus manos, una marchita humana susurra el nombre secreto de su patrón demoníaco, que como respuesta llena el conjuro de magia infernal. Un tiefling de ojos salvajes levanta la vista de un maltratado tomo para observar el extraño alineamiento estelar que brilla en el cielo. Sus labios pronuncian las salmodias de un ritual místico, que abrirá un portal a un mundo remoto. Los brujos buscan el conocimiento que yace escondido tras el tejido mismo del multiverso. A través de pactos forjados con misteriosos seres de poder sobrenatural, desvelan efectos mágicos sutiles y espectaculares a partes iguales. A partir del conocimiento ancestral poseído por entidades como nobles feéricos, demonios, diablos, sagas o los extraños seres del Reino Lejano, los brujos descubren secretos arcanos que refuerzan sus propios poderes."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "fiend",
+    "name": "El Infernal",
+    "description": "Has cerrado un trato con un infernal de los Planos Inferiores: un ser de fines malvados, a los que incluso túmismo podrías oponerte. Este tipo de seres desean la corrupción y destrucción de todas las cosas, lo que, en última instancia, también te incluye. Entre losinfernales lo bastante importantes para forjar un pacto se encuentran señores demonio como Demogorgon, Orcus, Fraz'Urb-luu o Bafomet; archidiablos como Asmodeo, Dispater, Mefistófeles o Belial; diablos de la sima y balors especialmente poderosos; y ultrolothsu otros señores de los yugoloths.",
+    "data": {
+      "parent_class": "warlock",
+      "flavor_name": "El Infernal",
+      "features_by_level": {
+        "1": [
+          {
+            "name": "Bendición del Oscuro",
+            "description": "A partir de nivel 1, cuando reduces a una criatura hostil a 0 puntos de golpe, ganas tantos puntos de golpe temporales como tu modificador por Carisma + tu nivel de brujo (mínimo de 1)."
+          }
+        ],
+        "6": [
+          {
+            "name": "La Suerte del Oscuro",
+            "description": "A partir de nivel 6 puedesinvocar a tu patrón para alterar destino a tu favor. Cuando hagas una prueba de característi o una tirada de salvación, puedes utilizar este rasgo para dir 1d10 a tu tirada. Puedes realizar esto después de ver e resultado de la tirada, pero antes de que se resuelvan los tos de la misma. Una vez empleado este rasgo, deberás terminar un descanso corto o largo para poder volver a usarlo otra vez."
+          }
+        ],
+        "10": [
+          {
+            "name": "Resistencia Infernal",
+            "description": "A partir de nivel 10 puedes elegir un tipo de daño cada vez finalices un descanso corto o largo. Obtienes resistencia a tipo de daño hasta que vuelvas a usar este rasgo para escoger uno distinto. El daño que provenga de armas mágicas o dplata no se ve afectado por esta resistencia."
+          }
+        ],
+        "14": [
+          {
+            "name": "Arrastrar por el Iínfierno",
+            "description": "A partir de nivel 14, cuando impactas a una criatura con un ataque, puedes utilizar este rasgo para teletransportar ins tantáneamente al objetivo a los Planos Inferiores. La criat desaparece y se precipita a través de un paisaje de pesadil Al final de tu siguiente turno, el objetivo vuelve al esp que ocupaba anteriormente o al espacio desocupado más cercano si el original está ahora ocupado. Si la criatura no e infernal, sufrirá 10d10 de daño psíquico, debido al profund impacto que le ha producido la terrorífica experiencia. Una vez empleado este rasgo, deberás terminar un descanso largo para poder volver a usarlo otra vez."
+          }
+        ]
+      },
+      "spell_casting": {
+        "ability": "CHA",
+        "type": "warlock",
+        "spell_slots": [
+          [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            4,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            4,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            4,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            4,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "extra_spells": {
+        "1": [
+          "burning-hands",
+          "command"
+        ],
+        "3": [
+          "blindness-deafness",
+          "scorching-ray"
+        ],
+        "5": [
+          "fireball",
+          "stinking-cloud"
+        ],
+        "7": [
+          "fire-shield",
+          "wall-of-fire"
+        ],
+        "9": [
+          "flame-strike",
+          "hallow"
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "great-old-one",
+    "name": "El Primigenio",
+    "description": "Tu patrón es una entidad misteriosa y ajena al tejido de la realidad. Sus motivos son incomprensibles para los mortales, pero los secretos que has descubierto te permiten extraer poder mágico de ese conocimiento prohibido.",
+    "data": {
+      "parent_class": "warlock",
+      "flavor_name": "El Primigenio",
+      "features_by_level": {
+        "1": [
+          {
+            "name": "Mente Iluminada",
+            "description": "Puedes comunicarte telepáticamente con una criatura que puedas ver a 30 pies o menos de ti, siempre que entienda al menos un idioma."
+          }
+        ],
+        "6": [
+          {
+            "name": "Salvaguarda Entrópica",
+            "description": "Cuando una criatura te ataque, puedes usar tu reacción para imponer desventaja a esa tirada. Si falla, tu siguiente ataque contra esa criatura tiene ventaja."
+          }
+        ],
+        "10": [
+          {
+            "name": "Escudo Mental",
+            "description": "Tus pensamientos no pueden ser leídos sin tu permiso, obtienes resistencia al daño psíquico y devuelves a tus agresores el daño psíquico que te causen."
+          }
+        ],
+        "14": [
+          {
+            "name": "Crear Siervo",
+            "description": "Puedes tocar a un humanoide incapacitado para hechizarlo hasta que el efecto termine o uses este rasgo de nuevo, y puedes comunicarte telepáticamente con élmientras permanezcáis en el mismo plano."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "archfey",
+    "name": "El Señor Feérico",
+    "description": "Tu patrón es un señor o señora feérico, una criatura de leyenda que atesora secretos antiquísimos y cuyos planes suelen resultar caprichosos e incognoscibles para los mortales.",
+    "data": {
+      "parent_class": "warlock",
+      "flavor_name": "El Señor Feérico",
+      "features_by_level": {
+        "1": [
+          {
+            "name": "Presencia Feérica",
+            "description": "Como acción, puedes obligar a las criaturas cercanas a intentar resistir tu presencia sobrenatural o quedar hechizadas o asustadas por ti hasta el final de tu siguiente turno."
+          }
+        ],
+        "6": [
+          {
+            "name": "Escape Brumoso",
+            "description": "Cuando recibes daño, puedes usar tu reacción para volverte invisible y teletransportarte hasta 60 pies a un espacio desocupado que puedas ver."
+          }
+        ],
+        "10": [
+          {
+            "name": "Defensas Seductoras",
+            "description": "No puedes ser hechizado y, cuando otra criatura intente hechizarte, puedesintentar volver ese efecto contra ella."
+          }
+        ],
+        "14": [
+          {
+            "name": "Delirio Oscuro",
+            "description": "Como acción, puedes sumergir a una criatura en un reino ilusorio brumoso que la hechiza o la asusta mientras mantengas la concentración, hasta un máximo de 1 minuto."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "knowledge-domain",
+    "name": "Dominio del Conocimiento",
+    "description": "Los dioses del conocimiento, entre los que se incluyen Oghma, Boccob, Gilean, Aureon y Thoth, valoran el aprendizaje y el entendimiento por encima de todo. Algunos de ellos enseñan que el conocimiento debe ser reunido y compartido en bibliotecas y universidades, o promueven el saber práctico de la artesanía y la invención. Otras deidades atesoran el conocimiento y se guardan sus secretos solo para ellos. Y ciertos dioses prometen a sus seguidores un tremendo poder si consiguen descifrar los secretos del multiverso. Sus fieles estudian saberes esotéricos, coleccionan volúmenes antiguos, exploran los lugares secretos de la tierra y aprenden todo lo que pueden. Algunos dioses, entre los que se encuentran herreros como Gond, Reorx, Onatar, Moradin, Hefesto y Goibhnu, favorecen el conocimiento aplicado de losinventores y artesanos.",
+    "data": {
+      "parent_class": "cleric",
+      "flavor_name": "Dominio del Conocimiento",
+      "features_by_level": {
+        "1": [
+          {
+            "name": "Bendiciones del Conocimiento",
+            "description": "A nivel 1, aprendes dos idiomas de tu elección. También ganas competencia en dos habilidades a elegir de entre las siguientes: Conocimiento Arcano, Historia, Naturaleza o Religión. Tu bonificador por competencia se duplica para cualquier prueba de característica que hagas utilizando cualquiera de las dos habilidades escogidas."
+          }
+        ],
+        "2": [
+          {
+            "name": "Canalizar Divinidad: Conocimiento de las Eras",
+            "description": "A partir de nivel 2, puedes utilizar tu Canalizar Divinidad para acceder a un repositorio divino de conocimientos. Como acción, escoge una habilidad o herramienta. Durante 10 minutos, poseerás competencia en ella."
+          }
+        ],
+        "6": [
+          {
+            "name": "Canalizar Divinidad: Leer Pensamientos",
+            "description": "A partir de nivel 6, puedes usar tu Canalizar Divinidad para leer los pensamientos de una criatura. Puedes aprovecharte de tu acceso a la mente de la criatura para darle órdenes. Como acción, elige a una criatura que puedas ver a 60 pies o menos de ti. Dicho objetivo deberá hacer una tirada de salvación de Sabiduría. Si tiene éxito, no podrás volver a utilizar este rasgo sobre élhasta que termines un descanso largo. Si falla, serás capaz de leer sus pensamientos superficiales (los dominantes en este momento, que suelen reflejar sus emociones actuales y en qué está pensando ahora mismo) siempre que se encuentre a 60 pies o menos de ti. Este efecto dura 1 minuto. Durante este periodo de tiempo, puedes usar tu acción para dar por concluido el efecto y lanzar el conjuro sugestión sin gastar un espacio de conjuro. El objetivo fallará automáticamente su tirada de salvación contra este conjuro."
+          }
+        ],
+        "8": [
+          {
+            "name": "Lanzamiento Potente",
+            "description": "A partir de nivel 8, puedes añadir tu modificador por Sabiduría al daño que causas con cualquier truco de clérigo."
+          }
+        ],
+        "17": [
+          {
+            "name": "Visiones del Pasado",
+            "description": "A partir de nivel 17, puedesinvocar visiones del pasado relativas a un objeto que sostengas o a tu entorno inmediato. Tras pasar al menos 1 minuto sumido en la meditación y la oración, podrás entrever una imagen sombría y onírica de eventos recientes. Puedes meditar de esta forma durante tantos minutos como tu puntuación de Sabiduría. Deberás pasar este tiempo concentrado, como si estuvieras lanzando un conjuro. Una vez utilizado este rasgo, deberás terminar un descanso corto o largo para poder volver a usarlo otra vez. Leer un objeto. Si sostienes un objeto mientras meditas, podrás contemplar visiones de su anterior dueño. Tras meditar durante al menos 1 minuto, descubrirás cómo dicho dueño consiguió y perdió el objeto, así como el evento importante más reciente que haya implicado tanto al objeto como al dueño. Si el objeto tuvo otros dueños en el pasado reciente (tantos días como tu puntuación de Sabiduría o menos), podrásinvertir 1 minuto adicional por cada dueño para obtener esta misma información sobre él. Leer una zona. Mientras meditas, puedes vislumbrar visiones de tu entorno inmediato (una habitación, calle, túnel, claro o similar de tamaño igual o inferior a un cubo de 50 pies) que se remontan a tantos días hacia el pasado como tu puntuación de Sabiduría. Por cada minuto que pases meditando descubrirás un suceso importante, empezando por el más reciente. Los eventos de este tipo suelen ser aquellos que implican emociones poderosas, como batallas y traiciones, matrimonios y asesinatos, o nacimientos y funerales. Con todo, también pueden tratarse de sucesos más mundanos que, por la razón que sea, son relevantes para tus circunstancias actuales."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "trickery-domain",
+    "name": "Dominio del Engaño",
+    "description": "Las divinidades del engaño, como Tymora, Beshaba, Olidammara, el Viajero, Garloro Reluciente y Loki, son seres revoltosos y manipuladores, que presentan un desafío constante al orden aceptado tanto por dioses como por mortales. Son patrones de canallas, ladrones, jugadores, rebeldes y libertadores. Sus clérigos son una fuerza que perturba el mundo;: pinchando a los orgullosos, burlándose de los tiranos, robando de los ricos, liberando a los cautivos y desdeñando tradiciones vacías. Prefieren el subterfugio, las bromas, el engaño y el rob frente a la confrontación directa.",
+    "data": {
+      "parent_class": "cleric",
+      "flavor_name": "Dominio del Engaño",
+      "features_by_level": {
+        "1": [
+          {
+            "name": "Bendición del Embaucador",
+            "description": "Como acción, puedes tocar a una criatura voluntaria distinta de ti y otorgarle ventaja en las pruebas de Destreza (Sigilo) durante 1 hora o hasta que uses este rasgo de nuevo."
+          }
+        ],
+        "2": [
+          {
+            "name": "Canalizar Divinidad: Invocar Duplicidad",
+            "description": "Como acción, creas un duplicado ilusorio de ti mismo durante 1 minuto. Puedes moverlo con una acción adicional y lanzar conjuros como si estuvieras en su espacio."
+          }
+        ],
+        "6": [
+          {
+            "name": "Canalizar Divinidad: Capa de Sombras",
+            "description": "Como acción, te vuelvesinvisible hasta el final de tu siguiente turno o hasta que ataques o lances un conjuro."
+          }
+        ],
+        "8": [
+          {
+            "name": "Golpe Divino",
+            "description": "Una vez por turno, cuando impactas con un ataque con arma, puedes causar 1d8 de daño de veneno adicional. El daño aumenta a 2d8 al llegar a nivel 14."
+          }
+        ],
+        "17": [
+          {
+            "name": "Duplicidad Mejorada",
+            "description": "Cuando usas Invocar Duplicidad, puedes crear hasta cuatro duplicados en vez de uno y mover cualquiera de ellos con tu acción adicional."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "war-domain",
+    "name": "Dominio de la Guerra",
+    "description": "La guerra se manifiesta de muchas formas. Puede convertir a personas corrientes en héroes. Puede ser desesperada y terroo rífica, con actos de crueldad y cobardía capaces de eclipsar los ejemplos de excelencia y coraje. Sea como fuere, los dioses de la guerra observan a los guerreros y los recompensan por sus hazañas heroicas. Los clérigos de estas deidades destacan en combate, inspirando a otros a pelear en buena lid u ofrecer actos de violencia como si de oraciones se tratara. Entre ldioses de la guerra se encuentran los campeones del honor y de la caballerosidad, como Torm, Heironeous o Kiri-Jolith, dioses de la destrucción y el saqueo, como Erythnul, la Fur Gruumsh o Ares, y las deidades de la conquista y la dominación, como Perdición, Hextor o Maglubiyet. Otros dioses de guerra, como Tempus, Niké y Nuada adoptan una postura más neutral, promoviendo la guerra en todas sus facetas y apoyando a los guerreros sean cuales sean las circunstancias.",
+    "data": {
+      "parent_class": "cleric",
+      "flavor_name": "Dominio de la Guerra",
+      "features_by_level": {
+        "1": [
+          {
+            "name": "Competencias Adicionales",
+            "description": "A nivel 1, ganas competencia con armas marciales y armaduras pesadas."
+          },
+          {
+            "name": "Sacerdote Guerrero",
+            "description": "Desde el nivel 1, tu dios te recompensa con arrebatos de inpiración mientras te encuentras enzarzado en un combate. Cuando llevas a cabo la acción de Atacar durante tu turno, puedes emplear tu acción adicional para hacer otro ataque con arma. Puedes usar este rasgo tantas veces como tu modificador por Sabiduría (mínimo una vez). Recuperas todos los usos trfinalizar un descanso largo."
+          }
+        ],
+        "2": [
+          {
+            "name": "Canalizar Divinidad: Golpe Guiado",
+            "description": "A partir de nivel 2, puedes utilizar tu Canalizar Divinidad para atacar con una precisión sobrenatural. Cuando hagas una tirada de ataque, podrás usar tu Canalizar Divinidad pasumar +10 al resultado de dicha tirada. Puedes elegir emple este rasgo después de ver el resultado de la tirada, pero a de que el DM te diga si el ataque impacta o no."
+          }
+        ],
+        "6": [
+          {
+            "name": "Canalizar Divinidad: Bendición del Dios de la Guerra",
+            "description": "A partir de nivel 6, cuando una criatura a 30 pies o menos haga una tirada de ataque, podrás usar tu reacción para uti zar Canalizar Divinidad para sumar +10 al resultado de dich tirada. Puedes elegir emplear este rasgo después de ver el resultado de la tirada, pero antes de que el DM te diga si que impacta o no."
+          }
+        ],
+        "8": [
+          {
+            "name": "Golpe Divino",
+            "description": "A nivel 8 obtienes la capacidad para imbuir los golpes de tarma con energía divina. Una vez en cada uno de tus turnos, cuando impactes a una criatura con un ataque con arma, puedes hacer que dicho ataque cause 1d8 de daño adicional (del tipo que causa el arma) al objetivo. Cuando llegas a nivel este daño adicional pasa a ser 2d8."
+          }
+        ],
+        "17": [
+          {
+            "name": "Avatar de la Batalla",
+            "description": "A nivel 17, obtienes resistencia a daño contundente, cortan perforante de armas no mágicas."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "light-domain",
+    "name": "Dominio de la Luz",
+    "description": "Los dioses de la luz, entre los que se encuentran Yelmo, Lathander, Pholtus, Branchala, la Llama de Plata, Belenus, Apolo y Ra, promueven los ideales del renacimiento, os la renovación, la verdad, la vigilancia y la belleza. Suelen usar como símbolo el sol. De hecho, a algunas de estas deidades se los las representa como el propio sol o como un auriga que guía al ia, sol a través del cielo. Otras son centinelasincansables, cuyos ojos penetran cada sombra y pueden ver más allá de cualquier la engaño. Algunas son divinidades de la belleza y el arte, que enseñan cómo esta no es sino un vehículo para mejorar la propia alma. Los clérigos de un dios de la luz son espíritus iluminados, imbuidos del brillo y el poder de la visión preclara de su dios. Su misión es ahuyentar la mentira y traer la luz a la oscuridad.",
+    "data": {
+      "parent_class": "cleric",
+      "flavor_name": "Dominio de la Luz",
+      "features_by_level": {
+        "1": [
+          {
+            "name": "Truco Adicional",
+            "description": "A nivel 1, cuando escoges este dominio, obtienes el truco /uz, si no lo conocías ya. s-"
+          },
+          {
+            "name": "Fulgor Protector",
+            "description": "También desde nivel 1, puedesinterponer una luz divina entre túy un enemigo que te ataque. Cuando una criatura a 30 pies o menos de ti y que puedas ver te ataque, podrás usar tu reacción para dar desventaja a su tirada de ataque: haces que una luz asresplandezca súbitamente ante ella. Un atacante que no pueda ser cegado esinmune a este rasgo. Puedes emplear este rasgo tantas veces como tu modificador por Sabiduría (mínimo una vez). Recuperas todos los usos tras finalizar un descanso largo."
+          }
+        ],
+        "2": [
+          {
+            "name": "Ra Canalizar Divinidad: Ar Resplandor del Amanecer",
+            "description": "ntesapartir de nivel 2, puedes utilizar tu Canalizar Divinidad para empuñar el poder de la luz solar, expulsando la oscuridad y causando daño radiante a tus enemigos. Puedes usar tu acción para mostrar tu símbolo sagrado y disipar cualquier oscuridad mágica a 30 pies o menos de ti. de ti Además, todas las criaturas hostiles dentro de esta distancia li- deberán hacer una tirada de salvación de Constitución, recia biendo 2d10 + tu nivel de clérigo de daño radiante si la fallan o la mitad de ese danño si la superan. Las criaturas con cobertura el ata- completa no se ven afectadas."
+          }
+        ],
+        "6": [
+          {
+            "name": "Fulgor Mejorado",
+            "description": "A partir de nivel 6, también podrás emplear tu rasgo Fulgor u Protector cuando una criatura a 30 pies o menos de ti y que puedas ver ataque a una criatura que no seas tú."
+          }
+        ],
+        "8": [
+          {
+            "name": "Lanzamiento Potente",
+            "description": "14, A partir de nivel 8, puedes añadir tu modificador por Sabiduría [ al daño que causas con cualquier truco de clérigo."
+          }
+        ],
+        "17": [
+          {
+            "name": "Halo de Luz",
+            "description": "te yapartir de nivel 17, puedes usar tu acción para activar un aura de luz solar que dura 1 minuto o hasta que emplees otra acción para disiparla. Dicha aura hace que emitas luz brillante en un radio de 60 pies y luz tenue 30 pies más allá. Aquellos enemigos que se encuentren en la zona de luz brillante tienen desventaja en las tiradas de salvación contra cualquier conjuro que cause daño de fuego o radiante."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "nature-domain",
+    "name": "Dominio de la Naturaleza",
+    "description": "Los dioses de la naturaleza son tan variados como ella; desde la inescrutables deidades de los bosques profundos (como Silvanus, Obad-Hai, Chislev, Balinor y Pan) hasta las amables divinidades asociadas con arroyos o arboledas concretas (como Eldath). Los druidas veneran la naturaleza en su conjunto y podrían servir a uno de estos dioses, practicando misteriosos ritos y recitando e su lengua secreta rezos prácticamente olvidados. No obstante, muchas de estas divinidades también poseen clérigos; campeones que persiguen losintereses de un dios de la naturaleza concreto de forma más proactiva. Estos clérigos pueden cazar a las malvadas monstruosidades que saquean los bosques, bendecir las cosechas de sus feligreses o marchitar los cultivos de aquellos que atraen la ira de sus dioses.",
+    "data": {
+      "parent_class": "cleric",
+      "flavor_name": "Dominio de la Naturaleza",
+      "features_by_level": {
+        "1": [
+          {
+            "name": "Acólito de la Naturaleza",
+            "description": "A nivel 1, aprendes un truco de druida de tu elección. También ganas competencia en una habilidad a elegir de entre las siguientes: Naturaleza, Supervivencia y Trato con Animales."
+          },
+          {
+            "name": "Competencia Adicional",
+            "description": "También a nivel 1, consigues competencia con armaduras pesadas."
+          }
+        ],
+        "2": [
+          {
+            "name": "Canalizar Divinidad: Hechizar Animales y Plantas",
+            "description": "A partir de nivel 2, eres capaz de utilizar tu Canalizar Divinidad para hechizar animales y plantas. Puedes emplear tu acción para mostrar tu símbolo sagrado e invocar el nombre de tu deidad. Todas las bestias y plantas a 30 pies o menos de ti que puedan verte deben realizar una tirada de salvación de Sabiduría. Las criaturas que fallen su tirada de salvación estarán hechizadas por ti durante 1 minuto o hasta recibir daño. Mientras las tengas hechizadas, se mostrarán amistosas hacia ti y todas las criaturas que elijas."
+          }
+        ],
+        "6": [
+          {
+            "name": "Atenuar Elementos",
+            "description": "A partir de nivel 6, cuando una criatura a 30 pies o menos de ti (túincluido) fuera a recibir daño de ácido, frío, fuego, rel pago o trueno, podrás usar tu reacción para otorgar a dicha criatura resistencia a ese daño."
+          }
+        ],
+        "8": [
+          {
+            "name": "Golpe Divino",
+            "description": "A nivel 8 obtienes la capacidad para imbuir los golpes de tu arma con energía divina. Una vez en cada uno de tus turnos, cuando impactes a una criatura con un ataque con arma, puedes hacer que dicho ataque cause 1d8 de daño de frío, fuego o relámpago (túeliges cual) adicional al objetivo. Cuando llegas a nivel 14, este daño adicional pasa a ser 2d8."
+          }
+        ],
+        "17": [
+          {
+            "name": "Maestro de la Naturaleza",
+            "description": "A nivel 17, consigues la capacidad para dar órdenes a animales y criaturas de tipo “planta”. Durante tu turno, mientras haya criaturas hechizadas por tu rasgo Hechizar Animales y Plantas, podrás usar una acción adicional para dar una orden verbal a cada una de esas criaturas, que deberán ejecutarla durante su siguiente turno."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "tempest-domain",
+    "name": "Dominio de la Tempestad",
+    "description": "Los dioses cuyos ámbitosincluyen el dominio de la Tempestad, como pueden ser Talos, Umberlee, Kord, Zeboim, el Devorador, Zeus o Thor, gobiernan sobre las tormentas, el mar y el cielo. Entre ellos se encuentran las deidades del relámpago y el trueno, los dioses de los terremotos, algunas divinidades ígneas y ciertos dioses de la violencia, la fuerza física y el valor. ám- En algunos panteones, es una deidad de este dominio, normalmente conocida por ajusticiar raudamente empleando relámpagos, la que gobierna sobre los otros dioses. En los panteones de los pueblos muy marineros, las divinidades de este dominio son los dioses del océano y los patrones de los marinos. Las deidades de la tempestad envían a sus clérigos a inspirar miedo en el pueblo llano, ya sea para mantener a este en la senda de la rectitud o para motivar la celebración de sacrificios conciliatorios que mantendrán a raya la ira divina.",
+    "data": {
+      "parent_class": "cleric",
+      "flavor_name": "Dominio de la Tempestad",
+      "features_by_level": {
+        "1": [
+          {
+            "name": "Competencias Adicionales",
+            "description": "A nivel 1, ganas competencia con armas marciales y armaduras pesadas."
+          },
+          {
+            "name": "Ira de la Tormenta",
+            "description": "También a nivel 1, puedes castigar con el poder de la tormenta a quienes te ataquen. Cuando una criatura que se encuentre a 5 pies o menos de ti y que puedas ver te impacte con un ataque, podrás usar tu reacción para obligarla a hacer una tirada de salvación de Destreza. Dicha criatura recibe 2d8 de daño de relámpago o trueno (a tu elección) si falla la tirada o la mitad la supera. Puedes emplear este rasgo tantas veces como tu modificador por Sabiduría (mínimo una vez). Recuperas todos los usos tras finalizar un descanso largo."
+          }
+        ],
+        "2": [
+          {
+            "name": "Canalizar Divinidad: Ira Destructora",
+            "description": "A partir de nivel 2, puedes utilizar tu Canalizar Divinidad para empuñar el poder de la tormenta con furia desmedida. Cuando tires para determinar la cantidad de daño de relámpago o trueno que causas, podrás usar tu Canalizar Divinidad para hacer el daño máximo en vez de tirar los dados."
+          }
+        ],
+        "6": [
+          {
+            "name": "Goolpe Tempestuoso",
+            "description": "A partir de nivel 6, cuando causes daño de relámpago a una criatura Grande o más pequeña, también puedes empujarla hasta 10 pies en la dirección opuesta a ti."
+          }
+        ],
+        "8": [
+          {
+            "name": "Golpe Divino",
+            "description": "A nivel 8 obtienes la capacidad para imbuir los golpes de tu arma con energía divina. Una vez en cada uno de tus turnos, cuando impactes a una criatura con un ataque con arma, puedes hacer que dicho ataque cause 1d8 de daño de trueno adicional al objetivo. Cuando llegas a nivel 14, este daño adicional pasa ser 2d8."
+          }
+        ],
+        "17": [
+          {
+            "name": "Nacido de la Tempestad",
+            "description": "A nivel 17 obtienes una velocidad volando igual a tu velocidad caminando, siempre que no estés bajo tierra o en interiores."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "life-domain",
+    "name": "Dominio de la Vida",
+    "description": "El dominio de la Vida se centra en la brillante energía positiva (una de las fuerzas fundamentales del universo) que sustenta a todos los seres vivos. Los dioses de la vida promueven la vitali dad y la salud curando a los enfermos y a los heridos, cuidando de los necesitados y expulsando a las fuerzas de la muerte y a los muertos vivientes. Prácticamente todas las deidades no malvadas están asociadas a este dominio, en especial las de la agricultura (como Chauntea, Arawai y Deméter), las solares (como Lathander, Pelor y Ra), las de la curación y la resistenci (como llmater, Mishakal, Apolo y Dian Cecht) y las del hogar y la comunidad (como Hestia, Hathor y Boldrei).",
+    "data": {
+      "parent_class": "cleric",
+      "flavor_name": "Dominio de la Vida",
+      "features_by_level": {
+        "1": [
+          {
+            "name": "Competencia Adicional",
+            "description": "Ganas competencia con armaduras pesadas."
+          },
+          {
+            "name": "Discípulo de la Vida",
+            "description": "Tus conjuros de nivel 1 o superior que restauran puntos de golpe curan 2 + el nivel del conjuro puntos de golpe adicionales."
+          }
+        ],
+        "2": [
+          {
+            "name": "Canalizar Divinidad: Preservar Vida",
+            "description": "Como acción, puedes repartir una reserva de curación igual a cinco veces tu nivel de clérigo entre criaturas a 30 pies o menos de ti, sin que ninguna supere la mitad de sus puntos de golpe máximos."
+          }
+        ],
+        "6": [
+          {
+            "name": "Sanador Bendito",
+            "description": "Cuando lanzas un conjuro de curación sobre otra criatura, también recuperas 2 + el nivel del conjuro puntos de golpe."
+          }
+        ],
+        "8": [
+          {
+            "name": "Golpe Divino",
+            "description": "Una vez por turno, cuando impactas con un ataque con arma, puedes causar 1d8 de daño radiante adicional. El daño aumenta a 2d8 al llegar a nivel 14."
+          }
+        ],
+        "17": [
+          {
+            "name": "Sanación Suprema",
+            "description": "Cuando un conjuro tuyo restaura puntos de golpe, usas el valor máximo posible de cada dado en lugar de tirarlo."
+          }
+        ]
+      },
+      "spell_casting": {
+        "ability": "WIS",
+        "type": "full",
+        "spell_slots": [
+          [
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            1,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            1,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            1,
+            1,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            1,
+            1,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            3,
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            3,
+            2,
+            1,
+            1,
+            1
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            3,
+            2,
+            2,
+            1,
+            1
+          ]
+        ]
+      },
+      "extra_spells": {
+        "1": [
+          "bless",
+          "cure-wounds"
+        ],
+        "3": [
+          "lesser-restoration",
+          "spiritual-weapon"
+        ],
+        "5": [
+          "beacon-of-hope",
+          "revivify"
+        ],
+        "7": [
+          "death-ward"
+        ],
+        "9": [
+          "mass-cure-wounds",
+          "raise-dead"
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "land",
+    "name": "Círculo de la Tierra",
+    "description": "El Círculo de la Tierra está compuesto de místicos y eruditos, que custodian los ritos y conocimientos antiguos mediante una rica tradición oral. Estos druidas se reúnen en torno a círculos sagrados de árboles o megalitos para susurrar secretos primordiales en lengua druídica. Los miembros más sabios del círculo son los sumos sacerdotes de las comunidades que conservan la Antiguafe y sirven como consejeros de los gobernantes de estos pueblos. Como miembro de este círculo, tu magia se ve influenciada por la tierra en la que te iniciaste en los misteriosos ritos del círculo.",
+    "data": {
+      "parent_class": "druid",
+      "flavor_name": "Círculo de la Tierra",
+      "features_by_level": {
+        "2": [
+          {
+            "name": "Truco Adicional",
+            "description": "A nivel 2, cuando escoges este círculo, aprendes un truco de druida adicional a tu elección."
+          },
+          {
+            "name": "Recuperación Natural",
+            "description": "A partir de nivel 2, eres capaz de recuperar parte de tu energía mágica sentándote a meditar y comulgar con la naturaleza. Durante un descanso corto, puedes elegir espacios de conjuro gastados y recuperarlos. La suma de niveles de estos espacios de conjuro debe ser igual o inferior a la mitad de tu nivel de druida (redondeando hacia arriba) y ninguno de los espacios puede ser de nivel 6 0 más. No podrás volver a utilizar este rasgo hasta que termines un descanso largo. Si, por ejemplo, eres un druida de nivel 4, podrás recuperar hasta dos niveles en espacios de conjuro: un espacio de nivel 2 o dos de nivel 1."
+          }
+        ],
+        "6": [
+          {
+            "name": "Paso de la Tierra",
+            "description": "A partir de nivel 6, moverte a través de terreno difícil no mágico no te cuesta movimiento adicional. También puedes pasar a través de plantas no mágicas sin que estas reduzcan tu velocidad y, aunque dichas plantas posean espinas, pinchos o peligros similares, no recibirás daño de ellas. Además, tienes ventaja en las tiradas de salvación contra plantas que han sido creadas o manipuladas mágicamente con el fin de obstaculizar el movimiento, como las producidas por el conjuro enmarañar."
+          }
+        ],
+        "10": [
+          {
+            "name": "Protección de la Naturaleza",
+            "description": "A partir de nivel 10, no puedes ser asustado ni hechizado por elementales o feéricos y eresinmune al veneno y la enfermedad."
+          }
+        ],
+        "14": [
+          {
+            "name": "Santuario de la Naturaleza",
+            "description": "Una vez alcanzas el nivel 14, las criaturas del mundo natural sienten tu conexión con la naturaleza y se muestran reticentes a atacarte. Cuando una bestia o criatura de tipo “planta” te ataque, deberá hacer una tirada de salvación de Sabiduría con la misma CDque las tiradas de salvación de tus conjuros de druida. Si falla, la criatura deberá elegir un nuevo objetivo o ataque fallará automáticamente. Si tiene éxito, será inmune a este efecto durante 24 horas. La criatura es consciente de este efecto antes de decidir satacarte."
+          }
+        ]
+      },
+      "spell_casting": {
+        "ability": "WIS",
+        "type": "full",
+        "spell_slots": [
+          [
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            1,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            1,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            1,
+            1,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            1,
+            1,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            3,
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            3,
+            2,
+            1,
+            1,
+            1
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            3,
+            2,
+            2,
+            1,
+            1
+          ]
+        ]
+      },
+      "extra_spells": {
+        "3": [
+          "hold-person",
+          "spike-growth",
+          "mirror-image",
+          "misty-step",
+          "blur",
+          "silence",
+          "barkskin",
+          "spider-climb",
+          "invisibility",
+          "pass-without-trace",
+          "spider-climb",
+          "spike-growth",
+          "acid-arrow",
+          "darkness"
+        ],
+        "5": [
+          "sleet-storm",
+          "slow",
+          "water-breathing",
+          "water-walk",
+          "create-food-and-water",
+          "protection-from-energy",
+          "call-lightning",
+          "plant-growth",
+          "daylight",
+          "haste",
+          "lightning-bolt",
+          "meld-into-stone",
+          "water-walk",
+          "stinking-cloud"
+        ],
+        "7": [
+          "freedom-of-movement",
+          "ice-storm",
+          "control-water",
+          "freedom-of-movement",
+          "blight",
+          "hallucinatory-terrain",
+          "divination",
+          "freedom-of-movement",
+          "divination",
+          "freedom-of-movement",
+          "stone-shape",
+          "stoneskin",
+          "freedom-of-movement",
+          "locate-creature"
+        ],
+        "9": [
+          "commune-with-nature",
+          "cone-of-cold",
+          "conjure-elemental",
+          "scrying",
+          "insect-plague",
+          "wall-of-stone",
+          "commune-with-nature",
+          "tree-stride",
+          "dream",
+          "insect-plague",
+          "passwall",
+          "wall-of-stone",
+          "insect-plague",
+          "scrying"
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "moon",
+    "name": "Círculo de la Luna",
+    "description": "Los druidas del Círculo de la Luna son fieros guardianes de las tierras salvajes. Los miembros de esta orden se reúnen bajo la luna llena para compartir noticias e intercambiar avisos. Moran en los parajes más apartados, por los que pueden deambular durante semanas sin cruzarse con ningún otro humanoide, y mucho menos otro druida. Mutable como la luna, un druida de este círculo podría acechar bajo la forma de un gran felino una noche, sobrevolar las copas de los árboles como un águila el día siguiente y abrirse paso a través del sotobosque en forma de oso para expulsar a un monstruo invasor. El salvajismo está en la sangre del druida.",
+    "data": {
+      "parent_class": "druid",
+      "flavor_name": "Círculo de la Luna",
+      "features_by_level": {
+        "2": [
+          {
+            "name": "Forma Salvaje de Combate",
+            "description": "Cuando escoges este círculo a nivel 2, obtienes la capacidad para usar Forma Salvaje como acción adicional durante tu turno, en lugar de como acción. Además, mientras estés transformado usando Forma Salvaje, podrás utilizar tu acción adicional para gastar un espacio de conjuro y recuperar 1d8 puntos de golpe por cada nivel del espacio consumido."
+          },
+          {
+            "name": "Formas del Círculo",
+            "description": "Los ritos de tu círculo te proporcionan la habilidad para transformarte en formas animales aún más peligrosas. A partir de nivel 2, puedes usar tu Forma Salvaje para transformarte en una bestia con un valor de desafío de hasta 1. Es decir, que ignoras la columna “VDmáx.” de la tabla “formas de bestia”, aunque debes atenerte al resto de restricciones de la misma. A partir de nivel 6, puedes transformarte en una bestia con un valor de desafío de hasta tu nivel de druida dividido por 3, redondeando hacia abajo. A"
+          },
+          {
+            "name": "Estilo de Combate",
+            "description": "A nivel 2 adoptas un estilo de combate concreto como tu especialidad. Elige una de las siguientes opciones que aparecen a continuación. No puedes escoger el mismo Estilo de Combate más de una vez, incluso aunque luego puedas elegir de nuevo un Estilo de Combate."
+          }
+        ],
+        "6": [
+          {
+            "name": "Golpe Primordial",
+            "description": "A partir de nivel 6, tus ataques en forma de bestia cuentan como mágicos a efectos de superar las resistencias e inmunidades a ataques y daño no mágicos."
+          }
+        ],
+        "10": [
+          {
+            "name": "Forma Salvaje Elemental",
+            "description": "A partir de nivel 10, puedes gastar dos usos de Forma Salvaje al mismo tiempo para transformarte en un elemental de aire, un elemental de tierra, un elemental de fuego o un elemental de agua."
+          },
+          {
+            "name": "Esconderse a Plena Vista",
+            "description": "A partir de nivel 10, puedes pasar 1 minuto confeccionando un camuflaje que te oculte. Debes tener acceso a barro fresco, tierra, r- plantas, hollín o cualquier otro tipo de materiales que se den de forma habitual en la naturaleza y que quieras emplear para crear tu camuflaje. Una vez te hayas camuflado de esta forma, puedesintentar esconderte apoyándote sobre una superficie sólida, como un árbol o un muro, que sea al menos tan alta y ancha como tú. Obtienes un bonificador de +10 a las pruebas de Destreza (Sigilo) mientras permanezcas estático y no realices acción alguna. En cuanto te muevas o lleves a cabo una acción o reacción, deberás volver a camufarte de nuevo para disfrutar de este beneficio."
+          }
+        ],
+        "14": [
+          {
+            "name": "Mil Formas",
+            "description": "A nivel 14 has aprendido a utilizar la magia para alterar tu aspecto físico de formas más sutiles. Puedes lanzar el conjuro alterar el propio aspecto a voluntad. el"
+          },
+          {
+            "name": "Desvanecerse",
+            "description": "A partir de nivel 14, puedes realizar la acción de Esconderse como acción adicional durante tu turno. Además, no puedes ser rastreado empleando medios no mágicos, salvo que decidas dejar un rastro de forma voluntaria."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "hunter",
+    "name": "Cazador",
+    "description": ". Emular el arquetipo del Cazador implica aceptar tu papel como baluarte que protege la civilización de los terrores de la naturaleza salvaje. Al caminar por la senda del Cazador aprendes técnicas especializadas para enfrentarte a los desafíos con los que este protector se encuentra; desde unosincursores ogros hasta hordas de orcos, pasando por descomunales gigantes y espantosos dragones.",
+    "data": {
+      "parent_class": "ranger",
+      "flavor_name": "Cazador",
+      "features_by_level": {
+        "3": [
+          {
+            "name": "El Cazador y la Presa",
+            "description": "A nivel 3 obtienes uno de los siguientes rasgos, a tu elección. Asesino de Gigantes. Cuando una criatura Grande o de mayor tamaño que se encuentre a 5 pies o menos de tite ataque (tanto si impacta como si falla), podrás usar tu reacción para atacarla inmediatamente después de que esta finalice su ataque. Para realizar este ataque debes poder verla. Azote de Colosos. Tu tenacidad puede agotar incluso a los enemigos más poderosos. Cuando impactes a una criatura con un ataque con arma, dicha criatura recibirá 1d8 de daño adicional si está por debajo de sus puntos de golpe máximos. Puedesinfligir este daño adicional solo una vez por turno. Destructor de Hordas. Una vez en cada uno de tus turnos, cuando hagas un ataque con arma, podrás realizar otro ataque con la misma arma contra otra criatura distinta a la original que esté a 5 pies o menos de ella y dentro del alcance de tu arma."
+          }
+        ],
+        "7": [
+          {
+            "name": "Tácticas Defensivas",
+            "description": "A nivel 7 obtienes uno de los siguientes rasgos, a tu elección. Defensa contra Ataques Múltiples. Cuando una criatura te impacte con un ataque, obtendrás un bonificador de +4 a tu CAcontra todos los ataques subsiguientes de dicha criatura hasta el final del turno. Escapar de la Horda. Los ataques de oportunidad hechos contra ti tienen desventaja. Voluntad de Acero. Tienes ventaja en las tiradas de salvación para evitar ser asustado."
+          }
+        ],
+        "11": [
+          {
+            "name": "Ataque Múltiple",
+            "description": "A nivel 11 obtienes uno de los siguientes rasgos, a tu elección. Andanada. Puedes usar tu acción para realizar un ataque a distancia contra cualquier cantidad de criaturas que se encuentren a 10 pies o menos de un punto que puedas ver dentro del alcance de tu arma. Debes tener munición suficiente para todos los objetivos y hacer una tirada de ataque para cada objetivo por separado. Ataque Huracanado. Puedes emplear tu acción para realizar un ataque cuerpo a cuerpo contra cualquier cantidad de criaturas que se encuentren a 5 pies o menos de ti, haciendo una tirada de ataque para cada objetivo por separado."
+          }
+        ],
+        "15": [
+          {
+            "name": "Defensa de Cazador Experto",
+            "description": "A nivel 15 obtienes uno de los siguientes rasgos, a tu elección. Aguantar la Marea. Cuando una criatura hostil falle al realizar un ataque cuerpo a cuerpo contra ti, puedes utilizar tu reacción para obligar a la criatura a repetir su ataque, pero contra otra criatura (que no sea ella misma) de tu elección. Esquiva Asombrosa. Cuando un atacante que puedas ver te impacte con una tirada de ataque, puedes usar tu reacción para reducir a la mitadel daño que te causa dicho ataque. Evasión. Cuando seas víctima de un efecto (como el ardiente aliento de un dragón rojo o el conjuro relámpago) que te permita hacer una tirada de salvación de Destreza para recibir solo la mitad del daño, no recibirás daño alguno si tienes éxito en la tirada de salvación y solo la mitad si fallas."
+          }
+        ]
+      },
+      "spell_casting": {
+        "ability": "WIS",
+        "type": "half"
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "beast-master",
+    "name": "Señor de las Bestias",
+    "description": "El arquetipo del Señor de las Bestias encarna la amistad entre las razas civilizadas y las bestias de la naturaleza. Unidos por un mismo propósito, tanto animal como explorador combaten a los monstruos que amenazan a la civilización y al entorno natural por igual.",
+    "data": {
+      "parent_class": "ranger",
+      "flavor_name": "Señor de las Bestias",
+      "features_by_level": {
+        "3": [
+          {
+            "name": "Compañero del Explorador",
+            "description": "Obtienes un compañero animal entrenado para luchar junto a ti. Mejora con tu bonificador por competencia y actúa según tus órdenes."
+          }
+        ],
+        "7": [
+          {
+            "name": "Entrenamiento Excepcional",
+            "description": "Cuando tu compañero no ataque, puedes usar una acción adicional para ordenarle que Ayude, Corra, se Destrabe o Esquive."
+          }
+        ],
+        "11": [
+          {
+            "name": "Furia Bestial",
+            "description": "Cuando ordenas a tu compañero usar la acción de Atacar, este puede realizar dos ataques o usar una acción especial apropiada de su perfil."
+          }
+        ],
+        "15": [
+          {
+            "name": "Compartir Conjuros",
+            "description": "Cuando lanzas un conjuro que te tenga a ti como objetivo y tu bestia esté a 30 pies o menos, también puedes hacer que el conjuro la afecte."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "champion",
+    "name": "Campeón",
+    "description": "El Campeón arquetípico se centra en desarrollar su poderío físico en bruto hasta alcanzar una perfección mortal. Aquellos que deciden emular este arquetipo combinan un riguroso entrenamiento con un estado físico excelente, que les permite dar golpes devastadores.",
+    "data": {
+      "parent_class": "fighter",
+      "flavor_name": "Campeón",
+      "features_by_level": {
+        "3": [
+          {
+            "name": "Crítico Mejorado",
+            "description": "A partir del momento en el que eliges este arquetipo, a nivel 3, tus ataques con arma causarán críticos con un resultado de 19 o 20 en la tirada."
+          }
+        ],
+        "7": [
+          {
+            "name": "Atleta Sobresaliente",
+            "description": "A partir de nivel 7, puedes añadir la mitad de tu bonificador por competencia (redondeado hacia abajo) a cualquier prueba de Fuerza, Destreza o Constitución que hagas que no se beneficie ya de tu bonificador por competencia. Además, cuando realices un salto de longitud habiendo tomado carrerilla, aumentarás la distancia que saltas en tantos pies como tu modificador por Fuerza."
+          }
+        ],
+        "10": [
+          {
+            "name": "Estilo de Combate Adicional",
+            "description": "A nivel 10 puedes escoger una segunda opción del rasgo Estilo de Combate."
+          }
+        ],
+        "15": [
+          {
+            "name": "Crítico Superior",
+            "description": "A partir de nivel 15, tus ataques con arma causarán críticos con un resultado de 18 a 20 enla tirada."
+          }
+        ],
+        "18": [
+          {
+            "name": "Superviviente",
+            "description": "A nivel 18 alcanzas el pináculo de la resistencia en batalla. Al comienzo de cada uno de tus turnos, recuperas 5 + tu modificador por Constitución puntos de golpe si no te quedan más de la mitad de tus puntos de golpe máximos. Con todo, no puedes disfrutar de este beneficio si te quedanopuntos de golpe."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "battle-master",
+    "name": "Maestro del Combate",
+    "description": "Los que eligen imitar al Maestro del Combate arquetípico recurren a técnicas marciales que han sido transmitidas durante generaciones. El Maestro del Combate entiende la lucha como un campo de estudio, en el que algunos también incluyen otras disciplinas como la forja de armas o la caligrafía. No todos los combatientesinteriorizan las lecciones que imparte la historia, la teoría y el arte que se ven reflejadas e el arquetipo Maestro del Combate, pero aquellos que lo hacen se convierten en luchadores equilibrados, de gran habilidad y poseedores de amplios conocimientos.",
+    "data": {
+      "parent_class": "fighter",
+      "flavor_name": "Maestro del Combate",
+      "features_by_level": {
+        "3": [
+          {
+            "name": "Supremacía en Combate",
+            "description": "Aprendes maniobras alimentadas por dados de supremacía. Empiezas con cuatro dados d8, conoces tres maniobras y aprendes más a niveles superiores."
+          },
+          {
+            "name": "Estudioso de la Guerra",
+            "description": "Ganas competencia con un tipo de herramientas de artesano de tu elección."
+          }
+        ],
+        "7": [
+          {
+            "name": "Conoce a Tu Enemigo",
+            "description": "Si observas o interactúas con otra criatura durante al menos 1 minuto fuera del combate, puedes comparar algunas de sus aptitudes con las tuyas."
+          }
+        ],
+        "10": [
+          {
+            "name": "Supremacía en Combate Mejorada",
+            "description": "Tus dados de supremacía se convierten en d10."
+          }
+        ],
+        "15": [
+          {
+            "name": "Incansable",
+            "description": "Si tirasiniciativa sin dados de supremacía restantes, recuperas uno."
+          }
+        ],
+        "18": [
+          {
+            "name": "Supremacía en Combate Mejorada",
+            "description": "Tus dados de supremacía se convierten en d12."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "eldritch-knight",
+    "name": "Caballero Arcano",
+    "description": "El Caballero Arcano arquetípico combina la maestría marcial típica de los guerreros con un cuidadoso estudio de la magia. Los Caballeros Arcanos emplean técnicas mágicas similares a las utilizadas por los magos. Centran sus estudios en dos de las ocho escuelas mágicas: abjuración un y evocación. Los conjuros de la primera dan al Caballero Arcano una protección adicional durante el combate, miende tras que los de la segunda le permiten hacer daño a muchos caer el enemigos al mismo tiempo, ampliando así el repertorio del guerrero. Estos caballeros aprenden una cantidad relativan mente pequeña de conjuros, memorizándolos en lugar de apuntándolos en un libro de conjuros. adño",
+    "data": {
+      "parent_class": "fighter",
+      "flavor_name": "Caballero Arcano",
+      "features_by_level": {
+        "3": [
+          {
+            "name": "Lanzamiento de Conjuros",
+            "description": "Cuando llegas a nivel 3, puedes complementar tu habilidad marcial con la capacidad de lanzar conjuros. El capítulo 10 contiene las reglas de lanzamiento de conjuros y el 11 la lista de conjuros de mago. Trucos. Aprendes dos trucos de tu elección escogidos de entre los de la lista de conjuros de mago. Adquieres otro nuevo truco de mago tu elección cuando alcanzas el nivel 10. Espacios de conjuro. La tabla “lanzamiento de conjuros del Caballero Arcano” muestra de cuántos espacios de conjuro dispones para lanzar conjuros de nivel 1 y superiores. Para lanzar uno de estos conjuros deberásinvertir un espacio de al menos el nivel del conjuro. Recuperas todos los espacios utilizados tras finalizar un descanso largo. Si, por ejemplo, conoces el conjuro de nivel 1 escudo y posees un espacio de conjuro de nivel 1 y otro de nivel 2, podrías lanz escudo empleando cualquiera de los dos espacios. Conjuros conocidos de nivel 1 y superiores. Conoces tres conjuros de mago de nivel 1 a tu elección, dos de los cuales deben ser de abjuración o evocación. Todos ellos deben pertenecer a la lista de conjuros de mago. La columna “conjuros conocidos” de la tabla “lanzamiento de conjuros del Caballero Arcano” te indica cuándo podrás aprender más conjuros de mago de nivel 1 o superiores. Túeliges cuales, pero todos estos conjuros deben ser de abjuración o evocación y de un nivel para el que tengas espacios de conjuro. Así, cuando subes a nivel 7 en esta clase puedes aprender un conjuro nuevo, que puede ser de nivel 1 02. Los conjuros que aprendes al alcanzar los niveles 8, 14 y 20 pueden ser de cualquier escuela mágica. Además, cada vez que subas un nivel de esta clase podrás elegir uno de los conjuros de mago que ya conoces y reemplazarlo por otro de los que aparecen en la lista de conjuros de mago. El nuevo conjuro deberá ser de un nivel para el que tengas espacios de conjuro. Además, ha de ser de abjuración o evocación, salvo si estás reemplazando los conjuros que obtuviste a los niveles 3 8, 14 0 20 y que podían pertenecer a cualquier escuela de magia. Aptitud mágica. La Inteligencia es tu aptitud mágica en lo que a conjuros de mago respecta, ya que aprendes tus conjuros mediante el estudio y la memorización. Así, utilizarás tu Inteligencia siempre que un conjuro de mago haga referencia a tu aptitud mágica. Además, también usarás tu modificador por Inteligencia para determinar la CDde las tiradas de salvación y las tiradas de ataque de los conjuros de mago que lances. CDtirada de salvación de conjuros = 8 + tu bonificador por competencia + tu modificador por Inteligencia Modificador de ataque de conjuros = tu bonificador por competencia + tu modificador por Inteligencia"
+          },
+          {
+            "name": "Vínculo con Arma",
+            "description": "A nivel 3 aprendes un ritual que crea un vínculo mágico entre una de tus armas y tú. Para ejecutar este ritual necesitas 1 hora, que puede ser la de un descanso corto. El arma debe estar dentro de tu alcance durante todo el proceso, y al final deste la tocarás, estableciendo así el vínculo. Una vez te hayas vinculado con un arma, la única forma de desarmarte será dejándote incapacitado. Además, sambos os encontráis en el mismo plano de existencia, podrásinvocar a tu arma empleando una acción adicional durante tu turno; el arma se teletransportará instantáneamente a tu mano. Puedes tener vinculadas hasta dos armas, pero solo puedesinvocar una de ellas cuando usas tu acción adicional. Si intentas vincularte con una tercera, deberás antes romper uno de los vínculos existentes con una de las otras dos."
+          }
+        ],
+        "7": [
+          {
+            "name": "Magia de Guerra",
+            "description": "A partir de nivel 7, cuando utilizas tu acción para lanzar un truco, puedes emplear tu acción adicional para hacer un ataque con arma."
+          }
+        ],
+        "10": [
+          {
+            "name": "Golpe Sobrenatural",
+            "description": "A nivel 10 aprendes a hacer que los golpes de tus armas debiliten la resistencia del objetivo a tus conjuros. Cuando impactas a una criatura con un ataque con arma, dicha criatura tendrá desventaja en la siguiente tirada de salvación que realice por causa de un conjuro que lances antes del final de tu próximo turno."
+          }
+        ],
+        "15": [
+          {
+            "name": "Carga Arcana",
+            "description": "A nivel 15 obtienes la capacidad de, cuando usas tu Acción Súbita, teletransportarte hasta 30 pies a un espacio desocupado que puedas ver. Puedes teletransportarte antes o después de hacer la acción adicional."
+          }
+        ],
+        "18": [
+          {
+            "name": "Magia de Guerra Mejorada",
+            "description": "A partir de nivel 18, cuando utilizas tu acción para lanzar un conjuro, puedes emplear tu acción adicional para hacer un ataque con arma. e"
+          }
+        ]
+      },
+      "spell_casting": {
+        "ability": "INT",
+        "type": "third",
+        "cantrips_known": [
+          0,
+          0,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ],
+        "spells_known": [
+          0,
+          0,
+          3,
+          4,
+          4,
+          4,
+          5,
+          6,
+          6,
+          7,
+          8,
+          8,
+          9,
+          10,
+          10,
+          11,
+          11,
+          11,
+          12,
+          13
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "wild-magic",
+    "name": "Magia Salvaje",
+    "description": "Tu magia innata proviene de las fuerzas del caos que sustentan el orden de la creación. Puede que hayas sido expuesto a magia en bruto, quizá a través de un portal planar que llevaba al Limbo, los Planos Elementales o el Reino Lejano. Alo mejor fuiste bendecido por un ser feérico o marcado por un demonio. O incluso puede que tu magia se deba a un evento casual durante tu nacimiento, sin causa aparente alguna. Independientemente de su razón de ser, la magia hierve en tu interior, esperando la oportunidad de manifestarse.",
+    "data": {
+      "parent_class": "sorcerer",
+      "flavor_name": "Magia Salvaje",
+      "features_by_level": {
+        "1": [
+          {
+            "name": "Sobrecarga de Magia Salvaje",
+            "description": "A partir del momento en el que escoges este origen, a nivel 1, tu lanzamiento de conjuros puede desencadenar sobrecargas de magia descontrolada. Una vez por turno, inmediatamente después de que lances un conjuro de hechicero de nivel 1 o superiores, el DM puede pedirte que tires 1d20. Si sacas un 1, tira en la tabla “sobrecargas de Magia Salvaje” para crear un efecto mágico. Si el efecto resultante es un conjuro, este será demasiado salvaje para verse afectado por tu Metamagia y, si ble normalmente requería de concentración, no la necesita en este caso concreto; el conjuro alcanza su duración completa."
+          },
+          {
+            "name": "Mareas del Caos",
+            "description": "rísA nivel 1 puedes manipular las fuerzas del cambio y el caos ivel para obtener ventaja en una tirada de ataque, prueba de característica o tirada de salvación. Una vez utilizado este rasgo, edeberás terminar un descanso largo para poder volver a usarlo e de otra vez. En cualquier momento antes de que recuperes el empleo de ieste rasgo, e inmediatamente después de que lances un conjuro de hechicero de nivel 1 o superiores, el DM puede pedirte que tires en la tabla “sobrecargas de Magia Salvaje”. Si ocurre esto, recuperarás el uso de este rasgo. año"
+          }
+        ],
+        "6": [
+          {
+            "name": "Doblegar la Suerte",
+            "description": "A partir de nivel 6 puedes recurrir a tu magia salvaje para retorcer el destino. Cuando otra criatura que puedas ver haga una tirada de ataque, una prueba de característica o una tirada de salvación, puedes utilizar tu reacción y gastar 2 puntos de hechicería para tirar 1d4 y aplicar el resultado como bonificade dor o penalizador (túeliges) a la tirada de la criatura. Puedes lorealizar esto después de que la criatura tire, pero previamente asa que se resuelvan los efectos de la tirada."
+          }
+        ],
+        "14": [
+          {
+            "name": "Caos Controlado",
+            "description": "A nivel 14 adquieres un pequeño ápice de control sobre las sobrecargas de tu magia salvaje. Siempre que tires en la tabla “sobrecargas de Magia Salvaje”, puedes lanzar dos dados y usar el resultado que prefieras."
+          }
+        ],
+        "18": [
+          {
+            "name": "Bombardeo de Conjuros",
+            "description": "A partir de nivel 18, la energía dañina de tus conjuros se intensifica. Cuando tires el daño de un conjuro y obtengas el a de resultado máximo posible en alguno de los dados, escoge uno de estos dados, vuélvelo a lanzar y añade el nuevo resultado nal daño, además del que ya habías añadido antes. Solo puede raemplear este rasgo una vez por turno."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "abjuration",
+    "name": "Escuela de Abjuración",
+    "description": "La Escuela de Abjuración enfatiza la magia que detiene, destierra o protege. Los detractores de esta escuela afirman que se trata de una tradición enfocada en el rechazo, en la negación y no una afirmación positiva. Sin embargo, túentiendes que acabar con efectos dañinos, proteger al inocente y desterrar lasinfluencias malignas no es ni de lejos un vacío filosófico. Se trata de una vocación orgullosa y respetable. Conocidos como abjuradores, los miembros de esta escuela son especialmente demandados cuando aparecen espíritus siniestros a los que exorcizar, es necesario proteger localizaciones importantes del espionaje mágico o existen portales a otros planos que deben ser clausurados.",
+    "data": {
+      "parent_class": "wizard",
+      "flavor_name": "Escuela de Abjuración",
+      "features_by_level": {
+        "2": [
+          {
+            "name": "Experto en Abjuración",
+            "description": "A partir del momento en el que eliges esta escuela, a nivel 2, solo necesitas la mitad de tiempo y dinero para copiar un conjuro de abjuración a tu libro de conjuros."
+          },
+          {
+            "name": "Salvaguarda Arcana",
+            "description": ". A partir de nivel 2, puedes tejer una protección mágica a tu alrededor. Cuando lanzas un conjuro de abjuración de nivel 10 superiores, puedes aprovechar una de las hebras mágicas del conjuro para tejer una salvaguarda sobre ti mismo, que durará hasta que termines un descanso largo. Esta salvaguarda tiene tantos puntos de golpe máximos comodos veces tu nivel de mago + tu modificador por Inteligencia. Cada vez que fueras a sufrir daño, será ella la que lo reciba en tu lugar. Si este daño reduce los puntos de golpe de la salvaguarda a 0, recibirás el daño restante. La salvaguarda no podrá absorber daño mientras tenga 0 puntos de golpe, pero su magia permanecerá activa. Cada vez que lances un conjuro de abjuración de nivel 1 o superiores, la salvaguarda recuperará tantos puntos de golpe como el doble del nivel del conjuro. Una vez creada la salvaguarda, deberás terminar un descanso largo para poder volver a formarla de nuevo."
+          }
+        ],
+        "6": [
+          {
+            "name": "Salvaguarda Proyectada",
+            "description": "A partir de nivel 6, cuando una criatura que puedas ver a 30 pies o menos de ti fuera a recibir daño, podrás utilizar tu reacción para hacer que tu Salvaguarda Arcana absorba dicho daño. Si este daño reduce los puntos de golpe de la salvaguarda a 0, la criatura original recibirá el daño restante."
+          }
+        ],
+        "10": [
+          {
+            "name": "Abjuración Mejorada",
+            "description": "A partir de nivel 10, cuando lanzas un conjuro de abjuración que te exige hacer una prueba de característica como parte del lanzamiento del mismo (como es el caso de contrahechizo o disipar magia), podrás añadir tu bonificador por competencia a la prueba."
+          }
+        ],
+        "14": [
+          {
+            "name": "Resistencia a Conjuros",
+            "description": "A partir de nivel 14 posees ventaja en las tiradas de salvación contra conjuros. Además, tienes resistencia al daño causado por conjuros."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "divination",
+    "name": "Escuela de Adivinación",
+    "description": "El consejo de un adivino es un bien preciado, perseguido por reyes y plebeyos por igual, pues todos anhelan poseer una comprensión más clara de su pasado, presente y futuro. Como adivino, buscas apartar los velos del espacio, el tiempo y la consciencia, para así poder ver con claridad. Trabajas para dominar los conjuros que proporcionan discernimiento, visión remota, conocimiento sobrenatural y presagios del futuro.",
+    "data": {
+      "parent_class": "wizard",
+      "flavor_name": "Escuela de Adivinación",
+      "features_by_level": {
+        "2": [
+          {
+            "name": "Experto en Adivinación",
+            "description": "A partir del momento en el que eliges esta escuela, a nivel 2, solo necesitas la mitad de tiempo y dinero para copiar un conjuro de adivinación a tu libro de conjuros."
+          },
+          {
+            "name": "Presagio",
+            "description": "A partir de nivel 2, cuando eliges esta escuela, empiezas a vislumbrar retazos del futuro en los límites de tu percepción. Después de terminar un descanso largo, tira 2d20 y apunta los dos resultados obtenidos. Puedes sustituir cualquier tirada de ataque, tirada de salvación o prueba de característica que vayáis a realizar o túo una criatura que puedas ver por el número de una de las dos tiradas de presagio. Debesindicar que haces esto antes de que se lleve a cabo la tirada y solo puedes sustituir una tirada de esta forma una vez por turno. Cada tirada de presagio solo puede emplearse una vez. Perderás todas las tiradas de presagio que no hayas utilizado cuando finalices un descanso largo."
+          }
+        ],
+        "6": [
+          {
+            "name": "Adivino Avezado",
+            "description": "A partir de nivel 6, lanzar conjuros de adivinación te resulta tan fácil que solo requiere una pequeña parte de tus esfuerzos. Cuando lanzas un conjuro de adivinación de nivel 2 0 más empleando un espacio de conjuro, recuperas otro espacio de conjuro ya gastado. El espacio recobrado debe ser de nivel inferior al del conjuro lanzado, y en ningún caso superioras5."
+          }
+        ],
+        "10": [
+          {
+            "name": "El Tercerojo",
+            "description": "A partir de nivel 10 puedes usar tu acción para aumentar tus poderes de percepción. Cuando hagas esto, escoge uno de los beneficios que aparecen a continuación, que permanecerá activo hasta que quedesincapacitado o finalices un descanso corto o largo. Para poder volver a utilizar este rasgo tendrás que terminar un descanso, corto o largo. Visión en la Oscuridad. Obtienes visión en la oscuridad con un alcance de 60 pies, como se describe en el capítulo 8: “Aventuras”. Visión Etérea. Puedes ver en el Plano Etéreo a 60 pies de distancia. Comprensión Superior. Puedes leer cualquier idioma. Ver Invisibilidad. Puedes ver las criaturas y objetosinvisibles que estén en tu línea de visión y a 10 pies o menos de ti."
+          }
+        ],
+        "14": [
+          {
+            "name": "Presacgio Mayor",
+            "description": "A partir de nivel 14, las visiones de tus sueños se intensifican, dibujando en tu mente una imagen más clara de lo que está por acontecer. Puedes tirar tres d20 cuando uses tu rasgo Presagio en lugar de dos."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "conjuration",
+    "name": "Escuela de Conjuración",
+    "description": "Como conjurador, prefieres los conjuros que crean objetos y criaturas a partir de la nada. Puedesinvocar una niebla ondulante y mortífera o convocar criaturas para que acudan a combatir por ti. Cuando crezca tu dominio de la magia, aprenderás conjuros de transporte y podrás teletransportarte a ti mismo grandes distancias, e incluso a otros planos de existencia, en un instante.",
+    "data": {
+      "parent_class": "wizard",
+      "flavor_name": "Escuela de Conjuración",
+      "features_by_level": {
+        "2": [
+          {
+            "name": "Experto en Conjuración",
+            "description": "A partir del momento en el que eliges esta escuela, a nivel 2, solo necesitas la mitad de tiempo y dinero para copiar un conjuro de conjuración a tu libro de conjuros."
+          },
+          {
+            "name": "Conjuración Menor",
+            "description": "A partir de nivel 2, cuando escoges esta escuela, puedes utilizar tu acción para conjurar un objeto.inanimado en tu propia mano o en el suelo, en un espacio desocupado que puedas ver a 10 pies o menos de ti. El objeto no puede medir más de 3 pies en cualquiera de sus lados ni pesar más de 10 libras, y debe tener la forma de un objeto no mágico que hayas visto antes. Este objeto es claramente mágico, pues emite luz tenue en un radio de 5 pies y desaparecerá tras 1 hora, cuando uses este rasgo de nuevo, o si causa o recibe cualquier cantidad de daño."
+          }
+        ],
+        "6": [
+          {
+            "name": "Trasposición Benigna",
+            "description": "A partir de nivel 6 puedes usar tu acción para teletransportarte hasta 30 pies a un espacio desocupado que puedas ver. Alternativamente, puedes elegir un espacio dentro del alcance que esté ocupado por una criatura Pequeña o Mediana. Si es una criatura voluntaria, ambos os teletransportaréis, intercambiando vuestras posiciones. Una vez utilizado este rasgo, deberás terminar un descanso largo o lanzar un conjuro de conjuración de nivel 1 o superiores para poder volver a usarlo otra vez."
+          }
+        ],
+        "10": [
+          {
+            "name": "Conjuración Concentrada",
+            "description": "A partir de nivel 10, recibir daño no te hará perder la concentración en tus conjuros de conjuración."
+          }
+        ],
+        "14": [
+          {
+            "name": "Invocaciones Duraderas",
+            "description": "A partir de nivel 14, cualquier criatura que invoques o crees con un conjuro de conjuración poseerá 30 puntos de golpe temporales."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "enchantment",
+    "name": "Escuela de Encantamiento",
+    "description": "Como miembro de la Escuela de Encantamiento, has perfeccionado tu capacidad para embelesar y cautivar a otras personas y monstruos. Algunos encantadores son pacificadores, que embrujan a los violentos para que dejen las armas y hechizan a los crueles para que muestren misericordia. Otros son tiranos que recurren a la magia para atar a los reticentes a su voluntad. Pero la mayoría de los encantadores se encuentran entre ambos extremos.",
+    "data": {
+      "parent_class": "wizard",
+      "flavor_name": "Escuela de Encantamiento",
+      "features_by_level": {
+        "2": [
+          {
+            "name": "Experto en Encantamiento",
+            "description": "A partir del momento en el que eliges esta escuela, a nivel 2, solo necesitas la mitad de tiempo y dinero para copiar un conjuro de encantamiento a tu libro de conjuros."
+          },
+          {
+            "name": "Mirada Hipnótica",
+            "description": "A partir de nivel 2, cuando escoges esta escuela, tus suaves palabras y fascinante mirada te permiten embelesar a otra criatura. Como acción, elige a una criatura que puedas ver a 5 pies menos de ti. Si el objetivo puede verte u ofrte, deberá hacer un tirada de salvación de Sabiduría con la misma CDque las tiradas de salvación de tus conjuros de mago. Si falla, estará hechizado por ti hasta el final de tu siguiente turno. La criatura hechiza queda incapacitada y está claramente afectada. Además, su velocidad baja a 0. En cada uno de los turnos subsiguientes, podrás utilizar tu acción para mantener este efecto, alargando su duración hasta el final de tu siguiente turno. Sin embargo, el efecto terminará si mueves a más de 5 pies de distancia de la criatura, si esta deja poder verte u oírte o si la criatura recibe daño. Una vez finaliza el efecto, o si la criatura tiene éxito en su de salvación inicial contra él, no podrás volver a usar este ras contra dicha criatura hasta que termines un descanso largo."
+          }
+        ],
+        "6": [
+          {
+            "name": "Encantamiento Instintivo",
+            "description": "A partir de nivel 6, cuando una criatura que puedas ver a 30 pies o menos de ti haga una tirada de ataque que te tenga como objetivo, podrás emplear tu reacción para redirigir el ataque. Para hacer esto es necesario que haya otra criatura dentro del alcance del ataque. El atacante deberá realizar una tirada de salvación de Sabiduría con la misma CDque las tiradas de salvación de tus conjuros de mago. Si la falla, debe elegir como objetivo de su ataque a la criatura más cercana a él, sin contaros nati nal propio atacante. En caso de que hubiera varias criaturas a la misma distancia, el atacante elige a cuál ataca. Si el atacante tiene éxito en su tirada de salvaci no podrás volver a usar este rasgo sobre élhasta que termines un descanso largo. Debes decidir utilizar este rasgo antes de saber si el ataque impacta o no. Las criaturas que no puedan ser hechizadas no se ven afectadas por este efecto."
+          }
+        ],
+        "10": [
+          {
+            "name": "Duplicar Encantamiento",
+            "description": "A partir de nivel 10, cuando lanzas un conjuro de encantamiento de nivel 1 o más cuyo objetivo sea una única criatura, puedes hacer que también tenga como objetivo a una segunda."
+          }
+        ],
+        "14": [
+          {
+            "name": "Modificar Recuerdos",
+            "description": "A nivel 14 obtienes la capacidad de provocar que una criatura no sea consciente de tu influencia mágica sobre ella. Cuando lanzas un conjuro de encantamiento para hechizar a una 0o más criaturas, puedes alterar el entendimiento de una de ellas para que no sea consciente de que ha sido hechizada. Además, una única vez antes de que el conjuro termine, puedes usar tu acción para intentar que la criatura escogida olvide parte del tiempo que ha pasado hechizada. La criatura deberá realizar una tirada de salvación de Inteligencia con la misma CDque las tiradas de salvación de tus conjuros de mago. Si falla, perderá los recuerdos correspondientes a 1 + tu modificador por Carisma horas (mínimo 1 hora). Puedes hacer que la criatura olvide menos tiempo, y el periodo olvidado nunca puede exceder la duración del conjuro de encantamiento."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "evocation",
+    "name": "Escuela de Evocación",
+    "description": "Haces hincapié en el estudio de la magia capaz de crear poderosos efectos elementales, como un frío penetrante, llamas abrasadoras, ácidos corrosivos, truenos reverberantes o violentos relámpagos. Algunos evocadores encuentran empleo en las fuerzas armadas, sirviendo en regimientos de artillería, destrozando a sus enemigos desde la distancia. Otros emplean sus espectaculares poderes para proteger a los débiles, y los hay que incluso buscan su propio beneficio, viviendo como bandidos, aventureros o aspirantes a tirano.",
+    "data": {
+      "parent_class": "wizard",
+      "flavor_name": "Escuela de Evocación",
+      "features_by_level": {
+        "2": [
+          {
+            "name": "Experto en Evocación",
+            "description": "Copiar conjuros de evocación en tu libro de conjuros te cuesta la mitad de tiempo y dinero."
+          },
+          {
+            "name": "Esculpir Conjuros",
+            "description": "Cuando lanzas un conjuro de evocación que afecta a otras criaturas que puedas ver, puedes proteger a algunas de ellas para que superen automáticamente la salvación y no sufran daño si normalmente recibirían la mitad."
+          }
+        ],
+        "6": [
+          {
+            "name": "Truco Potente",
+            "description": "Tus trucos de evocación siguen dañando incluso a las criaturas que superan la tirada de salvación contra ellos."
+          }
+        ],
+        "10": [
+          {
+            "name": "Evocación Potenciada",
+            "description": "Añades tu modificador por Inteligencia a una tirada de daño de cualquier conjuro de evocación de mago que lances."
+          }
+        ],
+        "14": [
+          {
+            "name": "Sobrecanalizar",
+            "description": "Cuando lanzas un conjuro de mago de nivel 1 a 5 que causa daño, puedes hacer que cause el daño máximo posible, aunque usar este rasgo repetidamente antes de un descanso largo te daña."
+          }
+        ]
+      },
+      "spell_casting": {
+        "ability": "INT",
+        "type": "full",
+        "spell_slots": [
+          [
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            1,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            1,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            1,
+            1,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            1,
+            1,
+            0
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            3,
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            3,
+            2,
+            1,
+            1,
+            1
+          ],
+          [
+            4,
+            3,
+            3,
+            3,
+            3,
+            2,
+            2,
+            1,
+            1
+          ]
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "illusion",
+    "name": "Escuela de Ilusionismo",
+    "description": "Concentras tus estudios en la magia capaz de deslumbrar lo sentidos, aturdir la mente y engañar incluso a los más sab Tu magia es sutil, pero las ilusiones que tu aguda mente ccibe hacen que lo imposible parezca real. Algunos ilusioni entre los que se encuentran muchos magos gnomos, son embaucadores bondadosos, que usan sus conjuros para entretener. Sin embargo, otros son siniestros amos del engaño, recurren a sus ilusiones para asustar y confundir a otros aras de su beneficio personal.",
+    "data": {
+      "parent_class": "wizard",
+      "flavor_name": "Escuela de Ilusionismo",
+      "features_by_level": {
+        "2": [
+          {
+            "name": "Ilusión Menor Mejorada",
+            "description": "A nivel 2, cuando escoges esta escuela, aprendes el truco sión menor. Si ya lo conocías, puedes adquirir otro truco mago a tu elección en su lugar. En cualquiera de los dos ceste truco no cuenta contra tu límite de trucos conocidos. Además, cuando lanzas ¡lJusión menor puedes crear tanto sonido como una imagen en el mismo lanzamiento."
+          }
+        ],
+        "6": [
+          {
+            "name": "Ilusiones Maleables",
+            "description": "A partir de nivel 6, cuando lanzas un conjuro de ilusionis cuya duración sea de al menos 1 minuto, puedes utilizar tu acción para cambiar la naturaleza de la ilusión (dentro de parámetros normales del conjuro), siempre y cuando estés viéndola."
+          }
+        ],
+        "10": [
+          {
+            "name": "Yo Ilusorio",
+            "description": "A partir de nivel 10, puedes crear un duplicado ilusorio dmismo instantáneamente, casi como una reacción instintiva al peligro. Cuando una criatura haga una tirada de ataque tra ti, puedes utilizar tu reacción para interponer tu dob entre el atacante y tú. Como consecuencia, el ataque falla automáticamente y la ilusión se disipará. Una vez empleado este rasgo, deberás terminar un descan corto o largo para poder volver a usarlo otra vez."
+          }
+        ],
+        "14": [
+          {
+            "name": "Realidad Ilusoria",
+            "description": "A nivel 14 has logrado aprender el secreto de cómo tejer mde sombras en tus ilusiones, dotándolas así de una pseudorealidad. Cuando lanzas un conjuro de ilusión de nivel 1 o superiores, puedes elegir un objeto inanimado y no mágico forme parte de la ilusión para hacerlo real. Puedes realiz esto mientras el conjuro esté activo, como una acción adic durante tu turno. El objeto conserva su realidad durante 1 minuto. Podrías, por ejemplo, crear la ilusión de un pue que cruza un abismo y darle consistencia el tiempo suficie como para que tus aliados puedan cruzarlo. El objeto no puede causar daño o dañar de forma directa"
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "necromancy",
+    "name": "Escuela de Nigromancia",
+    "description": "ros La Escuela de Nigromancia explora las fuerzas cósmicas de la vida, la muerte y la muerte en vida. Al focalizar tus estudios o en esta tradición aprendes a manipular la energía que anima a todos los seres vivos. Cuando progreses en ellos, serás capaz de succionar la fuerza vital de una criatura mientras tu magia izado destruye su cuerpo, transformando esa esencia fundamental ldel en poder mágico que podrás manipular. ter- Debido a su estrecha relación con la muerte, la mayoría de del la gente percibe a los nigromantes como seres amenazadores en- o directamente malignos. Pero, aunque las fuerzas que controlan son consideradas tabúes en muchas culturas, no todos los nigromantes son malvados.",
+    "data": {
+      "parent_class": "wizard",
+      "flavor_name": "Escuela de Nigromancia",
+      "features_by_level": {
+        "2": [
+          {
+            "name": "Experto en Nigromancia",
+            "description": "sapartir del momento en el que eliges esta escuela, a nivel 2, ios. solo necesitas la mitad de tiempo y dinero para copiar un conon- juro de nigromancia a tu libro de conjuros. stas,"
+          }
+        ],
+        "6": [
+          {
+            "name": "Siervos Muertos Vivientes",
+            "description": "A nivel 6 añades el conjuro animar a los muertos a tu libro de conjuros, si es que no figuraba ya en él. Cuando lanzas animar i/u- a los muertos, puedes elegir como objetivo a un cadáver o pila de de huesos adicional, formando así a otro zombi o esqueleto, lo asos, que corresponda. Además, siempre que crees un muerto viviente mediante un un conjuro de nigromancia, este disfrutará de los siguientes beneficios: * Los puntos de golpe máximos de la criatura aumentan en una cantidad igual a tu nivel de mago. mo * Lacriatura sumará tu bonificador por competencia a las tiradas de daño con armas. los"
+          }
+        ],
+        "10": [
+          {
+            "name": "Habituado a la Muerte en Vida",
+            "description": "A partir de nivel 10, posees resistencia al daño necrótico y tus puntos de golpe máximos no pueden ser reducidos. Has pasado tanto tiempo tratando con los muertos vivientes y a e ti las fuerzas que los animan, que te has acostumbrado a sus peores efectos. conle falso"
+          }
+        ],
+        "14": [
+          {
+            "name": "Controlar Muertos Vivientes",
+            "description": "ráapartir de nivel 14, puedes utilizar tu magia para someter a los muertos vivientes, incluso aquellos creados por otros somagos, a tu control. Como acción, puedes elegir un muerto viviente que puedas ver a 60 pies o menos de ti. La criatura deberá hacer una tirada de salvación de Carisma con la misma CDque las tiradas de salvación de tus conjuros de mago. Sagia tiene éxito, no podrás volver a usar este rasgo sobre ella. Si falla, se volverá amistosa hacia ti y obedecerá tus órdenes hasta que vuelvas a utilizar este rasgo. que Es más difícil controlar muertos vivientesinteligentes armediante este poder; si el objetivo tiene Inteligencia 8 o más, ional disfrutará de ventaja en la tirada de salvación. Además, si posee Inteligencia 12 o más y falla la tirada de salvación, podránte repetirla al final de cada hora hasta tener éxito y así liberarse. nte a nadie."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "transmutation",
+    "name": "Escuela de Transmutación",
+    "description": "Eres un estudioso de los conjuros que modifican la energía y la materia. Para ti el mundo no es estático, sino eminentemente mutable, y disfrutas comportándote como un agente del cambio. Posees la capacidad de empuñar la materia pura de la creación y has aprendido cómo alterar tanto la forma física como las cualidades mentales. Tu magia te proporciona las herramientas necesarias para convertirte en el herrero de la forja de la realidad. Algunos transmutadores son inventores y bromistas que convierten a la gente en rana y transforman el cobre en plata, ya sea para divertirse o para obtener algún beneficio ocasional. Otros se afanan en su estudio de la magia con una seriedad absoluta, pues buscan el poder de los dioses para crear y destruir mundos.",
+    "data": {
+      "parent_class": "wizard",
+      "flavor_name": "Escuela de Transmutación",
+      "features_by_level": {
+        "2": [
+          {
+            "name": "Experto en Transmutación",
+            "description": "A partir del momento en el que eliges esta escuela, a nivel 2, solo necesitas la mitad de tiempo y dinero para copiar un conjuro de transmutación a tu libro de conjuros."
+          },
+          {
+            "name": "Alquimia Menor",
+            "description": "A partir de nivel 2, cuando escoges esta escuela, eres capaz de alterar temporalmente las propiedades físicas de un objeto no mágico, cambiando la sustancia de la que está hecho por otra. Puedes llevar a cabo un procedimiento alquímico especial sobre un objeto hecho por completo de madera, piedra (pero no piedras preciosas), hierro, cobre o plata, transformándolo enteramente en otro cualquiera de los materiales nombrados. Por cada 10 minutos que inviertas en este proceso podrás transformar 1 pie cúbico de material. Después de 1 hora, o cuando pierdas la concentración (como si te estuvieras concentrando en un conjuro), el objeto volverá a estar hecho de la sustancia original."
+          }
+        ],
+        "6": [
+          {
+            "name": "Piedra de Transmutador",
+            "description": "A partir de nivel 6 puedesinvertir 8 horas en crear una piedra de transmutador que almacena magia de esta escuela. Puedes beneficiarte túmismo de los poderes de la piedra o dársela a otra criatura. Mientras mantenga la piedra en su posesión, el portador disfrutará de un beneficio a tu elección, que escogerás de entre las siguientes opciones cuando crees la piedra: * Visión en la oscuridad hasta un alcance de 60 pies, tal y como se describe en el capítulo 8: “Aventuras”. * Un incremento de 10 pies en la velocidad de la criatura, siempre y cuando esta no esté cargada. * Competencia en las tiradas de salvación de Constitución. * Resistencia a daño de ácido, frío, fuego, relámpago o trueno (túeliges cuál cuando escoges este beneficio). Cada vez que lances un conjuro de transmutación de nivel 1 o superiores podrás cambiar el efecto de tu piedra, siempre y cuando la lleves contigo. Si creas una piedra de transmutador nueva, la anterior dejará de existir."
+          }
+        ],
+        "10": [
+          {
+            "name": "Cambiar de Forma",
+            "description": "A nivel 10 añades el conjuro polimorfar a tu libro de conjuros, si es que no figuraba ya en él. Además, puedes lanzar polimorfar sin gastar un espacio de conjuros, pero solo cuando el objetivo seas túmismo y te transformes en una bestia cuyo valor de desafío sea de como mucho 1. Una vez hayas lanzado polimorfar de esta forma, no podrás volver a realizarlo de nuevo hasta que finalices un descanso corto o largo. Con todo, seguirás pudiendo lanzarlo de forma normal, utilizando un espacio de conjuro."
+          }
+        ],
+        "14": [
+          {
+            "name": "Maestro Transmutador",
+            "description": "A partir de nivel 14, puedes emplear tu acción para consumir todas las reservas de magia de transmutación almacenadas en tu piedra de transmutador de una sola vez. Cuando hagas esto, elige uno de los efectos que aparecen a continuación. Tu piedra de transmutador será destruida y no podrás volver a fabricar una hasta que termines un descanso largo. Transformación Mayor. Puedes transmutar un objeto no mágico cuyo tamaño sea de, como mucho, un cubo de 5 pies, en otro objeto no mágico de tamaño similar y una masa igual o inferior a la del original. Debes pasar 10 minutos manipulando el objeto para poder transformarilo. Panacea. Eliminas todas las maldiciones, enfermedades y venenos que estén afectando a una criatura que toques con la piedra de transmutador. Además, esta criatura también recupera todos sus puntos de golpe. Devolver la Vida. Puedes lanzar el conjuro alzar a los muertos sobre una criatura que toques con la piedra de transmutador. No es necesario que gastes un espacio de conjuro ni que alzar a los muertos figure en tu libro de conjuros. Devolver la Juventud. Tras tocar con la piedra de transmutador a una criatura voluntaria, su edad aparente se reduce en 3d10 años, hasta un mínimo de 13. Sin embargo, este efecto no prolonga la esperanza de vida de la criatura. Los puños de la semielfa se mueven a tal velocidad que parecen borrones, desviando la lluvia de flechas que cae sobre ella. Supera de un salto la barricada que la separa de las filas de hobgoblins, sobre los que se abalanza. Se desplaza entre ellos con ágiles giros, bloqueando sus golpes y haciéndoles tambalearse, hasta que ella es la única en pie. Inspirando profundamente, un humano cubierto de tatuajes se prepara para el combate, adoptando una postura de lucha. En el instante en que el primero de los orcos que cargan contra élle alcanza, exhala con fuerza una descarga de llamas que envuelve a sus enemigos. Protegida por el silencio de la noche, una mediana vestida de negro penetra en las sombras que proyecta un arco, para surgir inmediatamente después en otra oscura sombra, situada en un balcón cercano. Extrae con cuidado su cuchillo de una vaina envuelta en telas y observa al príncipe tirano a través de una ventana abierta. Es tan vulnerable mientras duerme... Independientemente de la disciplina que practiquen, todos los monjes tienen en común su capacidad para controlar la energía mágica que fluye a través de sus cuerpos. Ya sea canalizándola a través de una impresionante muestra de habilidad en combate o de un sutil refuerzo de sus capacidades defensivas y su velocidad, esta energía impregna todo lo que el monje hace."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "open-hand",
+    "name": "Camino de la Mano Abierta",
+    "description": "Los monjes del Camino de la Mano Abierta son los maestros definitivos de las artes marciales, ya sea con o sin armas. Aprenden técnicas que les permiten empujar y derribar a sus oponentes, manipular el kipara curar sus propios cuerpos y practicar un tipo de meditación avanzada que les protege de toda agresión.",
+    "data": {
+      "parent_class": "monk",
+      "flavor_name": "Camino de la Mano Abierta",
+      "features_by_level": {
+        "3": [
+          {
+            "name": "Técnica de la Mano Abierta",
+            "description": "A partir del momento en el que escoges esta tradición, a nivel 3, puedes manipular el kide tus enemigos mientras dominas el tuyo propio. Cuando impactas a una criatura con uno de los ataques que te proporciona Ráfaga de Golpes, puedes obli. garla a sufrir uno de los siguientes efectos: * Debe superar una tirada de salvación de Destreza o será derribado. * Ha de hacer una tirada de salvación de Fuerza. Si falla, pueace des empujarla hasta 15 pies en dirección contraria a ti. * No puede realizar reacciones hasta el final de tu siguiente turno."
+          }
+        ],
+        "6": [
+          {
+            "name": "Plenitud de Cuerpo",
+            "description": "A nivel 6 obtienes la capacidad de sanarte a ti mismo. Puedes usar una acción para recuperar tantos puntos de golpe como tres veces tu nivel de monje. Una vez utilizado este rasgo, deberás terminar un descanso largo para poder volver a emplearlo de nuevo."
+          }
+        ],
+        "11": [
+          {
+            "name": "Tranquilidad",
+            "description": "A partir de nivel 11, puedesiniciar una meditación especial que te rodea de un aura de paz. Al terminar un descanso largo ueobtienes los beneficios equivalentes a un conjuro santuario que dura hasta el comienzo de tu siguiente descanso largo. El conjuro puede terminar antes de tiempo de forma normal. La CDde la tirada de salvación del conjuro es de 8 + tu modificador por Sabiduría + tu bonificador por competencia."
+          }
+        ],
+        "17": [
+          {
+            "name": "Palma Estremecedora",
+            "description": "A nivel 17 consigues la capacidad para transmitir vibraciones letales al cuerpo de un oponente. Cuando impactas a una criatura con un ataque sin armas, puedes gastar 3 puntos de kipara iniciar estas vibraciones imperceptibles, que durarán tantos días como tu nivel de monje. Las vibraciones son inofensivas, salvo si usas tu acción para hacer que terminen. Para poder realizar esto, tu objetivo debe estar en el mismo plano de existencia que tú. Cuando lleves a cabo esta acción, la criatura deberá hacer una tirada de salvación de Constitución. Si falla, sus puntos de golpe bajarán a 0. Si tiene éxito, recibirá 10d10 de daño necrótico. Solo eres capaz de tener una criatura bajo los efectos de este rasgo al mismo tiempo. También puedes elegir dar por terminadas las vibraciones de forma inocua sin necesidad de usar ninguna acción."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "shadow",
+    "name": "Camino de la Sombra",
+    "description": "Los monjes del Camino de la Sombra siguen una tradición que valora el sigilo y el subterfugio. Estos monjes son conocidos en ciertos lugares como ninjas o bailarines sombríos, y sirven como espías y asesinos. A veces los miembros de un monasterio de ninjas son parte de una misma familia, un clan que ha jurado mantener en secreto sus artes y sus misiones. Otros monasterios son más parecidos a un gremio de ladrones, ya que ofertan sus servicios a nobles, ricos mercaderes o cualquiera que pueda permitirse sus tarifas. Independientemente de sus métodos, los líderes de estos monasterios esperan una obediencia incondicional por parte de sus estudiantes.",
+    "data": {
+      "parent_class": "monk",
+      "flavor_name": "Camino de la Sombra",
+      "features_by_level": {
+        "3": [
+          {
+            "name": "Artes Sombrías",
+            "description": "A partir del momento en el que escoges esta tradición, a nivel 3, puedes utilizar tu kipara duplicar los efectos de cier conjuros. Como acción, puedes usar 2 puntos de kipara lanzar oscuridad, pasar sin rastro, silencio o visión en la oscuridad sin tener que emplear componente material alguno. Además, también obtienes el truco ¡lusión menor, si es que no lo conocías ya."
+          }
+        ],
+        "6": [
+          {
+            "name": "Paso Entre Sombras",
+            "description": "A nivel 6 obtienes la facultad para saltar de una sombra a otra. Cuando estás en una zona de luz tenue u oscuridad, puedes usar una acción adicional para teletransportarte hasta 60 pies a un espacio desocupado que puedas ver y que también esté en un área de luz tenue u oscuridad. Después de hacer esto, tendrás ventaja en el primer ataque cuerpo a cuerpo que realices antes del final del turno."
+          }
+        ],
+        "11": [
+          {
+            "name": "Capa de Sombras",
+            "description": "A nivel 11 ya has aprendido a fundirte por completo con las sombras. Cuando estás en una zona de luz tenue u oscuridad, puedes emplear tu acción para volverte invisible. Seguirás siendo invisible hasta que ataques, lances un conjuro ote encuentres en una zona de luz brillante."
+          }
+        ],
+        "17": [
+          {
+            "name": "Oportunista",
+            "description": "A nivel 17 puedes aprovecharte de la distracción fugaz que produce en una criatura el ser impactada por un ataque. Cuando una criatura que se encuentre a 5 pies o menos de ti sea impactada por un ataque hecho por otra criatura que no seas tú, podrás usar tu reacción para realizar un ataque cuerpo a cuerpo contra la criatura impactada."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "four-elements",
+    "name": "Camino de los Cuatro Elementos",
+    "description": "Sigues una tradición monástica que te enseña a dominar los elementos. Al concentrar tu ki, puedes alinearte con las fuerzas de la creación y doblegar el aire, la tierra, el fuego y el agua a tu voluntad.",
+    "data": {
+      "parent_class": "monk",
+      "flavor_name": "Camino de los Cuatro Elementos",
+      "features_by_level": {
+        "3": [
+          {
+            "name": "Discípulo de los Elementos",
+            "description": "Aprendes la disciplina Armonía con los Elementos y otra disciplina elemental de tu elección. Algunas disciplinas te permiten lanzar conjuros gastando puntos de ki."
+          }
+        ],
+        "6": [
+          {
+            "name": "Disciplina Elemental Adicional",
+            "description": "Aprendes una disciplina elemental adicional y puedes sustituir una disciplina que ya conozcas por otra distinta."
+          }
+        ],
+        "11": [
+          {
+            "name": "Disciplina Elemental Adicional",
+            "description": "Aprendes una disciplina elemental adicional y puedes sustituir una disciplina que ya conozcas por otra distinta."
+          }
+        ],
+        "17": [
+          {
+            "name": "Disciplina Elemental Adicional",
+            "description": "Aprendes una disciplina elemental adicional y puedes sustituir una disciplina que ya conozcas por otra distinta."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "devotion",
+    "name": "Juramento de Entrega",
+    "description": "El Juramento de Entrega vincula al paladín con tres ideales sublimes: la justicia, la virtud y el orden. También llamados adalides, caballeros blancos o guerreros sagrados, estos paladines encarnan el ideal del caballero de brillante armadura, que actúa con honor y persigue la justicia y el bien mayor. Se exigen a sí mismos los más altos estándares de conducta y algunos de ellos, para bien o para mal, esperan lo mismo del resto del mundo. Muchos de los que pronuncian este juramento veneran a dioses de la ley y la bondad y emplean los mandamientos de estas deidades como vara de medir de su propia entrega. Conciben a los ángeles (los siervos perfectos del bien) como el ideal al que aspirar e incorporan imágenes de alas angelicales en sus yelmos o blasones.",
+    "data": {
+      "parent_class": "paladin",
+      "flavor_name": "Juramento de Entrega",
+      "features_by_level": {
+        "3": [
+          {
+            "name": "Canalizar Divinidad: Arma Sagrada",
+            "description": "Como acción, imbues un arma con energía sagrada durante 1 minuto, añades tu modificador por Carisma a las tiradas de ataque con ella y el arma emite luz brillante."
+          },
+          {
+            "name": "Canalizar Divinidad: Expulsar a los Impíos",
+            "description": "Como acción, presentas tu símbolo sagrado y expulsas a infernales y muertos vivientes cercanos que fallen una tirada de salvación de Sabiduría."
+          }
+        ],
+        "7": [
+          {
+            "name": "Aura de Devoción",
+            "description": "Túy las criaturas amistosas a 10 pies o menos de ti no podéis ser hechizados mientras estés consciente. El alcance aumenta a 30 pies al nivel 18."
+          }
+        ],
+        "15": [
+          {
+            "name": "Pureza de Espíritu",
+            "description": "Estás siempre bajo los efectos de protección contra el bien y el mal."
+          }
+        ],
+        "20": [
+          {
+            "name": "Nimbo Sagrado",
+            "description": "Como acción, emanas un aura de luz solar durante 1 minuto que daña a los enemigos y te concede ventaja en las tiradas de salvación contra conjuros lanzados por infernales y muertos vivientes."
+          }
+        ]
+      },
+      "spell_casting": {
+        "ability": "CHA",
+        "type": "half"
+      },
+      "extra_spells": {
+        "3": [
+          "protection-from-evil-and-good",
+          "sanctuary"
+        ],
+        "5": [
+          "lesser-restoration",
+          "zone-of-truth"
+        ],
+        "9": [
+          "beacon-of-hope",
+          "dispel-magic"
+        ],
+        "13": [
+          "freedom-of-movement",
+          "guardian-of-faith"
+        ],
+        "17": [
+          "commune",
+          "flame-strike"
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "ancients",
+    "name": "Juramento de los Antiguos",
+    "description": "El Juramento de los Antiguos es tan antiguo como los elfos y los rituales de los druidas. También llamados caballeros feéricos, caballeros verdes o caballeros astados, los paladines que. pronuncian este juramento se alinean con el bando de la luz en el conflicto cósmico contra la oscuridad. Pero lo hacen porque aman las cosas bellas y capaces de dar vida del mundo, y no necesariamente porque crean en principios como el honor, el valor o la justicia. Adornan su armadura y sus prendas con imágenes que representan seres capaces de crecer, como hojas, astas o flores, para reflejar su compromiso con el cuidado de la vida y la luz en el mundo.",
+    "data": {
+      "parent_class": "paladin",
+      "flavor_name": "Juramento de los Antiguos",
+      "features_by_level": {
+        "3": [
+          {
+            "name": "Canalizar Divinidad",
+            "description": "Cuando asumes este juramento, a nivel 3, obtienes las siguientes dos opciones de Canalizar Divinidad. Tra de la Naturaleza. Puedes utilizar tu Canalizar Divinidad para invocar fuerzas primordiales que atrapan a un enemigo. Como acción, pues hacer que aparezcan enredaderas espectrales y se abalancen sobre una criatura a 10 pies o menos de ti que puedas ver. Dicho objetivo debe tener éxito en una tirada de salvación de Fuerza o Destreza (a su elección) o estará apresado. Mientras permanezca apresada por las enredaderas, la criatura puede repetir la tirada de salvación al final de cada uno de sus turnos. Si tiene éxito, se libera de su prisión y las enredaderas se desvanecen. Expulsar Infieles. Puedes usar Canalizar Divinidad para pronunciar palabras ancestrales, que causan dolor a los seres féericos y losinfernales que las escuchan. Como acción, puedes mostrar tu símbolo sagrado y todos losinfernales y feéricos a 30 pies o menos de ti que puedan ofrte deben realizar una tirada de salvación de Sabiduría. Si el objetivo falla s tirada de salvación, estará expulsado durante 1 minuto o hasta recibir daño. Una criatura expulsada deberá dedicar su turno a alejarse lo más lejos posible de ti, si es que puede, y no podrá moverse a ningún espacio a 30 pies o menos de ti. Además, tampoco será capaz de llevar a cabo reacciones. Solo puede realizar la acción de Correr o intentar escapar de un efecto que le impida moverse. Si no tiene a dónde moverse, llevará a cabo la acción de Esquivar. Si el verdadero aspecto de la criatura está oculto tras una ilusión, cambio de forma u otro efecto similar, este es revelado mientras el objetivo permanezca expulsado."
+          }
+        ],
+        "7": [
+          {
+            "name": "Aura de Salvaguarda",
+            "description": "A partir de nivel 7, la magia antigua te ha impregnado hasta tal punto que ha formado una protección sobrenatural. Tanto túcomo las criaturas amistosas a 10 pies o menos de ti tenéis resistencia al daño proveniente de conjuros. A nivel 18 el alcance de esta aura aumenta a 30 pies."
+          }
+        ],
+        "15": [
+          {
+            "name": "Centinela Imperecedero",
+            "description": "A partir de nivel 15, si tus puntos de golpe se ven reducidos a 0 pero no mueresinstantáneamente, puedes volver a tener 1 punto de golpe. Una vez utilizado este rasgo, deberás terminar un descanso largo para poder volver a usarlo otra vez. Además, no sufres de ninguno de losinconvenientes de la vejez y no puedes envejecer por medios mágicos."
+          }
+        ],
+        "20": [
+          {
+            "name": "Campeón Ancestral",
+            "description": "A nivel 20 puedes asumir la forma de una antigua fuerza de la naturaleza, tomando una apariencia de tu elección. Por ejemplo: tu piel podría volverse verduzca o desarrollar una textura parecida a la corteza de un árbol, tu pelo podría mutar en hojas o musgo e incluso podrían salirte astas o una melena como la de un león. Puedes usar tu acción para llevar a cabo esta transformación. Obtienes los siguientes beneficios durante 1 minuto: * Al comienzo de cada uno de tus turnos recuperas 10 puntos de golpe. * Puedes lanzar un conjuro de paladín con un tiempo de lanzamiento de 1 acción empleando únicamente una acción adicional. * Lascriaturas enemigas a 10 pies o menos de ti tienen gía desventaja en las tiradas de salvación hechas contra tus conjuros de paladín o tus opciones de Canalizar Divinidad. Una vez utilizado este rasgo, deberás terminar un descanso largo para poder volver a usarlo otra vez."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "vengeance",
+    "name": "Juramento de Venganza",
+    "description": "El Juramento de Venganza es el propósito solemne de castigar a aquellos que han cometido un pecado grave. Cuando las fuerzas del mal masacran a aldeanosindefensos, una comunidad entera se vuelve contra la voluntad de los dioses, un gremio de ladrones se torna excesivamente violento y poderoso o un dragón arrasa los campos de cultivo, surgen los paladines que pronuncian el Juramento de Venganza, decididos a enderezar aquello que se ha torcido. Para estos paladines, que a veces reciben el nombre de vengadores o caballeros oscuros, su propia pureza carece de importancia frente a la necesidad de impartir justicia.",
+    "data": {
+      "parent_class": "paladin",
+      "flavor_name": "Juramento de Venganza",
+      "features_by_level": {
+        "3": [
+          {
+            "name": "Canalizar Divinidad",
+            "description": "Cuando asumes este juramento, a nivel 3, obtienes las siguientes dos opciones de Canalizar Divinidad. Abjurar Enemigo. Puedes utilizar Canalizar Divinidade invertir tu acción para mostrar tu símbolo sagrado y rezar una oración de denuncia. Como acción, elige a una criatura que puedas ver a 60 pies o menos de ti. Dicha criatura, salvo que sea inmune a ser asustada, deberá hacer una tirada de salvación de Sabiduría. Los muertos vivientes y losinfernales tienen desventaja en esta tirada de salvación. Si el objetivo falla su tirada de salvación, estará asustado durante 1 minuto o hasta recibir daño. Mientras esté asustada, la velocidad de la criatura seráoy no podrá beneficiarse de ningún bonificador a su velocidad. Si el objetivo tiene éxito en la tirada de salvación, su velocidad se verá reducida a la mitad durante 1 minuto o hasta recibir daño. Voto de Enemistad. Como acción adicional, puedes emplear Canalizar Divinidad para pronunciar un voto de enemistad contra una criatura que puedas ver a 10 pies o menos de ti. Tienes ventaja en las tiradas de ataque contra dicho objetivo durante 1 minuto, hasta que sus puntos de golpe se reduzcan a 0 o quede inconsciente."
+          }
+        ],
+        "7": [
+          {
+            "name": "Vengador Implacable",
+            "description": "Cuando alcanzas el nivel 7 tu concentración sobrenatural te permite impedir la retirada de un enemigo. Cuando impactas a una criatura con un ataque de oportunidad, puedes moverte hasta la mitad de tu velocidad inmediatamente después de haber hecho el ataque como parte de la misma reacción. Este movimiento no provoca ataques de oportunidad."
+          }
+        ],
+        "15": [
+          {
+            "name": "Espíritu Vengativo",
+            "description": "A partir de nivel 15, la autoridad con la que pronuncias tu Voto de Enemistad te proporciona aún más poder sobre tu enemigo. Cuando una criatura bajo los efectos de tu Voto de Enemistad ataque, podrás usar tu reacción para realizar un ataque con arma cuerpo a cuerpo contra dicho objetivo, si es que este se encuentra dentro de tu alcance."
+          }
+        ],
+        "20": [
+          {
+            "name": "Angel Vengador",
+            "description": "A nivel 20 puedes asumir la forma de un ángel vengador. Puedes usar tu acción para transformarte. Obtienes los siguientes beneficios durante 1 hora: * Un par de alas surge de tu espalda y te proporcionan una velocidad volando de 60 pies. * Emanas un aura de amenaza en un radio de 30 pies. La primera vez que cualquier criatura enemiga entre en el área o comience su turno en ella, debe tener éxito en una tirada de salvación de Sabiduría o estará asustada de ti durante 1 minuto o hasta recibir daño. Las tiradas de ataque contra la criatura asustada tienen ventaja. Una vez utilizado este rasgo, deberás terminar un descanso largo para poder volver a usarlo otra vez."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "thief",
+    "name": "Ladrón",
+    "description": "Has decidido pulir aquellas habilidades útiles para el art latrocinio. Rateros, bandidos, carteristas y otros crimina tienden a seguir este arquetipo, pero también lo hacen aqu llos pícaros que prefieren verse a sí mismo como buscadore de tesoros profesionales, exploradores, descubridores o intigadores. Además de mejorar tu agilidad y sigilo, también aprendes habilidades útiles para la exploración de ruinas guas, a leer idiomas con los que no estás familiarizado y objetos mágicos que normalmente no podrías emplear.",
+    "data": {
+      "parent_class": "rogue",
+      "flavor_name": "Ladrón",
+      "features_by_level": {
+        "3": [
+          {
+            "name": "Manos Rápidas",
+            "description": "A partir de nivel 3, puedes utilizar la acción adicional que viste de Acción Astuta para hacer una prueba de Destreza (Juego de Manos), realizar una acción de Usar un Objeto o tus herramientas de ladrón para intentar desarmar una tram o forzar una cerradura."
+          },
+          {
+            "name": "Balconero",
+            "description": "Cuando escoges este arquetipo, a nivel 3, obtienes la capa para trepar más rápido de lo normal, por lo que trepar ya cuesta movimiento adicional. Además, cuando saltes con carrerilla aumentarás la dista que saltas en tantos pies como tu modificador por Destreza"
+          }
+        ],
+        "9": [
+          {
+            "name": "Sigilo Supremo",
+            "description": "A partir de nivel 9, si no te mueves más de la mitad de tu velocidad, tendrás ventaja en las pruebas de Destreza (Sigilo) hdurante el mismo turno."
+          }
+        ],
+        "13": [
+          {
+            "name": "Ussar Objetos Mágicos",
+            "description": "A nivel 13 has aprendido lo suficiente sobre el funcionami de la magia como para poder apañártelas para usar incluso aquellos objetos mágicos que no están destinados a alguien como tú. Ignoras todas las restricciones de clase, raza y la hora de emplear objetos mágicos."
+          }
+        ],
+        "17": [
+          {
+            "name": "Reflejos de Ladrón",
+            "description": "Cuando alcanzas el nivel 17 te has vuelto un experto en prparar emboscadas y escapar rápidamente del peligro. Puedes hacer dos turnos durante el primer asalto de cualquier com bate. Llevarás a cabo tu primer turno según el orden de iniciativa normal y el segundo en tu iniciativa menos 10. puedes usar este rasgo si estás sorprendido. '"
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  },
+  {
+    "slug": "assassin",
+    "name": "Asesino",
+    "description": "Enfocas tu entrenamiento en el sombrío arte de la muerte. A este arquetipo pueden pertenecer personas muy diversas: asesinos a sueldo, espías, cazarrecompensas e incluso sace dotes que han sido ungidos y entrenados específicamente para exterminar a los enemigos de su deidad. El sigilo, el veneno y el disfraz te ayudan a eliminar a tus oponentes cuna eficacia mortífera.",
+    "data": {
+      "parent_class": "rogue",
+      "flavor_name": "Asesino",
+      "features_by_level": {
+        "3": [
+          {
+            "name": "Competencias Adicionales",
+            "description": "Ganas competencia con los útiles para disfrazarte y los útiles de envenenador."
+          },
+          {
+            "name": "Asesinar",
+            "description": "Tienes ventaja contra criaturas que todavía no hayan actuado en el combate y todo impacto contra una criatura sorprendida es un golpe crítico."
+          }
+        ],
+        "9": [
+          {
+            "name": "Pericia en Infiltrarse",
+            "description": "Puedes crear identidades falsas creíbles, con historia, profesión y afiliaciones, tras dedicar tiempo y dinero a prepararlas."
+          }
+        ],
+        "13": [
+          {
+            "name": "Impostor",
+            "description": "Tras estudiar durante varias horas la voz, la caligrafía y los gestos de otra persona, puedes imitarlos con gran precisión."
+          }
+        ],
+        "17": [
+          {
+            "name": "Golpe Mortal",
+            "description": "Cuando impactas a una criatura sorprendida, debe superar una tirada de salvación de Constitución o el daño de tu ataque se duplica."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "/home/santiago/dnd/homebrew/Manual del Jugador.pdf",
+      "extractor": "scripts/build-phb-subclasses.mjs"
+    }
+  }
+]

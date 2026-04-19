@@ -1,0 +1,334 @@
+RASGOS DEL ( A M I N O DEL M AESTRO B O R RACHO
+N ivel de
+monje
+
+Rasgo
+Com petencias Adicionales, Técnica Ebria
+
+Bloq ueo veloz. Si realizas un ataque sin armas como parte
+de una acción de Atacar durante tu turno y empuñas un arma
+de kensei, puedes utilizarla para defenderte si se trata de un
+arma cuerpo a cuerpo. Obtienes un bonificador de +2 a la CA
+hasta el comienzo de tu próximo turno, siempre y cuando el
+arma siga en tu mano y no quedes incapacitado.
+Disparo del kensei. Puedes usar una acción adicional
+en tu turno para que tus ataques a distancia con un arma
+de kensei sean más letales. Si lo haces, cualquier objetivo
+impactado con un ataque a distancia utilizando un arma
+de kensei recibe 1d4 de daño adicional del mismo tipo
+que el arma. Mantienes este beneficio hasta el final del
+turno actual.
+Camino delpincel. Ganas competencia con suministros
+de calígrafo o de pintor, a tu elección.
+
+UNO CON LA E S PADA
+A nivel 6, puedes extender tu ki a tus armas de kensei, obte­
+niendo los siguientes beneficios.
+Armas mágicas de kensei. Los ataques que hagas con
+armas de kensei cuentan como mágicos en lo que a sobre­
+pasar las resistencias e inmunidades a daño y ataques no
+mágicos se refiere.
+Golpe diestro. Cuando impactas a un objetivo con un
+ataque con un arma de kensei, puedes gastar 1 punto de ki
+para que el arma inflija daño adicional al objetivo igual a tu
+dado de Artes Marciales. Solo puedes usar este rasgo una
+vez en cada uno de tus turnos.
+
+AFILAR LA HOJA
+A nivel 1 1 obtienes la capacidad de potenciar aún más tus
+armas mediante tu ki. Como acción adicional, puedes gastar
+hasta 3 puntos de ki para infundir un arma de kensei que
+toques con un bonificador a las tiradas de ataque y daño
+cuando ataques con ella. El bonificador es igual a los puntos
+de ki que gastes. Dura 1 minuto o hasta que vuelvas a usar
+este rasgo. No tiene efecto en un arma mágica que ya tenga
+un bonificador a las tiradas de ataque y daño.
+
+PRECISIÓN INFALIBLE
+A nivel 17, tu maestría con las armas se traduce en una
+precisión extraordinaria. Si fallas una tirada de ataque
+utilizando un arma de monje en tu turno, puedes repetirla.
+Solo puedes usar este rasgo una vez en cada uno de
+tus turnos.
+
+CAPÍTULO ¡, OPCIONES DE PERSONAJE
+
+B a m boleo Ach i s pado
+
+11
+
+Suerte del Beodo
+
+17
+
+Furia E m b riagada
+
+C OMPETENCIAS ADICIONALES
+Cuando eliges esta tradición a nivel 3, ganas competencia
+con la habilidad Interpretación, si no la tenías ya. Tu arte
+marcial mezcla entrenamiento de combate con la precisión
+de un bailarín y las payasadas de un bufón. También
+obtienes competencia con suministros de cervecero, si no la
+tenías ya.
+
+TÉCNICA EBRIA
+A nivel 3, aprendes a girarte y retorcerte rápidamente
+durante tu Ráfaga de Golpes. Siempre que uses Ráfaga de
+Golpes, recibes los beneficios de la acción de Destrabarse y,
+además, tu velocidad caminando se incrementa en 1 0 pies
+hasta el final del turno actual.
+
+BAMBOLEO AC HISPADO
+A partir de nivel 6, puedes moverte d e formas súbitas y
+bamboleantes. Obtienes los beneficios siguientes:
+Ponerse enpie de un salto. Cuando te encuentras derri­
+bado, puedes ponerte de pie utilizando 5 pies de movimiento,
+en vez de la mitad de tu velocidad.
+Redirigir ataque. Cuando una criatura falle su tirada de
+ataque cuerpo a cuerpo contra ti, puedes gastar un punto de
+ki como reacción para que ese ataque impacte a un objetivo
+de tu elección, distinto al atacante, que puedas ver y se
+encuentre a 5 pies o menos de ti.
+
+SUERTE DEL BEODO
+A partir de nivel 1 1 , parece q u e siempre tienes suerte en el
+momento justo. Cuando haces una prueba de característica,
+una tirada de ataque o una tirada de salvación y sufres
+desventaja en la tirada, puedes gastar 2 puntos de ki para
+cancelar esa desventaja.
+
+FURIA EMBRIAGADA
+A nivel 17 eres capaz de realizar un número abrumador de
+ataques sobre un grupo de enemigos. Cuando utilizas tu
+Ráfaga de Golpes, puedes hacer hasta tres ataques adicio­
+nales con ella (hasta un total de cinco ataques de Ráfaga de
+Golpes), siempre y cuando cada ataque de la Ráfaga de Gol­
+pes tenga como objetivo a una criatura diferente este turno.
+
+�v.rc; .... ( �.f:o? �so sv.(�G ub.}. f l�o.
+LQv.;¡,_ �GfiG u.? /Vo f GlG "'-GAG
+f or �GC(r v.. � G f ro....,. u c;1 f (ro so(o (os
+to"'to¡ (Gl ''-'"" f l'"'-·
+
+0
+
+O BJ ETIVOS PERSONALES
+d6
+
+Objetivo
+Paz. Luchas para q u e las generaciones futuras no
+tengan que hacerlo.
+Venganza. Tu j u ramento es el camino p a ra rectificar
+u n a vieja inj usticia.
+Deber. Vivirás cumpliendo tu j u rame nto o morirás en
+el i ntento.
+Liderazgo. G a n arás una gran bata l l a , sobre l é\ q u e
+cantarán los bardos, y a l h acerlo te convertirás en u n
+ejemplo q u e i n s p i re a otros.
+
+PALADÍN
+
+Fe. Sabes q u e tu camino es recto. De otra fo rma,
+los dioses n o te h u bieran puesto en é l .
+Gloria. Llevarás a l m u n d o a u n a n u eva y g l o r i o s a era,
+una m a rcada por tu nombre.
+
+EL VERDADERO VALOR DE UN PALADÍN NO SE MIDE EN
+enemigos derrotados o mazmorras saqueadas. Se mide
+en vidas salvadas y corazones convertidos a la causa de la
+piedad y /ajusticia.
+-lsteval
+
+El paladín es la encarnación de un juramento: una promesa
+manifiesta en el cuerpo de un guerrero sagrado que tiene
+la habilidad y la determinación para llevarla hasta el final.
+Algunos miembros de esta clase se dedican expresamente a
+la protección de los inocentes y a propagar la justicia por el
+mundo, mientras que otros persiguen la misma meta, pero
+la alcanzan conquistando a los que se rebelan y llevándolos
+ante la justicia.
+Aunque ningún paladín del mundo puede ser descrito
+como "típico", unos cuantos de ellos son fanáticos de
+mente cerrada que no son capaces de tolerar ni la más
+mínima desviación de su dogma. Los paladines que se
+dedican a ir de aventuras, sin embargo, no suelen ser
+tan rígidos, aunque solo sea para no enemistarse con
+sus compañeros.
+Puedes dar cuerpo a tu personaje paladín utilizando las
+sugerencias que podrás encontrar a continuación. Es impor­
+tante tener en cuenta que la mayoría de ellos no son robots.
+Tienen dudas, prejuicios y pensamientos contradictorios
+como cualquier otro aventurero. Algunos incluso tienen una
+motivación interna que a veces choca con los principios de
+su juramento.
+
+Ü BJETIVO P E R S ONAL
+Los preceptos del juramento de un paladín le proporcionan
+una finalidad y dictan su objetivo último o un propósito
+general que el personaje acata e intenta llevar a cabo.
+Aparte de eso, ciertos paladines están resueltos a cumplir
+.
+un objetivo personal que complementa o incluso va más allá
+de los dictados de su juramento. Paladines comprometidos
+con diferentes juramentos podrían tener el mismo objetivo
+personal, de modo que solo difieren en cómo este guía sus
+acciones, que deben encajar con su juramento.
+Si tu paladín posee un objetivo personal, este puede tener
+como origen un evento vital y no estar directamente vincu­
+lado al juramento.
+
+S Í M B OLO
+L o s paladines son conscientes d e la influencia d e l o s símbo­
+los, por lo que muchos de ellos adoptan o diseñan un recurso
+artístico que les proporcione una imagen distintiva. Tu sím­
+bolo representa el juramento que hayas tomado y comunica
+ese mensaje a los que te rodean, amigos y enemigos.
+Tu símbolo puede estar a la vista de todos en un estan­
+darte, bandera o tus propias vestimentas. Pero también
+podría ser menos obvio, en la forma de una insignificancia o
+bagatela que llevas escondida en tu persona.
+S fM B O LOS
+d6
+
+Símbolo
+Un d ragón, emblema d e tu no bleza en l a paz y tu
+fiereza en el combate.
+Un puño a p retado, porque siempre estás l i sto para
+l u c h a r por tus creencias.
+U n a mano abierta y levantada, q u e i n d ica tu
+preferen cia por l a d i plomacia sobre el com bate.
+Un corazón roj o, que muestra a l m u n d o tu
+compromiso con l a j u sticia.
+U n corazón negro, q u e i n d ica q u e emociones como l a
+co mpasión no a lteran tu entrega a tu j u ramento.
+U n ojo q u e no parpadea, que sign ifica una alerta
+perpetua frente a lo que amen aza tu causa.
+
+NÉ M E S I S
+S u lealtad a u n juramento sagrado exige que los paladines
+sean activos respecto a llevar sus creencias al mundo. Esta
+actividad hace que, de forma natural, entren en conflicto
+con criaturas o entidades que se oponen a su fe. Entre esos
+oponentes, suele haber uno que destaca entre los demás
+por ser el enemigo más persistente o más formidable: una
+némesis cuya presencia o influencia es una constante en la
+vida del paladín.
+
+1'
+
+CAPÍTULO OPCIONES DE PERSONAJE
+
+Tu personaje puede tener un enemigo que date de antes
+de emprender su camino. O podrías ser su objetivo porque
+cuando te convertiste en paladín, atrajiste de manera inme­
+diata la atención de los que te quieren mal. Si tienes una
+némesis, ¿qué o quién es? ¿Quién de entre tus enemigos es
+tu mayor � menaza para conseguir tus objetivos?
+N É M ES I S
+d6
+
+Némesis
+Un poderoso ca u d i l l o orco q u e amenaza con arrasar y
+destru i r todo lo q u e consideras sagrado.
+U n i nfernal o u n celesti a l , age nte de u n poder d e los
+Planos Exteriores, a quien h a n encargado corrom perte
+o red i m i rte, segú n sea apropiado.
+Un d ragón cuyo s i rviente sigue cada u n o de tus pasos.
+U n sace rdote de alto rango q u e te ve como u n tonto
+mal i nformado y q u iere que abandones tu religión.
+U n paladín rival q u e entrenó contigo, pero q u e rompió
+s u j u ramento y te culpa de ello.
+U n v a m p i ro q u e ha j u rado venganza contra todos los
+paladi nes tras ser derrotado por u n o d e ellos.
+
+TE NTAC IÓN
+Aunque los paladines están dedicados a s u juramento,
+son mortales y por tanto tienen defectos. Muchos de ellos
+muestran comportamientos o actitudes que no se acogen a
+los ideales de su llamada.
+¿A qué tentación sucumbe tu personaje o qué problemas
+tiene para resistirse?
+TENTAC I O N E S
+d6
+
+Tentación
+Furia. Cuando tu ira se desencadena, tienes problemas
+para pensar con claridad y temes q u e puedas hacer
+a l go d e lo q u e te arrepientas.
+Orgullo. Tu s acciones son notables y nadie toma n ota
+d e el l as más que tú.
+Lujuria. N o puedes resisti rte a u n a cara atractiva y u n a
+sonrisa amable.
+Envidia. Tienes envidia de lo q u e algunas personas
+fa mosas h a n conseguido, de modo q u e n o te s ientes
+cómodo cuando tus acciones n o pueden compararse
+con las suyas.
+Desesperación. Cuando co n s i d e ras l a fuerza de los
+enemigos a los q u e debes enfrentarte, te cuesta ver u n
+c a m i n o a la victo ria fi n a l .
+Avaricia. Da i g u a l cua nto tesoro y gloria acumu les,
+n u nca es suficiente para ti.
+
+jURAM E NTO S SAGRAD O S
+
+A nivel 3 , el paladín obtiene el rasgo Juramento Sagrado. Las
+siguientes opciones, además de las ofrecidas en el Player's
+Handbook, están disponibles: el Juramento de Conquista y el
+Juramento de Redención.
+
+JU RAMENTO DE C ONQU I STA
+El Juramento de Conquista atrae a los paladines que buscan
+la gloria en batalla y el sometimiento de sus enemigos. Para
+ellos no es suficiente con establecer el orden; deben aplastar
+a las fuerzas del caos. A veces llamados caballeros tiranos o
+señores del hierro, los que realizan este juramento se unen
+en sombrías órdenes que sirven a dioses o ideologías de
+guerra, poder y orden.
+
+CAPÍTULO ¡, OPCIONES DE PERSONAJE
+
+PA L A D Í N D E L A ( O N Q. U l S T A
+
+Algunos de estos paladines llegan incluso a unirse con
+poderes de los Nueve I nfiernos, valorando el puño de
+hierro de la ley por encima del bálsamo de la clemencia.
+El archidiablo Bel, señor de la guerra del Averno, cuenta
+con muchos de estos paladines, llamados caballeros infer­
+nales, entre sus más fieles partidarios. Los caballeros
+infernales cubren su armadura con trofeos tomados de
+enemigos caídos, una lúgubre advertencia para los que
+osen oponerse a ellos y los deseos de sus señores. Estos
+caballeros se enfrentan a mucha oposición por parte de
+otros paladines de su juramento, ya que creen que los
+caballeros infernales se han aventurado demasiado en
+la oscuridad.
+
+PRINCIPIOS DE LA C ONQU I STA
+Al paladín que toma este juramento se le marcan con fuego
+los principios de la conquista en el brazo.
+Apaga la Jlama de la esperanza. No es suficiente con
+derrotar a un enemigo en batalla; tu victoria debe ser tan
+aplastante que la voluntad de luchar de tus oponentes quede
+aplastada para siempre. Una espada puede terminar con una
+vida. El miedo puede acabar con un imperio.
+Gobernar con p uñ o de hierro. Una vez hayas conquis­
+tado, no toleres la disensión. Tu palabra es la ley. Los que
+la obedezcan serán favorecidos. Los que la desafíen serán
+castigados como ejemplo para los que puedan venir.
+Fuerza por encima de todo. Regirás hasta que se alce
+uno más fuerte. En ese momento deberás volverte más pode­
+roso y enfrentarte al desafío o caerás en tu ruina.
+
+Si una criatura está asustada de ti, su velocidad se reduce
+a O mientras permanezca en el aura y, además, recibirá daño
+psíquico igual a la mitad de tu nivel de paladín si comienza
+su turno dentro de ella.
+A nivel 1 8 el alcance del aura aumenta a 30 pies.
+
+REPRIMENDA D E SPREC IATIVA
+A nivel 1 5 , aquellos que osen atacarte serán castigados psí­
+quicamente por su audacia. Cuando una criatura te impacte
+con un ataque, sufrirá daño psíquico igual a tu modificador
+de Carisma (mínimo 1) si no estás incapacitado.
+
+C ONQUISTADOR INVENCIBLE

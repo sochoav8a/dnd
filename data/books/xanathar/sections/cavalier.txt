@@ -1,0 +1,119 @@
+RASGOS DE C ABALLERO
+N ivel de
+guerrero
+
+Rasgo
+Com petencia Adicional, N acido en la S i l l a ,
+M a rca I nq u eb rantable
+
+7
+
+M a n iobra de P rotección
+
+10
+
+M a ntener l a Formación
+
+lS
+
+Carga Feroz
+
+18
+
+Defensor Atento
+
+CABA L L E R O S , S A M U R Á I S E H I ST O R I A
+
+A u n q u e tanto los c a b a l l eros c o m o los s a m u r á i s existieron e n e l
+m u n d o rea l , n u estra i n s p i ración para a m bos a r q u e t i p o s d e g u e ­
+rrero viene d e l a cu ltura p o p u l a r (fá b u l a s , p e l fc u l a s y c ó m i c s ) , n o
+de l a h i storia. N u estra i n t e n c i ó n es c a p t u r a r e n e l j u ego e l ele­
+m e nto c i n e m atográfico y heroico d e a m bos arquetipos, n o crear
+una representación h i stórica precisa d e n i n g u n o d e e l l o s .
+
+NAC IDO EN LA SILLA
+A nivel 3, tu maestría como jinete se vuelve evidente. Tie­
+nes ventaja en tiradas de salvación que realices para evitar
+caer de tu montura. Además, si al caer de ella desciendes
+menos de 1 0 pies y no estás incapacitado, puedes aterrizar
+de pie.
+Por último, montar o desmontar de una criatura solo
+te cuesta 5 pies de movimiento, en vez de la mitad de
+tu velocidad.
+
+MARCA INQU EBRANTABLE
+A partir de nivel 3, puedes amenazar a tus enemigos,
+impidiendo sus ataques y castigándoles por dañar a otros.
+Cuando impactas a una criatura con un ataque cuerpo
+a cuerpo con arma, puedes marcarla hasta el final de tu
+siguiente turno. Este efecto acaba si quedas incapacitado,
+mueres u otro marca a la misma criatura.
+Mientras esté a 5 pies o menos de ti, una criatura marcada
+por ti tendrá desventaja en cualquier tirada de ataque que no
+te tenga como objetivo.
+Además, si una criatura marcada por ti inflige daño a
+cualquiera que no seas tú, podrás realizar un ataque cuerpo
+a cuerpo con arma especial contra ella, usando una acción
+adicional en tu próximo turno. Tienes ventaja en la tirada de
+ataque y, si impactas, infliges daño adicional al objetivo igual
+a la mitad de tu nivel de guerrero.
+Independientemente del número de criaturas que marques,
+puedes realizar este ataque especial tantas veces como tu
+modificador por Fuerza (mínimo de uno). Recuperas todos
+los usos cuando completas un descanso largo.
+
+MANIOBRA DE PROTEC C IÓN
+COMPETENCIA ADICIONAL
+Cuando eliges este arquetipo a nivel 3, obtienes competencia
+en una de las siguientes habilidades, a tu elección: Historia,
+Interpretación, Perspicacia, Persuasión o Trato con
+Animales. Como alternativa, puedes aprender un idioma,
+el que prefieras.
+
+A nivel 7, has aprendido a eludir golpes dirigidos contra ti, tu
+montura u otros compañeros cercanos. Si tú o una criatura
+que puedas ver y se encuentre a 5 pies o menos de ti es
+impactada por un ataque y blandes un arma cuerpo a cuerpo
+o u n escudo, puedes tirar 1d8 como reacción. Añade el resul­
+tado de la tirada a la CA del objetivo contra ese ataque. Si,
+aun así, el ataque impactara, el objetivo tendría resistencia
+contra el daño del ataque.
+Puedes utilizar este rasgo tantas veces como tu modifica­
+dor por Constitución (mínimo una vez) y recuperas todos los
+usos tras finalizar un descanso largo.
+
+MANTENER LA FORMACIÓN
+A nivel 10 te conviertes en un maestro en impedir el movi­
+miento de tus enemigos. Las criaturas provocan un ataque
+de oportunidad tuyo cuando se mueven 5 pies o más dentro
+de tu alcance. Además, si impactas a un objetivo con un
+ataque de oportunidad, su velocidad quedará reducida a O
+hasta el final del turno actual.
+
+1,
+
+CAPÍTULO OPCIONES DE PERSONAJE
+
+CARGA FEROZ
+A partir de nivel 1 5 eres capaz de atropellar a tus enemigos,
+estés montado o no. Si te mueves al menos 1 0 pies en línea
+recta justo antes de atacar a una criatura, y le impactas con
+el ataque, esta deberá tener éxito en una tirada de salvación
+de Fuerza (CD 8 + tu bonificador por competencia + modi­
+ficador por Fuerza) o quedará derribada. Solo puedes usar
+este rasgo una vez en cada uno de tus turnos.
+
+DEFENSOR ATENTO
+A nivel 1 8 , te enfrentas al peligro con una atención extraor·
+dinaria. En combate, recibes una reacción especial, que
+puedes usar una vez en el turno de cada criatura, menos en
+el tuyo. Esta reacción especial solo puedes emplearla para
+realizar un ataque de oportunidad, así que no puedes utili­
+zarla en el mismo turno en que uses tu reacción normal.
+
+SAMURÁI
+E l Samurái es un guerrero que u s a s u implacable espíritu
+de lucha para superar a sus enemigos. Su determinación
+es inquebrantable, por lo que los adversarios que se
+encuentren en su camino tienen dos opciones: rendirse o
+morir luchando.

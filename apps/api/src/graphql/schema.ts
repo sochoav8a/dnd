@@ -212,6 +212,11 @@ export const typeDefs = /* GraphQL */ `
     subclassId: ID
     abilityScoreImprovements: AbilityScoreImprovementInput
     featId: ID
+    """
+    When a feat requires choosing an ability score (half-feats like Resilient, Athlete),
+    pass the chosen ability code here (STR/DEX/CON/INT/WIS/CHA).
+    """
+    featAbilityChoice: String
     knownSpellSlugs: [String!]
     preparedSpellSlugs: [String!]
   }
@@ -368,5 +373,12 @@ export const typeDefs = /* GraphQL */ `
     applyDamage(input: ApplyDamageInput!): EncounterParticipant!
     applyCondition(input: ApplyConditionInput!): EncounterParticipant!
     updateParticipantConcentration(input: UpdateConcentrationInput!): EncounterParticipant!
+
+    createContentSource(input: CreateContentSourceInput!): ContentSource!
+    deleteContentSource(id: ID!): Boolean!
+    grantEntitlement(input: GrantEntitlementInput!): Boolean!
+    createContentItem(input: CreateContentItemInput!): ContentItem!
+    updateContentItem(input: UpdateContentItemInput!): ContentItem!
+    deleteContentItem(id: ID!): Boolean!
   }
 `;

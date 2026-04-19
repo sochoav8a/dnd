@@ -24,6 +24,7 @@ import { SectionTitle } from "@/components/ui/SectionTitle";
 import { OrnateDivider } from "@/components/ui/OrnateDivider";
 import { CharacterPortrait } from "@/components/character/CharacterPortrait";
 import { SpellRow, type SpellLike } from "@/components/character/SpellRow";
+import { DownloadPDFButton } from "@/components/character/pdf/DownloadPDFButton";
 import { useEffect } from "react";
 import { useRouter } from "next/navigation";
 
@@ -202,6 +203,12 @@ export function CharacterSheet({ character, token }: Props) {
                 >
                   Editar
                 </button>
+                <DownloadPDFButton
+                  character={char}
+                  inventory={(character as unknown as { inventory?: Array<{ id: string; name: string; quantity: number; equipped: boolean; notes?: string | null }> }).inventory ?? []}
+                  token={token}
+                  className="btn-ghost text-xs"
+                />
                 <button
                   onClick={deleteCharacter}
                   className="btn-ghost text-xs text-red-400 hover:text-red-300"

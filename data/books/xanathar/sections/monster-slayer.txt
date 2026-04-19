@@ -1,0 +1,238 @@
+RASGOS D E L CAZADOR D E M O N STRUOS
+N ivel de
+Explorador
+
+Rasgo
+M agia d e Cazad o r d e M o n struos,
+Sentidos d e Cazador, Presa
+Defensa Sobrenatural
+
+11
+
+Némesis d e M agos
+
+15
+
+Contraataq u e del Cazador
+
+SENTIDOS DE CAZADOR
+A nivel 3, obtienes la capacidad de observar a una criatura y
+discernir mágica mente la mejor manera de dañarla. Como
+acción, elige a un objetivo que puedas ver y se encu�ntre a
+60 pies o menos de ti. Inmediatamente sabes si la criatura
+tiene inmunidades, resistencias o vulnerabilidades al daño
+y cuáles son. Si el objetivo está oculto frente a la magia
+de adivinación, sientes que no tiene inmunidades al daño,
+resistencias o vulnerabilidades.
+Puedes utilizar este rasgo tantas veces como tu modifi­
+cador por Sabiduría (mínimo una vez). Recuperas todos los
+usos tras finalizar un descanso largo.
+
+PRESA
+A partir de nivel 3, eres capaz de canalizar tu i r a contra un
+enemigo, aumentando el daño que le infliges. Como acción
+adicional, puedes elegir a una criatura que puedas ver y se
+encuentre a 60 pies o menos de ti como objetivo de este
+rasgo. La primera vez en cada turno que impactes a esa cria­
+tura con un ataque con arma, recibe ld6 de daño adicional
+del tipo del arma.
+Este beneficio dura hasta que completes un descanso
+corto o largo. Terminará antes de tiempo si designas a un
+objetivo diferente.
+
+DEFENSA SOBRENATURAL
+A nivel 7, tu resistencia contra los ataques de tu presa sobre
+tu mente y tu cuerpo aumenta. Cuando el objetivo del rasgo
+Presa te obligue a realizar una tirada de salvación, o si
+tienes que hacer una prueba de característica para escapar
+del agarre de esa criatura, añade ld6 a tu tirada.
+
+MAGIA DE CAZADOR DE MONSTRUOS
+
+NÉM E SIS DE MAGOS
+
+A partir de nivel 3, aprenderás conjuros adicionales al
+alcanzar ciertos niveles de esta clase, como se puede ver
+en la tabla "Conjuros de Cazador de Monstruos". Estos se
+consideran conjuros de explorador para ti, pero no contra los
+conjuros totales de explorador que puedes conocer.
+
+Cuando alcanzas e l nivel 1 1 eres capaz d e frustrar la magia
+de otros. Si ves a una criatura a 60 pies o menos de ti
+lanzando un conjuro o teletransportándose, puedes emplear
+tu reacción para intentar desbaratar su acción. El objetivo
+deberá tener éxito en una tirada de salvación de Sabiduría
+contra tu CD de salvación de conjuros o su conjuro o teJe­
+transporte fallará y se malgastará.
+Una vez utilizado este rasgo, deberás terminar un des­
+canso corto o largo para poder volver a usarlo.
+
+C O N J U ROS D E C AZADOR D E M O N STRUOS
+N ivel de
+explorador
+
+Conj uro
+
+protección contra el bien y el mal
+zona de la verdad
+círculo mágico
+l3
+
+destierro
+
+17
+
+inmovilizar monstruo
+
+C ONTRAATAQUE DEL CAZADOR
+A nivel 1 5 aprendes a contraatacar cuando tu presa intenta
+sabotearte. Si el objetivo de tu rasgo Presa te obliga a rea­
+lizar una tirada de salvación, puedes usar tu reacción para
+hacer un ataque con arma contra esa criatura. Realizas el
+ataque inmediatamente antes de la tirada de salvación. Si tu
+ataque impacta, tu tirada de salvación tiene éxito automática­
+mente, además de los efectos normales del ataque.
+
+I N STRUCTOR
+
+GUERRERO
+AVÍSAME CUANDO HAYAS ACABADO DE HABLAR.
+-Tordek
+
+De todos los aventureros del mundo de D&D, el guerrero
+es quizá la mayor paradoja. Por un lado, una característica
+singular de la clase es que no hay dos miembros con las
+mismas habilidades: sus armaduras, armas y tácticas cubren
+un amplio espectro. Por otro lado, independientemente de
+sus herramientas y métodos, en el corazón de todo guerrero
+yace la misma verdad: es mejor herir que ser herido.
+Aunque algunos aventureros de esta clase arriesgan su
+vida por gloria o riquezas, muchos de ellos se ven movidos
+por proteger a los demás; dan más valor al bienestar de la
+sociedad, la aldea o el grupo que a su propia seguridad.
+Incluso aunque haya oro de por medio, la verdadera
+recompensa de la mayoría de los guerreros está en mandar
+enemigos al Abismo.
+La siguiente sección ofrece maneras de añadir profundi­
+dad y toques personales a personajes de esta clase.
+
+S í M B OLO H E RÁLDIC O
+Los guerreros normalmente pelean por una causa. Algunos
+para defender a reinos sitiados por monstruos y otros en una
+búsqueda personal de gloria. Sea como fuere, un miembro de
+esta clase suele lucir un símbolo heráldico que representa su
+causa. Puede haber adoptado el de una nación o linaje real, o
+haber creado su escudo para representar su propio interés.
+Tu personaje podría estar ya afiliado a una organización o
+causa, de modo que viaje bajo su estandarte. Si no es el caso,
+piensa en crear un símbolo heráldico que represente un
+aspecto de tu naturaleza o esté relacionado con tu propósito
+en el mundo.
+S í M BOLO H E R Á LDICO
+d6
+
+Símbolo
+Un d ragón d o rado rampa nte sobre un campo verde,
+representa ndo el valor y l a búsqueda de l a riq ueza.
+E l puño de u n gigante d e las tormentas a nte una n u be
+tormentosa, q u e s i m bol iza la ira y el poder.
+Espadones cruzados delante de la puerta de u n
+casti l l o , señal de defensa d e u n a ciudad o reino.
+Una cal avera con u n a daga atravesada, q u e representa
+l a condenación que l l evas a tus enemigos.
+U n fén ix en u n anillo de fuego, expresión de u n
+espíritu indomable.
+Tres gotas de san gre bajo u n a espada h o rizontal sobre
+un fondo negro, s i m bolizando tres enemigos a los q u e
+has j u rado matar.
+
+CAPÍTULO ¡, OPCIONES DE PERSONAJE
+
+Algunos guerreros s o n luchadores natos, c o n un talento
+especial para sobrevivir en la batalla. Otros han desa­
+rrollado los fundamentos del combate en sus años de
+formación, aprendiendo de los líderes del ejército u otra
+organización marcial.
+Un tercer tipo de guerrero viene de entre los que han
+recibido entrenamiento personal de un veterano consumado.
+Este instructor es, posiblemente, un experto en un aspecto
+del combate relacionado con el pasado del estudiante.
+Si decides que tu personaje estudió bajo un maestro, ¿cuál
+era su especialidad? ¿Emulaste a tu instructor en su estilo o
+tomaste sus enseñanzas y las adaptaste a tus propósitos?
+I NSTRUCTORES
+d6
+
+Instructor
+Gladiador. Tu mentor fue un esclavo que l uchó por
+su l i bertad en la arena o u n o q u e el igió l a vida del
+gladiador para ganar fa m a y fort una.
+Militar. Tu entrenador s i rvió con u n g rupo de soldados
+y sabe mucho de trabaj a r en eq u i po.
+G uardia de la ciudad. El control de m u ltitudes
+y mantener l a paz son las es peci a l idades de tu
+i n structor.
+Guerrero tribal. Tu m aestro creció en u n a tri bu,
+donde l u c h a r por l a propia vida es a l go habitual.
+Luchador callejero. Tu entrenador sobresale en e l
+com bate urbano, co m b i n a n d o l a l u c h a c o d o con codo
+con el silencio y l a eficacia.
+Maestro de armas. Tu mentor te ayudó a hacerte u n o
+c o n tu a r m a elegida, tra n s m itiéndote el conocim iento
+específico para b l a n d i r l a lo mejor posible.
+
+E STILO CARACTERÍSTICO
+Muchos guerreros s e distinguen d e sus pares a l adoptar y
+perfeccionar un estilo particular de combate. Aunque este
+puede ser una consecuencia natural de la personalidad
+del luchador, no siempre es así. El enfoque vital de cada
+uno no siempre dicta cómo esa persona actúa cuando hay
+vidas en juego.
+¿Tienes un estilo de combate que refleja tu actitud frente
+a la vida o hay algo más dentro de ti, que liberas cuando se
+desenvainan las armas?
+
+E STI LOS CARACTERÍSTICOS
+Estilo
+
+d6
+
+Elegante. Te m u eves con gracia y control tota l ,
+n u nca empleas más energía d e l a necesaria.
+Brutal. Tus ataques son verdaderos m azazos,
+capaces de romper h u esos y derra m a r san gre.
+
+LG< jl«�Gl ¡o" (o ¡ ••r. Ll• jG"' �"''�•
+�Mé.J l�¡OJ }\.A.� loJ fC, ÍOJ oc\.A.lC,fH por fJO
+J(�""' f r� w-t }\.A.�Ao An·,Jro. f\A�""'GJ1 �l cltlo
+<.1:1, totG(�<"'t< lOI,r<vG(OfG�O.
+
+Astuto. Cuando l lega el momento j u sto, atacas como
+u n rayo, usando tácticas a peq ueña esca l a para
+cambiar las tornas a tu favor.
+N aturalidad. En bata l l a , raramente sudas o m u estras
+a l go que n o sea una expres ión esto ica.
+Energético. Cantas y bailas d u ra nte el com bate
+mientras tu espíritu se eleva. Eres feliz cuando tienes
+u n enemigo enfrente y u n arma en la mano.
+Sin iestro. Luchas con el ceño fru ncido y m i radas
+de desdén, b u r l á n d ote de tus adversarios m ientras
+los de rrotas .
+
+ARQUETI P O S MARC IALE S
+A nivel 3, un guerrero obtiene el rasgo Arquetipo Marcial.
+Las siguientes opciones, además de las que se ofrecen en el
+Player's Handbook, están disponibles: el Arquero Arcano,
+el Caballero y el Samurái.
+
+ARQU E RO ARCANO
+E l arquero arcano estudia un método único de arquería
+de origen élfico que entreteje magia en sus ataques para
+producir efectos sobrenaturales. Estos guerreros son parte
+de los cuerpos de élite élficos. Guardianes de las fronteras
+de los dominios de esta raza, se mantienen alerta en busca
+de invasores y usan sus flechas infundidas con magia para
+derrotarlos antes de que puedan llegar a sus asentamientos.
+A lo largo de los siglos, los métodos de estos arqueros elfos
+se han extendido también a miembros de otras razas, por
+tanto capaces de conjugar aptitud arcana y arquería.

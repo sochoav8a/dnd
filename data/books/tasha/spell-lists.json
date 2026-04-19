@@ -1,0 +1,29 @@
+{
+  "artificer": [
+    "acid-splash", "dancing-lights", "fire-bolt", "guidance", "light",
+    "mage-hand", "mending", "message", "poison-spray", "prestidigitation",
+    "ray-of-frost", "resistance", "shocking-grasp", "spare-the-dying",
+
+    "alarm", "cure-wounds", "detect-magic", "disguise-self",
+    "expeditious-retreat", "faerie-fire", "false-life", "feather-fall",
+    "grease", "identify", "jump", "longstrider",
+    "purify-food-and-drink", "sanctuary",
+
+    "aid", "alter-self", "arcane-lock", "blur", "continual-flame",
+    "darkvision", "enhance-ability", "enlarge-reduce", "heat-metal",
+    "invisibility", "lesser-restoration", "levitate", "magic-mouth",
+    "magic-weapon", "protection-from-poison", "rope-trick",
+    "see-invisibility", "spider-climb", "web",
+
+    "blink", "create-food-and-water", "dispel-magic", "fly",
+    "glyph-of-warding", "haste", "protection-from-energy", "revivify",
+    "tiny-hut", "water-breathing", "water-walk",
+
+    "arcane-eye", "fabricate", "faithful-hound", "freedom-of-movement",
+    "private-sanctum", "resilient-sphere", "secret-chest",
+    "stone-shape", "stoneskin",
+
+    "animate-objects", "arcane-hand", "creation", "greater-restoration",
+    "wall-of-stone"
+  ]
+}

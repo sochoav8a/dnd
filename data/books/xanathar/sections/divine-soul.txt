@@ -1,0 +1,109 @@
+RASGOS D E L ALMA D I V I N A
+N ivel d e
+hechicero
+
+Rasgo
+M a g i a Divina, Favorecido por los Dioses
+
+0
+
+Una vez utilizado este rasgo, deberás terminar un descanso
+corto o largo para poder volver a usarlo.
+
+CURAC IÓN M EJORADA
+A partir de nivel 6, la energía divina que corre por tus venas
+puede mejorar tus conjuros de curación. Cuando tú o un
+aliado situado a 5 pies o menos de ti haga una tirada para
+determinar cuántos puntos de golpe recupera un conjuro,
+puedes utilizar 1 punto de hechicería para volver a tirar
+cualquier número de esos dados, siempre que no estés inca­
+pacitado. Solo puedes usar este rasgo una vez por turno.
+
+ALAS DE ÜTRO MUNDO
+A partir de nivel 14, puedes utilizar una acción adicional
+para manifestar un par de alas espectrales en tu espalda.
+Mientras se encuentren presentes, tienes una velocidad
+volando de 30 pies. Permanecerán hasta que quedes incapa­
+citado, mueras o las descartes con una acción adicional.
+La afinidad que elijas para tu magia divina determinará la
+apariencia de estas alas espectrales: alas de águila para el
+bien o la ley, alas de murciélago para el mal o el caos y alas
+de libélula para la neutralidad.
+
+RECUPERACIÓN EXTRATERRENA
+
+MAGIA DIVINA
+
+A nivel 18 consigues la capacidad de sobreponerte a heridas
+graves. Como acción adicional cuando tengas menos de la
+mitad de tus puntos de golpe máximos, puedes recuperar
+tantos puntos de golpe como la mitad de tus puntos de golpe
+máximos. Una vez utilizado este rasgo, deberás terminar un
+descanso largo para poder volver a usarlo.
+
+Gracias a tu enlace con lo divino eres capaz de aprender con­
+juros de clérigo. Cuando tu rasgo Lanzamiento de Conjuros
+te permite reemplazar un truco o conjuro de hechicero de
+nivel 1 o superior, puedes elegir el nuevo conjuro de la lista
+de conjuros de clérigo o de la lista de conjuros de hechicero.
+Debes cumplir el resto de restricciones relacionadas con
+la elección del conjuro, que se convierte en un conjuro de
+hechicero para ti.
+Además, escoge una afinidad para la fuente de tu poder
+divino: bien, mal, ley, caos o neutralidad. Aprendes un con­
+juro adicional basado en esa afinidad, como se muestra más
+abajo. Se considera un conjuro de hechicero para ti, pero no
+cuenta como parte de tus conjuros de hechicero conocidos.
+Si más tarde reemplazas este conjuro, debes hacerlo con
+uno de la lista de conjuros de clérigo.
+
+Tu magia innata viene del poder elemental del aire. Muchos
+de los que poseen este don pueden encontrar el origen de
+su magia en una experiencia cercana a la muerte causada
+por la Gran Lluvia, aunque puede que nacieras durante un
+aullante vendaval, tan fuerte que todavía se cuenten historias
+sobre él o que en tu linaje influyan criaturas aéreas porten­
+tosas, como los vaatis o los djinns. Sea como fuere, la magia
+de la tormenta impregna tu ser.
+Los hechiceros de la tormenta no tienen precio como
+miembros de la tripulación de un barco. Su magia les per­
+mite controlar el viento y el estado atmosférico en su entorno
+inmediato. Sus habilidades también son útiles para repeler
+ataques de sahuagins, piratas y otras amenazas acuáticas.
+
+C u ración Mejorada
+14
+
+Alas de Otro M u n do
+
+18
+
+Recuperación Extrate rrena
+
+Afinidad
+
+Conjuro
+
+Bien
+
+curar heridas
+
+Mal
+
+infligir heridas
+
+Ley
+
+bendición
+
+Caos
+
+perdición
+
+Neutra l i d a d
+
+protección contra el bien y el mal
+
+FAVORECIDO POR LOS DIOSES
+
+H E C HIC E R Í A DE TOR M E NTA

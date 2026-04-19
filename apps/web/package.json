@@ -12,8 +12,11 @@
   },
   "dependencies": {
     "@dnd/shared": "workspace:*",
+    "@fontsource/cinzel": "^5.2.8",
+    "@fontsource/crimson-text": "^5.2.7",
     "@iconify-json/game-icons": "^1.2.3",
     "@iconify/react": "^6.0.2",
+    "@react-pdf/renderer": "^4.5.1",
     "graphql": "^16.9.0",
     "graphql-request": "^7.1.2",
     "next": "14.2.18",

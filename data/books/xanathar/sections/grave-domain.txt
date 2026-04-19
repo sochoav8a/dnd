@@ -1,0 +1,260 @@
+RASGOS DEL DO M I N I O DE LA SEPULTURA
+N ivel de
+clérigo
+
+Rasgo
+Conj u ros de D o m i n i o , Círc u l o d e M o rta l id a d ,
+O j o s de l a Tu mba
+Canalizar Divi n id a d : Camino a l a Sepultura
+Centi nela a las Puertas de la M u erte
+Lanza m i ento Potente
+
+17
+
+G u a rd i á n d e Almas
+
+C ONJUROS DE DOMINIO
+Consigues conjuros de dominio al alcanzar los niveles de
+clérigo indicados en la tabla "Conjuros del Dominio de la
+Sepultura". Puedes ver cómo funcionan los conjuros de
+dominio en el rasgo de clase Dominio Divino.
+C O N J U ROS DEL DO M I N I O DE LA SEPULTURA
+N ivel de
+clérigo
+
+Conjuros
+
+falsa vida, perdición
+dulce descanso, rayo debilitador
+revivir, toque vampírico
+guarda contra la muerte, marchitar
+alzar a los muertos, caparazón antivida
+
+1,
+
+CAPÍTULO OPCIONES DE PERSONAJE
+
+C í RCULO DE MORTALIDAD
+A nivel 1 obtienes la capacidad de manipular la línea entre
+la vida y la muerte. Cuando fueras a lanzar uno o más dados
+para recuperar puntos de golpe mediante un conjuro a una
+criatura con O puntos de golpe, en vez de eso utilizas el
+mayor número posible para cada dado.
+Además, aprendes el truco piedad con los moribundos,
+que no cuenta dentro del número de trucos de clérigo que
+puedes conocer. Para ti tiene un alcance de 30 pies y puedes
+lanzarlo como acción adicional.
+
+ÜJO S DE LA TuMBA
+A nivel 1 obtienes la capacidad de sentir la presencia de los
+muertos vivientes, cuya misma existencia es un insulto al
+ciclo vital. Como acción, puedes expandir tu percepción para
+detectar de forma mágica a este tipo de criaturas. Hasta el
+final del próximo turno, conoces la localización de cualquier
+muerto viviente situado a 60 pies o menos de ti, siempre
+que no esté tras cobertura completa ni protegido contra la
+magia de adivinación. Este sentido no te dice nada sobre las
+capacidades o la identidad de una criatura.
+Puedes emplear este rasgo tantas veces como tu modifi­
+cador por Sabiduría (mínimo una vez). Recuperas todos los
+usos tras finalizar un descanso largo.
+
+CANALIZAR DIVINIDAD:
+CAMINO A LA SEPULTURA
+A partir de nivel 2 , puedes usar tu Canalizar Divinidad para
+marcar la fuerza vital de otra criatura, que quedará conde­
+nada a la extinción.
+Como acción, eliges un objetivo al que puedas ver y se
+encuentre a 30 pies o menos de ti, maldiciéndolo hasta el
+final de tu siguiente turno. La próxima vez que tú o un aliado
+tuyo impacte a la criatura maldita con un ataque, esta tendrá
+vulnerabilidad al daño de ese ataque, tras el cual finalizará
+la maldición.
+
+C ENTINELA A LAS PUERTAS DE LA MUERTE
+A nivel 6 obtienes la capacidad de impedir el avance de la
+muerte. Como reacción, cuando tú o una criatura que puedas
+ver y se encuentre a 30 pies o menos de ti sufra un crítico,
+puedes convertirlo en un impacto normal. Además, cualquier
+efecto activado como consecuencia de que el ataque sea un
+crítico queda cancelado.
+Puedes emplear este rasgo tantas veces como tu modifi­
+cador por Sabiduría (mínimo una vez). Recuperas todos los
+usos tras finalizar un descanso largo.
+
+LANZAMIENTO POTENTE
+A partir de nivel 8, puedes añadir tu modificador por Sabidu­
+ría al daño que causas con cualquier truco de clérigo.
+
+C L É R I G O o e L A S e P u LT U R A
+
+GUARDIÁN DE ALMAS
+A partir de nivel 17, puedes agarrar una hebra de vitalidad
+de un alma que parte y utilizarla para curar a los vivos.
+Cuando un enemigo que puedas ver fallezca y se encuentre a
+60 pies o menos de ti, tú mismo o una criatura de tu elección
+situada a 60 pies o menos de ti recupera tantos puntos de
+golpe como dados de golpe tuviera el enemigo muerto. Solo
+puedes usar este rasgo si no estás incapacitado. Una vez lo
+utilices, no puedes volver a hacerlo hasta el comienzo de tu
+siguiente turno.
+
+O BJETOS PRECIOSOS
+d6
+
+Objeto
+U n a ram ita del árbol d e reu n iones q u e se yergue en
+el centro de tu aldea.
+U n vial de agua p rocedente del nacimiento de u n
+río sagrado.
+
+DRUIDA
+
+U n hatillo d e h ierbas especi ales.
+
+INCLUSO AL MORIR, CADA CRIATURA JUEGA SU PAPEL EN
+mantener el Gran Equilibrio. Pero ahora el desequilibrio
+
+U n cuenco de bronce grabado con i mágenes
+de a n i m ales.
+
+crece, una fuerza que b usca dominar la naturaleza. Es el
+comportamiento destructivo de las razas mortales. Cuanto
+
+U n sonajero hecho con u n calabacín seco y
+bayas sagradas.
+U n a hoz d e oro en m i n iatura, legado d e tu mentor.
+
+más lejos de la naturaleza les llevan sus acciones, más
+corrupta se v uelve su influencia. Como druidas, b uscamos
+principalmente protegery educar, para preservar el Gran
+Equilibrio, pero hay ocasiones en las que debemos a lzarnos
+contra el peligro y erradicarlo.
+-Safhran, archidruida
+
+Los druidas son los protectores del mundo natural. Se dice
+que llegado el momento se convierten en la voz del orden
+natural, contando verdades demasiado sutiles para el gran
+público. Muchos de los que se hacen druidas se ven atraídos
+hacia la naturaleza: sus fuerzas, ciclos y movimientos llenan
+sus mentes y espíritus de maravillas y conocimientos. Sabios
+de todo tipo han estudiado el mundo natural, escribiendo
+tomos sobre su misterio y poder, pero los druidas son seres
+especiales: en un momento de sus vidas, comienzan a
+encarnar estas fuerzas naturales, produciendo fenómenos
+mágicos que los unen a los espíritus de la naturaleza y al
+ciclo de la vida. Debido a sus extraños y misteriosos poderes
+los miembros de esta clase son muchas veces reverenciados,
+rehuidos o incluso considerados peligrosos por la gente que
+les rodea.
+Tu druida podría ser un verdadero adorador de la natu­
+raleza, alguien que siempre ha despreciado la civilización
+y que encuentra regocijo viviendo en tierras agrestes.
+O quizá tu personaje creció en la ciudad y ahora intenta
+que el mundo civilizado y la naturaleza salvaje convivan en
+armonía. Puedes usar las siguientes secciones para dar sus­
+tancia a tu druida, independientemente de cómo adoptara
+la profesión.
+
+Ü BJ E T O PRE C I O S O
+Algunos druidas llevan uno o más objetos que son sagrados
+para ellos o poseen un significado personal. Estos objetos no
+son necesariamente mágicos, pero cada uno de ellos tiene
+un significado que conecta la mente y el corazón del druida a
+un concepto profundo o a una perspectiva espiritual.
+Cuando decidas cuál es el objeto precioso para tu perso­
+naje, piensa en darle un origen: ¿cómo encontraste el objeto
+y por qué es tan importante para ti?
+
+1:
+
+CAPiTULO OPCIONES DE PERSONAJE
+
+AsPECTO GU ÍA
+Muchos druidas sienten un fuerte vínculo c o n un aspecto
+concreto del mundo natural, como una masa de agua, un
+animal, un tipo de árbol o alguna otra planta. Te identificas
+con el aspecto elegido: ya sea por su comportamiento o su
+propia naturaleza, es un ejemplo a seguir.
+As PECTos G U íA
+d6
+
+Aspecto guía
+Los tejos te recuerd a n renovar l a mente y el espíritu,
+dejar q u e l o anciano muera y l o n u evo prospere.
+Los robles representan fuerza y vita l idad. Meditar bajo
+uno d e estos á rboles llena tu cuerpo y tu mente de
+deci sión y fortaleza.
+El fl u i r i n fi n ito del río te recuerda l a gran extensión del
+m u ndo. B u scas tener los i ntereses a l a rgo plazo d e la
+naturaleza siem pre presentes.
+E l mar es u n caldero s i e m p re batiente de poder y caos.
+Te recuerda q u e aceptar el cambio es necesario para
+poder mantenerte en el m u ndo.
+Las aves del cielo son prueba d e q u e i n c l u s o las
+criaturas más peq ueñas pueden sobrevivir s i se
+mantienen fuera d e la l iza.
+Como dem uestran las acciones del lobo, la fuerza del
+i ndividuo n o puede compararse a l poder de l a manada.
+
+M E NTOR
+Es normal que futuros druidas busquen instructores o
+sabios que puedan enseñarles lo básico de las artes mágicas.
+La mayoría de los miembros de esta clase que aprenden de
+un mentor comienzan su entrenamiento a una edad tem- ·
+prana, por lo que su maestro cumple un papel vital en dar
+forma a sus actitudes y creencias.
+Si tu personaje ha recibido entrenamiento de alguien,
+¿quién o qué era esa persona y cuál era la naturaleza de
+vuestra relación? ¿Te empapó tu mentor de una perspectiva
+concreta o influyó en tu forma de intentar alcanzar las metas
+que te propones?
+
+M ENTORES
+Mentor
+
+d6
+
+Tu mentor fue un ent sabio, que te enseñó a pensar en
+términos d e años y décadas en vez de en d ía s o meses.
+Apre n d i ste con una d ríade q u e vigilaba u n portal
+d u rmiente a l Abismo. D u ra nte tu entren a m i ento, te
+encargaba buscar amenazas ocultas para el m u n d o .
+T u t u t o r siem pre i nteractuaba contigo en fo rma d e
+h a l cón. N u nca vi ste s u fo rma h u manoide.
+Eras u n o de varios jovenzuelos bajo l a tutela de
+u n viejo druida, h asta q u e u n o de tus co mpañeros
+traicionó al grupo y asesinó a tu m aestro.
+Solo has vi sto a tu mentor en visiones. Todavía no te
+has encontrado n u nca con él. De hecho, n i s i q u iera
+estás seguro de q u e tenga fo rma morta l .
+T u m e n t o r f u e u n h o m b re oso q u e t e e n s e ñ ó a tratar a
+todos los seres vivos con el m i s m o respeto.
+
+C Í RC U L O S DRUÍDIC O S
+A nivel 2 , los druidas obtienen el rasgo Círculo Druídico.
+Las siguientes opciones, además de las que se ofrecen en el
+Player's Handbook, están disponibles: el Círculo del Pastor
+y el Círculo de los Sueños.
+
+C Í RC U L O D E L PA STOR
+L o s druidas d e l Círculo d e l Pastor se encuentran en comu­
+nión con los espíritus de la naturaleza, especialmente con
+los de las bestias y los feéricos, a los que recurren en busca
+de auxilio. Estos druidas entienden que todos los seres vivos
+cumplen un papel en el mundo natural, pero se centran en
+proteger a animales y seres feéricos que tienen dificultades
+para defenderse a sí mismos. Los pastores, como se los
+conoce, ven a estas criaturas como su responsabilidad. Man­
+tienen a raya a los monstruos que las amenazan, reprenden
+a los cazadores que abaten a más presas de lo necesario e
+impiden que la civilización invada los hábitats de animales
+raros o lugares sagrados para los feéricos. Muchos de estos
+druidas son más felices lejos de ciudades y aldeas y se
+contentan con pasar sus días en compañía de las bestias y
+criaturas feéricas que viven en espacios agrestes.
+Los miembros de este círculo se convierten en aventureros
+para oponerse a las fuerzas que amenazan a aquellos a su
+cargo o para conseguir conocimiento o poder que les ayude a
+ser mejores protectores. Donde quiera que vayan estos drui­
+das, los espíritus de la naturaleza salvaje están con ellos.

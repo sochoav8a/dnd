@@ -1,0 +1,275 @@
+RASGOS D E LA M AG IA D E LAS S O M B RAS
+N ivel de
+hechicero
+
+Rasgo
+Ojos d e la Oscuridad, Fuerza de U ltratu mba
+Ojos d e l a Oscuridad (oscuridad)
+Sabueso d e M a l Agüero
+
+14
+
+C a m i n a nte d e S o m b ra s
+
+18
+
+F o r m a d e U m bra
+
+ÜJO S DE LA Ü SC U RIDAD
+Desde el nivel 1 , tienes visión en la oscuridad hasta
+a 120 pies.
+Cuando alcanzas el nivel 3 de esta clase, aprendes el
+conjuro de oscuridad, pero no cuenta como uno de tus con­
+juros de hechicero conocidos. Podrás lanzarlo utilizando un
+espacio de conjuro o gastando 2 puntos de hechicería. Si lo
+utilizas con puntos de hechicería, eres capaz de ver a través
+de la oscuridad creada por el conjuro.
+
+FUERZA DE ULTRATUMBA
+A nivel 1 , tu existencia entre la vida y la muerte te hace
+difícil de derrotar. Cuando tus puntos de golpe fueran a ser
+reducidos a O, puedes realizar una tirada de salvación de
+Carisma (CD 5 + el daño recibido). Si tienes éxito, en vez de
+que ocurra esto tus puntos de golpe quedan reducidos a l.
+No puedes usar este rasgo si tus puntos de golpe llegan a O
+por daño radiante o por un crítico.
+Una vez tengas éxito haciendo esta tirada de salvación, no
+podrás volver a emplear este rasgo hasta que no completes
+un descanso largo.
+
+SABUE S O DE MAL AGÜERO
+A n ivel 6 eres capaz de llamar a una criatura aullante
+de oscuridad para acosar a tus enemigos. Como acción
+adicional, puedes gastar 3 puntos de hechicería para
+invocar mágica mente a un sabueso de mal agüero, que
+tendrá como objetivo a una criatura que puedas ver y se
+encuentre a 120 pies o menos de ti. Este animal utiliza el
+perfil de un lobo terrible (consulta el Monster Manual o
+el apéndice C del Player's Handbook), con las siguientes
+modificaciones:
+
+A v(Cts � (Silf\b �ro e,
+
+so....,.\o rc, f or }v.. t
+f itlf\!O }v.. t o t ro
+co"'t'� flG �or.
+....,. ¡
+
+u
+
+0
+
+El sabueso es de tamaño Mediano, no Grande, y es consi­
+derado una monstruosidad, no una bestia.
+Aparece con un número de puntos de golpe temporales
+igual a la mitad de tu nivel de hechicero.
+Puede moverse a través de otras criaturas y objetos como
+si fueran terreno difícil. El sabueso recibirá 5 de daño si
+acaba su turno dentro de un objeto.
+Al principio de su turno, aprende automáticamente la loca­
+lización de su objetivo. Si este estaba escondido, ya no es
+considerado así para el sabueso.
+El sabueso aparece en un espacio libre de tu elección
+situado a 30 pies o menos del objetivo. Haz una tirada de
+iniciativa para él. En su turno, solo puede moverse hacia su
+objetivo por la ruta más directa y, además, no puede usar
+su acción más que para atacarle. El sabueso puede realizar
+ataques de oportunidad, pero solo contra su objetivo. Ade­
+más, mientras el sabueso se encuentre a 5 pies o menos del
+objetivo, este último tiene desventaja en tiradas de salvación
+contra cualquier conjuro que lances. El sabueso desaparece
+si sus puntos de golpe se reducen a O, si los puntos de
+golpe de su objetivo se reducen a O o S minutos después de
+ser convocado.
+
+CAMINANTE DE S OMBRAS
+A nivel l4, obtienes la habilidad para saltar de una sombra
+a otra. Cuando te encuentres bajo luz tenue u oscuridad
+podrás, usando una acción adicional, teletransportarte mági­
+ca mente hasta 120 pies a un espacio desocupado que puedas
+ver y que también se encuentre bajo luz tenue u oscuridad.
+
+FORMA DE UMBRA
+A partir de nive1 18, puedes gastar 6 puntos de hechicería
+y una acción adicional para transformarte mágícamente en
+una forma hecha de sombras. Cuando te encuentres bajo
+esta forma, tendrás resistencia a todo el daño excepto el de
+fuerza y radiante, y podrás moverte a través de otras cria­
+turas y objetos como si fueran terreno difícil. Recibes S de
+daño de fuerza si terminas tu turno dentro de un objeto.
+Permaneces en esta forma durante 1 minuto. Este efecto
+termina antes de tiempo si estás incapacitado, si mueres o si
+lo das por terminado usando una acción adicional.
+
+1,
+
+CAPÍTULO OPCIONES DE PERSONAJE
+
+L I BROS DE CO N J U ROS
+d6
+
+Libro de conju ros
+Un tomo cuyas pági n a s son fi n a s l á m i n a s de metal ,
+c o n l o s conj u ros grabados en e l l a s con ácido.
+Largas tiras de cuero en l a s q u e están recogidos los
+hechizos, envueltas a l rededor d e u n b astón para
+trans porta rlas con faci l i d a d .
+
+MAGO
+
+U n t o m o maltratado, con p i ctogra mas q u e solo tú
+puedes entender.
+
+S E R U N MAGO REQUIERE D E ENTENDIMIENTO. EL CONO­
+
+Peq ueñas piedras con conj u ros i n scritos, q u e l l evas en
+u n a bolsa de tel a .
+
+cim iento de cómo y por qué funciona la magia. De hecho,
+n uestros esfuerzos para ampliar ese conocimiento han
+
+U n l i b ro q u e m a d o , devastado por el fuego de u n
+d ragón, con l a s letras de t u s conj u ros difíc i l mente
+legi bles.
+
+traído los avances clave de la civilización a lo largo de
+los siglos.
+
+U n tomo de pági nas negras cuya letra solo puede verse
+en luz ten u e o en l a oscu ridad.
+
+-Gimble el ilusionista
+
+Solo algunas personas escogidas en todo el mundo son
+capaces de usar la magia. De entre ellos, los magos se
+encuentran solos en la cima de este arte. El menos capaz
+de entre ellos puede manipular fuerzas que se burlan de
+las leyes de la naturaleza, mientras que los mejores lanzan
+conjuros cuyos efectos hacen retumbar el mundo entero.
+Los magos pagan por su maestría en la moneda más
+valiosa: tiempo. Son necesarios años de estudio, instrucción
+y experimentación para aprender a emplear la energía
+mágica y almacenar conjuros en la mente. Para Jos magos
+aventureros y otros lanzadores de conjuros que aspiran a
+los más altos escalafones de la profesión, el estudio nunca
+termina, de la misma forma que no lo hace la búsqueda de
+conocimiento y poder.
+Si estás jugando con un mago, aprovecha la oportunidad
+para hacer de tu personaje algo más que el típico tiraconju­
+ros. Utiliza la información que se presenta a continuación
+para añadir algunos toques interesantes a cómo tu mago
+interactúa con el mundo.
+
+AM B I C I Ó N
+Pocos aspirantes a mago emprenden e l estudio d e l a
+magia sin algún tipo d e objetivo personal. Muchos d e ellos
+utilizan sus conjuros como una herramienta para producir
+un beneficio tangible, en estatus o bienes materiales, para
+ellos mismos o para sus compañeros. Para otros, el aspecto
+teórico de la magia tiene un gran atractivo, llevando a estos
+magos a buscar conocimiento que soporte nuevos postula­
+dos o confirme viejas teorías de lo arcano.
+Más allá de lo obvio, ¿por qué estudia magia tu mago y qué
+quiere conseguir? Si no has pensado mucho en ello, ahora
+tienes la oportunidad. Las respuestas que halles probable­
+mente afectarán a cómo se desarrolle tu futuro.
+AMBICIONES
+d6
+
+Ambición
+Vas a demostrar que los d i oses no s o n tan poderosos
+como cree el com ú n de los m o rtales.
+
+L I B RO DE C ONJ U RO S
+
+La i n morta l i d a d es l a meta fi n a l de t u s estudios.
+
+L a posesión más preciada d e t u personaje mago, su libro de
+conjuros, puede tener muchos aspectos distintos. Es posible
+que sea u n volumen de aspecto inocuo cuyas cubiertas no
+dan ninguna pista de lo que está dentro, pero a muchos
+miembros de esta clase les gusta mostrar su estilo usando
+libros de conjuros inusuales. Si no tienes todavía un objeto
+así, puede que tu objetivo sea encontrar un libro distintivo,
+ya sea por su apariencia o su material.
+
+S i puedes comprender l a magia por co mpleto,
+podrás extender s u uso a todo e l m u ndo, traye ndo
+u n a era de igualdad.
+
+1'
+
+CAPÍTULO OPCIONES DE PERSONAJE
+
+La magia es u n a herramienta peligrosa. La u s a s para
+proteger l o q u e más q u ieres.
+El poder arcano debe ser a rrebatado a los que a b u s a n
+de é l .
+Te convertirás en el m ago más poderoso q u e e l m u n d o
+h a vi sto en siglos.
+
+M,..Jo. "'A• '"''G"'tG <�t< trv.co.
+iti1 ,... e¡ �o! . <-tG
+fV.t�t.I V.. ! Gr w-C, �ic,,
+���•rG s( IL(¡sl, '1G "'•· ,UG 1G 1G I
+hO
+
+EXC ENTRIC I DAD
+Incontables horas pasadas estudiando e investigando en
+soledad tienen su efecto en las habilidades sociales de
+cualquiera. Los magos, ya de por si particulares, no son la
+excepción. Una manía o dos no son necesariamente algo
+malo: una rareza de este tipo es normalmente inofensiva
+y una potencial fuente de diversión, incluso una tarjeta
+de presentación.
+Si tu personaje tiene una excentricidad, ¿es mental o
+física? ¿Te hace esta rareza conocido? ¿Luchas por superarla
+o la adoptas como un pequeño símbolo de tu fama?
+E xc ENTR I C I DADES
+d6
+
+Excentricidad
+Tienes la cost u m b re d e gol petear i n cesa ntemente
+con el pie en el s u elo, lo que suele res u ltar molesto
+a los demás.
+Tu memoria es bastante buena, pero no te cuesta fi n g i r
+ser d i straído cuando t e conviene.
+N u nca entras e n una h a bitación sin ver lo q u e cuelga
+del techo.
+Tu posesión m á s querida es u n gusano muerto que
+guardas dentro d e u n vial de poción.
+Cuando q u i eres q u e l a gente te deje en paz, empiezas
+a hablar solo. Suele fu ncionar.
+Tu cuidado personal y estilo, o más bien la falta de
+a m bos, h ace q u e m u c h a s veces piensen q u e eres
+u n mendigo.
+
+TRADICIÓN ARCANA
+A nivel 2, el mago obtiene el rasgo Tradición Arcana.
+Además de las opciones ofrecidas en el Player's Handbook,
+puede escoger Magia de Guerra, presentada a continuación.
+
+MAGIA DE GUE RRA
+Muchos colegios arcanos se especializan en entrenar magos
+para la batalla. La tradición Magia de Guerra mezcla prin�
+cipios de evocación y abjuración, en vez de especializarse
+en una de esas escuelas. Enseña técnicas que hacen más
+potentes los conjuros, a la vez que proporciona defensas
+mejoradas a sus practicantes.
+Los seguidores de esta tradición son conocidos como
+magos de guerra. Consideran que su magia es arma y
+armadura, un recurso superior a cualquier pedazo de metal.
+Estos magos actúan rápidamente en los combates, utili�
+zando sus conjuros para arrebatar el control de la situación.
+Estos golpean fuerte y sus habilidades defensivas frustran
+los intentos de contraataque de sus oponentes. Los magos
+de guerra también son muy hábiles volviendo los conjuros de
+otros lanzadores contra ellos mismos.
+En grandes batallas, los magos de guerra suelen trabajar
+con evocadores, abjuradores y otros tipos de mago. Los evo·
+cadores, en particular, suelen bromear con ellos por dividir
+su atención entre ataque y defensa. La respuesta típica del
+mago de guerra suele ser: ¿De qué sirve poder arrojar una
+poderosísima bola de fuego si muero antes de lanzarla?
+
+MAGO DE GUERRA

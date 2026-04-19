@@ -1,0 +1,109 @@
+RASGOS DEL C o LEG I O DEL G LAM O U R
+N ivel d e
+bardo
+
+Rasgo
+M a nto d e I n s p i ración, I nterpretación Cautivado ra
+M a nto de M ajestad
+
+14
+
+M ajestad I n q u ebrantable
+
+MANTO DE INSPIRACIÓN
+Cuando te unes al Colegio del Glamour, en el nivel 3, ganas
+la habilidad de urdir una canción con magia feérica, la cual
+infundirá en tus aliados vigor y velocidad.
+Como acción adicional, puedes gastar uno de tus usos
+de Inspiración Bárdica para imbuirte de una apariencia
+maravillosa. Cuando lo hagas, elige un número de criatu­
+ras igual a tu modificador de Carisma, que puedas ver y
+que te puedan ver y se encuentren a 60 pies o menos de
+ti. Cada una de ellas gana S puntos de golpe temporales.
+Cuando una criatura consigue estos puntos de golpe
+temporales, puede utilizar inmediatamente su reacción
+para mover hasta su velocidad, sin provocar ataques de
+oportunidad.
+El número de puntos de golpe temporales aumenta según
+alcanzas ciertos niveles en esta clase, incrementándose
+a 8 en el nivel 5, a 11 en el nivel 10 y finalmente a 14 en
+el nivel 1 5 .
+
+INTERPRETACIÓN CAUTIVADORA
+A partir de nivel 3, puedes cargar tu interpretación de ener­
+gía seductora, usando para ello magia feérica.
+Si actúas durante al menos 1 minuto, puedes intentar
+maravillar a tu público, ya sea cantando, recitando un poema
+o bailando. Al final de la actuación, elige tantos humanoides
+como tu modificador de Carisma. Deben estar situados
+a 60 pies o menos de ti y haber escuchado o visto todo el
+espectáculo. Cada objetivo deberá tener éxito en una tirada
+de salvación de Sabiduría contra tu salvación de conjuros o
+
+quedará hechizado por ti. Mientras esté hechizado((ie esta
+manera, esa criatura te idolatrará, hablará muy bien de ti a
+cualquiera con el que se encuentre y tratará de obstaculizar
+a cualquiera que esté en tu contra, aunque evitará la violen­
+cia si no estaba ya dispuesto a luchar por ti. Este efecto se
+desvanece tras 1 hora, si el objetivo recibe cualquier tipo de
+daño, si le atacas o si te ve atacando o dañando a cualquiera
+de sus aliados.
+Si una criatura tiene éxito en su tirada de salvación, no
+será consciente de que has intentado hechizada.
+Una vez utilizado este rasgo, deberás terminar un des­
+canso corto o largo para poder volver a emplearlo.
+
+MANTO DE MAJ E STAD
+A nivel 6 obtienes la capacidad de cubrirte de una magia feé­
+rica que incita a los demás a servirte. Como acción adicional,
+puedes lanzar un conjuro de orden imperiosa sin utilizar un
+espacio de conjuro y, además, tu aspecto queda envuelto en
+una belleza sobrenatural durante 1 minuto o hasta que tu
+concentración termine (como si estuvieras concentrándote
+en un conjuro). Durante este espacio de tiempo, puedes
+lanzar orden imperiosa como acción adicional cada turno,
+sin emplear un espacio de conjuro.
+Cualquier criatura hechizada por ti falla automáticamente
+su tirada de salvación contra la orden imperiosa que lanzas
+con este rasgo.
+Una vez utilizado este rasgo, deberás finalizar un des­
+canso largo para poder volver a usarlo.
+
+MAJ E STAD INQUEBRANTABLE
+A nivel 14, tu apariencia se altera de forma permanente,
+adoptando un aspecto de otro mundo, que te hace parecer
+más agradable y fiero.
+Además, como acción adicional, puedes asumir una
+presencia mágica majestuosa durante 1 minuto o hasta
+que quedes incapacitado. Hasta que termine la duración de
+este efecto, cuando cualquier criatura te ataque por primera
+vez en un turno, deberá realizar una tirada de salvación de
+Carisma contra tu salvación de conjuros. Si falla, no podrá
+atacarte ese turno y deberá elegir un nuevo objetivo para
+su ataque o este será desperdiciado. En cambio, si tiene
+éxito, podrá atacarte ese turno, pero tendrá desventaja en
+cualquier tirada de salvación que haga contra tus conjuros
+durante tu próximo turno.
+Una vez asumes esta presencia majestuosa, no puedes
+emplearla de nuevo hasta que termines un descanso
+corto o largo.
+
+MANTO DE SUSURRO S
+
+C oL E GI O DE L O S S u s u RRO S
+La mayoría de la gente no tiene problema en acoger a un
+bardo. De esto se aprovechan los miembros del Colegio de
+los Susurros. Se comportan como el resto de bardos: com­
+parten noticias, cantan canciones y cuentan historias para
+el público. Pero, en realidad, este colegio enseña a sus estu­
+diantes a ser como lobos entre el rebaño. Sus integrantes
+utilizan su conocimiento y su magia para descubrir secretos
+y volverlos contra otros, normalmente en forma de extorsión
+y amenazas.
+Muchos otros bardos odian al Colegio de los Susurros.
+Lo ven como un parásito que usa la reputación de los de
+su clase para adquirir riqueza y poder. Por este motivo, los
+miembros de este colegio rara vez revelan su verdadera
+naturaleza. Normalmente dicen ser de otro colegio o no
+descubren su verdadera afiliación para poder infiltrarse y
+aprovecharse de cortes reales o entornos similares.

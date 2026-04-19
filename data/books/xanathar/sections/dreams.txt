@@ -1,0 +1,1112 @@
+RASGOS DEL C íRCULO D E LOS S U E Ñ OS
+N ivel de
+druida
+
+Rasgo
+Bálsamo d e la Corte del Vera n o
+Lum bre de S o m b ra y L u z d e Luna
+
+10
+
+Caminos Esco n d idos
+
+14
+
+C a m i n a nte en Sueños
+
+BÁLSAMO DE LA C O RTE DEL VERANO
+Al llegar a nivel 2 , quedas imbuido de la bendición de la
+Corte del Verano. Eres una fuente de energía que ofrece ali­
+vio a los heridos. Esta es representada mediante un número
+de dados d6 igual a tu nivel de druida.
+Como acción adicional, puedes elegir una criatura a la
+que puedas ver y se encuentre a 120 pies o menos de ti y
+gastar un número de dados de esta fuente igual o menor a la
+mitad de tu nivel de druida. Tira los dados utilizados y suma
+los resultados. El objetivo recupera tantos puntos de golpe
+como ese total. Además, también obtiene 1 punto de golpe
+temporal por cada dado utilizado.
+Recuperas todos los dados gastados tras finalizar un
+descanso largo.
+
+LUMBRE DE S OM BRA Y Luz DE LUNA
+A nivel 6, tu hogar se encuentra dondequiera que tú estés.
+Durante un descanso corto o largo, puedes invocar el poder
+de las sombras de la Corte Crepuscular para ayudarte a
+vigilar tu reposo. Al comienzo del descanso, tocas un punto
+
+cualquiera y una esfera de magia, de 30 pies de radio e
+invisible, aparecerá centrada en ese punto. La cobertura
+completa bloquea la esfera.
+Mientras os halléis dentro de ella, tú y tus aliados recibís
+un bonificador de +5 a las pruebas de Destreza (Sigilo) y
+Sabiduría (Percepción) y, además, cualquier luz proveniente
+de llamas descubiertas (una fogata, antorchas o similar) no
+es visible desde fuera.
+Esta esfera se desvanece al final del descanso o cuando
+la abandones.
+
+CAMINOS Ü C U LTOS
+A partir de nivel 10, eres capaz de usar l o s caminos mágicos
+y ocultos que algunos feéricos utilizan para atravesar
+distancias en un suspiro. Como acción adicional, en tu turno,
+puedes teletransportarte hasta 60 pies a un espacio libre que
+puedas ver. Como alternativa, puedes emplear una acción
+para teletransportar a una criatura que así lo desee hasta 30
+pies, siempre a un espacio libre que puedas ver.
+Puedes utilizar este rasgo tantas veces como tu modifi­
+cador por Sabiduría (mínimo una vez) y recuperas todos los
+usos tras finalizar un descanso largo.
+
+CAMINANTE EN SuEÑOS
+A partir de nivel 14, la magia d e l Feywild t e proporciona
+la habilidad de viajar mental o físicamente a través de las
+tierras del sueño.
+Cuando terminas un descanso corto, puedes lanzar uno
+de los siguientes conjuros sin utilizar un espacio de conjuro
+ni componentes materiales: circulo de teletransportación,
+ensueño (contigo como mensajero) o escudriñar.
+Este uso de círculo de teletransportación es especial. En
+vez de abrir un portal a un círculo de teletransportación
+permanente, aparece un portal a la última localización de
+tu actual plano de existencia en la que hayas completado un
+descanso largo. Si no has realizado un descanso largo en el
+plano actual, el conjuro falla y no se considera usado.
+Una vez utilizado este rasgo, deberás terminar un des­
+canso largo para poder volver a emplearlo.
+
+APRE N D I E N D O
+FORMAS DE BE STIAS
+E l rasgo Forma Salvaje, explicado e n e l Player's Handbook,
+te permite transformarte en una bestia que hayas visto.
+Esa regla te proporciona muchísima flexibilidad, haciendo
+que sea fácil acumular una gran cantidad de opciones de
+apariencias de animales, pero debes seguir cumpliendo las
+limitaciones de la tabla "Formas de bestia" de dicho libro.
+Cuando consigues, a nivel 2 de druida, Forma Salvaje,
+puede que te preguntes qué animales has visto ya. Las
+siguientes tablas organizan bestias del Monster Manual de
+acuerdo a sus entornos más probables. Considerando el
+ambiente en que tu druida creció, puedes consultar la tabla
+correspondiente para encontrar una lista de animales que tu
+aventurero probablemente ya ha visto al llegar a nivel 2 .
+Estas tablas también pueden ayudarte a t i y a tu D M a
+determinar qué bestias podrías ver en tus viajes. Además,
+también incluyen el valor de desafío de cada animal y si este
+posee velocidad volando o nadando. Esta información te
+ayudará a saber si estás cualificado para asumir la forma de
+esa bestia.
+Las tablas incluyen todos los animales que se pueden
+elegir mediante Forma Salvaje (hasta valor de desafío 1) o
+mediante el rasgo Formas del Círculo del Círculo de la Luna
+(hasta valor de desafío 6).
+BAJO EL AGUA
+VD
+
+Bestia
+
+Volarf N adar
+
+o
+
+M o rdedor
+
+Nadar
+
+1 /4
+
+Serpiente constrictora
+
+Nadar
+
+1 /2
+
+Caball ito de mar gigante
+
+Nadar
+
+1 /2
+
+T i b u rón de a rrecife
+
+Nadar
+
+Pulpo gigante
+
+Nadar
+
+Plesiosaurio
+
+Nadar
+
+Serpiente con strictora gigante
+
+Nadar
+
+T i b u rón cazador
+
+Nadar
+
+O rca
+
+Nadar
+
+T i b u rón giga nte
+
+$\ � v..A i trc, C:olr\.vt rbr""' t tlr\. o.lrc,
+
+C o .tc,1 lr\.0 lo �c,rÍc,. vor �v,. t .l:o�o to
+�t.,.,. G.t llr\.{trior e, .,.,. (.
+u
+
+l
+BosQU E
+
+VD
+
+VD
+
+Bestia
+
+o
+
+Babuino
+Búho
+
+VolarfN adar
+Vol a r
+
+Qervo
+
+1 /4
+
+Pantera (puma)
+
+1 /4
+
+P i co de hacha
+
+1 /4
+
+Ta rántu l a giga nte
+
+1 /2
+
+Cabra gigante
+
+o
+
+G ato
+
+Águ i l a gigante
+
+o
+
+Hiena
+
+H i e n a giga nte
+
+\
+
+:
+
+Vol a r
+
+1·
+
+1
+
+o
+
+Tej ón
+
+León
+
+Comadreja giga nte
+
+Lobo terri b l e
+
+1
+
+t
+
+1 /8
+
+Esti rge
+
+Vol a r
+
+Oso pardo
+
+1 /8
+
+H a l cón s a ngriento
+
+Vol a r
+
+Alce gigante
+
+1 /8
+
+M astín
+
+1 /8
+
+Rata giga nte
+
+J a b a l í giga nte
+
+1 /8
+
+Serpi ente venenosa
+
+Nadar
+
+C osTA
+
+1 /8
+
+Serpiente voladora
+
+Vo l a r
+
+VD
+
+Bestia
+
+VolarJ N adar
+
+1 /4
+
+Alce
+
+o
+
+Águ i l a
+
+Vol a r
+
+1 /4
+
+B ú h o gigante
+
+1 /4
+
+Jabalí
+
+1 /4
+
+Lagarto gigante
+
+1 /4
+
+Lobo
+
+1 /4
+
+M u rciél ago giga nte
+
+1 /4
+
+Pa ntera
+
+Vol a r
+
+Vo l a r
+
+1 /4
+
+Rana gigante
+
+Nadar
+
+1 /4
+
+Serpi ente constrictora
+
+Nadar
+Nadar
+
+1 /4
+
+Serpiente venenosa giga nte
+
+1 /4
+
+Ta rántu l a giga nte
+
+1 /4
+
+Tejó n gigante
+
+1 /2
+
+Avi s p a giga nte
+
+1 /2
+
+Oso negro
+
+1 /2
+
+Simio
+
+o
+
+Can grejo
+
+Nadar
+
+1 /8
+
+Can grejo gigante
+
+Nadar
+
+1 /8
+
+Esti rge
+
+Vol a r
+
+1 /8
+
+H a lcón sangriento
+
+Vol a r
+
+1 /8
+
+Serpiente venenosa
+
+Nadar
+
+1 /4
+
+Lagarto gigante
+
+1 /4
+
+Pteranodón
+
+1 /4
+
+Ta rántu l a giga nte
+Águ i l a gigante
+
+Vo l a r
+
+VD
+
+Nadar
+
+Tigre
+Alce giga nte
+J a b a l í giga nte
+Nadar
+
+CO L I N A
+VD
+
+Bestia
+
+VolarfNadar
+
+o
+
+Águ i l a
+
+Vol a r
+
+o
+
+Babuino
+B u itre
+
+Vol a r
+
+o
+
+Cuervo
+
+o
+
+Hiena
+
+1 /8
+
+Comad reja gigante
+
+1 /8
+
+Esti rge
+
+Vol a r
+Vo l a r
+
+1 /8
+
+H a lcón san griento
+M a stín
+
+1 /8
+
+Mula
+
+1 /8
+
+Serpiente venenosa
+
+�;:
+
+1 /4
+
+Jabalí
+Lobo
+
+,, OPCIONES DE PERSONAJE
+�,CAPÍTULO
+1
+
+Bestia
+
+VolarJ Nadar
+
+B u itre
+
+Vo l a r
+
+o
+
+Hiena
+
+1 /8
+
+Camello
+
+1 /8
+
+Esti rge
+
+1 /8
+
+Mula
+
+Vo l a r
+
+1 /8
+
+Serpiente venenosa
+
+Nadar
+
+1 /8
+
+Serpiente voladora
+
+Vo l a r
+
+1 /4
+
+Lagarto gigante
+
+1 /4
+
+Serpiente con strictora
+
+Nadar
+
+1 /4
+
+Serpiente venenosa giga nte
+
+Nadar
+
+1 /4
+
+Ta ránt u l a gigante
+Araña gigante
+B u itre giga nte
+
+Vol a r
+
+Vo l a r
+
+H i e n a giga nte
+León
+
+Nadar
+
+Alce
+Búho g1ga nte
+
+Nadar
+
+G ato
+
+Cabra
+
+1 /8
+
+Nadar
+
+Plesiosau rio
+
+Escorpión
+
+Oso pardo
+
+Serpi ente constrictora gigante
+
+Vol a r
+
+S a p o giga nte
+
+Chacal
+
+Lobo terri b l e
+Sapo gigante
+
+Vol a r
+
+D ESI ERTO
+
+H i e n a gigante
+
+�
+
+VolarJN adar
+
+1 /8
+
+Ara ñ a giga nte
+
+1."1
+
+Bestia
+
+Vol a r
+
+Sapo giga nte
+
+Nadar
+
+Serpiente con strictora giga nte
+
+Nadar
+
+Escorpión gigante
+M oNTAÑ A
+VD
+
+Bestia
+
+VolarJ N adar
+
+o
+
+Águ i l a
+
+Vol a r
+
+o
+
+Cabra
+
+1 /8
+
+Esti rge
+
+Vol a r
+
+1 /8
+
+H a lcón san griento
+
+Vol a r
+
+VD
+
+Bestia
+
+Volarf Nadar
+
+VD
+
+Bestia
+
+Volarf N adar
+
+l /4
+
+Ptera nodón
+
+Vol a r
+
+l /8
+
+Esti rge
+
+Vo l a r
+
+l /8
+
+H a lcón san griento
+
+Vo l a r
+
+l /8
+
+Serpi ente venenosa
+
+Nadar
+
+l /8
+
+Serpi ente voladora
+
+Vol a r
+
+A l c e gigante
+
+l /4
+
+Alce
+
+Ti gre d ientes d e sable
+
+l /4
+
+Caballo de monta
+
+l /4
+
+Jabalí
+
+l /2
+
+Cabra giga nte
+Águ i l a giga nte
+
+Vo lar
+
+León
+
+PANTA N O
+VD
+
+l /4
+
+Lobo
+
+Bestia
+
+Volarf N adar
+
+l /4
+
+Pantera (leopardo)
+
+Cuervo
+
+Vo l a r
+
+l /4
+
+Pico de hacha
+
+o
+
+Rata
+
+l /8
+
+Esti rge
+
+l /8
+
+Rata giga nte
+
+l /8
+
+Serpiente venenosa
+
+l /4
+
+Lagarto giga nte
+
+Vol a r
+Nadar
+
+l f4
+
+Ptera nodón
+
+Vol a r
+
+l /4
+
+Serpiente venenosa gigante
+
+Nadar
+
+l /4
+
+Ta rántu l a giga nte
+
+l f2
+
+Avispa giga nte
+
+l /2
+
+Cabra giga nte
+
+Vol a r
+
+l /4
+
+Rana gigante
+
+Nadar
+
+Agu i l a giga nte
+
+Vo l a r
+
+l /4
+
+Serpiente constrictora
+
+Nadar
+
+B u itre gigante
+
+Vo l a r
+
+l /4
+
+Serpiente venenosa giga nte
+
+Nadar
+
+H iena gigante
+
+l /2
+
+Cocod rilo
+
+Nadar
+
+León
+Tigre
+
+Araña giga nte
+Sapo giga nte
+
+Nadar
+
+A l c e gigante
+
+Serpiente constrictora giga nte
+
+Nadar
+
+Alosaurio
+
+Cocod rilo giga nte
+
+Nadar
+
+J a b a l í giga nte
+R i n oceronte
+A n q u i losauro
+
+PoLAR
+VD
+
+Bestia
+
+VolarfN adar
+
+o
+
+Búho
+
+Vol a r
+
+l /8
+
+H a lcón sa ngri ento
+
+Vol a r
+
+l /4
+
+B ú h o giga nte
+
+Vol a r
+
+Oso pardo
+Oso polar
+
+Nadar
+
+Tigre d i entes de sable
+Mamut
+PRADERA
+VD
+
+Bestia
+
+VolarfNadar
+
+o
+
+Agu i l a
+
+Vol a r
+
+o
+
+B u itre
+
+Vo lar
+
+o
+
+Cabra
+
+o
+
+Chacal
+
+o
+
+Ciervo
+G ato
+
+o
+
+H iena
+
+l /8
+
+Comadrej a giga nte
+
+Elefante
+Tri ceratops
+U N D E R DA R K
+VD
+
+Bestia
+
+o
+
+Escarabajo de fuego giga nte
+
+l /8
+
+Esti rge
+
+l /8
+
+Rata giga nte
+
+l /4
+
+Ciempiés giga nte
+
+Volarf N adar
+Vo l a r
+
+l /4
+
+Lagarto giga nte
+
+l /4
+
+M u rciélago gigante
+
+Vol a r
+
+l /4
+
+Serpiente venenosa gigante
+
+Nadar
+
+Araña giga nte
+Sapo gigante
+
+Nadar
+
+Oso polar (oso de las cavernas)
+
+Nadar
+
+Serpiente constrictora gigante
+
+Nadar
+
+So l "'-"' �o"'ltrv<.o. ¿VGl G i"'t'"'tGr �GtGr�•7
+�10 f �vdc,\oc,. V� e, f �rs� �v.lr e, v."'-o1 )o\oli"'-s o c,l )o
+C,1Í. 1\v."'- �V.� f �"'1é,"'-�olo \oi�"'' los �o\oli"'-1 "'o so"'
+.,... o "'s.l:.rv.o!, 10"' f �rso"'c,i. /\sí �v.� �v.i"té, ��lo�rlc,s
+l(G�Grt• 'G'GJ.or J.• t "'o"'G'.
+
+VI S I Ó N DEL M U N DO
+d6
+
+Los pueblos y las ciudades son los mejores sitios para
+aquellos q u e no pueden sobrevivi r por sí m i s m o s .
+
+EXPLORADOR
+
+El avance d e l a civilización es l a m e j o r m a n e r a de
+fru strar el avance del caos, pero h ay q u e tener cuidado.
+
+PASO GRAN PARTE DE MI VIDA LEJOS DE LA CIVILIZACIÓN,
+
+Los pueblos y l a s c i u d ades son u n m a l necesario,
+aunque en cua nto l a naturaleza sea p u rgada d e
+amen azas sobrenaturales ya n o los necesitaremos.
+
+quedándome en la periferia para protegerla. No pienses
+que porque no hinco mi rodilla ante tu rey no he hecho más
+para defenderle que todos sus caballeros juntos.
+
+Los m u ros son para cobardes, q u e se esconden detrás
+d e ellos mientras otros hacen del m u n d o u n l u ga r
+más seguro.
+
+-Soveliss
+
+Los exploradores son vagabundos de mente libre y
+rastreadores que patrullan las fronteras de la civilización,
+repeliendo a los habitantes de las tierras salvajes que
+acechan en el exterior. Es un trabajo desagradecido, ya
+que sus esfuerzos son rara vez comprendidos y casi nunca
+recompensados. Aun así, los miembros de esta clase siguen
+cumpliendo con su deber y nunca dudan de que su trabajo
+hace del mundo un lugar más seguro.
+Su relación con la civilización es lo que define la perso­
+nalidad e historia de u n explorador. Algunos se ven a sí
+mismos como encargados de hacer cumplir la ley, llevando
+la justicia a los límites de lo salvaje, que no responden ante
+ningún gobierno. Otros son supervivientes, que rehúyen por
+completo la civilización. Matan monstruos para mantenerse
+seguros mientras viven y viajan por las peligrosas zonas
+agrestes del mundo. Si sus esfuerzos también benefician a
+los reinos y estados civilizados a los que evitan, que así sea.
+Si estás creando o jugando un personaje explorador, las
+siguientes secciones ofrecen ideas para dar profundidad al
+aventurero y ayudarte a interpretarlo.
+
+VI SIÓN D E L M U N D O
+L a visión del mundo d e un explorador comienza ( y a veces
+termina) con la opinión de ese personaje de la gente civili­
+zada y los lugares que habitan. Algunos de ellos tienen una
+actitud hacia la civilización profundamente arraigada en
+el desdén, mientas que otros solo compadecen a aquellos
+a los que han jurado proteger. En el campo de batalla, sin
+embargo, es imposible diferenciar entre un explorador y
+otro. Para los que los han visto trabajar y han sido benefi­
+ciarios de su habilidad, poco importa por qué hacen lo que
+hacen. Dicho esto, no hay dos miembros de esta clase que
+expresen su opinión sobre un asunto de la misma manera.
+Si todavía no te has planteado los detalles de la visión
+del mundo que tiene tu personaje, puedes resumirlo en una
+frase, como las que puedes encontrar en la tabla siguiente.
+¿Cómo afecta ese punto de vista a la manera en que te
+comportas?
+
+1:
+
+CAPÍTULO OPCIONES DE PERSONAJE
+
+Visión
+
+Visitar u n pueblo no es desagradable, pero después
+de unos d ías siento u n a i rresi sti b l e llamada d e vuelta
+a l a n atu raleza.
+Las c i u dades crean d e b i l i d a d , a i s l a n d o a l a s personas
+d e las rigurosas lecciones de l a n atu raleza.
+
+TI E RRA NATAL
+Todos los exploradores, independientemente de cómo hayan
+acabado en su profesión, tienen una fuerte conexión con el
+mundo natural y sus variados terrenos. Para algunos miem­
+bros de esta clase, la naturaleza es donde crecieron, ya sea
+como resultado de haber nacido en ella o haber llegado allí a
+una edad temprana. Para otros, la civilización era su hogar,
+pero la naturaleza se volvió su segunda casa.
+Piensa en el trasfondo de tu personaje y decide qué
+terreno siente como su hogar, naciera allí o no. ¿Qué dice ese
+lugar sobre tu personalidad? ¿Tiene que ver con los conjuros
+que has decidido aprender? ¿Tus experiencias allí influyeron
+en cuáles son tus enemigos predilectos?
+TI E RRAS NATALES
+d6
+
+Tierra natal
+Patru l l aste un bosque antiguo, oscuro y corro m p i d o
+por muchos portales a l Shadowfe l l .
+C o m o pa rte d e u n g r u p o de n ó m a d a s , a p rend i ste l a s
+h a b i l i dades necesarias para sobrevivir en el desi erto.
+Tus primeros años, pasados en el U nderdark,
+te prepararon para enfrenta rte a s u s h a bitantes.
+Vivías en el borde d e u n pantano, u n á rea amenazada
+tanto por criaturas terrestres como acuáticas.
+Como creciste entre l a s c u m b res, encontrar el mejor
+camino a través d e l a s montañas es i n sti ntivo para ti.
+Erraste por el lej a n o norte, aprendiendo a protegerte y
+prosperar en un rei n o cubi erto de hielo.
+
+ÜE I"!Q_U I ERDA A D ERE C H A : C A M I N A N T E D E L. 110R I "! O N T E , C A <. A OOR DE M O N STRUOS Y A c. E C. H A OOR EN L. A P E N U M BRA
+
+E N E M IGO J U RA D O
+Todo explorador comienza con un enemigo predilecto (o dos).
+Determinar cuál es puede estar vinculado a un evento en la
+primera etapa de la vida del personaje o, simplemente, puede
+ser una elección.
+¿Qué llevó a tu personaje a elegir a un enemigo concreto?
+Esta decisión, ¿estuvo motivada por la tradición y la curiosi­
+dad o es una cuestión de rencor?
+E N E M IGOS J U RADOS
+d6
+
+Enem igo
+B u scas vengarte en n o m b re d e la natu raleza por las
+terri bles transgres iones q u e h a cometido tu enemigo.
+Tu s a n cestros o predecesores l u c h a ro n contra estas
+criaturas, por l o que tú también lo h a rás.
+N o sientes enemistad por tu adversario. Acech a s
+a estas criaturas co m o u n cazador rastrea a u n
+a n i m a l salvaje.
+Encuentras a tu rival fascinante, de modo q u e
+coleccio n a s l i b ros de h i storia y relatos sobre é l .
+Acu m u l a s s í m b o l o s d e tus enemigos caídos para
+reco rdarte cada m u erte.
+Respetas a tu enem igo elegido y ves vuestras bata l l a s
+como u n a p r u e b a d e l a s h a b i l i d ades d e c a d a uno.
+
+ARQUETIPOS
+DE EXPLORAD OR
+
+A nivel 3, el explorador consigue el rasgo Arquetipo de
+Explorador. Las siguientes opciones, además de las que
+se ofrecen en el Player's Handbook, están disponibles: el
+Acechador en la Penumbra, el Caminante del Horizonte y el
+Cazador de Monstruos.
+
+Ac E C HA D O R EN LA P E N U M B RA
+Los acechadores en la penumbra se sienten en casa en los
+sitios más oscuros: bajo tierra, en callejones tenebrosos,
+bosques primigenios o cualquier lugar en el que la luz sea
+tenue. La mayoría de las personas entra en esos espacios
+turbada, pero estos exploradores se aventuran valerosos en
+la oscuridad, buscando emboscar a los monstruos antes de
+que puedan llegar al mundo exterior. Los acechadores en la
+penumbra suelen encontrarse en el Underdark, pero irán a
+cualquier sitio donde el mal aceche en las sombras.

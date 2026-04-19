@@ -1,0 +1,192 @@
+RASGOS DEL A R Q U E RO ARCANO
+N ivel de
+guerrero
+
+Una vez por turno, cuando dispares una flecha desde
+un arco corto o largo como parte de una acción de Ataque,
+puedes aplicar una de tus opciones de Disparo Arcano
+a ese proyectil. Decides usar la opción cuando la flecha
+impacta a una criatura, a menos que la opción no implique
+tirada de ataque alguna. Posees dos usos de esta habilidad,
+los cuales recuperas cuando completas un descanpo corto
+o largo.
+Ganas una opción adicional de Disparo Arcano a tu
+elección cuando alcanzas ciertos niveles en esta clase: 7, 10,
+1 5 y 18. Todas las opciones mejoran cuando llegas a ser un
+guerrero de nivel 1 8 .
+
+FLECHA MÁGICA
+A nivel 7 eres capaz de infundir magia en tus proyectiles.
+Cuando disparas una flecha no mágica desde un arco corto
+o largo, puedes convertirla en mágica en lo que a superar
+resistencias e inmunidades a ataques y daño no mágico se
+refiere. La magia se desvanece del proyectil inmediatamente
+después de impactar o fallar a su objetivo.
+
+DISPARO CURVO
+A nivel 7 aprendes a dirigir un proyectil errante hacia un
+nuevo objetivo. Cuando realizas una tirada de ataque con
+una flecha mágica y fallas, puedes usar una acción adicional
+para volver a hacer la tirada de ataque contra un objetivo
+distinto situado a 60 pies o menos del original.
+
+Rasgo
+
+DISPARO SIEMPRE LISTO
+
+Conoci m i ento d e Arquero Arca no,
+D i s p a ro Arca n o (2 opciones)
+
+A partir de nivel 1 5 , tu arquería mágica está disponible
+en cuanto empieza el combate. Si al realizar una tirada
+de iniciativa no te quedan usos de Disparo Arcano,
+recuperas uno.
+
+D i s p a ro C u rvo, Flecha M ágica,
+D i s p a ro Arca n o (3 opciones)
+lO
+
+D i s p a ro Arcano (4 opciones)
+
+15
+
+D i s p a ro S i e m p re Listo,
+D i s p a ro Arca no (S opciones)
+
+18
+
+D i s p a ro Arca n o (6 opciones, d i s paros mejorados)
+
+C ONOCIMIENTO DE ARQUERO ARCANO
+A nivel 3, puedes conocer teoría mágica o secretos de la natu­
+raleza, algo normal para los practicantes de esta disciplina
+marcial élfica. Elige una habilidad entre Conocimiento Arcano
+o Naturaleza, con la que obtienes competencia, y aprendes un
+truco, a elegir entre prestidigitación o saber druídico.
+
+D ISPARO ARCANO
+A nivel 3 consigues desatar efectos mágicos con algunos
+de tus disparos. Cuando obtienes este rasgo, aprendes dos
+opciones de Disparo Arcano a tu elección (consulta "Opcio­
+nes de Disparo Arcano" más adelante).
+
+ÜPCIONES DE DISPARO ARCANO
+El rasgo Disparo Arcano te permite elegir entre varias opcio­
+nes a ciertos niveles. Aquí se presentan en orden alfabético.
+Se consideran efectos mágicos, por lo que cada flecha está
+asociada a una de las escuelas de magia.
+Si una de las opciones requiere una tirada de salvación,
+la de tu Disparo Arcano es igual a 8 + tu bonificador por
+competencia + tu modificador por Inteligencia.
+Flecha B uscadora. Utilizando magia de adivinación,
+haces que tu flecha sea capaz de buscar a un objetivo.
+Cuando utilizas esta opción, no realizas una tirada de ataque
+para el ataque. En vez de eso, elige a una criatura a la que
+hayas visto en el último minuto. El proyectil vuela hacia el
+objetivo, doblando esquinas de ser necesario e ignorando
+cobertura media y tres cuartos. Si la criatura está dentro
+del alcance del arma y hay un camino suficientemente
+amplio para que viaje la flecha, el objetivo deberá realizar
+una tirada de salvación de Destreza. Si no se cumplen estas
+condiciones, el proyectil desaparecerá después de viajar
+
+CAPÍTULO ¡,
+
+ÜE 1 1.Q.U I E R O A A D E R E C H A : 5 A M U R Á I , C A B A L L E R O Y A R QU E R O A R C A N O
+
+tanto como pueda. Si falla la tirada, el objetivo recibirá daño
+como si hubiera sido impactado por la flecha, más 1d6 de
+daño de fuerza adicional. Además, sabrás la localización
+de la criatura. Si tiene éxito, recibe la mitad del daño y no
+averiguas su posición.
+El daño de fuerza se incrementa a 2d6 cuando llegas al
+nivel 1 8 de esta clase.
+Flecha Debilitadora. Entretejes magia nigromántica en tu
+Hecha. La criatura impactada por el proyectil recibe 2d6 de
+daño necrótico adicional. El objetivo también deberá tener
+éxito en una tirada de salvación de Constitución o el daño
+realizado por sus ataques con arma quedará reducido a la
+mitad hasta el comienzo de tu siguiente turno.
+El daño necrótico se incrementa a 4d6 cuando llegas al
+nivel 1 8 de esta clase.
+Flecha de Sombras. Entretejes magia de ilusión en tu He­
+cha, haciendo que oscurezca la visión de tu rival. La criatura
+impactada por el proyectil sufre 2d6 de daño psíquico adicio­
+nal. Además, deberá tener éxito en una tirada de salvación
+de Sabiduría o le resultará imposible ver a más de S pies de
+distancia hasta el principio de tu siguiente turno.
+El daño psíquico se incrementa a 4d6 cuando alcanzas el
+nivel 18 de esta clase.
+Flecha Desterradora. Utilizas magia de abjuración para
+intentar desterrar de forma temporal a tu objetivo a un
+lugar inofensivo en el Feywild. La criatura impactada por
+el proyectil deberá tener éxito en una tirada de salvación de
+Carisma o quedará desterrada. Mientras esté desterrada de
+esta manera, su velocidad será O y estará incapacitada. Al
+final de su siguiente turno, volverá a aparecer en el mismo
+lugar en el que estaba o, en su defecto, en el espacio libre
+más cercano si aquel está ocupado.
+
+CAPiTULO ¡, OPCIONES DE PERSONAJE
+
+Cuando alcances e l nivel 1 8 e n esta clase, e l objetivo tam­
+bién sufre 2d6 puntos de daño de fuerza adicional cuando es
+impactado por la flecha.
+Flecha Encantadora. Tu magia de encantamiento hace
+que la flecha cautive temporalmente al objetivo. La criatura
+impactada por el proyectil recibe 2d6 de daño psíquico adi­
+cional y, además, puedes elegir a uno de tus aliados situado a
+30 pies o menos del objetivo. Este último deberá realizar una
+tirada de salvación de Sabiduría o quedará hechizado por
+el aliado escogido hasta el comienzo de tu siguiente turno.
+Este efecto termina antes de tiempo si el aliado seleccionado
+ataca al objetivo hechizado, le inflige daño o le fuerza a
+realizar una tirada de salvación.
+El daño psíquico se incrementa a 4d6 cuando llegas al
+nivel 18 de esta clase.
+Flecha Enredadora. Cuando la flecha impacta al objetivo,
+tu magia de conjuración crea zarzas venenosas que lo
+envuelven. La criatura impactada por el proyectil recibe
+2d6 de daño de veneno adicional, su velocidad se reduce en
+10 pies y sufrirá 2d6 de daño cortante la primera vez, cada
+turno, que se mueva al menos 1 pie sin teletransportarse. El
+objetivo, o cualquier criatura que pueda alcanzarle, puede
+usar una acción para retirar las zarzas mediante una prueba
+de Fuerza (Atletismo) con éxito contra tu CD de Disparo
+Arcano. De otro modo, las zarzas duran 1 minuto o hasta
+que vuelvas a emplear esta opción.
+El daño de veneno y el daño cortante se incrementan a
+4d6 cuando alcanzas el nivel 18 de esta clase.
+Flecha Explosiva. Imbuyes tu flecha con energía de fuerza
+de la escuela de evocación. Esta energía detona tras tu
+ataque. Inmediatamente después de que el proyectil impacte
+
+a una criatura, esta y todas las demás situadas a 10 pies o
+menos de ella reciben 2d6 de daño de fuerza cada una.
+El daño de fuerza se incrementa a 4d6 cuando llegas al
+nivel 18 de esta clase.
+Flecha Penetrante. Utilizas magia de transmutación
+para que tu flecha tenga atributos etéreos. Cuando empleas
+esta opción, no realizas una tirada de ataque para el ata­
+que. En vez de eso, el proyectil avanza en una línea recta,
+de 1 pie de ancho y 30 pies de largo, antes de desaparecer.
+La flecha atraviesa los objetos sin dañarlos, ignorando
+cobertura. Todas las criaturas en la línea deberán hacer
+una tirada de salvación de Destreza. Si alguna falla,
+recibirá daño como si hubiera sido impactada por la flecha,
+más 1d6 de daño perforante adicional. Si tiene éxito, recibe
+la mitad de daño.
+El daño perforante aumenta a 2d6 cuando alcanzas el
+nivel 1 8 de esta clase.
+
+C ABALLERO
+El arquetipo Caballero sobresale en el combate montado.
+Normalmente de nacimiento noble y criado en la corte, se
+siente como en casa tanto en una conversación ingeniosa en
+una cena de estado como liderando una carga de caballería.
+Estos guerreros también aprenden a proteger del peligro a
+aquellos a su cargo, siendo frecuentemente guardianes tanto
+de sus superiores como de los más débiles. Motivados por el
+afán por deshacer entuertos o conseguir prestigio, muchos
+de ellos dejan sus vidas confortables para embarcarse en
+gloriosas aventuras.

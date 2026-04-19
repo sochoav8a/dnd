@@ -5,7 +5,13 @@
     "description": "Always on the lookout for danger, you gain the following benefits: +5 bonus to initiative; you can't be surprised while conscious; other creatures don't gain advantage on attack rolls against you as a result of being unseen by you.",
     "data": {
       "modifiers": [
-        { "target": "initiative", "type": "bonus", "value": 5, "source": "feat:alert", "priority": 10 }
+        {
+          "target": "initiative",
+          "type": "bonus",
+          "value": 5,
+          "source": "feat:alert",
+          "priority": 10
+        }
       ]
     }
   },
@@ -14,8 +20,21 @@
     "name": "Athlete",
     "description": "You have undergone extensive physical training to gain the following benefits: Increase your Strength or Dexterity score by 1, to a maximum of 20. When you are prone, standing up uses only 5 feet of your movement. Climbing doesn't halve your speed. You can make a running long jump or a running high jump after moving only 5 feet on foot.",
     "data": {
-      "ability_score_increase": { "choices": ["STR", "DEX"], "amount": 1 },
-      "modifiers": []
+      "ability_score_increase": {
+        "choices": [
+          "STR",
+          "DEX"
+        ],
+        "amount": 1
+      },
+      "modifiers": [],
+      "ability_score_choice": {
+        "amount": 1,
+        "from": [
+          "STR",
+          "DEX"
+        ]
+      }
     }
   },
   {
@@ -23,11 +42,31 @@
     "name": "Actor",
     "description": "Skilled at mimicry and dramatics, you gain the following benefits: Increase your Charisma score by 1, to a maximum of 20. You have advantage on Charisma (Deception) and Charisma (Performance) checks when trying to pass yourself off as a different person. You can mimic the speech of another person or the sounds made by other creatures.",
     "data": {
-      "ability_score_increase": { "choices": ["CHA"], "amount": 1 },
+      "ability_score_increase": {
+        "choices": [
+          "CHA"
+        ],
+        "amount": 1
+      },
       "modifiers": [
-        { "target": "skill.deception", "type": "advantage", "value": 1, "source": "feat:actor", "priority": 10 },
-        { "target": "skill.performance", "type": "advantage", "value": 1, "source": "feat:actor", "priority": 10 }
-      ]
+        {
+          "target": "skill.deception",
+          "type": "advantage",
+          "value": 1,
+          "source": "feat:actor",
+          "priority": 10
+        },
+        {
+          "target": "skill.performance",
+          "type": "advantage",
+          "value": 1,
+          "source": "feat:actor",
+          "priority": 10
+        }
+      ],
+      "ability_score_improvement": {
+        "CHA": 1
+      }
     }
   },
   {
@@ -51,7 +90,11 @@
     "name": "Defensive Duelist",
     "description": "Prerequisite: Dexterity 13 or higher. When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss you.",
     "data": {
-      "prerequisites": { "ability_scores": { "DEX": 13 } },
+      "prerequisites": {
+        "ability_scores": {
+          "DEX": 13
+        }
+      },
       "modifiers": []
     }
   },
@@ -61,7 +104,16 @@
     "description": "You master fighting with two weapons, gaining the following benefits: You gain a +1 bonus to AC while you are wielding a separate melee weapon in each hand. You can use two-weapon fighting even when the one-handed melee weapons you are wielding aren't light. You can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.",
     "data": {
       "modifiers": [
-        { "target": "ac", "type": "bonus", "value": 1, "source": "feat:dual-wielder", "priority": 10, "condition": { "wielding": "dual" } }
+        {
+          "target": "ac",
+          "type": "bonus",
+          "value": 1,
+          "source": "feat:dual-wielder",
+          "priority": 10,
+          "condition": {
+            "wielding": "dual"
+          }
+        }
       ]
     }
   },
@@ -71,8 +123,20 @@
     "description": "Alert to the hidden traps and secret doors found in many dungeons, you gain the following benefits: You have advantage on Wisdom (Perception) and Intelligence (Investigation) checks made to detect the presence of secret doors. You have advantage on saving throws made to avoid or resist traps. You have resistance to the damage dealt by traps. You can search for traps while traveling at a normal pace, instead of only at a slow pace.",
     "data": {
       "modifiers": [
-        { "target": "skill.perception", "type": "advantage", "value": 1, "source": "feat:dungeon-delver", "priority": 10 },
-        { "target": "skill.investigation", "type": "advantage", "value": 1, "source": "feat:dungeon-delver", "priority": 10 }
+        {
+          "target": "skill.perception",
+          "type": "advantage",
+          "value": 1,
+          "source": "feat:dungeon-delver",
+          "priority": 10
+        },
+        {
+          "target": "skill.investigation",
+          "type": "advantage",
+          "value": 1,
+          "source": "feat:dungeon-delver",
+          "priority": 10
+        }
       ]
     }
   },
@@ -81,8 +145,16 @@
     "name": "Durable",
     "description": "Hardy and resilient, you gain the following benefits: Increase your Constitution score by 1, to a maximum of 20. When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).",
     "data": {
-      "ability_score_increase": { "choices": ["CON"], "amount": 1 },
-      "modifiers": []
+      "ability_score_increase": {
+        "choices": [
+          "CON"
+        ],
+        "amount": 1
+      },
+      "modifiers": [],
+      "ability_score_improvement": {
+        "CON": 1
+      }
     }
   },
   {
@@ -90,8 +162,16 @@
     "name": "Elemental Adept",
     "description": "Prerequisite: The ability to cast at least one spell. When you gain this feat, choose one of the following damage types: acid, cold, fire, lightning, or thunder. Spells you cast ignore resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.",
     "data": {
-      "prerequisites": { "spellcasting": true },
-      "choices": ["acid", "cold", "fire", "lightning", "thunder"],
+      "prerequisites": {
+        "spellcasting": true
+      },
+      "choices": [
+        "acid",
+        "cold",
+        "fire",
+        "lightning",
+        "thunder"
+      ],
       "modifiers": []
     }
   },
@@ -100,7 +180,11 @@
     "name": "Grappler",
     "description": "Prerequisite: Strength 13 or higher. You've developed the skills necessary to hold your own in close-quarters grappling. You gain the following benefits: You have advantage on attack rolls against a creature you are grappling. You can use your action to try to pin a creature grappled by you.",
     "data": {
-      "prerequisites": { "ability_scores": { "STR": 13 } },
+      "prerequisites": {
+        "ability_scores": {
+          "STR": 13
+        }
+      },
       "modifiers": []
     }
   },
@@ -125,10 +209,24 @@
     "name": "Heavily Armored",
     "description": "Prerequisite: Proficiency with medium armor. You have trained to master the use of heavy armor, gaining the following benefits: Increase your Strength score by 1, to a maximum of 20. You gain proficiency with heavy armor.",
     "data": {
-      "prerequisites": { "proficiencies": ["medium armor"] },
-      "ability_score_increase": { "choices": ["STR"], "amount": 1 },
+      "prerequisites": {
+        "proficiencies": [
+          "medium armor"
+        ]
+      },
+      "ability_score_increase": {
+        "choices": [
+          "STR"
+        ],
+        "amount": 1
+      },
       "modifiers": [],
-      "grants_proficiencies": ["heavy armor"]
+      "grants_proficiencies": [
+        "heavy armor"
+      ],
+      "ability_score_improvement": {
+        "STR": 1
+      }
     }
   },
   {
@@ -136,9 +234,21 @@
     "name": "Heavy Armor Master",
     "description": "Prerequisite: Proficiency with heavy armor. You can use your armor to deflect strikes that would kill others. You gain the following benefits: Increase your Strength score by 1, to a maximum of 20. While you're wearing heavy armor, bludgeoning, piercing, and slashing damage that you take from nonmagical weapons is reduced by 3.",
     "data": {
-      "prerequisites": { "proficiencies": ["heavy armor"] },
-      "ability_score_increase": { "choices": ["STR"], "amount": 1 },
-      "modifiers": []
+      "prerequisites": {
+        "proficiencies": [
+          "heavy armor"
+        ]
+      },
+      "ability_score_increase": {
+        "choices": [
+          "STR"
+        ],
+        "amount": 1
+      },
+      "modifiers": [],
+      "ability_score_improvement": {
+        "STR": 1
+      }
     }
   },
   {
@@ -146,7 +256,11 @@
     "name": "Inspiring Leader",
     "description": "Prerequisite: Charisma 13 or higher. You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier.",
     "data": {
-      "prerequisites": { "ability_scores": { "CHA": 13 } },
+      "prerequisites": {
+        "ability_scores": {
+          "CHA": 13
+        }
+      },
       "modifiers": []
     }
   },
@@ -155,8 +269,16 @@
     "name": "Keen Mind",
     "description": "You have a mind that can track time, direction, and detail with uncanny precision. You gain the following benefits: Increase your Intelligence score by 1, to a maximum of 20. You always know which way is north. You always know the number of hours left before the next sunrise or sunset. You can accurately recall anything you have seen or heard within the past month.",
     "data": {
-      "ability_score_increase": { "choices": ["INT"], "amount": 1 },
-      "modifiers": []
+      "ability_score_increase": {
+        "choices": [
+          "INT"
+        ],
+        "amount": 1
+      },
+      "modifiers": [],
+      "ability_score_improvement": {
+        "INT": 1
+      }
     }
   },
   {
@@ -164,9 +286,24 @@
     "name": "Lightly Armored",
     "description": "You have trained to master the use of light armor, gaining the following benefits: Increase your Strength or Dexterity score by 1, to a maximum of 20. You gain proficiency with light armor.",
     "data": {
-      "ability_score_increase": { "choices": ["STR", "DEX"], "amount": 1 },
+      "ability_score_increase": {
+        "choices": [
+          "STR",
+          "DEX"
+        ],
+        "amount": 1
+      },
       "modifiers": [],
-      "grants_proficiencies": ["light armor"]
+      "grants_proficiencies": [
+        "light armor"
+      ],
+      "ability_score_choice": {
+        "amount": 1,
+        "from": [
+          "STR",
+          "DEX"
+        ]
+      }
     }
   },
   {
@@ -174,9 +311,17 @@
     "name": "Linguist",
     "description": "You have studied languages and codes, gaining the following benefits: Increase your Intelligence score by 1, to a maximum of 20. You learn three languages of your choice. You can ably create written ciphers.",
     "data": {
-      "ability_score_increase": { "choices": ["INT"], "amount": 1 },
+      "ability_score_increase": {
+        "choices": [
+          "INT"
+        ],
+        "amount": 1
+      },
       "extra_languages": 3,
-      "modifiers": []
+      "modifiers": [],
+      "ability_score_improvement": {
+        "INT": 1
+      }
     }
   },
   {
@@ -200,7 +345,14 @@
     "name": "Magic Initiate",
     "description": "Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class's spell list. In addition, choose one 1st-level spell from that same list. You learn that spell and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a long rest.",
     "data": {
-      "choices": ["bard", "cleric", "druid", "sorcerer", "warlock", "wizard"],
+      "choices": [
+        "bard",
+        "cleric",
+        "druid",
+        "sorcerer",
+        "warlock",
+        "wizard"
+      ],
       "grants_cantrips": 2,
       "grants_spells": 1,
       "modifiers": []
@@ -219,7 +371,11 @@
     "name": "Medium Armor Master",
     "description": "Prerequisite: Proficiency with medium armor. You have practiced moving in medium armor to gain the following benefits: Wearing medium armor doesn't impose disadvantage on your Dexterity (Stealth) checks. When you wear medium armor, you can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher.",
     "data": {
-      "prerequisites": { "proficiencies": ["medium armor"] },
+      "prerequisites": {
+        "proficiencies": [
+          "medium armor"
+        ]
+      },
       "modifiers": []
     }
   },
@@ -229,7 +385,13 @@
     "description": "You are exceptionally speedy and agile. You gain the following benefits: Your speed increases by 10 feet. When you use the Dash action, difficult terrain doesn't cost you extra movement on that turn. When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether or not the attack hits.",
     "data": {
       "modifiers": [
-        { "target": "speed", "type": "bonus", "value": 10, "source": "feat:mobile", "priority": 10 }
+        {
+          "target": "speed",
+          "type": "bonus",
+          "value": 10,
+          "source": "feat:mobile",
+          "priority": 10
+        }
       ]
     }
   },
@@ -238,10 +400,30 @@
     "name": "Moderately Armored",
     "description": "Prerequisite: Proficiency with light armor. You have trained to master the use of medium armor and shields, gaining the following benefits: Increase your Strength or Dexterity score by 1, to a maximum of 20. You gain proficiency with medium armor and shields.",
     "data": {
-      "prerequisites": { "proficiencies": ["light armor"] },
-      "ability_score_increase": { "choices": ["STR", "DEX"], "amount": 1 },
+      "prerequisites": {
+        "proficiencies": [
+          "light armor"
+        ]
+      },
+      "ability_score_increase": {
+        "choices": [
+          "STR",
+          "DEX"
+        ],
+        "amount": 1
+      },
       "modifiers": [],
-      "grants_proficiencies": ["medium armor", "shields"]
+      "grants_proficiencies": [
+        "medium armor",
+        "shields"
+      ],
+      "ability_score_choice": {
+        "amount": 1,
+        "from": [
+          "STR",
+          "DEX"
+        ]
+      }
     }
   },
   {
@@ -257,11 +439,36 @@
     "name": "Observant",
     "description": "Quick to notice details of your environment, you gain the following benefits: Increase your Intelligence or Wisdom score by 1, to a maximum of 20. If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips. You have a +5 bonus to your passive Wisdom (Perception) and passive Intelligence (Investigation) scores.",
     "data": {
-      "ability_score_increase": { "choices": ["INT", "WIS"], "amount": 1 },
+      "ability_score_increase": {
+        "choices": [
+          "INT",
+          "WIS"
+        ],
+        "amount": 1
+      },
       "modifiers": [
-        { "target": "passive_perception", "type": "bonus", "value": 5, "source": "feat:observant", "priority": 10 },
-        { "target": "passive_investigation", "type": "bonus", "value": 5, "source": "feat:observant", "priority": 10 }
-      ]
+        {
+          "target": "passive_perception",
+          "type": "bonus",
+          "value": 5,
+          "source": "feat:observant",
+          "priority": 10
+        },
+        {
+          "target": "passive_investigation",
+          "type": "bonus",
+          "value": 5,
+          "source": "feat:observant",
+          "priority": 10
+        }
+      ],
+      "ability_score_choice": {
+        "amount": 1,
+        "from": [
+          "INT",
+          "WIS"
+        ]
+      }
     }
   },
   {
@@ -277,9 +484,30 @@
     "name": "Resilient",
     "description": "Choose one ability score. You gain the following benefits: Increase the chosen ability score by 1, to a maximum of 20. You gain proficiency in saving throws using the chosen ability.",
     "data": {
-      "ability_score_increase": { "choices": ["STR", "DEX", "CON", "INT", "WIS", "CHA"], "amount": 1 },
+      "ability_score_increase": {
+        "choices": [
+          "STR",
+          "DEX",
+          "CON",
+          "INT",
+          "WIS",
+          "CHA"
+        ],
+        "amount": 1
+      },
       "grants_saving_throw_proficiency": true,
-      "modifiers": []
+      "modifiers": [],
+      "ability_score_choice": {
+        "amount": 1,
+        "from": [
+          "STR",
+          "DEX",
+          "CON",
+          "INT",
+          "WIS",
+          "CHA"
+        ]
+      }
     }
   },
   {
@@ -287,8 +515,20 @@
     "name": "Ritual Caster",
     "description": "Prerequisite: Intelligence or Wisdom 13 or higher. You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.",
     "data": {
-      "prerequisites": { "ability_scores_any": { "INT": 13, "WIS": 13 } },
-      "choices": ["bard", "cleric", "druid", "sorcerer", "warlock", "wizard"],
+      "prerequisites": {
+        "ability_scores_any": {
+          "INT": 13,
+          "WIS": 13
+        }
+      },
+      "choices": [
+        "bard",
+        "cleric",
+        "druid",
+        "sorcerer",
+        "warlock",
+        "wizard"
+      ],
       "modifiers": []
     }
   },
@@ -321,7 +561,11 @@
     "name": "Shield Master",
     "description": "You use shields not just for protection but also for offense. You gain the following benefits if you are proficient with shields: If you take the Attack action on your turn, you can use a bonus action to try to shove a creature within 5 feet of you with your shield. If you aren't incapacitated, you can add your shield's AC bonus to any Dexterity saving throw you make against a spell or other harmful effect that targets only you. If you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can use your reaction to take no damage if you succeed on the saving throw, interposing your shield between yourself and the source of the effect.",
     "data": {
-      "prerequisites": { "proficiencies": ["shields"] },
+      "prerequisites": {
+        "proficiencies": [
+          "shields"
+        ]
+      },
       "modifiers": []
     }
   },
@@ -339,7 +583,11 @@
     "name": "Skulker",
     "description": "Prerequisite: Dexterity 13 or higher. You are expert at slinking through shadows. You gain the following benefits: You can try to hide when you are lightly obscured from the creature from which you are hiding. When you are hidden from a creature and miss it with a ranged weapon attack, making the attack doesn't reveal your position. Dim light doesn't impose disadvantage on your Wisdom (Perception) checks relying on sight.",
     "data": {
-      "prerequisites": { "ability_scores": { "DEX": 13 } },
+      "prerequisites": {
+        "ability_scores": {
+          "DEX": 13
+        }
+      },
       "modifiers": []
     }
   },
@@ -348,8 +596,17 @@
     "name": "Spell Sniper",
     "description": "Prerequisite: The ability to cast at least one spell. You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits: When you cast a spell that requires you to make an attack roll, the spell's range is doubled. Your ranged spell attacks ignore half cover and three-quarters cover. You learn one cantrip that requires an attack roll.",
     "data": {
-      "prerequisites": { "spellcasting": true },
-      "choices": ["bard", "cleric", "druid", "sorcerer", "warlock", "wizard"],
+      "prerequisites": {
+        "spellcasting": true
+      },
+      "choices": [
+        "bard",
+        "cleric",
+        "druid",
+        "sorcerer",
+        "warlock",
+        "wizard"
+      ],
       "modifiers": []
     }
   },
@@ -358,8 +615,21 @@
     "name": "Tavern Brawler",
     "description": "Accustomed to rough-and-tumble fighting using whatever weapons happen to be at hand, you gain the following benefits: Increase your Strength or Constitution score by 1, to a maximum of 20. You are proficient with improvised weapons. Your unarmed strike uses a d4 for damage. When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the creature.",
     "data": {
-      "ability_score_increase": { "choices": ["STR", "CON"], "amount": 1 },
-      "modifiers": []
+      "ability_score_increase": {
+        "choices": [
+          "STR",
+          "CON"
+        ],
+        "amount": 1
+      },
+      "modifiers": [],
+      "ability_score_choice": {
+        "amount": 1,
+        "from": [
+          "STR",
+          "CON"
+        ]
+      }
     }
   },
   {
@@ -368,7 +638,13 @@
     "description": "Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points.",
     "data": {
       "modifiers": [
-        { "target": "hp_max", "type": "bonus", "value": 2, "source": "feat:tough", "priority": 10 }
+        {
+          "target": "hp_max",
+          "type": "bonus",
+          "value": 2,
+          "source": "feat:tough",
+          "priority": 10
+        }
       ]
     }
   },
@@ -377,9 +653,20 @@
     "name": "War Caster",
     "description": "Prerequisite: The ability to cast at least one spell. You have practiced casting spells in the midst of combat, learning techniques that grant you the following benefits: You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage. You can perform the somatic components of spells even when you have weapons or a shield in one or both hands. When a hostile creature's movement provokes an opportunity attack from you, you can use your reaction to cast a spell at the creature, rather than making an opportunity attack.",
     "data": {
-      "prerequisites": { "spellcasting": true },
+      "prerequisites": {
+        "spellcasting": true
+      },
       "modifiers": [
-        { "target": "saving_throw.CON", "type": "advantage", "value": 1, "source": "feat:war-caster", "priority": 10, "condition": { "has_feature": "concentration" } }
+        {
+          "target": "saving_throw.CON",
+          "type": "advantage",
+          "value": 1,
+          "source": "feat:war-caster",
+          "priority": 10,
+          "condition": {
+            "has_feature": "concentration"
+          }
+        }
       ]
     }
   },
@@ -388,9 +675,22 @@
     "name": "Weapon Master",
     "description": "You have practiced extensively with a variety of weapons, gaining the following benefits: Increase your Strength or Dexterity score by 1, to a maximum of 20. You gain proficiency with four simple or martial weapons of your choice.",
     "data": {
-      "ability_score_increase": { "choices": ["STR", "DEX"], "amount": 1 },
+      "ability_score_increase": {
+        "choices": [
+          "STR",
+          "DEX"
+        ],
+        "amount": 1
+      },
       "grants_weapon_proficiencies": 4,
-      "modifiers": []
+      "modifiers": [],
+      "ability_score_choice": {
+        "amount": 1,
+        "from": [
+          "STR",
+          "DEX"
+        ]
+      }
     }
   }
 ]

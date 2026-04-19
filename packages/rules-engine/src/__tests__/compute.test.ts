@@ -1,7 +1,13 @@
 import { describe, it, expect } from "vitest";
 import { computeCharacter } from "../compute.js";
 import type { ComputeInput } from "../compute.js";
-import type { AbilityScores, RaceData, ClassData, BackgroundData } from "@dnd/shared";
+import type {
+  AbilityScores,
+  RaceData,
+  ClassData,
+  BackgroundData,
+  SubclassData,
+} from "@dnd/shared";
 
 // ── Fixtures ───────────────────────────────────────────────────────────────
 
@@ -279,6 +285,303 @@ describe("computeCharacter", () => {
       });
       // 10 + 2 (DEX) + 3 (CON) = 15
       expect(result.ac).toBe(15);
+    });
+  });
+
+  describe("Subclass modifiers", () => {
+    it("applies skill, expertise, and speed modifiers from scout", () => {
+      const rogueClass: ClassData = {
+        hit_die: 8,
+        primary_ability: ["DEX"],
+        saving_throws: ["DEX", "INT"],
+        armor_proficiencies: ["light"],
+        weapon_proficiencies: ["simple", "rapier"],
+        tool_proficiencies: ["thieves_tools"],
+        skill_choices: { count: 4, from: ["stealth", "perception"] },
+        subclass_level: 3,
+        spell_casting: null,
+        features_by_level: {
+          "1": [{ name: "Sneak Attack", description: "Deal extra damage once per turn." }],
+        },
+      };
+
+      const scoutSubclass: SubclassData = {
+        parent_class: "rogue",
+        flavor_name: "Batidor",
+        features_by_level: {
+          "3": [
+            {
+              name: "Superviviente Nato",
+              description: "Nature and Survival expertise.",
+              modifiers: [
+                {
+                  target: "skill.nature",
+                  type: "proficiency",
+                  value: "nature",
+                  source: "test:scout:survivalist",
+                  priority: 20,
+                },
+                {
+                  target: "skill.survival",
+                  type: "proficiency",
+                  value: "survival",
+                  source: "test:scout:survivalist",
+                  priority: 20,
+                },
+                {
+                  target: "skill.nature",
+                  type: "expertise",
+                  value: "nature",
+                  source: "test:scout:survivalist",
+                  priority: 30,
+                },
+                {
+                  target: "skill.survival",
+                  type: "expertise",
+                  value: "survival",
+                  source: "test:scout:survivalist",
+                  priority: 30,
+                },
+              ],
+            },
+          ],
+          "9": [
+            {
+              name: "Movilidad Superior",
+              description: "Speed +10.",
+              modifiers: [
+                {
+                  target: "speed",
+                  type: "bonus",
+                  value: 10,
+                  source: "test:scout:superior_mobility",
+                  priority: 20,
+                },
+              ],
+            },
+          ],
+        },
+      };
+
+      const result = computeCharacter({
+        level: 9,
+        abilityScores: { STR: 10, DEX: 16, CON: 12, INT: 12, WIS: 14, CHA: 8 },
+        race: humanRace,
+        classData: rogueClass,
+        subclass: scoutSubclass,
+        background: {
+          skill_proficiencies: ["stealth", "perception"],
+          tool_proficiencies: ["thieves_tools"],
+          feature: { name: "Wanderer", description: "You can find food and water." },
+        },
+        equipment: [],
+      });
+
+      expect(result.speed).toBe(40);
+      expect(result.skills.nature.proficient).toBe(true);
+      expect(result.skills.nature.expertise).toBe(true);
+      expect(result.skills.survival.proficient).toBe(true);
+      expect(result.skills.survival.expertise).toBe(true);
+    });
+
+    it("applies proficiencies from hexblade", () => {
+      const warlockClass: ClassData = {
+        hit_die: 8,
+        primary_ability: ["CHA"],
+        saving_throws: ["WIS", "CHA"],
+        armor_proficiencies: ["light"],
+        weapon_proficiencies: ["simple"],
+        skill_choices: { count: 2, from: ["arcana", "deception"] },
+        subclass_level: 1,
+        spell_casting: { ability: "CHA", type: "warlock" },
+        features_by_level: {
+          "1": [{ name: "Otherworldly Patron", description: "Choose a patron." }],
+        },
+      };
+
+      const hexbladeSubclass: SubclassData = {
+        parent_class: "warlock",
+        flavor_name: "El Filo Maléfico",
+        features_by_level: {
+          "1": [
+            {
+              name: "Guerrero Maléfico",
+              description: "Gain medium armor, shields, and martial weapons.",
+              modifiers: [
+                {
+                  target: "armor.medium",
+                  type: "proficiency",
+                  value: "medium",
+                  source: "test:hexblade:hex_warrior",
+                  priority: 20,
+                },
+                {
+                  target: "armor.shields",
+                  type: "proficiency",
+                  value: "shields",
+                  source: "test:hexblade:hex_warrior",
+                  priority: 20,
+                },
+                {
+                  target: "weapon.martial",
+                  type: "proficiency",
+                  value: "martial",
+                  source: "test:hexblade:hex_warrior",
+                  priority: 20,
+                },
+              ],
+            },
+          ],
+        },
+      };
+
+      const result = computeCharacter({
+        level: 5,
+        abilityScores: { STR: 10, DEX: 14, CON: 12, INT: 10, WIS: 10, CHA: 16 },
+        race: humanRace,
+        classData: warlockClass,
+        subclass: hexbladeSubclass,
+        background: soldierBackground,
+        equipment: [],
+      });
+
+      expect(result.armorProficiencies).toContain("medium");
+      expect(result.armorProficiencies).toContain("shields");
+      expect(result.weaponProficiencies).toContain("martial");
+    });
+
+    it("applies language, initiative, resistance, and immunity modifiers", () => {
+      const warMageSubclass: SubclassData = {
+        parent_class: "wizard",
+        flavor_name: "Magia de Guerra",
+        features_by_level: {
+          "2": [
+            {
+              name: "Ingenio Táctico",
+              description: "Add INT to initiative.",
+              modifiers: [
+                {
+                  target: "initiative",
+                  type: "bonus",
+                  value: "INT",
+                  source: "test:war_magic:tactical_wit",
+                  priority: 20,
+                },
+              ],
+            },
+          ],
+        },
+      };
+
+      const stormSubclass: SubclassData = {
+        parent_class: "sorcerer",
+        flavor_name: "Hechicería de Tormenta",
+        features_by_level: {
+          "1": [
+            {
+              name: "Portavoz del Viento",
+              description: "Learn Primordial.",
+              modifiers: [
+                {
+                  target: "language.primordial",
+                  type: "proficiency",
+                  value: "Primordial",
+                  source: "test:storm:wind_speaker",
+                  priority: 20,
+                },
+              ],
+            },
+          ],
+          "6": [
+            {
+              name: "Corazón de la Tormenta",
+              description: "Lightning and thunder resistance.",
+              modifiers: [
+                {
+                  target: "resistance.lightning",
+                  type: "resistance",
+                  value: "lightning",
+                  source: "test:storm:heart",
+                  priority: 20,
+                },
+                {
+                  target: "resistance.thunder",
+                  type: "resistance",
+                  value: "thunder",
+                  source: "test:storm:heart",
+                  priority: 20,
+                },
+              ],
+            },
+          ],
+          "18": [
+            {
+              name: "Alma del Viento",
+              description: "Lightning and thunder immunity.",
+              modifiers: [
+                {
+                  target: "immunity.lightning",
+                  type: "immunity",
+                  value: "lightning",
+                  source: "test:storm:soul",
+                  priority: 20,
+                },
+                {
+                  target: "immunity.thunder",
+                  type: "immunity",
+                  value: "thunder",
+                  source: "test:storm:soul",
+                  priority: 20,
+                },
+              ],
+            },
+          ],
+        },
+      };
+
+      const wizardResult = computeCharacter({
+        level: 5,
+        abilityScores: { STR: 8, DEX: 14, CON: 12, INT: 16, WIS: 12, CHA: 10 },
+        race: humanRace,
+        classData: wizardClass,
+        subclass: warMageSubclass,
+        background: soldierBackground,
+        equipment: [],
+      });
+
+      expect(wizardResult.initiative).toBe(5);
+
+      const sorcererClass: ClassData = {
+        hit_die: 6,
+        primary_ability: ["CHA"],
+        saving_throws: ["CON", "CHA"],
+        armor_proficiencies: [],
+        weapon_proficiencies: ["daggers"],
+        skill_choices: { count: 2, from: ["arcana", "persuasion"] },
+        subclass_level: 1,
+        spell_casting: { ability: "CHA", type: "full" },
+        features_by_level: {
+          "1": [{ name: "Sorcerous Origin", description: "Choose an origin." }],
+        },
+      };
+
+      const sorcererResult = computeCharacter({
+        level: 18,
+        abilityScores: { STR: 8, DEX: 14, CON: 12, INT: 10, WIS: 12, CHA: 18 },
+        race: humanRace,
+        classData: sorcererClass,
+        subclass: stormSubclass,
+        background: soldierBackground,
+        equipment: [],
+      });
+
+      expect(sorcererResult.languages).toContain("Primordial");
+      expect(sorcererResult.resistances).toEqual(
+        expect.arrayContaining(["lightning", "thunder"]),
+      );
+      expect(sorcererResult.immunities).toEqual(
+        expect.arrayContaining(["lightning", "thunder"]),
+      );
     });
   });
 });

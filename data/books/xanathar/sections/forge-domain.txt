@@ -1,0 +1,135 @@
+RASGOS DEL D O M I N I O DE LA FORJA
+N ivel de
+clérigo
+
+Rasgo
+Conj u ros d e D o m i n i o , Com petencias Ad icionales,
+Bendición d e l a Forja
+Canal izar Divi n id a d : Bendición del Artesano
+A l m a d e l a Forj a
+G o l pe Divino (l d8)
+
+14
+
+G o l p e Divino (2d8)
+
+17
+
+S a nto d e l a Forja y e l Fuego
+
+C ONJUROS DE DOMINIO
+Consigues conjuros de dominio al alcanzar ciertos niveles
+de clérigo. Puedes ver cómo funcionan los conjuros de domi­
+nio en el rasgo de clase Dominio Divino.
+
+C L ÉR I G O D E L A FoRJA
+
+C O N j U ROS DEL D O M I N I O DE LA FORjA
+N ivel de
+clérigo
+
+Conj uros
+
+castigo abrasador, identificar
+arma mágica, calentar metal
+arma elemental, protección contra energía
+fabricar, muro de fuego
+animar objetos, creación
+
+C OMPETENCIAS ADICIONALE S
+Cuando eliges este dominio a nivel 1, ganas competencia con
+armaduras pesadas y Herramientas de herrero.
+
+BENDICIÓN DE LA FORJA
+A nive1 1 , obtienes la habilidad de imbuir un arma o arma­
+dura con magia. Al final de un descanso largo, puedes tocar
+un objeto no mágico que sea una armadura o un arma mar­
+cial o sencilla. Hasta el final de tu próximo descanso largo,
+este objeto se convierte en mágico, otorgando u n bonificador
+de +1 a la CA si es una armadura o de +1 a las tiradas de
+ataque y daño si es un arma.
+Una vez utilizado este rasgo, deberás terminar un des­
+canso largo para poder volver a emplearlo.
+
+S E R V I R A UN PA N T E Ó N , F I LOSO F ÍA O F U E R Z A
+El clérigo tfpico es u n s i rviente o r d e n a d o d e u n d i o s con c reto,
+que e l i ge u n Dom i n i o D i v i n o asociado con esa d e i d a d . La magia
+d e los m i e m b ros d e esta clase procede d e l a propia divinidad o
+d e l rei n o d e l d i o s . M u chas veces los c l é rigos l l evan un símbolo
+sagrado q u e representa a esta m i s m a d i v i n i d a d .
+A l g u n o s clé rigos, espec i a l m e nte e n u n m u n d o como Eberron,
+s i rven a todo u n panteón. E n ciertas campañas, pod rían seguir
+a u n a fu erza cós mic a, como l a vida o l a m u e rte, a u n a fi losofía
+o concepto, como el a m o r o la paz, o i n c l u s o a u n o de l o s n u eve
+a l i neam ientos. E l capítu lo 1 del Dungeon Master's Cuide explora
+opciones como estas, e n el a p a rtado " D ioses d e tu m u n d o".
+H a b l a con tu DM sobre las opciones d i v i n a s d i s p o n i b l es en tu
+c a m p a ñ a , ya sean d ioses, pa nteo nes, fi l o s ofías o fu erzas cós m i ·
+cas. Sea l o q u e sea q u e e l i j a s e r v i r tu clérigo , escoge u n D o m i n i o
+D i v i n o q u e sea a p ro p i a d o , y s i n o tiene u n s í m b o l o sagrado,
+diseña u n o j u nto a tu D M .
+L o s rasgos d e clase d e l c l é ri go se referirán m u c h a s veces a t u
+d e i d a d . S i e res d evoto d e u n pa nteó n , fu erza cósmica o fi l o s ofía,
+estos rasgos segu irán fu n c i o n a n d o tal y como está n escritos.
+Piensa e n l a s referencias a d i oses como referencias a l poder
+divino que te otorga tu magia.
+
+CANALIZAR D IVINIDAD:
+BENDICIÓN DEL ARTESANO
+Desde el nivel 2 , puedes usar tu Canalizar Divinidad para
+crear objetos sencillos.
+Llevas a cabo un ritual de una hora de duración que
+creará uii objeto no mágico que debe incluir metal: un arma
+sencilla o marcial, una armadura, diez unidades de muni­
+ción, unas herramientas u otro objeto de metal (consulta
+el capítulo 5, "Equipo", en el Player's Handbook, para ver
+algunos ejemplos). La creación queda completa al terminar
+la hora, apareciendo en un espacio desocupado de tu elec­
+ción, encima de una superficie que se encuentre a 5 pies o
+menos de ti.
+Lo que crees no puede tener un valor superior a 100 po.
+Como parte del ritual debes preparar metal, que puede
+incluir monedas, de un valor igual al del objeto generado. El
+metal se funde y transforma en la creación al final del ritual,
+dando lugar de forma mágica a las partes no metálicas
+del objeto.
+El ritual puede crear un duplicado de un objeto no mágico
+que contenga metal, como una llave, si tienes en tu posesión
+el original al llevarlo a cabo.
+
+ALMA DE LA FORJA
+A partir de nivel 6, tu maestría con la forja te proporciona
+habilidades especiales:
+Ganas resistencia al fuego.
+Recibes un bonificador de +1 a la Clase de Armadura
+cuando lleves armadura pesada.
+
+GOLPE DIVINO
+A nivel 8 obtienes la capacidad de infundir los golpes de tu
+arma con el fiero poder de la forja. Una vez en cada uno de
+tus turnos, cuando impactes a una criatura con un ataque
+con arma, puedes hacer que dicho ataque cause ld8 de daño
+de fuego adicional al objetivo. Cuando llegas a nivel l4, este
+daño adicional pasa a ser 2d8.
+
+SANTO DE LA FORJA Y EL FUEGO
+A nivel 17, tu afinidad sagrada con el fuego y el metal se
+vuelve más poderosa:
+Ganas inmunidad al daño de fuego.
+Mientras lleves armadura pesada, tienes resistencia al daño
+contundente, cortante y perforante de ataques no mágicos.
+
+D OM I N I O DE LA S E P U LT U RA
+Los dioses de la sepultura vigilan la línea entre la vida
+y la muerte. Para estas deidades, la muerte y el más allá
+son parte fundamental del universo. Romper la paz de los
+muertos es una abominación. Las divinidades de la tumba
+incluyen Kelemvor, Wee jas, los espíritus ancestrales de la
+Corte Eterna, Hades, Anubis y Osiris. Los seguidores de
+estas deidades buscan dar descanso a los espíritus errantes,
+destruir a los muertos vivientes y aliviar el sufrimiento de los
+moribundos. Su magia también les permite mantener a raya
+a la muerte durante un tiempo, especialmente si se trata de
+una persona que todavía debe realizar una gran obra en el
+mundo. Este hecho representa un retraso de la muerte, no su
+negación, porque la muerte siempre consigue lo que es suyo.

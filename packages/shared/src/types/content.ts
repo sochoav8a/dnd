@@ -111,6 +111,10 @@ export interface BackgroundData {
 export interface FeatData {
   prerequisites?: string[];
   ability_score_improvement?: Partial<Record<string, number>>;
+  ability_score_choice?: {
+    amount: number;
+    from: string[];
+  };
   modifiers: import("./modifiers.js").Modifier[];
   description: string;
 }

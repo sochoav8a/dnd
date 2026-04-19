@@ -1,0 +1,124 @@
+[
+  {
+    "slug": "artificer",
+    "name": "Artífice",
+    "description": "Maestro artesano que imbuye objetos mundanos con magia, creando infusiones mecánicas y canalizando la magia a través de sus herramientas. Esta entrada es un esqueleto — rellena las features_by_level con detalles del Caldero de Tasha usando el editor homebrew.",
+    "data": {
+      "hit_die": 8,
+      "primary_ability": ["INT"],
+      "saving_throws": ["CON", "INT"],
+      "armor_proficiencies": ["light", "medium", "shields"],
+      "weapon_proficiencies": ["simple"],
+      "tool_proficiencies": ["thieves-tools", "tinkers-tools", "artisans-tools"],
+      "skill_choices": {
+        "count": 2,
+        "from": [
+          "Arcana",
+          "History",
+          "Investigation",
+          "Medicine",
+          "Nature",
+          "Perception",
+          "Sleight of Hand"
+        ]
+      },
+      "subclass_level": 3,
+      "spell_casting": {
+        "ability": "INT",
+        "type": "half",
+        "cantrips_known": [
+          2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4
+        ],
+        "spells_known": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+        ]
+      },
+      "features_by_level": {
+        "1": [
+          {
+            "name": "Maestría Mágica",
+            "description": "Usas herramientas para canalizar magia arcana. Empiezas con una lista de 2 cantrips de artífice y hechizos preparados = INT + ½ nivel de artífice (mín 1)."
+          },
+          {
+            "name": "Competencias del Artífice",
+            "description": "Herramientas de ladrón, Herramientas de manitas y un tipo de herramientas de artesano a elegir."
+          }
+        ],
+        "2": [
+          {
+            "name": "Infusión de Objeto",
+            "description": "Aprendes a infundir magia en objetos. Conoces 4 infusiones; puedes tener 2 activas. La lista y el límite crece por nivel."
+          }
+        ],
+        "3": [
+          {
+            "name": "Especialización de Artífice",
+            "description": "Eliges un arquetipo: Alquimista, Armero, Artillero o Batalla (último en Tasha). Ver subclases de tasha."
+          },
+          {
+            "name": "Tácticas Mágicas",
+            "description": "Añades tu bono por competencia a cualquier prueba de habilidad que no aplique ya el bono."
+          }
+        ],
+        "4": [
+          {
+            "name": "Mejora de Puntuación",
+            "description": "Puedes mejorar una puntuación de habilidad en 2, o dos en 1, o tomar un feat (a nivel 4, 8, 12, 16, 19)."
+          }
+        ],
+        "6": [
+          {
+            "name": "Competencia en Herramientas",
+            "description": "Ganas competencia en un tipo adicional de herramientas de artesano a elegir."
+          }
+        ],
+        "7": [
+          {
+            "name": "Infusiones Duplicadas",
+            "description": "Puedes tener una infusión más activa a la vez."
+          }
+        ],
+        "10": [
+          {
+            "name": "Objeto Maestro",
+            "description": "Añades el doble del bono por competencia a una herramienta específica (elige una)."
+          }
+        ],
+        "11": [
+          {
+            "name": "Objeto Peligroso",
+            "description": "Produce un efecto mágico dañino con la acción bonus una vez por descanso corto."
+          }
+        ],
+        "14": [
+          {
+            "name": "Habilidades Mágicas",
+            "description": "Eliges cuatro cantrips de cualquier clase; se consideran cantrips de artífice."
+          }
+        ],
+        "18": [
+          {
+            "name": "Obra Maestra del Artífice",
+            "description": "Ganas la capacidad de crear un objeto mágico permanente durante un descanso largo (costes aparte)."
+          }
+        ],
+        "20": [
+          {
+            "name": "Genio del Artífice",
+            "description": "Al final de cada descanso largo, ganas una infusión adicional y recuperas espacios de conjuro."
+          }
+        ]
+      },
+      "subclasses": [
+        "alchemist",
+        "armorer",
+        "artillerist",
+        "battle-smith"
+      ]
+    },
+    "metadata": {
+      "source_pdf": "Caldero de Tasha para Todo.pdf",
+      "status": "stub"
+    }
+  }
+]

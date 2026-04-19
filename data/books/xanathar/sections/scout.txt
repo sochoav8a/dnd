@@ -1,0 +1,71 @@
+RASGOS D E BAT I D O R
+N ivel d e
+pícaro
+
+Rasgo
+Experto e n Escara m uzas, S u perviviente N ato
+Movi l idad S u perior
+
+13
+
+M aestro de l a E m boscada
+
+17
+
+Ataq u e S ú b ito
+
+EXPERTO EN ESCARAMUZAS
+A partir de nivel 3, resultas difícil de arrinconar en batalla.
+Cuando un enemigo termina su turno situado a 5 pies o
+menos de ti, puedes usar tu reacción parar moverte hasta la
+mitad de tu velocidad. Este movimiento no provoca ataques
+de oportunidad.
+
+;
+0
+
+G v.i<"' G"
+LQo..< <! '-'""' <! � G�G '�¡.._? ¿f.¡ lG � <r!O"' �
+G lG � <r!O"' G.
+G lG <! � G�G o lG <! � G�G �'-'"""' �G"
+GAo.
+/Vo �• Airi,s �v.• "''-'""''" \;. lo �G! � lG"'t•
+
+SUPERVIVIENTE NATO
+Cuando eliges este arquetipo a nivel 3, ganas competencia
+en las habilidades Naturaleza y Supervivencia, si no la tenías
+ya. Tu bonificador por competencia se duplica para cualquier
+prueba de característica que hagas utilizando cualquiera de
+estas dos habilidades.
+
+MOVILIDAD SUPERIOR
+A nivel 9 tu velocidad caminando se incrementa en 10 pies.
+Si tienes una velocidad nadando o trepando, también
+aumenta en la misma cantidad.
+
+MAE STRO DE LA E M B O S CADA
+A partir de nivel 1 3 , sobresales iniciando emboscadas y
+actuando el primero en una pelea.
+Tienes ventaja en las tiradas de iniciativa. Además, la pri­
+mera criatura a la que impactes durante el primer asalto de
+un combate es más fácil de golpear para ti y para otros: las
+tiradas de ataque contra ese objetivo se realizan con ventaja
+hasta el principio de tu siguiente turno.
+
+ATAQUE SÚBITO
+A partir de nivel 17, puedes golpear con una velocidad letal.
+Si realizas la acción de Atacar en tu turno, puedes hacer
+un ataque más como acción adicional. Este ataque puede
+beneficiarse de tu Ataque Furtivo incluso si ya lo has usado
+este turno, pero no puedes emplear Ataque Furtivo contra un
+mismo objetivo más de una vez por turno.
+
+E S PADAC H Í N
+Centras tu entrenamiento en e l arte de l a espada y lo
+basas en igual medida en la velocidad, la elegancia y el
+carisma. Aunque hay guerreros que son brutos y llevan
+armadura pesada, tu estilo de lucha casi parece un
+espectáculo. Los duelistas y los piratas suelen pertenecer
+a este arquetipo.
+Un Espadachín sobresale en duelos y puede luchar con
+dos armas mientras se escapa como un rayo de su oponente.

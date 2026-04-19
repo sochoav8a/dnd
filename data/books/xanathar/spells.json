@@ -1,0 +1,453 @@
+[
+  {
+    "slug": "absorb-elements",
+    "name": "Absorber Elementos",
+    "description": "El conjuro absorbe parte de la energía que te alcanza, dismi­ nuyendo su efecto sobre ti yalmacenándolo para tu siguiente ataque cuerpo a cuerpo. Recibes resistencia al tipo de daño recibido hasta el comienzo de tu próximo turno. Además, la pri­ mera vez que impactes con un ataque cuerpo a cuerpo durante tu siguiente turno, elobjetivorecibirá 1d6 de daño adicionales del mismo tipo que el daño que recibistey el conjuro terminará. A niveles superiores. Cuando lanzas este conjuro utilizando un espacio de conjuro de nivel 2 o más, el daño aumenta en 1d6 por cada nivel por encima de 1 que tenga el espacio que hayas empleado. AGOTAMIENTO Nigromancia nivel S Tiempo de lanzamiento: 1 acción Alcance: 60 pies Componentes:V, S Duración: Concentración, hasta 1 minuto Un zarcillo de oscuridad se extiende desde ti, tocando a una criaturaque puedasvery se encuentre dentro del alcance, para drenar su vida. El objetivo deberáhacer una tirada de salvación de Destreza. Si la supera, recibirá 2d8 de daño necrótico y el conjuro finalizará. Si la falla, recibirá 4d8 de daño necrótico y, hasta que el conjuro termine, podrás usar tu acción en cada uno de tus turnos para, automáticamente, infli­ girle 4d8 de daño necrótico. El conjuro terminará si empleas tu acción para hacer otra cosa, si la criatura sale del alcance del conjuro o si el objetivo tiene cobertura completafrente a ti. Siempre que el conjuro inflija daño a un objetivo, recuperas tantos puntos de golpe como la mitad del daño necrótico causado. A niveles superiores. Cuando lanzas este conjuro utilizando un espacio de conjuro de nivel 6 o más, el daño aumenta en 1d8 por cada nivel por encima de 5 que tenga el espacio que hayas empleado. ALIENTO DE DRAGÓN Transmutación nivel 2 Tiempo de lanzamiento: 1 acción adicional Alcance: Toque Componentes: V, S, M (una guindilla) Duración: Concentración, hasta 1 minuto Tocas una criatura voluntaria y la imbuyes con el poder de expulsar energía mágica por su boca, siempre y cuando tenga una. Escoge entre ácido, frío, fuego, relámpago o veneno. Hasta que termine el conjuro, el objetivo puede uti­ lizar una acción para exhalar la energía del tipo elegido en un cono de 15 pies Cada cnatura Situada en la zona deberá realizar una tirada de salvación de Destreza, sufnendo",
+    "data": {
+      "level": 1,
+      "school": "abjuration",
+      "casting_time": "1 reacción",
+      "range": "Lanzador",
+      "components": {
+        "V": false,
+        "S": true
+      },
+      "duration": "1 asalto",
+      "concentration": false,
+      "classes": [
+        "artificer",
+        "druid",
+        "ranger",
+        "sorcerer",
+        "wizard"
+      ],
+      "description": "El conjuro absorbe parte de la energía que te alcanza, dismi­ nuyendo su efecto sobre ti yalmacenándolo para tu siguiente ataque cuerpo a cuerpo. Recibes resistencia al tipo de daño recibido hasta el comienzo de tu próximo turno. Además, la pri­ mera vez que impactes con un ataque cuerpo a cuerpo durante tu siguiente turno, elobjetivorecibirá 1d6 de daño adicionales del mismo tipo que el daño que recibistey el conjuro terminará. A niveles superiores. Cuando lanzas este conjuro utilizando un espacio de conjuro de nivel 2 o más, el daño aumenta en 1d6 por cada nivel por encima de 1 que tenga el espacio que hayas empleado. AGOTAMIENTO Nigromancia nivel S Tiempo de lanzamiento: 1 acción Alcance: 60 pies Componentes:V, S Duración: Concentración, hasta 1 minuto Un zarcillo de oscuridad se extiende desde ti, tocando a una criaturaque puedasvery se encuentre dentro del alcance, para drenar su vida. El objetivo deberáhacer una tirada de salvación de Destreza. Si la supera, recibirá 2d8 de daño necrótico y el conjuro finalizará. Si la falla, recibirá 4d8 de daño necrótico y, hasta que el conjuro termine, podrás usar tu acción en cada uno de tus turnos para, automáticamente, infli­ girle 4d8 de daño necrótico. El conjuro terminará si empleas tu acción para hacer otra cosa, si la criatura sale del alcance del conjuro o si el objetivo tiene cobertura completafrente a ti. Siempre que el conjuro inflija daño a un objetivo, recuperas tantos puntos de golpe como la mitad del daño necrótico causado. A niveles superiores. Cuando lanzas este conjuro utilizando un espacio de conjuro de nivel 6 o más, el daño aumenta en 1d8 por cada nivel por encima de 5 que tenga el espacio que hayas empleado. ALIENTO DE DRAGÓN Transmutación nivel 2 Tiempo de lanzamiento: 1 acción adicional Alcance: Toque Componentes: V, S, M (una guindilla) Duración: Concentración, hasta 1 minuto Tocas una criatura voluntaria y la imbuyes con el poder de expulsar energía mágica por su boca, siempre y cuando tenga una. Escoge entre ácido, frío, fuego, relámpago o veneno. Hasta que termine el conjuro, el objetivo puede uti­ lizar una acción para exhalar la energía del tipo elegido en un cono de 15 pies Cada cnatura Situada en la zona deberá realizar una tirada de salvación de Destreza, sufnendo"
+    },
+    "metadata": {
+      "source_pdf": "Guia de Xanathar Para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "snare",
+    "name": "Atrapar",
+    "description": "Mientras lanzas este conjuro, utilizas la cuerda para crear un círculo con un radio de 5 pies en el suelo. Cuando ter­ minas de lanzarlo, la cuerda desaparece y el círculo se convierte en una trampa mágica. Esta última es casi invi­ sible, por lo que es necesario tener éxito en una prueba de Inteligencia (Investigación) con CDigual a tu salvación de conjuros para descubrirla. La trampa se activa cuando una criatura Pequeña, Mediana o Grande se mueve sobre el suelo o terreno en el interior del radio del conjuro. Dicha criatura deberá tener éxito en una tirada de salvación de Destreza o se al¡ará en el aire por arte de magia, quedando colgada del revés a 3 pies sobre el suelo. La criatura estará apresada en esa posición hasta que el conjuro termine. Quien haya sido capturado puede realizar una tirada de salvación de Destreza al final de cada uno de sus turnos, librándose del efecto si tiene éxito. Por otra parte, la cria­ tura, o alguien más que puede alcanzarla, puede usar una acción para hacer una prueba de Inteligencia (Conocimiento Arcano) contra tu CDde salvación de conjuros. Si tiene éxito, dejará de estar atrapada inmediatamente. Una vez la trampa sea activada, el conjuro terminará cuando ninguna criatura esté apresada por é1.",
+    "data": {
+      "level": 1,
+      "school": "abjuration",
+      "casting_time": "1 minuto",
+      "range": "Toque",
+      "components": {
+        "V": true,
+        "S": true,
+        "M": "25 pies de cuerda, que el conjuro consume"
+      },
+      "duration": "8 horas",
+      "concentration": false,
+      "classes": [
+        "artificer",
+        "druid",
+        "ranger",
+        "wizard"
+      ],
+      "description": "Mientras lanzas este conjuro, utilizas la cuerda para crear un círculo con un radio de 5 pies en el suelo. Cuando ter­ minas de lanzarlo, la cuerda desaparece y el círculo se convierte en una trampa mágica. Esta última es casi invi­ sible, por lo que es necesario tener éxito en una prueba de Inteligencia (Investigación) con CDigual a tu salvación de conjuros para descubrirla. La trampa se activa cuando una criatura Pequeña, Mediana o Grande se mueve sobre el suelo o terreno en el interior del radio del conjuro. Dicha criatura deberá tener éxito en una tirada de salvación de Destreza o se al¡ará en el aire por arte de magia, quedando colgada del revés a 3 pies sobre el suelo. La criatura estará apresada en esa posición hasta que el conjuro termine. Quien haya sido capturado puede realizar una tirada de salvación de Destreza al final de cada uno de sus turnos, librándose del efecto si tiene éxito. Por otra parte, la cria­ tura, o alguien más que puede alcanzarla, puede usar una acción para hacer una prueba de Inteligencia (Conocimiento Arcano) contra tu CDde salvación de conjuros. Si tiene éxito, dejará de estar atrapada inmediatamente. Una vez la trampa sea activada, el conjuro terminará cuando ninguna criatura esté apresada por é1."
+    },
+    "metadata": {
+      "source_pdf": "Guia de Xanathar Para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "catnap",
+    "name": "Cabezadita",
+    "description": "Haces un gesto tranquilizador y hasta tres criaturas voluntarias de tu elección que puedas ver y se encuen­ tren dentro del alcance caen inconscientes mientras dure el conjuro. Este último finaliza para un objetivo si este recibe daño o alguien usa una acción para sacudirle o abofetearle hasta que despierte. Salguien permanece inconsciente durante la duración completa del conjuro, obtendrá los beneficios de un descanso corto y, además, no podráser afectado por este conjuro otra vez hasta que termine un descanso largo. A niveles superiores. Cuando lanzas este conjuro utili­ zando un espacio de conjuro de nivel 4 o más, puedes elegir como objetivo a una criatura adicional por cada nivel por encima de 3 que tenga el espacio que hayas empleado.",
+    "data": {
+      "level": 3,
+      "school": "enchantment",
+      "casting_time": "1 acción",
+      "range": "30 pies",
+      "components": {
+        "V": false,
+        "S": true,
+        "M": "una pizca de arena"
+      },
+      "duration": "10 minutos",
+      "concentration": false,
+      "classes": [
+        "artificer",
+        "bard",
+        "sorcerer",
+        "wizard"
+      ],
+      "description": "Haces un gesto tranquilizador y hasta tres criaturas voluntarias de tu elección que puedas ver y se encuen­ tren dentro del alcance caen inconscientes mientras dure el conjuro. Este último finaliza para un objetivo si este recibe daño o alguien usa una acción para sacudirle o abofetearle hasta que despierte. Salguien permanece inconsciente durante la duración completa del conjuro, obtendrá los beneficios de un descanso corto y, además, no podráser afectado por este conjuro otra vez hasta que termine un descanso largo. A niveles superiores. Cuando lanzas este conjuro utili­ zando un espacio de conjuro de nivel 4 o más, puedes elegir como objetivo a una criatura adicional por cada nivel por encima de 3 que tenga el espacio que hayas empleado."
+    },
+    "metadata": {
+      "source_pdf": "Guia de Xanathar Para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "catapult",
+    "name": "Catapulta",
+    "description": "Elige un objeto que pese entre 1 yslibras, se encuentre den­ tro del alcance y no esté siendo vestido ni transportado. Este vuela descnbtendo una recta línea de hasta 90 ptes en una dtrecctón que escOJas antes de caer al suelo, deteméndose ' s1 tmpacta contra una superficie sóhda 81 el objeto fuera a /. chocar contra una cnatura, esta deberá hacer una tirada de CAPÍTULO3 CONJUROS r51salvación de Destreza. Si la falla, el objeto golpeará a dicha criatura y parará de moverse. Cuando el objeto choca con algo, tanto el objeto como aquellocontra lo que impacte reci· birán 3d8 de daño contundente. A niveles superiores. Cuando lanzas este conjuro usando un espacio de conjuro de nivel 2 o superior, el peso máximo del objeto q\"uepuedes elegir aumenta en 5 libras y el daño que inflige en 1d8 por cada nivel por encima de 1 que tenga el espacio que hayas empleado. CEREMONIA Abjuración nive/ 1 ( ritual) Tiempo de lanzamiento: 1 hora Alcance: Toque Componentes:V, S, M (25 pode plata en polvo, que es consumido por el conjuro) Duración: Instantáneo Realizas una ceremonia religiosa especial; impregnada de magia. Cuando lances el conjuro, elige uno de los siguientes ritos. El objetivo debe encontrarse a menos de 10 pies de ti cuando se produzca lanzamiento. Bendeciragua. Tocas un vial de agua y lo conviertes en agua bendita. Boda. Tocas a dos humanoides adultos dispuestos a ser unidos en matrimonio. Durante los próximos 7 días, ambos objetivos obtendrán un bonificador +2 a la CAmientras estén a 30 pies el uno del otro. Una criatura solo puede benefi­ ciarse de este rito otra vez si enviuda. Dedicación. Tocas a un humanoide que desee dedicarse al servicio de tu dios. Durante las próximas 24 horas, siem­ pre que el objetivo haga una tirada de salvación, podrá tirar un d4 y sumar el resultado a dicha tirada. Una criatura solo puede beneficiarse de este rito una vez. Expiación. Tocas a una criatura voluntaria cuyo alinea­ miento haya cambiado con anterioridady haces una prueba de Sabiduría CD 20 (Perspicacia). Si tienes éxito, devuelves al objetivo a su alineamiento original. Mayorfa de edad. Tocas a un humanoide adultojoven. Durante las próximas 24 horas, siempre que el objetivo haga una prueba de característica, podrá tirar un d4 y sumar el resultado a dicha prueba. Una criatura solo puede benefi­ ciarse de este rito una vez. Ritos funerarios. Tocas un cadávery, durante lo",
+    "data": {
+      "level": 1,
+      "school": "transmutation",
+      "casting_time": "1 acción",
+      "range": "60 pies",
+      "components": {
+        "V": false,
+        "S": true
+      },
+      "duration": "Instantáneo",
+      "concentration": false,
+      "classes": [
+        "artificer",
+        "sorcerer",
+        "wizard"
+      ],
+      "description": "Elige un objeto que pese entre 1 yslibras, se encuentre den­ tro del alcance y no esté siendo vestido ni transportado. Este vuela descnbtendo una recta línea de hasta 90 ptes en una dtrecctón que escOJas antes de caer al suelo, deteméndose ' s1 tmpacta contra una superficie sóhda 81 el objeto fuera a /. chocar contra una cnatura, esta deberá hacer una tirada de CAPÍTULO3 CONJUROS r51salvación de Destreza. Si la falla, el objeto golpeará a dicha criatura y parará de moverse. Cuando el objeto choca con algo, tanto el objeto como aquellocontra lo que impacte reci· birán 3d8 de daño contundente. A niveles superiores. Cuando lanzas este conjuro usando un espacio de conjuro de nivel 2 o superior, el peso máximo del objeto q\"uepuedes elegir aumenta en 5 libras y el daño que inflige en 1d8 por cada nivel por encima de 1 que tenga el espacio que hayas empleado. CEREMONIA Abjuración nive/ 1 ( ritual) Tiempo de lanzamiento: 1 hora Alcance: Toque Componentes:V, S, M (25 pode plata en polvo, que es consumido por el conjuro) Duración: Instantáneo Realizas una ceremonia religiosa especial; impregnada de magia. Cuando lances el conjuro, elige uno de los siguientes ritos. El objetivo debe encontrarse a menos de 10 pies de ti cuando se produzca lanzamiento. Bendeciragua. Tocas un vial de agua y lo conviertes en agua bendita. Boda. Tocas a dos humanoides adultos dispuestos a ser unidos en matrimonio. Durante los próximos 7 días, ambos objetivos obtendrán un bonificador +2 a la CAmientras estén a 30 pies el uno del otro. Una criatura solo puede benefi­ ciarse de este rito otra vez si enviuda. Dedicación. Tocas a un humanoide que desee dedicarse al servicio de tu dios. Durante las próximas 24 horas, siem­ pre que el objetivo haga una tirada de salvación, podrá tirar un d4 y sumar el resultado a dicha tirada. Una criatura solo puede beneficiarse de este rito una vez. Expiación. Tocas a una criatura voluntaria cuyo alinea­ miento haya cambiado con anterioridady haces una prueba de Sabiduría CD 20 (Perspicacia). Si tienes éxito, devuelves al objetivo a su alineamiento original. Mayorfa de edad. Tocas a un humanoide adultojoven. Durante las próximas 24 horas, siempre que el objetivo haga una prueba de característica, podrá tirar un d4 y sumar el resultado a dicha prueba. Una criatura solo puede benefi­ ciarse de este rito una vez. Ritos funerarios. Tocas un cadávery, durante lo"
+    },
+    "metadata": {
+      "source_pdf": "Guia de Xanathar Para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "frostbite",
+    "name": "Congelar",
+    "description": "Haces que se forme escarcha entumecedora alrededor de una criatura que puedas ver y se encuentredentro del alcance. El objetivo deberá hacer una tirada de salvación de Constitución. La criatura recibirá 1d6 de daño de frío si falla la tirada de sal­ vacióny tendrá desventaja en la siguiente tirada de ataque con arma que realice antes del final de su próximo turno. A niveles superiores. El daño del conjuro aumenta en 1d6 cuando alcanzas nivel 5 (2d6), nivel ll (3d6)y nivel 17 (4d6). CONTROLAR LLAMAS Transmutación (truco) Tiempo de lanzamiento: 1 acción Alcance: 60 pies Componentes: S Duración: Instantáneo o 1 hora (ver más abajo) Elige una llama no mágica que puedas ver dentro del alcance y que quepa dentro de un cubo de 5 pies de lado. Puedes manipularla de una de las formas siguientes: Expandes el fuegospies en una dirección instantánea­ mente, siempre que haya madera u otro combustible presente en la nueva ubicación. Apagas las llamas dentro del cubo instantáneamente. Duplicas o reduces a la mitadel tamaño de las zonas de luz brillante y luz tenue proyectadas por el fuego, cam­ bias su color o hacer ambas cosas. Esta transformación dura 1 hora. Creas formas simples -como la figura imprecisa de una criatura, un objeto inanimado o un lugar- que aparecen dentro de las llamas y las animas como desees. Las for­ mas persisten durante 1 hora. Si lanzas este conjuro varias veces, puedes mantener hasta tres de sus efectos no instantáneos activos a la vez y puedes utilizar una acción para finalizar cualquiera de ellos. CONTROLAR VIENTOS Transmutación nivel S Tiempo de lanzamiento: 1 acción Alcance: 300 pies Componentes:V, S Duración: Concentración, hasta 1 hora Tomas el control del aire dentro de un cubo de 100 pies que puedas ver y se encuentre dentro del alcance. Cuando lan­ zas este conjuro, escoge uno de los siguientes efectos, que permanecerá activo durante toda la duración del conjuro, a menos que uses una acción en un turno posterior para cambiar a un efecto diferente. También puedes utilizar una acción para parar temporalmente el efecto o reiniciar uno que hayas detenido. Ráf agas. Se levanta un viento dentro del cubo, soplando continuamente en la dirección horizontal que designes. Túeliges su intensidad: leve, moderado o fuerte. Si el viento es moderado o fuerte, los ataques con arma a distanciaque entran o salen del cubo o pasan a través de éltienen",
+    "data": {
+      "level": 0,
+      "school": "evocation",
+      "casting_time": "1 acción",
+      "range": "60 pies",
+      "components": {
+        "V": true,
+        "S": true
+      },
+      "duration": "Instantáneo",
+      "concentration": false,
+      "classes": [
+        "artificer",
+        "druid",
+        "sorcerer",
+        "warlock",
+        "wizard"
+      ],
+      "description": "Haces que se forme escarcha entumecedora alrededor de una criatura que puedas ver y se encuentredentro del alcance. El objetivo deberá hacer una tirada de salvación de Constitución. La criatura recibirá 1d6 de daño de frío si falla la tirada de sal­ vacióny tendrá desventaja en la siguiente tirada de ataque con arma que realice antes del final de su próximo turno. A niveles superiores. El daño del conjuro aumenta en 1d6 cuando alcanzas nivel 5 (2d6), nivel ll (3d6)y nivel 17 (4d6). CONTROLAR LLAMAS Transmutación (truco) Tiempo de lanzamiento: 1 acción Alcance: 60 pies Componentes: S Duración: Instantáneo o 1 hora (ver más abajo) Elige una llama no mágica que puedas ver dentro del alcance y que quepa dentro de un cubo de 5 pies de lado. Puedes manipularla de una de las formas siguientes: Expandes el fuegospies en una dirección instantánea­ mente, siempre que haya madera u otro combustible presente en la nueva ubicación. Apagas las llamas dentro del cubo instantáneamente. Duplicas o reduces a la mitadel tamaño de las zonas de luz brillante y luz tenue proyectadas por el fuego, cam­ bias su color o hacer ambas cosas. Esta transformación dura 1 hora. Creas formas simples -como la figura imprecisa de una criatura, un objeto inanimado o un lugar- que aparecen dentro de las llamas y las animas como desees. Las for­ mas persisten durante 1 hora. Si lanzas este conjuro varias veces, puedes mantener hasta tres de sus efectos no instantáneos activos a la vez y puedes utilizar una acción para finalizar cualquiera de ellos. CONTROLAR VIENTOS Transmutación nivel S Tiempo de lanzamiento: 1 acción Alcance: 300 pies Componentes:V, S Duración: Concentración, hasta 1 hora Tomas el control del aire dentro de un cubo de 100 pies que puedas ver y se encuentre dentro del alcance. Cuando lan­ zas este conjuro, escoge uno de los siguientes efectos, que permanecerá activo durante toda la duración del conjuro, a menos que uses una acción en un turno posterior para cambiar a un efecto diferente. También puedes utilizar una acción para parar temporalmente el efecto o reiniciar uno que hayas detenido. Ráf agas. Se levanta un viento dentro del cubo, soplando continuamente en la dirección horizontal que designes. Túeliges su intensidad: leve, moderado o fuerte. Si el viento es moderado o fuerte, los ataques con arma a distanciaque entran o salen del cubo o pasan a través de éltienen"
+    },
+    "metadata": {
+      "source_pdf": "Guia de Xanathar Para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "create-bonfire",
+    "name": "Crear Hoguera",
+    "description": "Creas una hoguera en un punto del suelo que puedas ver y se encuentre dentro del alcance. Hasta que el conjuro termine, el fuego mágico llena un cubo de 5 pies. Cualquier criatura en el espacio de la hoguera cuando lanzas el conjuro deberá tener éxito en una tirada de salvación de Destreza o recibirá ld8 de daño de fuego. Las criaturas también deberán hacer esta tirada de salvación cuando entren en la zona donde se halla el fuego por primera vez en un turno o cuando acaben su turno en ella. La hoguera prende los objetosinflamables en su área que no estén siendo llevados o vestidos. A niveles superiores. El daño del conjuro aumenta en 1d8 cuandoalcanzasnivel 5 (2d8), nivel 11 (3d8) ynivel 17 (4d8). CREAR HOMÚNCULO Transmutación nive/ 6 Tiempo de lanzamiento: 1 hora Alcance: Toque Componentes: V, S, M (arcilla, ceniza y raíz de mandrágora, que son consumidos por el conjuro, y una daga incrustada de joyas con un valor de al menos 1.000 po) Duración: Instantáneo Te cortas con una daga incrustada dejoyas mientras pronun­ cias un intrincado encantamiento, recibiendo 2d4 de daño perforante que no se puede reducir de ninguna manera. Después, derramas unas gotas de tu sangre sobre los otros componentes del conjuro y los tocas, transformándolos en un autómata especial llamado homúnculo. El perfil del homúnculo se encuentra en el Monster Manual. Es tu fiel compañero y, de hecho, morirási túmueres. Cada vez que termines un descanso largo, podrás gastar hasta la mitad de tus Dados de Golpe si el '\\utómata está en el mismo plano de existencia que tú. Al hacer esto, tira cada dado y añade tu modificador por Constitución. Tus puntos de golpe máximos se reducen en el total obtenido, mientras que los puntos de golpe máximos del homúnculo y sus puntos de golpe actuales aumentan en esa cantidad. Este proceso no puede dejarte a menos de 1 punto de golpe, y el intercambio de tus puntos de golpe y los del autómata finaliza cuando terminas tu siguiente descanso largo. No existe forma alguna de eliminar la reducción de tu máximo de puntos de golpe antes de ese momento, salvo por la muerte del homúnculo. Puedes tener solo un homúnculo a la vez. Si lanzas este conjuro mientras tu autómata aún vive, este fallará. CUCHILLO DE HIELO Conjuración nivel 1 Tiempo de lanzamiento: 1 acción Alcance: 60 pies Componentes: S, M (una gota de agua o un trozo de hielo) Duración: Instantáneo Creas",
+    "data": {
+      "level": 0,
+      "school": "conjuration",
+      "casting_time": "1 acción",
+      "range": "60 pies",
+      "components": {
+        "V": true,
+        "S": true
+      },
+      "duration": "Concentración, hasta 1 minuto",
+      "concentration": true,
+      "classes": [
+        "artificer",
+        "druid",
+        "sorcerer",
+        "wizard"
+      ],
+      "description": "Creas una hoguera en un punto del suelo que puedas ver y se encuentre dentro del alcance. Hasta que el conjuro termine, el fuego mágico llena un cubo de 5 pies. Cualquier criatura en el espacio de la hoguera cuando lanzas el conjuro deberá tener éxito en una tirada de salvación de Destreza o recibirá ld8 de daño de fuego. Las criaturas también deberán hacer esta tirada de salvación cuando entren en la zona donde se halla el fuego por primera vez en un turno o cuando acaben su turno en ella. La hoguera prende los objetosinflamables en su área que no estén siendo llevados o vestidos. A niveles superiores. El daño del conjuro aumenta en 1d8 cuandoalcanzasnivel 5 (2d8), nivel 11 (3d8) ynivel 17 (4d8). CREAR HOMÚNCULO Transmutación nive/ 6 Tiempo de lanzamiento: 1 hora Alcance: Toque Componentes: V, S, M (arcilla, ceniza y raíz de mandrágora, que son consumidos por el conjuro, y una daga incrustada de joyas con un valor de al menos 1.000 po) Duración: Instantáneo Te cortas con una daga incrustada dejoyas mientras pronun­ cias un intrincado encantamiento, recibiendo 2d4 de daño perforante que no se puede reducir de ninguna manera. Después, derramas unas gotas de tu sangre sobre los otros componentes del conjuro y los tocas, transformándolos en un autómata especial llamado homúnculo. El perfil del homúnculo se encuentra en el Monster Manual. Es tu fiel compañero y, de hecho, morirási túmueres. Cada vez que termines un descanso largo, podrás gastar hasta la mitad de tus Dados de Golpe si el '\\utómata está en el mismo plano de existencia que tú. Al hacer esto, tira cada dado y añade tu modificador por Constitución. Tus puntos de golpe máximos se reducen en el total obtenido, mientras que los puntos de golpe máximos del homúnculo y sus puntos de golpe actuales aumentan en esa cantidad. Este proceso no puede dejarte a menos de 1 punto de golpe, y el intercambio de tus puntos de golpe y los del autómata finaliza cuando terminas tu siguiente descanso largo. No existe forma alguna de eliminar la reducción de tu máximo de puntos de golpe antes de ese momento, salvo por la muerte del homúnculo. Puedes tener solo un homúnculo a la vez. Si lanzas este conjuro mientras tu autómata aún vive, este fallará. CUCHILLO DE HIELO Conjuración nivel 1 Tiempo de lanzamiento: 1 acción Alcance: 60 pies Componentes: S, M (una gota de agua o un trozo de hielo) Duración: Instantáneo Creas"
+    },
+    "metadata": {
+      "source_pdf": "Guia de Xanathar Para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "skywrite",
+    "name": "Escribir en las Nubes",
+    "description": "Haces aparecer hasta diez palabras en una parte del cielo que puedas ver. Estas parecen estar hechas por nubes y permanecen en su sitio hasta que finalice la duración del conjuro. Las palabras se disipan cuando el conjuro termina. Un viento fuerte puede dispersar las nubes y finalizar así el conjuro. ESFERA ACUOSA Conjuración nivel 4 Tiempo de lanzamiento: 1 acción Alcance: 90 pies Componentes: V, S, M (una gota de agua) Duración: Concentración, hasta 1 minuto Conjuras una esfera de agua de un radio despies en un punto que puedas ver y que se encuentredentro del alcance. Esta puede levitar, pero no a más de 10 pies de altura. La esfera permanecehasta que el conjuro termina. Cualquier criatura situada en el espacio de la esfera deberá hacer una tirada de salvación de Fuerza. Si tiene éxito, será expulsada de esa zona hasta el espacio des­ ocupado más cercano que la criatura elija en el exterior de la esfera. Un objetivo Enorme o más grande tiene éxito en la tirada de salvación automáticamente, mientras que una criatura Grande o más pequeña puede decidir fallar voluntariamente. Si falla, el objetivo será apresado por la esfera y engullido por el agua. Al final de cada uno de sus turnos, dicha criatura podrá repetir la tirada de salvación, librándose del efecto si tiene éxito. La esfera puede contener hasta cuatro criaturas Medianas o Pequeñas o únicamente una Grande. Sapresa a un objetivo que hace que se exceda esta capacidad, una criatura al azar que ya fue capturada por la esfera saldrá fueray caerá derribada en un espacio situado a 5 pies o menos de la esfera. Como acción adicional, puedes mover la esfera hasta 30 pies en línea recta. Si se desplaza sobre un foso, un acantilado u otra caída, descenderá de manera segura hasta que esté suspendida a 10 pies del suelo. Cualquier objetivo apresado por la esfera se mueve con ella. Además, puedes lanzarla contra criaturas, obligándolas a hacer tirada de salvación. Cuando el conjuro termina, la esfera cae al suelo y apaga todas las llamas normales que se encuentren a 30 pies o menos de ella. Cualquier criatura que estuviera apresada en su interior acaba derribada en el espacio donde cae la esfera. Después, el agua desaparece. ESFERA TORMENTOSA Evocación nivel 4 Tiempo de lanzamiento: 1 acción Alcance: 150 pies Componentes: V, S Duración: Concentración, hastal minuto Una esfera de aire arremolinado de 20 pies d",
+    "data": {
+      "level": 2,
+      "school": "transmutation",
+      "casting_time": "1 acción",
+      "range": "Vista",
+      "components": {
+        "V": true,
+        "S": true
+      },
+      "duration": "Concentración, hasta 1 hora",
+      "concentration": true,
+      "ritual": true,
+      "classes": [
+        "artificer",
+        "bard",
+        "druid",
+        "wizard"
+      ],
+      "description": "Haces aparecer hasta diez palabras en una parte del cielo que puedas ver. Estas parecen estar hechas por nubes y permanecen en su sitio hasta que finalice la duración del conjuro. Las palabras se disipan cuando el conjuro termina. Un viento fuerte puede dispersar las nubes y finalizar así el conjuro. ESFERA ACUOSA Conjuración nivel 4 Tiempo de lanzamiento: 1 acción Alcance: 90 pies Componentes: V, S, M (una gota de agua) Duración: Concentración, hasta 1 minuto Conjuras una esfera de agua de un radio despies en un punto que puedas ver y que se encuentredentro del alcance. Esta puede levitar, pero no a más de 10 pies de altura. La esfera permanecehasta que el conjuro termina. Cualquier criatura situada en el espacio de la esfera deberá hacer una tirada de salvación de Fuerza. Si tiene éxito, será expulsada de esa zona hasta el espacio des­ ocupado más cercano que la criatura elija en el exterior de la esfera. Un objetivo Enorme o más grande tiene éxito en la tirada de salvación automáticamente, mientras que una criatura Grande o más pequeña puede decidir fallar voluntariamente. Si falla, el objetivo será apresado por la esfera y engullido por el agua. Al final de cada uno de sus turnos, dicha criatura podrá repetir la tirada de salvación, librándose del efecto si tiene éxito. La esfera puede contener hasta cuatro criaturas Medianas o Pequeñas o únicamente una Grande. Sapresa a un objetivo que hace que se exceda esta capacidad, una criatura al azar que ya fue capturada por la esfera saldrá fueray caerá derribada en un espacio situado a 5 pies o menos de la esfera. Como acción adicional, puedes mover la esfera hasta 30 pies en línea recta. Si se desplaza sobre un foso, un acantilado u otra caída, descenderá de manera segura hasta que esté suspendida a 10 pies del suelo. Cualquier objetivo apresado por la esfera se mueve con ella. Además, puedes lanzarla contra criaturas, obligándolas a hacer tirada de salvación. Cuando el conjuro termina, la esfera cae al suelo y apaga todas las llamas normales que se encuentren a 30 pies o menos de ella. Cualquier criatura que estuviera apresada en su interior acaba derribada en el espacio donde cae la esfera. Después, el agua desaparece. ESFERA TORMENTOSA Evocación nivel 4 Tiempo de lanzamiento: 1 acción Alcance: 150 pies Componentes: V, S Duración: Concentración, hastal minuto Una esfera de aire arremolinado de 20 pies d"
+    },
+    "metadata": {
+      "source_pdf": "Guia de Xanathar Para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "flame-arrows",
+    "name": "Flechas Llameantes",
+    "description": "Tocas un carcaj con flechas o virotes. Cuando un objetivo es golpeado por un ataque de arma a distancia usando una munición extraída de dicha aljaba, este objetivo recibe 1d6 de daño de fuego adicional. La magia del conjuro presente en cada proyectil desaparece cuando este impacta o falla un ataque. El conjuro finalizacuando doceflechas o virotes han sido extraídos del carcaj. A niveles superiores. Cuando lanzas este conjuro utili­ zando un espacio de conjuro de nivel 4 o más, el número de municiones que puedes afectar con este conjuro aumenta en dos por cada nivel por encima de 3 que tenga el espacio que hayas empleado.",
+    "data": {
+      "level": 3,
+      "school": "transmutation",
+      "casting_time": "1 acción",
+      "range": "Toque",
+      "components": {
+        "V": true,
+        "S": true
+      },
+      "duration": "Concentración, hasta 1 hora",
+      "concentration": true,
+      "classes": [
+        "artificer",
+        "druid",
+        "ranger",
+        "sorcerer",
+        "wizard"
+      ],
+      "description": "Tocas un carcaj con flechas o virotes. Cuando un objetivo es golpeado por un ataque de arma a distancia usando una munición extraída de dicha aljaba, este objetivo recibe 1d6 de daño de fuego adicional. La magia del conjuro presente en cada proyectil desaparece cuando este impacta o falla un ataque. El conjuro finalizacuando doceflechas o virotes han sido extraídos del carcaj. A niveles superiores. Cuando lanzas este conjuro utili­ zando un espacio de conjuro de nivel 4 o más, el número de municiones que puedes afectar con este conjuro aumenta en dos por cada nivel por encima de 3 que tenga el espacio que hayas empleado."
+    },
+    "metadata": {
+      "source_pdf": "Guia de Xanathar Para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "skill-empowerment",
+    "name": "Fortalecer Habilidad",
+    "description": "Tu magia profundiza la comprensión de una criatura de sus propias aptitudes. Tocas a una criatura voluntaria y le das conocimientos en una habilidad de su elección. Hasta que termine el conjuro, la criatura duplica su bonificador por competencia para las pruebas de característica que usan la habilidad escogida. Debes elegir una habilidad en la que el objetivo sea com­ petente y que no está beneficiándose de otro efecto, como Pericia, que ya duplique su bonificador por competencia. CAPÍTULO3' CONJUROS_ mle N ...N\"xl'“'s.'__ ., = .. . A':.¡ , r - a — — : - — 4 E — Es = 1 EN - < FORTALEZA IMPONENTE FORTALEZA IMPONENTE Conjuración nivel 8 Tiempo de lanzamiento: 1 minuto Alcance: 1 milla Componentes:V, S, M (un diamante con un valor de, al menos, 500 po, que es consumido como parte del conjuro) Duración: Instantáneo Una fortaleza de piedra emerge desde un área de suelo cua­ drada de tu elección que puedas ver y se encuentre dentro del alcance. El área tendrá 120 pies de lado y no deberá con­ tener ningún edificio u otra estructura. Cualquier criatura situada en la zona será alzada inofensivamente a medida que el baluarte se eleva. La fortaleza tiene cuatro torres con bases cuadradas, cada una de 20 pies de lado y 30 pies de alto. Estas torres, situadas una en cada esquina, están conectadas entre sí por paredes de piedra de 80 pies de largo cada una, creando una zona cerrada. Cada uno de estos muros tiene un grosor de 1 pie y está compuesto por paneles de 10 pies de ancho y 20 pies de alto. Cada panel es contiguo con otros dos panelesu otro panel y una torre. Puedes colocar hasta cuatro puertas de piedra en la pared exterior de la fortificación. Una torre del homenaje se encuentra dentro del área cerrada. Este torreón tiene una base cuadrada de 50 pies de lado y cuenta con tres pisos cuyos techos tienen 10 pies de altura. Cada una de las plantas se puede dividir CAPÍTULO3o CONJUROS en tantas salas como desees, siempre que cada habitación tenga al menos 5 pies en cada lado. Los pisos de la torre del homenaje están conectados por escaleras de piedra, sus paredes miden 6 pulgadas de grosor y las habitacio­ nesinteriores pueden tener puertas de piedra o arcos abiertos, según tu gusto. Igualmente, está amueblada y decorada como prefieras y contiene suficiente comida para servir un banquete de nueve platos para hasta lOO perso­ nas cada día. Los muebles, los alimento",
+    "data": {
+      "level": 5,
+      "school": "transmutation",
+      "casting_time": "1 acción",
+      "range": "Toque",
+      "components": {
+        "V": true,
+        "S": true
+      },
+      "duration": "Concentración, hasta 1 hora",
+      "concentration": true,
+      "classes": [
+        "artificer",
+        "bard",
+        "sorcerer",
+        "wizard"
+      ],
+      "description": "Tu magia profundiza la comprensión de una criatura de sus propias aptitudes. Tocas a una criatura voluntaria y le das conocimientos en una habilidad de su elección. Hasta que termine el conjuro, la criatura duplica su bonificador por competencia para las pruebas de característica que usan la habilidad escogida. Debes elegir una habilidad en la que el objetivo sea com­ petente y que no está beneficiándose de otro efecto, como Pericia, que ya duplique su bonificador por competencia. CAPÍTULO3' CONJUROS_ mle N ...N\"xl'“'s.'__ ., = .. . A':.¡ , r - a — — : - — 4 E — Es = 1 EN - < FORTALEZA IMPONENTE FORTALEZA IMPONENTE Conjuración nivel 8 Tiempo de lanzamiento: 1 minuto Alcance: 1 milla Componentes:V, S, M (un diamante con un valor de, al menos, 500 po, que es consumido como parte del conjuro) Duración: Instantáneo Una fortaleza de piedra emerge desde un área de suelo cua­ drada de tu elección que puedas ver y se encuentre dentro del alcance. El área tendrá 120 pies de lado y no deberá con­ tener ningún edificio u otra estructura. Cualquier criatura situada en la zona será alzada inofensivamente a medida que el baluarte se eleva. La fortaleza tiene cuatro torres con bases cuadradas, cada una de 20 pies de lado y 30 pies de alto. Estas torres, situadas una en cada esquina, están conectadas entre sí por paredes de piedra de 80 pies de largo cada una, creando una zona cerrada. Cada uno de estos muros tiene un grosor de 1 pie y está compuesto por paneles de 10 pies de ancho y 20 pies de alto. Cada panel es contiguo con otros dos panelesu otro panel y una torre. Puedes colocar hasta cuatro puertas de piedra en la pared exterior de la fortificación. Una torre del homenaje se encuentra dentro del área cerrada. Este torreón tiene una base cuadrada de 50 pies de lado y cuenta con tres pisos cuyos techos tienen 10 pies de altura. Cada una de las plantas se puede dividir CAPÍTULO3o CONJUROS en tantas salas como desees, siempre que cada habitación tenga al menos 5 pies en cada lado. Los pisos de la torre del homenaje están conectados por escaleras de piedra, sus paredes miden 6 pulgadas de grosor y las habitacio­ nesinteriores pueden tener puertas de piedra o arcos abiertos, según tu gusto. Igualmente, está amueblada y decorada como prefieras y contiene suficiente comida para servir un banquete de nueve platos para hasta lOO perso­ nas cada día. Los muebles, los alimento"
+    },
+    "metadata": {
+      "source_pdf": "Guia de Xanathar Para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "elemental-bane",
+    "name": "Perdición Elemental",
+    "description": "Elige una criatura que puedas ver y se encuentre dentro del alcance y escoge uno de los siguientes tipos de daño: ácido, frío, fuego, relámpago o trueno. El objetivo deberá tener éxito en una tirada de salvación de Constitución o será afectado por el conjuro mientras este se mantenga. La pri­ mera vez en cada turno que la criatura reciba daño del tipo elegido, esta recibe 2d6 de daño adicional de dicho tipo. Ade­ más, el objetivo pierde cualquier resistencia que tuviera a ese tipo de daño hasta que el conjuro termine. A niveles superiores. Cuando lanzas este conjuro utili­ zando un espacio de conjuro de nivel 5 o más, puedes elegir como objetivo a una criatura adicional por cada nivel por encima de 4 que tenga el espacio que hayasempleado. En el momento de elegirlas como objetivo, cada criatura debe estar a 30 pies o menos de todas las demás.",
+    "data": {
+      "level": 4,
+      "school": "transmutation",
+      "casting_time": "1 acción",
+      "range": "90 pies",
+      "components": {
+        "V": true,
+        "S": true
+      },
+      "duration": "Concentración, hasta 1 minuto",
+      "concentration": true,
+      "classes": [
+        "artificer",
+        "druid",
+        "warlock",
+        "wizard"
+      ],
+      "description": "Elige una criatura que puedas ver y se encuentre dentro del alcance y escoge uno de los siguientes tipos de daño: ácido, frío, fuego, relámpago o trueno. El objetivo deberá tener éxito en una tirada de salvación de Constitución o será afectado por el conjuro mientras este se mantenga. La pri­ mera vez en cada turno que la criatura reciba daño del tipo elegido, esta recibe 2d6 de daño adicional de dicho tipo. Ade­ más, el objetivo pierde cualquier resistencia que tuviera a ese tipo de daño hasta que el conjuro termine. A niveles superiores. Cuando lanzas este conjuro utili­ zando un espacio de conjuro de nivel 5 o más, puedes elegir como objetivo a una criatura adicional por cada nivel por encima de 4 que tenga el espacio que hayasempleado. En el momento de elegirlas como objetivo, cada criatura debe estar a 30 pies o menos de todas las demás."
+    },
+    "metadata": {
+      "source_pdf": "Guia de Xanathar Para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "magic-stone",
+    "name": "Piedra Mágica",
+    "description": "Tocas entre uno y tres guijarros y los imbuyes de magia. Túo cualquier otro podéis arrojar o lanzar con una honda cual­ quiera de ellos, realizando un ataque de conjuro a distancia al hacerlo. Al ser arrojadas, estas piedras tienen un alcance de 60 pies. Cualquiera que no seas túque ataque usando estos guijarros añadirá tu modificador de aptitud mágica, en vez del suyo, a la tirada de ataque. Si este ataque impacta, el objetivo recibirá ld6 + tu modificador por aptitud mágica de daño contundente.Tanto si el ataque impacta como si falla, el conjuro deja de afectar a la piedra. Si lanzas otra vez este conjuro, este termina en cualquier piedra que todavía estuviera afectada por tu anterior lanzamiento.",
+    "data": {
+      "level": 0,
+      "school": "transmutation",
+      "casting_time": "1 acción adicional",
+      "range": "Toque",
+      "components": {
+        "V": true,
+        "S": true
+      },
+      "duration": "1 minuto",
+      "concentration": false,
+      "classes": [
+        "artificer",
+        "druid",
+        "warlock"
+      ],
+      "description": "Tocas entre uno y tres guijarros y los imbuyes de magia. Túo cualquier otro podéis arrojar o lanzar con una honda cual­ quiera de ellos, realizando un ataque de conjuro a distancia al hacerlo. Al ser arrojadas, estas piedras tienen un alcance de 60 pies. Cualquiera que no seas túque ataque usando estos guijarros añadirá tu modificador de aptitud mágica, en vez del suyo, a la tirada de ataque. Si este ataque impacta, el objetivo recibirá ld6 + tu modificador por aptitud mágica de daño contundente.Tanto si el ataque impacta como si falla, el conjuro deja de afectar a la piedra. Si lanzas otra vez este conjuro, este termina en cualquier piedra que todavía estuviera afectada por tu anterior lanzamiento."
+    },
+    "metadata": {
+      "source_pdf": "Guia de Xanathar Para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "pyrotechnics",
+    "name": "Pirotecnia",
+    "description": "Elige una zona de llamas no mágicas que puedas ver, se encuentre dentro del alcance y quepa dentro de un cubo despies de lado. Puedes extinguir el fuego en esa área y crear fuegos artificiales o humo cuando lo haces. Fuegos artificiales. El cubo explota con un deslumbrante despliegue de colores. Cada criatura situada a 10 pies del objetivo deberá tener éxito en una tirada de salvación de Constitución o quedará cegada hasta el final de tu siguiente turno. Humo. Un humo negro se extiende desde el cubo en un radio de 20 pies, esparciéndose portodos los rincones. Esta zona sevuelvemuy oscura. El humo persiste durante 1 minuto o hasta que un viento fuerte lo disperse. PLAGA Conjuración (truco) Tiempo de lanzamiento: 1 acción Alcance: 30 pies Componentes: V, S, M (una pulga viva) Duración: Instantáneo Creas un enjambre de ácaros, pulgas y otros parásitos, que aparecen momentáneamente sobre una criatura qepuedas ver y se encuentre dentro del alcance. El objetivo deberá tener éxito en una tirada de salvación de Constitución o recibirá ld6 de daño de veneno y se moveráspies en una dirección aleatoria, siempre y cuando pueda desplazarsey su velocidad sea de al menosspies. Lanza un d4 para deter­ minar la dirección: 1, norte; 2, sur; 3, este; o 4, oeste. Este movimiento no provoca ataques de oportunidad. Si la direc­ ción obtenida está bloqueada, el objetivo no se mueve. A niveles superiores. El daño del conjuro aumenta en ld6 cuando alcanzas nivel 5 (2d6), nivel 11 (3d6)y nivel 17 (4d6). POLIMORFAR EN MASA Transmutación nivel 9 Tiempo de lanzamiento: 1 acción Alcance: 120 pies Componentes: V, S, M (un capullo de oruga) Duración: Concentración, hasta 1 hora Transformas hasta diez criaturasde tu elección que puedas very se encuentren dentro del alcance. Un objetivo involunta­ rio deberá tener éxito en una tirada de salvación de Sabiduría para resistirse a la transformación. Un cambiaformas que se oponga a ser transformado tendrá éxito automáticamente en esta tirada. Cada objetivo asume una forma bestial de tu elección. Puedes elegir un mismo aspecto para todos o uno diferente para cada criatura. La nueva forma puede ser la de cualquier bestia cuyo valor de desafío sea igual o menor que el del objetivo (o igual o inferior al nivel del objetivo, si este no tiene un valor de desafío). El perfil de la criatura, incluyendo sus puntuaciones de características mentales",
+    "data": {
+      "level": 2,
+      "school": "transmutation",
+      "casting_time": "1 acción",
+      "range": "60 pies",
+      "components": {
+        "V": true,
+        "S": true
+      },
+      "duration": "Instantáneo",
+      "concentration": false,
+      "classes": [
+        "artificer",
+        "bard",
+        "sorcerer",
+        "wizard"
+      ],
+      "description": "Elige una zona de llamas no mágicas que puedas ver, se encuentre dentro del alcance y quepa dentro de un cubo despies de lado. Puedes extinguir el fuego en esa área y crear fuegos artificiales o humo cuando lo haces. Fuegos artificiales. El cubo explota con un deslumbrante despliegue de colores. Cada criatura situada a 10 pies del objetivo deberá tener éxito en una tirada de salvación de Constitución o quedará cegada hasta el final de tu siguiente turno. Humo. Un humo negro se extiende desde el cubo en un radio de 20 pies, esparciéndose portodos los rincones. Esta zona sevuelvemuy oscura. El humo persiste durante 1 minuto o hasta que un viento fuerte lo disperse. PLAGA Conjuración (truco) Tiempo de lanzamiento: 1 acción Alcance: 30 pies Componentes: V, S, M (una pulga viva) Duración: Instantáneo Creas un enjambre de ácaros, pulgas y otros parásitos, que aparecen momentáneamente sobre una criatura qepuedas ver y se encuentre dentro del alcance. El objetivo deberá tener éxito en una tirada de salvación de Constitución o recibirá ld6 de daño de veneno y se moveráspies en una dirección aleatoria, siempre y cuando pueda desplazarsey su velocidad sea de al menosspies. Lanza un d4 para deter­ minar la dirección: 1, norte; 2, sur; 3, este; o 4, oeste. Este movimiento no provoca ataques de oportunidad. Si la direc­ ción obtenida está bloqueada, el objetivo no se mueve. A niveles superiores. El daño del conjuro aumenta en ld6 cuando alcanzas nivel 5 (2d6), nivel 11 (3d6)y nivel 17 (4d6). POLIMORFAR EN MASA Transmutación nivel 9 Tiempo de lanzamiento: 1 acción Alcance: 120 pies Componentes: V, S, M (un capullo de oruga) Duración: Concentración, hasta 1 hora Transformas hasta diez criaturasde tu elección que puedas very se encuentren dentro del alcance. Un objetivo involunta­ rio deberá tener éxito en una tirada de salvación de Sabiduría para resistirse a la transformación. Un cambiaformas que se oponga a ser transformado tendrá éxito automáticamente en esta tirada. Cada objetivo asume una forma bestial de tu elección. Puedes elegir un mismo aspecto para todos o uno diferente para cada criatura. La nueva forma puede ser la de cualquier bestia cuyo valor de desafío sea igual o menor que el del objetivo (o igual o inferior al nivel del objetivo, si este no tiene un valor de desafío). El perfil de la criatura, incluyendo sus puntuaciones de características mentales"
+    },
+    "metadata": {
+      "source_pdf": "Guia de Xanathar Para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "tiny-servant",
+    "name": "Siervo Diminuto",
+    "description": "Tocasun objeto Diminuto no mágico, que no se encuentre atado a otro objeto o una superficie y no esté siendo llevado por otra criatura. El objetivo se anima y le brotan pequeños brazos y piernas, convirtiéndose en una criaturabajo tu control hasta que el conjuro finalice o los puntos de golpe del objeto se reduz­ can a O. Consulta el perfil que aparece más adelante. Como acción adicional, puedes dar órdenes mentalmente a la criatura si esta está a 120 pies o menos de ti (si contro­ las a varios objetos con este conjuro, puedes dar una orden a cualquiera de ellos o a todos ellos al mismo tiempo, dando la misma instrucción a todos ellos). Túdecides qué acción rea­ lizará la criatura y dónde se desplazará durante su siguiente turno. Por ejemplo, puedes impartir una instrucción simple y general, como buscar una llave, montar guardia o apilar algunos libros. Si no das ninguna orden, el servidor no hará nada aparte de defenderse contra criaturas hostiles. Una vez recibe una orden, el objeto la sigue hasta cumplirla. Cuando los puntos de golpe de la criatura descienden a O, esta vuelve a su forma originaly cualquier daño sobrante se aplica a dicha forma.Autómata pequeño, sin alineamiento Clase de Armadura: 1 S (armadura natural) Puntos de golpe: 10 (4d4) Velocidad: 30 pies, trepar 30 pies FUE 4 (-3) DES 16 (+3) CON 10 (+0) INT 2 (-4) Inmunidad a daño: psíquico, veneno SAB 10 (+0) CAR 1 (-5) Inmunidad a estados: asustado, cansancio, cegado, ensordecido, envenenado, hechizado, paralizado, petrificado Sentidos: visión ciega 60 pies (ciego más allá de este radio), Percepción pasiva 1O Idiomas: - ACCION ES Golpe. Ataque con arma cuerpo a cuerpo: +S a impactar, alcancespies, un objetivo. Impacto: 5 (1d4 + 3) de daf'iocontundente. A niveles superiores. Cuando lanzas este conjuro utilizando un espacio de conjuro de nivel 4 o más, puedes animar dos objetos adicionales por cada nivel por encima de 3 que tenga el espacio que hayas utilizado. SOMBRA TUMULTUOSA Nigromancia nivel 4 Tiempo de lanzamiento: 1 acción Alcance: Lanzador Componentes:V, S, M (el globo ocular de un muerto viviente engarzado en unajoya que valga por lo menos 150 po) Duración: Concentración, hasta 1 minuto Sombras parecidas a llamas envuelven tu cuerpo hasta que el conjuro termine, haciendo que los demás te perciban como si estuvieras en un área muy oscura. Además, las sombras transforman la luz tenue",
+    "data": {
+      "level": 3,
+      "school": "transmutation",
+      "casting_time": "1 minuto",
+      "range": "Toque",
+      "components": {
+        "V": true,
+        "S": true
+      },
+      "duration": "8 horas",
+      "concentration": false,
+      "classes": [
+        "artificer",
+        "wizard"
+      ],
+      "description": "Tocasun objeto Diminuto no mágico, que no se encuentre atado a otro objeto o una superficie y no esté siendo llevado por otra criatura. El objetivo se anima y le brotan pequeños brazos y piernas, convirtiéndose en una criaturabajo tu control hasta que el conjuro finalice o los puntos de golpe del objeto se reduz­ can a O. Consulta el perfil que aparece más adelante. Como acción adicional, puedes dar órdenes mentalmente a la criatura si esta está a 120 pies o menos de ti (si contro­ las a varios objetos con este conjuro, puedes dar una orden a cualquiera de ellos o a todos ellos al mismo tiempo, dando la misma instrucción a todos ellos). Túdecides qué acción rea­ lizará la criatura y dónde se desplazará durante su siguiente turno. Por ejemplo, puedes impartir una instrucción simple y general, como buscar una llave, montar guardia o apilar algunos libros. Si no das ninguna orden, el servidor no hará nada aparte de defenderse contra criaturas hostiles. Una vez recibe una orden, el objeto la sigue hasta cumplirla. Cuando los puntos de golpe de la criatura descienden a O, esta vuelve a su forma originaly cualquier daño sobrante se aplica a dicha forma.Autómata pequeño, sin alineamiento Clase de Armadura: 1 S (armadura natural) Puntos de golpe: 10 (4d4) Velocidad: 30 pies, trepar 30 pies FUE 4 (-3) DES 16 (+3) CON 10 (+0) INT 2 (-4) Inmunidad a daño: psíquico, veneno SAB 10 (+0) CAR 1 (-5) Inmunidad a estados: asustado, cansancio, cegado, ensordecido, envenenado, hechizado, paralizado, petrificado Sentidos: visión ciega 60 pies (ciego más allá de este radio), Percepción pasiva 1O Idiomas: - ACCION ES Golpe. Ataque con arma cuerpo a cuerpo: +S a impactar, alcancespies, un objetivo. Impacto: 5 (1d4 + 3) de daf'iocontundente. A niveles superiores. Cuando lanzas este conjuro utilizando un espacio de conjuro de nivel 4 o más, puedes animar dos objetos adicionales por cada nivel por encima de 3 que tenga el espacio que hayas utilizado. SOMBRA TUMULTUOSA Nigromancia nivel 4 Tiempo de lanzamiento: 1 acción Alcance: Lanzador Componentes:V, S, M (el globo ocular de un muerto viviente engarzado en unajoya que valga por lo menos 150 po) Duración: Concentración, hasta 1 minuto Sombras parecidas a llamas envuelven tu cuerpo hasta que el conjuro termine, haciendo que los demás te perciban como si estuvieras en un área muy oscura. Además, las sombras transforman la luz tenue"
+    },
+    "metadata": {
+      "source_pdf": "Guia de Xanathar Para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "toll-the-dead",
+    "name": "Tañido por los Muertos",
+    "description": "Señalas a una criatura que puedas ver y que se encuentre dentro del alcance. El sonido de una lacerante campana llena el aire a su alrededor durante un momento. El objetivo deberá tener éxito en una tirada de salvación de Sabiduría o sufrirá 1d8 de daño necrótico. Sala criatura le falta alguno de sus puntos de golpe, en vez de ld8 recibirá ldl2 de daño necrótico. A niveles superiores. El daño del conjuro aumenta en un dadocuandoalcanzas nivel 5 (2d8 o 2dl2), nivel 11 (3d8 o 3dl2) y nivel 17 (4d8 o 4dl2). TEMBLOR DE TIERRA Evocación nivel l Tiempo de lanzamiento: 1 acción Alcance: Lanzador (radio 10 pies) Componentes: V, S Duración: Instantáneo Causas un temblor en el suelo que se encuentre dentro del alcance. Cada criatura, salvo tú, situada en esa zona deberá hacer una tirada de salvación de Destreza. Si la falla, sufrirá 1d6 de daño contundente y será derribada. En caso de que el suelo dentro del área esté compuesto de tierra suelta o piedra, este se convertirá en terreno difícil hasta que sea despejado. Cada porción de 5 pies de diámetro de la zona precisa de al menos 1 minuto para ser despejada a mano. A niveles superiores. Cuando lanzas este conjuro utilizando un espacio de conjuro de nivel 2 o más, el daño aumenta en 1d6 por cada nivel por encima de 1 que tenga el espacio que hayas empleado. CAPÍTULO3 : CONJUROSTEMPLO DE LOS DIOSES Conjuración nivel 7 Tiempo de lanzamiento: 1 hora Alcance: 120 pies Componentes: V, S, M (un símbolo sagrado con un valor de al menosspo) Duración: 24 horas Haces que un templo emerja de una luz titilante en un terreno que puedas verdentro del alcance. El edificio debe caber dentro de un cubo desocupado de hasta 120 pies de lado. El templo permanece hasta que el conjuro termina. Está dedicado a cualquier dios, panteón o filosofía represen­ tada por el símbolo sagrado utilizado en el lanzamiento. Tomas todas las decisiones referentes a la apariencia del edificio. El interior está formado por un suelo,paredesy un techo, con una puerta que permite el acceso al interiory tantas ventanas como desees. Solo túy cualquier criatura que desig­ nes cuando lanzas el conjuro podréis abrir o cerrar la puerta. El interior del templo es un espacio abierto que contiene un ídolo o un altar en un extremo. Decide si el edificio está ilumi­ nado y si esa iluminación es luz brillante o luz tenue. El olor a incienso ardiente llena el aire y",
+    "data": {
+      "level": 0,
+      "school": "necromancy",
+      "casting_time": "1 acción",
+      "range": "60 pies",
+      "components": {
+        "V": true,
+        "S": true
+      },
+      "duration": "Instantáneo",
+      "concentration": false,
+      "classes": [
+        "cleric",
+        "warlock",
+        "wizard"
+      ],
+      "description": "Señalas a una criatura que puedas ver y que se encuentre dentro del alcance. El sonido de una lacerante campana llena el aire a su alrededor durante un momento. El objetivo deberá tener éxito en una tirada de salvación de Sabiduría o sufrirá 1d8 de daño necrótico. Sala criatura le falta alguno de sus puntos de golpe, en vez de ld8 recibirá ldl2 de daño necrótico. A niveles superiores. El daño del conjuro aumenta en un dadocuandoalcanzas nivel 5 (2d8 o 2dl2), nivel 11 (3d8 o 3dl2) y nivel 17 (4d8 o 4dl2). TEMBLOR DE TIERRA Evocación nivel l Tiempo de lanzamiento: 1 acción Alcance: Lanzador (radio 10 pies) Componentes: V, S Duración: Instantáneo Causas un temblor en el suelo que se encuentre dentro del alcance. Cada criatura, salvo tú, situada en esa zona deberá hacer una tirada de salvación de Destreza. Si la falla, sufrirá 1d6 de daño contundente y será derribada. En caso de que el suelo dentro del área esté compuesto de tierra suelta o piedra, este se convertirá en terreno difícil hasta que sea despejado. Cada porción de 5 pies de diámetro de la zona precisa de al menos 1 minuto para ser despejada a mano. A niveles superiores. Cuando lanzas este conjuro utilizando un espacio de conjuro de nivel 2 o más, el daño aumenta en 1d6 por cada nivel por encima de 1 que tenga el espacio que hayas empleado. CAPÍTULO3 : CONJUROSTEMPLO DE LOS DIOSES Conjuración nivel 7 Tiempo de lanzamiento: 1 hora Alcance: 120 pies Componentes: V, S, M (un símbolo sagrado con un valor de al menosspo) Duración: 24 horas Haces que un templo emerja de una luz titilante en un terreno que puedas verdentro del alcance. El edificio debe caber dentro de un cubo desocupado de hasta 120 pies de lado. El templo permanece hasta que el conjuro termina. Está dedicado a cualquier dios, panteón o filosofía represen­ tada por el símbolo sagrado utilizado en el lanzamiento. Tomas todas las decisiones referentes a la apariencia del edificio. El interior está formado por un suelo,paredesy un techo, con una puerta que permite el acceso al interiory tantas ventanas como desees. Solo túy cualquier criatura que desig­ nes cuando lanzas el conjuro podréis abrir o cerrar la puerta. El interior del templo es un espacio abierto que contiene un ídolo o un altar en un extremo. Decide si el edificio está ilumi­ nado y si esa iluminación es luz brillante o luz tenue. El olor a incienso ardiente llena el aire y"
+    },
+    "metadata": {
+      "source_pdf": "Guia de Xanathar Para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "transmute-rock",
+    "name": "Transmutar Piedra",
+    "description": "Eliges una zona de piedra o barro que puedas ver, que quepa dentro un cubo de 40 pies y que esté dentro del alcance. Tras hacer esto, escoge uno de los siguientes efectos: Transmutarroca en barro. Una roca no mágica de cualquier tipo situada en la zona se convierte en un volumen de similar grosor de barro, que permanece así hasta que finalice el conjuro. El suelo en la zona del conjuro se vuelve lo suficiente mente fangoso para que alguien pueda hundirse en él. Cada pie que una criatura se mueva a través del fango costará 4 pies de movimientoy, cuando lanzas el conjuro, cualquier criatura que esté en el suelo afectado deberá hacer una tirada de salvación de Fuerza. También tendrá que hacer esta tirada de salvación cualquier criatura que entre en la zona por primera vez en un turno o que acabe su turno en ella. Si falla, la criatura se hunde en el lodo y es apresada, aunque puede usar una acción para terminar la condición \"atrapada\" sobre sí misma, escapando del barro. Si lanzas el conjuro en un techo, el barro cae. Cualquier criatura bajo el fango deberá realizar una tirada de salvación de Destreza. Sufrirá 4d8 de daño contundente si falla la tirada o la mitad de dicho daño si la supera. Transmutar barro enroca. El lodo no mágico o arenas movedizas en el área, hasta una profundidad no superior a 10 pies, se transforma en piedra lisa hasta que finalice el conjuro. Cualquier criatura en el fango cuando este se transforma deberá realizar una tirada de salvación de Destreza. Si tiene éxito, logra apartarse a un lado, a salvo en la superficie en un espacio desocupado. Si falla, pasará a estar apresada por la roca. Una criatura apresada, u otra criatura a su alcance, puede usar una acción para tratar de romper la piedra. Para ello deberá tener éxito en una prueba de Fuerza CD 20 o infligirle daño suficiente. La roca tiene CA 15, 25 puntos de golpe e inmunidad a los daños psíquico y de veneno.",
+    "data": {
+      "level": 5,
+      "school": "transmutation",
+      "casting_time": "1 acción",
+      "range": "120 pies",
+      "components": {
+        "V": true,
+        "S": true,
+        "M": "arcilla y agua"
+      },
+      "duration": "Hasta que se disipe",
+      "concentration": false,
+      "classes": [
+        "artificer",
+        "druid",
+        "wizard"
+      ],
+      "description": "Eliges una zona de piedra o barro que puedas ver, que quepa dentro un cubo de 40 pies y que esté dentro del alcance. Tras hacer esto, escoge uno de los siguientes efectos: Transmutarroca en barro. Una roca no mágica de cualquier tipo situada en la zona se convierte en un volumen de similar grosor de barro, que permanece así hasta que finalice el conjuro. El suelo en la zona del conjuro se vuelve lo suficiente mente fangoso para que alguien pueda hundirse en él. Cada pie que una criatura se mueva a través del fango costará 4 pies de movimientoy, cuando lanzas el conjuro, cualquier criatura que esté en el suelo afectado deberá hacer una tirada de salvación de Fuerza. También tendrá que hacer esta tirada de salvación cualquier criatura que entre en la zona por primera vez en un turno o que acabe su turno en ella. Si falla, la criatura se hunde en el lodo y es apresada, aunque puede usar una acción para terminar la condición \"atrapada\" sobre sí misma, escapando del barro. Si lanzas el conjuro en un techo, el barro cae. Cualquier criatura bajo el fango deberá realizar una tirada de salvación de Destreza. Sufrirá 4d8 de daño contundente si falla la tirada o la mitad de dicho daño si la supera. Transmutar barro enroca. El lodo no mágico o arenas movedizas en el área, hasta una profundidad no superior a 10 pies, se transforma en piedra lisa hasta que finalice el conjuro. Cualquier criatura en el fango cuando este se transforma deberá realizar una tirada de salvación de Destreza. Si tiene éxito, logra apartarse a un lado, a salvo en la superficie en un espacio desocupado. Si falla, pasará a estar apresada por la roca. Una criatura apresada, u otra criatura a su alcance, puede usar una acción para tratar de romper la piedra. Para ello deberá tener éxito en una prueba de Fuerza CD 20 o infligirle daño suficiente. La roca tiene CA 15, 25 puntos de golpe e inmunidad a los daños psíquico y de veneno."
+    },
+    "metadata": {
+      "source_pdf": "Guia de Xanathar Para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  },
+  {
+    "slug": "thunderclap",
+    "name": "Tronar",
+    "description": "Creas una explosión de sonido atronador que puede ser escuchada hasta a 100 pies de distancia. Todas las criatu ras que se encuentren dentro del alcance, salvo tú, deberán superar una tirada de salvación de Destreza o recibirán 1d6 de daño de trueno. A niveles superiores. El daño del conjuro aumenta en 1d6 cuando alcanzas nivel 5 (2d6), nivel 11 (3d6) y nivel 17 (4d6). VIENTO GUARDIÁN Evocación nivel 2 Tiempo de lanzamiento: 1 acción Alcance: Lanzador (radio de 10 pies) Componentes: V Duración: Concentración, hasta 10 minutos Un fuerte viento (20 millas por hora) sopla a tu alrededor en un radio de 10 pies y se mueve contigo, permaneciendo cen trado en ti. Este se mantiene hasta que el conjuro finaliza. El viento tiene los siguientes efectos: Te ensordece a ti y a otras criaturas situadas dntro su área. Extingue las llamas desprotegidas que se encuentren en su zona y sean del tamaño de antorchas o más pequeñas. Dispersa elvapor, el gas y la niebla que puedan ser disipa das por un viento fuerte. La zona es terreno difícil para las criaturas que no sean tú. Las tiradas de ataque de armas a distancia tienen des ventaja si los ataques cruzan desde el exterior al interior, o viceversa, del viento. VINCULAR BESTIA Adivinación nivel 1 Tiempo de lanzamiento: 1 acción Alcance: Toque Componentes: V, S, M (un poco de pelaje envuelto en un paño) Duración: Concentración, hasta 10 minutos Estableces un enlace telepático con una bestia a la que toques y que sea amistosa o esté hechizada por ti. Si su inteligencia es 4 o superior, el conjuro falla. Dicho enlace se mantendrá activo hasta que el conjuro termine, siempre y cuando la criatura y túos encontréis el uno dentro de la línea de visión del otro, y viceversa. A través del enlace, la criatura podrá entender tus mensajes telepáticos y comuni carte de forma telepática conceptos y emociones. Mientras el enlace esté activo, la bestia ganaventaja en las tiradas de ataque contra cualquier criatura situada aspies de ti que puedas ver. VORÁGINE Evocación nivel S Tiempo de lanzamiento: 1 acción Alcance: 120 pies Componentes:V, S, M (papel u hoja en forma de un embudo) Duración: Concentración, hasta 1 minuto Una arremolinada masa de agua despies de profundidad aparece en un radio de 30 pies alrededor de un punto que puedas ver y se encuentre dentro del alcance. El punto debe estar sobre el suelo o en un cuerpo de agua. Hast",
+    "data": {
+      "level": 0,
+      "school": "evocation",
+      "casting_time": "1 acción",
+      "range": "Lanzador (5 pies de radio)",
+      "components": {
+        "V": false,
+        "S": true
+      },
+      "duration": "Instantáneo",
+      "concentration": false,
+      "classes": [
+        "artificer",
+        "bard",
+        "druid",
+        "sorcerer",
+        "warlock",
+        "wizard"
+      ],
+      "description": "Creas una explosión de sonido atronador que puede ser escuchada hasta a 100 pies de distancia. Todas las criatu ras que se encuentren dentro del alcance, salvo tú, deberán superar una tirada de salvación de Destreza o recibirán 1d6 de daño de trueno. A niveles superiores. El daño del conjuro aumenta en 1d6 cuando alcanzas nivel 5 (2d6), nivel 11 (3d6) y nivel 17 (4d6). VIENTO GUARDIÁN Evocación nivel 2 Tiempo de lanzamiento: 1 acción Alcance: Lanzador (radio de 10 pies) Componentes: V Duración: Concentración, hasta 10 minutos Un fuerte viento (20 millas por hora) sopla a tu alrededor en un radio de 10 pies y se mueve contigo, permaneciendo cen trado en ti. Este se mantiene hasta que el conjuro finaliza. El viento tiene los siguientes efectos: Te ensordece a ti y a otras criaturas situadas dntro su área. Extingue las llamas desprotegidas que se encuentren en su zona y sean del tamaño de antorchas o más pequeñas. Dispersa elvapor, el gas y la niebla que puedan ser disipa das por un viento fuerte. La zona es terreno difícil para las criaturas que no sean tú. Las tiradas de ataque de armas a distancia tienen des ventaja si los ataques cruzan desde el exterior al interior, o viceversa, del viento. VINCULAR BESTIA Adivinación nivel 1 Tiempo de lanzamiento: 1 acción Alcance: Toque Componentes: V, S, M (un poco de pelaje envuelto en un paño) Duración: Concentración, hasta 10 minutos Estableces un enlace telepático con una bestia a la que toques y que sea amistosa o esté hechizada por ti. Si su inteligencia es 4 o superior, el conjuro falla. Dicho enlace se mantendrá activo hasta que el conjuro termine, siempre y cuando la criatura y túos encontréis el uno dentro de la línea de visión del otro, y viceversa. A través del enlace, la criatura podrá entender tus mensajes telepáticos y comuni carte de forma telepática conceptos y emociones. Mientras el enlace esté activo, la bestia ganaventaja en las tiradas de ataque contra cualquier criatura situada aspies de ti que puedas ver. VORÁGINE Evocación nivel S Tiempo de lanzamiento: 1 acción Alcance: 120 pies Componentes:V, S, M (papel u hoja en forma de un embudo) Duración: Concentración, hasta 1 minuto Una arremolinada masa de agua despies de profundidad aparece en un radio de 30 pies alrededor de un punto que puedas ver y se encuentre dentro del alcance. El punto debe estar sobre el suelo o en un cuerpo de agua. Hast"
+    },
+    "metadata": {
+      "source_pdf": "Guia de Xanathar Para Todo.pdf",
+      "extractor": "pdftotext -raw"
+    }
+  }
+]

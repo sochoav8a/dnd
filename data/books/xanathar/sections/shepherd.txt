@@ -1,0 +1,121 @@
+RASGOS DEL C IRCULO DEL PASTOR
+N ivel de
+druida
+
+Rasgo
+Lengua de los Bosques, Tótem E s p i ritual
+I nvocador Poderoso
+
+10
+
+Espíritu G u a rd i á n
+
+14
+
+Fieles I nvocados
+
+LENGUA DE LOS B O S QU E S
+A nivel 2 obtienes l a capacidad d e hablar con bestias y
+criaturas feéricas.
+Aprendes a hablar, leer y escribir silvano. Además, los
+animales pueden entenderte cuando hablas y eres capaz
+de descifrar sus sonidos y movimientos. La mayoría de
+bestias no tienen la inteligencia suficiente para transmitir o
+entender conceptos sofisticados, pero una criatura amistosa
+podría informar de lo que ha visto u oído recientemente.
+
+D R U I D A DEL ( Í R C U L. O D E L. P A S T O R
+
+Esta habilidad no te concede amistad con los animales, pero
+puedes combinarla con regalos para conseguir su favor,
+como lo harías con otro personaje no jugador.
+
+TóTEM ESPIRITUAL
+A partir de nivel 2, eres capaz de convocar a los espíritus de
+la naturaleza para influir en el mundo. Como acción adicio­
+nal, puedes invocar de forma mágica a un animal incorpóreo
+en un punto que puedas ver y se encuentre a 60 pies o menos
+de ti. Este espíritu crea un aura de 30 pies de radio alrede­
+dor de ese punto. No cuenta como criatura ni como objeto,
+aunque tiene el aspecto espectral del ser que representa.
+Como acción adicional, puedes mover el espíritu hasta
+60 pies a un punto que puedas ver.
+Este animal incorpóreo persiste durante 1 minuto o hasta
+que quedes incapacitado.
+Una vez hayas utilizado este rasgo, deberás terminar un
+descanso corto o largo para poder volver a usarlo.
+Los efectos del aura dependen del tipo de espíritu que
+invoques, de entre las opciones presentadas a continuación.
+Espíritu de halcón. El espíritu del halcón es un cazador
+consumado, de modo que os ayudará a ti y a tus aliados
+con su aguda vista. Cuando una criatura realice una tirada
+de ataque contra un objetivo que se encuentre en el aura,
+puedes usar tu reacción para otorgar ventaja en esa tirada
+de ataque. Además, tú y tus aliados tenéis ventaja en las
+pruebas de Sabiduría (Percepción) mientras estéis dentro
+del aura.
+Espíritu de oso. El espíritu del oso te otorga a ti y a tus
+aliados su fuerza y resistencia. Cada criatura de tu elección
+que se encuentre en el aura cuando aparece el espíritu obtiene
+tu nivel de druida + 5 puntos de golpe temporales. Además, tú
+y todos tus aliados tenéis ventaja en las pruebas y tiradas de
+salvación de Fuerza mientras permanezcáis en el aura.
+
+FIELES INVOCADOS
+A partir d e nivel 14, los espíritus de la naturaleza c o n los que
+comulgas te protegerán cuando estés más indefenso. Si tus
+puntos de golpe se reducen a O o eres incapacitado contra
+tu voluntad, puedes ganar inmediatamente los beneficios
+de conjurar animales como si hubiera sido lanzado usando
+un espacio de conjuro de nivel 9. Este conjuro invoca a
+cuatro bestias de tu elección cuyo valor de desafío sea de 2 o
+menos. Estas aparecen a 20 pies o menos de ti. Si no reciben
+ninguna orden tuya, te protegerán de todo mal y atacarán a
+tus enemigos. El conjuro dura 1 hora, sin que sea necesaria
+concentración, o hasta que decidas darlo por terminado (esto
+no requiere una acción).
+Una vez utilizado este rasgo, deberás terminar un des­
+canso largo para poder volver a usarlo.
+
+C í RC U L O DE L O S S u E Ñ o s
+Los miembros del Círculo d e los Sueños vienen d e regiones
+con fuertes lazos con el Feywild y sus reinos de ensueño. La
+vigilancia del mundo natural que llevan a cabo los druidas
+hace que se forme una alianza natural entre ellos y los
+feéricos buenos, de modo que los primeros buscan llenar el
+mundo de maravillas oníricas. Su magia restaña heridas y
+alegra a los abatidos, mientras que los reinos que protegen
+son lugares de abundancia y resplandor, donde los sueños y
+la realidad se funden y los cansados encuentran reposo.
+Espíritu de unicornio. El espíritu del unicornio otorga
+su protección a aquellos que se encuentren cerca de él.
+Tú y tus aliados obtenéis ventaja en todas las pruebas de
+característica para detectar a criaturas situadas en el aura.
+Además, cuando lances un conjuro utilizando un espacio de
+conjuro que devuelva puntos de golpe a cualquier objetivo
+dentro o fuera del aura, todas las criaturas de tu elección que
+se encuentren en el interior del aura recuperarán además
+tantos puntos de golpe como tu nivel de druida.
+
+INVOCADOR PODERO S O
+A nivel 6, l a s bestias y seres feéricos que convocas son
+más resistentes de lo normal. Cualquier animal o feérico
+invocado o creado mediante un conjuro que hayas lanzado
+obtiene los siguientes beneficios:
+Aparece con más puntos de golpe de lo normal: 2 puntos
+de golpe adicionales por cada Dado de Golpe.
+El daño de sus armas naturales se considera mágico a
+efectos de superar inmunidades y resistencias a ataques o
+daño no mágico.
+
+EsPÍRITU GuARDIÁN
+A partir de nivel 10, tu tótem espiritual protege a las bestias
+y seres feéricos que invoques mediante tu magia. Cuando
+la bestia o feérico invocado o creado por un conjuro tuyo
+acabe su turno en el aura de tu tótem espiritual, esa criatura
+recupera tantos puntos de golpe como la mitad de tu nivel
+de druida.
+
+1:
+
+CAPÍTULO OPCIONES DE PERSONAJE
