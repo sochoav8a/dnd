@@ -202,25 +202,25 @@
         "3": [
           {
             "name": "Forma de la Bestia",
-            "description": "Cuando entras en furia, manifiestas una mordedura, garras o una cola bestial, cada una con propiedades ofensivas distintas."
+            "description": "Al entrar en furia, tu cuerpo se transforma y manifiestas una de las siguientes armas naturales (eliges cada vez que entras en furia):\n\n• Mordedura: Tu boca se convierte en un hocico o fauces enormes. Ataque cuerpo a cuerpo: daño 1d8 + mod. FUE (perforante). Una vez por turno, cuando impactas con esta mordedura mientras estás en furia, recuperas PG igual a 1d6 + modificador de Constitución (mínimo 1).\n\n• Garras: Tus manos terminan en garras afiladas. Ataque cuerpo a cuerpo: daño 1d6 + mod. FUE (cortante). Cuando usas las garras en la acción Atacar, puedes realizar un ataque adicional con ellas como parte de la misma acción.\n\n• Cola: Te brota una cola con espinas o una punta dura. Ataque cuerpo a cuerpo (alcance 10 pies): daño 1d8 + mod. FUE (perforante). Cuando otra criatura que puedas ver te impacta con un ataque, puedes usar tu reacción para añadir 1d8 a tu CA contra ese ataque (después de ver la tirada pero antes de que impacte o falle).\n\nEstas armas naturales son consideradas armas de combate para ti y puedes usarlas junto con tus demás ataques."
           }
         ],
         "6": [
           {
             "name": "Alma Bestial",
-            "description": "Tus armas naturales pasan a contar como mágicas y, tras cada descanso, eliges una adaptación bestial que mejora tu movimiento o movilidad."
+            "description": "Tus armas naturales de Forma de la Bestia cuentan como mágicas a efectos de superar resistencias e inmunidades.\n\nAdemás, al finalizar un descanso corto o largo, puedes manifestar una de estas adaptaciones bestiales hasta el siguiente descanso:\n\n• Velocidad de escalada igual a tu velocidad de movimiento.\n• Velocidad de natación igual a tu velocidad de movimiento.\n• Puedes respirar agua y aire.\n• Tienes ventaja en las pruebas de Atletismo para saltar; además no necesitas coger carrerilla para saltar (cuentas como si siempre corrieras)."
           }
         ],
         "10": [
           {
             "name": "Furia Infecciosa",
-            "description": "Cuando impactas con tus armas naturales durante la furia, puedes forzar al objetivo a dañar a otra criatura o a recibir daño psíquico adicional."
+            "description": "Cuando impactas a una criatura con tus armas naturales mientras estás en furia, puedes infundir tu rabia bestial en el objetivo. El objetivo debe superar una tirada de salvación de Sabiduría (CD = 8 + bono de competencia + mod. CON) o sufrir uno de estos efectos (tu elección):\n\n• El objetivo usa su reacción, si está disponible, para realizar un ataque cuerpo a cuerpo contra otra criatura de tu elección que puedas ver.\n• El objetivo recibe 2d12 de daño psíquico.\n\nPuedes usar este rasgo un número de veces igual a tu modificador de Constitución (mínimo 1). Recuperas todos los usos al finalizar un descanso largo."
           }
         ],
         "14": [
           {
             "name": "Llamada a la Caza",
-            "description": "Al entrar en furia, puedes otorgarte a ti y a varios aliados puntos de golpe temporales y un aumento de daño una vez por turno mientras dure la furia."
+            "description": "Cuando entras en furia, puedes aullar invocando a tus aliados a la batalla. Hasta 5 criaturas voluntarias que puedas ver o escuchar, o que puedan verte u oírte, ganan cada una PG temporales igual a tu bonificador de daño por furia actual.\n\nAdemás, hasta que la furia termine, la primera vez en cada turno que cualquier aliado impacte a una criatura que también hayas atacado tú ese turno, el aliado añade 1d6 de daño de fuerza al golpe.\n\nPuedes usar este rasgo un número de veces igual a tu modificador de Constitución (mínimo 1). Recuperas todos los usos al finalizar un descanso largo."
           }
         ]
       }

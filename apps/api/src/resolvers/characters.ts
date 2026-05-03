@@ -16,6 +16,31 @@ import type { EquipmentItem } from "@dnd/rules-engine";
 
 type InventoryRow = typeof schema.inventoryItems.$inferSelect;
 
+function applyDomainSpells(
+  state: CharacterState,
+  subclassData: SubclassData | undefined,
+  level: number,
+): void {
+  const domainSpells = (subclassData as { domain_spells?: Record<string, string[]> } | undefined)?.domain_spells;
+  if (!domainSpells) return;
+
+  const granted = new Set<string>();
+  for (const [thresholdStr, slugs] of Object.entries(domainSpells)) {
+    const threshold = parseInt(thresholdStr);
+    if (!Number.isFinite(threshold) || level < threshold) continue;
+    for (const slug of slugs) granted.add(slug);
+  }
+
+  const known = new Set(state.known_spells);
+  const prepared = new Set(state.prepared_spells);
+  for (const slug of granted) {
+    known.add(slug);
+    prepared.add(slug);
+  }
+  state.known_spells = Array.from(known);
+  state.prepared_spells = Array.from(prepared);
+}
+
 async function buildComputeContext(
   ctx: GraphQLContext,
   character: typeof schema.characters.$inferSelect,
@@ -174,6 +199,9 @@ export const characterResolvers = {
         notes: "",
         custom_modifiers: [],
       };
+
+      // Auto-grant domain/archetype spells (e.g. Cleric domain spells)
+      applyDomainSpells(state, subclassData, 1);
 
       // Compute initial state
       const computed = computeCharacter({
@@ -421,6 +449,18 @@ export const characterResolvers = {
 
       // Assign subclass if provided at this level-up
       const finalSubclassId = subclassId ?? existing.subclassId;
+
+      // Auto-grant domain/archetype spells unlocked by the new level
+      if (finalSubclassId) {
+        const [subItem] = await ctx.db
+          .select()
+          .from(schema.contentItems)
+          .where(eq(schema.contentItems.id, finalSubclassId))
+          .limit(1);
+        if (subItem) {
+          applyDomainSpells(state, subItem.data as SubclassData, newLevel);
+        }
+      }
 
       // Rebuild a patched character row for recompute (with new level + subclass + scores)
       const patched = { ...existing, level: newLevel, subclassId: finalSubclassId };
@@ -681,6 +721,22 @@ export const characterResolvers = {
         .set({ equipped: equipped as unknown as boolean })
         .where(eq(schema.inventoryItems.id, id))
         .returning();
+
+      // Recompute AC (and other derived stats) after equip/unequip
+      const [fullChar] = await ctx.db
+        .select()
+        .from(schema.characters)
+        .where(eq(schema.characters.id, item.characterId))
+        .limit(1);
+
+      if (fullChar) {
+        const state = (fullChar.state ?? {}) as CharacterState;
+        const computed = await buildComputeContext(ctx, fullChar, state);
+        await ctx.db
+          .update(schema.characters)
+          .set({ computed: computed as unknown as Record<string, unknown>, updatedAt: new Date() })
+          .where(eq(schema.characters.id, item.characterId));
+      }
 
       return updated;
     },

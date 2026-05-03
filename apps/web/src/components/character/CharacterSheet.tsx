@@ -204,7 +204,7 @@ export function CharacterSheet({ character, token }: Props) {
                   Editar
                 </button>
                 <DownloadPDFButton
-                  character={char}
+                  character={{ ...char, state: localState }}
                   inventory={(character as unknown as { inventory?: Array<{ id: string; name: string; quantity: number; equipped: boolean; notes?: string | null }> }).inventory ?? []}
                   token={token}
                   className="btn-ghost text-xs"
@@ -355,6 +355,7 @@ export function CharacterSheet({ character, token }: Props) {
             computed={computed}
             state={localState}
             token={token}
+            classSlug={char.class?.slug ?? ""}
             onSaveSlots={(spell_slots) => saveState({ spell_slots })}
             onLongRest={doLongRest}
             onTogglePrepared={(slug) => {
@@ -367,7 +368,17 @@ export function CharacterSheet({ character, token }: Props) {
           />
         )}
         {activeTab === "inventory" && <InventoryTab character={character} token={token} />}
-        {activeTab === "features" && <FeaturesTab computed={computed} />}
+        {activeTab === "features" && (
+          <FeaturesTab
+            computed={computed}
+            classSlug={char.class?.slug ?? ""}
+            level={character.level}
+            invocations={localState.eldritch_invocations ?? []}
+            pactBoon={localState.pact_boon ?? null}
+            onSaveInvocations={(eldritch_invocations) => saveState({ eldritch_invocations })}
+            onSavePactBoon={(pact_boon) => saveState({ pact_boon })}
+          />
+        )}
         {activeTab === "notes" && (
           <NotesTab
             notes={localState.notes}
@@ -563,6 +574,7 @@ function SpellsTab({
   computed,
   state,
   token,
+  classSlug,
   onSaveSlots,
   onLongRest,
   onTogglePrepared,
@@ -570,10 +582,12 @@ function SpellsTab({
   computed: ComputedCharacter;
   state: Character["state"];
   token: string;
+  classSlug: string;
   onSaveSlots: (slots: Character["state"]["spell_slots"]) => void;
   onLongRest: () => Promise<void>;
   onTogglePrepared: (slug: string) => void;
 }) {
+  const isWarlock = classSlug === "warlock";
   const [spells, setSpells] = useState<SpellLike[]>([]);
   useEffect(() => {
     if (!token) return;
@@ -621,20 +635,32 @@ function SpellsTab({
         <div className="card">
           <SectionTitle
             action={
-              <button
-                onClick={async () => {
-                  if (!confirm("¿Tomar descanso largo? Restaura HP, slots y regenera dados de golpe.")) return;
-                  await onLongRest();
-                }}
-                className="btn-ghost text-[11px]"
-                title="Recuperar todos los slots (descanso largo)"
-              >
-                ↺ Descanso largo
-              </button>
+              isWarlock ? (
+                <span className="flex items-center gap-1 text-[11px] text-violet-400/80">
+                  <GameIcon kind="raw" slug="crystal-ball" size={10} />
+                  Se recuperan con descanso corto
+                </span>
+              ) : (
+                <button
+                  onClick={async () => {
+                    if (!confirm("¿Tomar descanso largo? Restaura HP, slots y regenera dados de golpe.")) return;
+                    await onLongRest();
+                  }}
+                  className="btn-ghost text-[11px]"
+                  title="Recuperar todos los slots (descanso largo)"
+                >
+                  ↺ Descanso largo
+                </button>
+              )
             }
           >
-            Espacios de Hechizo
+            {isWarlock ? "Magia de Pacto" : "Espacios de Hechizo"}
           </SectionTitle>
+          {isWarlock && (
+            <p className="mb-2 font-serif text-[12px] italic text-violet-300/70">
+              Todos los espacios son del mismo nivel. Toma un descanso corto o largo para recuperarlos.
+            </p>
+          )}
           <OrnateDivider className="my-3" />
           <div className="space-y-2.5">
             {Object.entries(computed.spellSlotsByLevel).map(([lvl, total]) => {
@@ -987,8 +1013,78 @@ function InventoryTab({ character, token }: { character: Character; token: strin
   );
 }
 
-function FeaturesTab({ computed }: { computed: ComputedCharacter }) {
-  if (computed.features.length === 0) {
+// How many invocations a warlock knows by level
+function warlockInvocationCount(level: number): number {
+  if (level >= 18) return 8;
+  if (level >= 15) return 7;
+  if (level >= 12) return 6;
+  if (level >= 9) return 5;
+  if (level >= 7) return 4;
+  if (level >= 5) return 3;
+  if (level >= 2) return 2;
+  return 0;
+}
+
+const PACT_BOONS = [
+  { slug: "pact-of-the-blade", name: "Pacto de la Hoja", description: "Puedes usar tu acción para crear un arma de pacto en tu mano vacía. Eres competente con ella y la usas como foco arcano. Si sueltas el arma, desaparece al final del turno." },
+  { slug: "pact-of-the-chain", name: "Pacto de la Cadena", description: "Aprendes el conjuro Encontrar Familiar y puedes invocar un familiar especial: diablo imp, pseudodragón, quasit o sprite. Tu familiar puede atacar con su reacción cuando tú ataques." },
+  { slug: "pact-of-the-tome", name: "Pacto del Tomo", description: "Tu patrón te entrega un Libro de Sombras con 3 trucos adicionales de cualquier lista de clase. Además, en niveles superiores, puedes lanzar rituales de otras clases." },
+];
+
+const ELDRITCH_INVOCATIONS: Array<{ slug: string; name: string; description: string; minLevel?: number; requires?: string }> = [
+  { slug: "agonizing-blast", name: "Explosión Agonizante", description: "Cuando lanzas Explosión Éldrida, añade tu modificador de Carisma al daño en cada impacto.", requires: "Explosión Éldrida" },
+  { slug: "repelling-blast", name: "Explosión Repulsora", description: "Cuando impactas a una criatura con Explosión Éldrida, puedes empujarla hasta 10 pies en línea recta.", requires: "Explosión Éldrida" },
+  { slug: "eldritch-spear", name: "Lanza Éldrica", description: "El alcance de tu Explosión Éldrida es de 300 pies.", requires: "Explosión Éldrida" },
+  { slug: "devils-sight", name: "Vista del Diablo", description: "Puedes ver normalmente en la oscuridad mágica y no mágica hasta 120 pies." },
+  { slug: "armor-of-shadows", name: "Armadura de Sombras", description: "Puedes lanzar Armadura de Mago sobre ti mismo sin gastar espacios de hechizo." },
+  { slug: "fiendish-vigor", name: "Vigor Infernal", description: "Puedes lanzar Vida Falsa sobre ti mismo a voluntad como hechizo de 1er nivel, sin gastar un espacio de hechizo." },
+  { slug: "eldritch-sight", name: "Vista Éldrica", description: "Puedes lanzar Detectar Magia a voluntad, sin gastar espacios de hechizo." },
+  { slug: "mask-of-many-faces", name: "Máscara de Mil Rostros", description: "Puedes lanzar Disfrazarse a voluntad, sin gastar espacios de hechizo." },
+  { slug: "misty-visions", name: "Visiones Neblinosas", description: "Puedes lanzar Ilusión Silenciosa a voluntad, sin gastar espacios de hechizo." },
+  { slug: "beguiling-influence", name: "Influencia Fascinante", description: "Obtienes competencia en las habilidades de Engaño y Persuasión." },
+  { slug: "eyes-of-the-rune-keeper", name: "Ojos del Guardián de Runas", description: "Puedes leer cualquier escritura." },
+  { slug: "beast-speech", name: "Hablar con Bestias", description: "Puedes lanzar Hablar con Animales a voluntad, sin gastar espacios de hechizo." },
+  { slug: "gaze-of-two-minds", name: "Mirada de Dos Mentes", description: "Puedes usar tu acción para tocar a un humanoide voluntario y percibir a través de sus sentidos hasta el inicio de tu próximo turno." },
+  { slug: "thief-of-five-fates", name: "Ladrón de Cinco Destinos", description: "Puedes lanzar Perdición una vez usando un espacio de Magia de Pacto. No puedes volver a hacerlo hasta el siguiente descanso largo." },
+  { slug: "mire-the-mind", name: "Enlodar la Mente", description: "Puedes lanzar Lentitud una vez usando un espacio de Magia de Pacto. No puedes volver a hacerlo hasta el siguiente descanso largo.", minLevel: 5 },
+  { slug: "sign-of-ill-omen", name: "Señal de Mal Agüero", description: "Puedes lanzar Presagio Funesto una vez usando un espacio de Magia de Pacto. No puedes volver a hacerlo hasta el siguiente descanso largo.", minLevel: 5 },
+  { slug: "one-with-shadows", name: "Uno con las Sombras", description: "Cuando estás en un área de luz tenue u oscuridad, puedes usar tu acción para volverte invisible hasta que te muevas o realices una acción o reacción.", minLevel: 5 },
+  { slug: "thirsting-blade", name: "Hoja Sedienta", description: "Puedes atacar dos veces con tu arma de pacto cuando usas la acción Atacar.", minLevel: 5, requires: "Pacto de la Hoja" },
+  { slug: "dreadful-word", name: "Palabra Horrible", description: "Puedes lanzar Confusión una vez usando un espacio de Magia de Pacto. No puedes volver a hacerlo hasta el siguiente descanso largo.", minLevel: 7 },
+  { slug: "bewitching-whispers", name: "Susurros Embelesadores", description: "Puedes lanzar Compulsión una vez usando un espacio de Magia de Pacto. No puedes volver a hacerlo hasta el siguiente descanso largo.", minLevel: 7 },
+  { slug: "sculptor-of-flesh", name: "Escultor de Carne", description: "Puedes lanzar Polimorfar una vez usando un espacio de Magia de Pacto. No puedes volver a hacerlo hasta el siguiente descanso largo.", minLevel: 7 },
+  { slug: "voice-of-the-chain-master", name: "Voz del Amo de la Cadena", description: "Puedes comunicarte telepáticamente con tu familiar, percibir a través de sus sentidos y hablar a través de él.", requires: "Pacto de la Cadena" },
+  { slug: "ascendant-step", name: "Paso Ascendente", description: "Puedes lanzar Levitación sobre ti mismo a voluntad, sin gastar espacios de hechizo.", minLevel: 9 },
+  { slug: "minions-of-chaos", name: "Sirvientes del Caos", description: "Puedes lanzar Conjurar Elemental una vez usando un espacio de Magia de Pacto. No puedes volver a hacerlo hasta el siguiente descanso largo.", minLevel: 9 },
+  { slug: "otherworldly-leap", name: "Salto de Otro Mundo", description: "Puedes lanzar Salto sobre ti mismo a voluntad, sin gastar espacios de hechizo.", minLevel: 9 },
+  { slug: "whispers-of-the-grave", name: "Susurros de la Tumba", description: "Puedes lanzar Hablar con los Muertos a voluntad, sin gastar espacios de hechizo.", minLevel: 9 },
+  { slug: "lifedrinker", name: "Bebedor de Vida", description: "Cuando impactas a una criatura con tu arma de pacto, añades 1d6 + tu modificador de Carisma en daño necrótico.", minLevel: 12, requires: "Pacto de la Hoja" },
+  { slug: "chains-of-carceri", name: "Cadenas de Carceri", description: "Puedes lanzar Mantener a una Persona Inmovilizada a voluntad, sin gastar espacios de hechizo. Solo funciona contra celestiales, fiends o elementales.", minLevel: 15, requires: "Pacto de la Cadena" },
+  { slug: "visions-of-distant-realms", name: "Visiones de Reinos Lejanos", description: "Puedes lanzar Ojo Arcano a voluntad, sin gastar espacios de hechizo.", minLevel: 15 },
+  { slug: "witch-sight", name: "Visión de Bruja", description: "Puedes ver la verdadera forma de cualquier cambiaformas u criatura oculta por magia a 30 pies.", minLevel: 15 },
+];
+
+function FeaturesTab({
+  computed,
+  classSlug,
+  level,
+  invocations,
+  pactBoon,
+  onSaveInvocations,
+  onSavePactBoon,
+}: {
+  computed: ComputedCharacter;
+  classSlug: string;
+  level: number;
+  invocations: string[];
+  pactBoon: string | null;
+  onSaveInvocations: (invocations: string[]) => void;
+  onSavePactBoon: (boon: string | null) => void;
+}) {
+  const isWarlock = classSlug === "warlock";
+  const maxInvocations = warlockInvocationCount(level);
+
+  if (computed.features.length === 0 && !isWarlock) {
     return (
       <div className="card-ghost py-10 text-center">
         <p className="font-serif italic text-stone-500">Aún no hay rasgos de clase.</p>
@@ -996,31 +1092,151 @@ function FeaturesTab({ computed }: { computed: ComputedCharacter }) {
     );
   }
 
+  function toggleInvocation(slug: string) {
+    if (invocations.includes(slug)) {
+      onSaveInvocations(invocations.filter((s) => s !== slug));
+    } else if (invocations.length < maxInvocations) {
+      onSaveInvocations([...invocations, slug]);
+    }
+  }
+
   return (
-    <div className="space-y-2">
-      {computed.features.map((feature, i) => (
-        <details
-          key={i}
-          className="group card-compact overflow-hidden transition-colors hover:border-stone-700"
-        >
-          <summary className="flex cursor-pointer items-center justify-between gap-2 select-none">
-            <div className="flex items-center gap-2 min-w-0">
-              <span className="text-parchment-500 transition-transform group-open:rotate-90">
-                <svg width="10" height="10" viewBox="0 0 10 10" fill="currentColor">
-                  <path d="M2 1.5l5 3.5-5 3.5z" />
-                </svg>
-              </span>
-              <span className="truncate font-display text-sm font-semibold tracking-wide text-stone-100">
-                {feature.name}
-              </span>
-              <span className="badge-neutral shrink-0">{feature.source}</span>
-            </div>
-          </summary>
-          <div className="mt-2 border-t border-stone-800 pt-2 font-serif text-sm leading-relaxed text-stone-300">
-            {feature.description}
+    <div className="space-y-4">
+      {/* Warlock: Pact Boon picker (level 3+) */}
+      {isWarlock && level >= 3 && (
+        <div className="card space-y-3">
+          <SectionTitle>
+            <span className="flex items-center gap-2">
+              <GameIcon kind="raw" slug="crystal-ball" size={14} className="text-violet-400" />
+              Don de Pacto
+            </span>
+          </SectionTitle>
+          <OrnateDivider className="my-2" />
+          <div className="grid gap-2 sm:grid-cols-3">
+            {PACT_BOONS.map((boon) => {
+              const active = pactBoon === boon.slug;
+              return (
+                <button
+                  key={boon.slug}
+                  onClick={() => onSavePactBoon(active ? null : boon.slug)}
+                  className={`rounded-lg border p-3 text-left transition-all ${
+                    active
+                      ? "border-violet-600/70 bg-violet-950/40 shadow-glow"
+                      : "border-stone-800 bg-stone-900/40 hover:border-stone-600"
+                  }`}
+                >
+                  <div className="font-display text-sm font-semibold tracking-wide text-stone-100">
+                    {boon.name}
+                  </div>
+                  <p className="mt-1 font-serif text-[12px] leading-relaxed text-stone-400">
+                    {boon.description}
+                  </p>
+                </button>
+              );
+            })}
           </div>
-        </details>
-      ))}
+        </div>
+      )}
+
+      {/* Warlock: Eldritch Invocations (level 2+) */}
+      {isWarlock && level >= 2 && (
+        <div className="card space-y-3">
+          <SectionTitle>
+            <span className="flex items-center gap-2">
+              <GameIcon kind="raw" slug="triple-yin" size={14} className="text-violet-400" />
+              Invocaciones Éldricas
+              <span className="badge-neutral">{invocations.length}/{maxInvocations}</span>
+            </span>
+          </SectionTitle>
+          <OrnateDivider className="my-2" />
+          <p className="font-serif text-[12px] italic text-stone-500">
+            Selecciona tus {maxInvocations} invocaciones. Las que tienen requisito de nivel o pacto solo están disponibles si cumples las condiciones.
+          </p>
+          <div className="grid gap-1.5 sm:grid-cols-2">
+            {ELDRITCH_INVOCATIONS.filter((inv) => !inv.minLevel || inv.minLevel <= level).map((inv) => {
+              const active = invocations.includes(inv.slug);
+              const disabled = !active && invocations.length >= maxInvocations;
+              return (
+                <button
+                  key={inv.slug}
+                  onClick={() => !disabled && toggleInvocation(inv.slug)}
+                  disabled={disabled}
+                  className={`rounded-lg border p-2.5 text-left transition-all disabled:opacity-40 ${
+                    active
+                      ? "border-violet-600/60 bg-violet-950/30 shadow-glow"
+                      : "border-stone-800 bg-stone-900/40 hover:border-stone-600 disabled:hover:border-stone-800"
+                  }`}
+                >
+                  <div className="flex items-center justify-between gap-1">
+                    <span className="font-display text-[13px] font-semibold tracking-wide text-stone-100">
+                      {inv.name}
+                    </span>
+                    {active && <span className="shrink-0 text-[10px] font-bold text-violet-400">✓</span>}
+                  </div>
+                  {inv.requires && (
+                    <span className="text-[10px] font-medium text-violet-400/70">
+                      Requiere: {inv.requires}
+                    </span>
+                  )}
+                  <p className="mt-1 font-serif text-[11px] leading-relaxed text-stone-400">
+                    {inv.description}
+                  </p>
+                </button>
+              );
+            })}
+          </div>
+        </div>
+      )}
+
+      {/* Standard class/subclass features + warlock active choices */}
+      {(() => {
+        const extraFeatures: Array<{ name: string; description: string; badge: string; badgeClass: string }> = [];
+
+        if (isWarlock && pactBoon) {
+          const boon = PACT_BOONS.find((b) => b.slug === pactBoon);
+          if (boon) extraFeatures.push({ name: boon.name, description: boon.description, badge: "Don de Pacto", badgeClass: "badge-magic" });
+        }
+
+        for (const slug of invocations) {
+          const inv = ELDRITCH_INVOCATIONS.find((i) => i.slug === slug);
+          if (inv) extraFeatures.push({ name: inv.name, description: inv.description + (inv.requires ? `\n\nRequiere: ${inv.requires}` : ""), badge: "Invocación", badgeClass: "badge-magic" });
+        }
+
+        const allFeatures = [
+          ...extraFeatures.map((f) => ({ ...f, isExtra: true })),
+          ...computed.features.map((f) => ({ name: f.name, description: f.description, badge: f.source, badgeClass: "badge-neutral", isExtra: false })),
+        ];
+
+        if (allFeatures.length === 0) return null;
+
+        return (
+          <div className="space-y-2">
+            {allFeatures.map((feature, i) => (
+              <details
+                key={i}
+                className={`group overflow-hidden transition-colors ${feature.isExtra ? "card-compact border-violet-900/30 hover:border-violet-700/50" : "card-compact hover:border-stone-700"}`}
+              >
+                <summary className="flex cursor-pointer items-center justify-between gap-2 select-none">
+                  <div className="flex items-center gap-2 min-w-0">
+                    <span className="text-parchment-500 transition-transform group-open:rotate-90">
+                      <svg width="10" height="10" viewBox="0 0 10 10" fill="currentColor">
+                        <path d="M2 1.5l5 3.5-5 3.5z" />
+                      </svg>
+                    </span>
+                    <span className="truncate font-display text-sm font-semibold tracking-wide text-stone-100">
+                      {feature.name}
+                    </span>
+                    <span className={`shrink-0 ${feature.badgeClass}`}>{feature.badge}</span>
+                  </div>
+                </summary>
+                <div className="mt-2 border-t border-stone-800 pt-2 font-serif text-sm leading-relaxed text-stone-300 whitespace-pre-line">
+                  {feature.description}
+                </div>
+              </details>
+            ))}
+          </div>
+        );
+      })()}
     </div>
   );
 }

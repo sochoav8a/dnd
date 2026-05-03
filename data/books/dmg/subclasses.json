@@ -1,0 +1,63 @@
+[
+  {
+    "slug": "death-domain",
+    "name": "Dominio de la Muerte",
+    "description": "El dominio de la Muerte se ocupa de las fuerzas que ponen fin a la vida, pero también de la energía negativa que permite alzarse a los muertos vivientes. Deidades como Chemosh, Myrkul y Wee Jas son patrones de nigromantes, caballeros de la muerte, liches, señores de las momias y vampiros. Los dioses del dominio de la Muerte también encarnan el asesinato (Anubis, Bhaal y Pyremius), el dolor (Iuz o Loviatar), la enfermedad o el veneno (Incabulos, Talona o Morgion) y el inframundo (Hades y Hela).",
+    "data": {
+      "parent_class": "cleric",
+      "flavor_name": "Dominio de la Muerte",
+      "domain_spells": {
+        "1": ["false-life", "ray-of-sickness"],
+        "3": ["ray-of-enfeeblement", "blindness-deafness"],
+        "5": ["animate-dead", "vampiric-touch"],
+        "7": ["death-ward", "blight"],
+        "9": ["antilife-shell", "cloudkill"]
+      },
+      "features_by_level": {
+        "1": [
+          {
+            "name": "Conjuros de Dominio",
+            "description": "Como clérigo del Dominio de la Muerte, ganas conjuros de dominio a niveles concretos de clérigo. Estos conjuros están siempre preparados para ti y no cuentan contra el número de hechizos que puedes preparar cada día.\n\n• Nivel 1: vida fingida (false-life), rayo nauseabundo (ray-of-sickness)\n• Nivel 3: rayo debilitador (ray-of-enfeeblement), sordera/ceguera (blindness-deafness)\n• Nivel 5: animar a los muertos (animate-dead), toque vampírico (vampiric-touch)\n• Nivel 7: guarda contra la muerte (death-ward), marchitar (blight)\n• Nivel 9: caparazón antivida (antilife-shell), nube aniquiladora (cloudkill)"
+          },
+          {
+            "name": "Competencia Adicional",
+            "description": "A nivel 1, cuando el clérigo escoge este dominio, gana competencia con armas marciales."
+          },
+          {
+            "name": "Segador",
+            "description": "A nivel 1, el clérigo aprende un truco de nigromancia de su elección de cualquier lista de conjuros. Cuando el clérigo lance un truco de nigromancia que, en condiciones normales, solo tendría como objetivo a una criatura, en lugar de eso podrá tener como objetivo a dos criaturas dentro del alcance y que se encuentren a 5 pies o menos la una de la otra."
+          }
+        ],
+        "2": [
+          {
+            "name": "Canalizar Divinidad: Toque de la Muerte",
+            "description": "A partir de nivel 2, el clérigo puede utilizar Canalizar Divinidad para destruir la fuerza vital de otra criatura con tan solo tocarla.\n\nCuando el clérigo impacte a una criatura con un ataque cuerpo a cuerpo, podrá usar Canalizar Divinidad para infligir daño necrótico adicional al objetivo. Este daño es 5 + dos veces su nivel de clérigo."
+          }
+        ],
+        "6": [
+          {
+            "name": "Destrucción Inevitable",
+            "description": "A partir de nivel 6, la capacidad del clérigo para canalizar energía negativa se vuelve más poderosa. El daño necrótico causado por los conjuros de clérigo y las opciones de Canalizar Divinidad ignora la resistencia al daño necrótico."
+          }
+        ],
+        "8": [
+          {
+            "name": "Golpe Divino",
+            "description": "A nivel 8, el clérigo obtiene la facultad para imbuir los golpes de su arma con energía necrótica. Una vez por cada uno de los turnos del clérigo, cuando este impacte a una criatura con un ataque con arma, puede hacer que dicho ataque cause 1d8 de daño de necrótico adicional al objetivo. Cuando el clérigo llega a nivel 14, este daño adicional pasa a ser 2d8."
+          }
+        ],
+        "17": [
+          {
+            "name": "Segador Mejorado",
+            "description": "A partir de nivel 17, cuando el clérigo lance un conjuro de la escuela de nigromancia de niveles 1 a 5 que, en condiciones normales, solo tendría como objetivo a una criatura, en lugar de eso podrá tener como objetivo a dos criaturas dentro del alcance y que se encuentren a 5 pies o menos la una de la otra. Si este conjuro consume componentes materiales, el clérigo deberá proporcionar los necesarios para cada objetivo."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "source_pdf": "Manual del Dungeon Master.pdf",
+      "extractor": "manual",
+      "pages": "96-97"
+    }
+  }
+]

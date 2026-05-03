@@ -409,6 +409,46 @@ const s = StyleSheet.create({
   },
 });
 
+// ── Static warlock data ──────────────────────────────────────────────────
+const PACT_BOONS_PDF: Record<string, { name: string; description: string }> = {
+  "pact-of-the-blade": { name: "Pacto de la Hoja", description: "Puedes usar tu acción para crear un arma de pacto en tu mano vacía. Eres competente con ella y la usas como foco arcano. Si sueltas el arma, desaparece al final del turno." },
+  "pact-of-the-chain": { name: "Pacto de la Cadena", description: "Aprendes el conjuro Encontrar Familiar y puedes invocar un familiar especial: diablo imp, pseudodragón, quasit o sprite. Tu familiar puede atacar con su reacción cuando tú ataques." },
+  "pact-of-the-tome": { name: "Pacto del Tomo", description: "Tu patrón te entrega un Libro de Sombras con 3 trucos adicionales de cualquier lista de clase. Además, en niveles superiores, puedes lanzar rituales de otras clases." },
+};
+
+const INVOCATIONS_PDF: Record<string, { name: string; description: string; requires?: string }> = {
+  "agonizing-blast": { name: "Explosión Agonizante", description: "Cuando lanzas Explosión Éldrida, añade tu modificador de Carisma al daño en cada impacto.", requires: "Explosión Éldrida" },
+  "repelling-blast": { name: "Explosión Repulsora", description: "Cuando impactas a una criatura con Explosión Éldrida, puedes empujarla hasta 10 pies en línea recta.", requires: "Explosión Éldrida" },
+  "eldritch-spear": { name: "Lanza Éldrica", description: "El alcance de tu Explosión Éldrida es de 300 pies.", requires: "Explosión Éldrida" },
+  "devils-sight": { name: "Vista del Diablo", description: "Puedes ver normalmente en la oscuridad mágica y no mágica hasta 120 pies." },
+  "armor-of-shadows": { name: "Armadura de Sombras", description: "Puedes lanzar Armadura de Mago sobre ti mismo sin gastar espacios de hechizo." },
+  "fiendish-vigor": { name: "Vigor Infernal", description: "Puedes lanzar Vida Falsa sobre ti mismo a voluntad como hechizo de 1er nivel, sin gastar un espacio de hechizo." },
+  "eldritch-sight": { name: "Vista Éldrica", description: "Puedes lanzar Detectar Magia a voluntad, sin gastar espacios de hechizo." },
+  "mask-of-many-faces": { name: "Máscara de Mil Rostros", description: "Puedes lanzar Disfrazarse a voluntad, sin gastar espacios de hechizo." },
+  "misty-visions": { name: "Visiones Neblinosas", description: "Puedes lanzar Ilusión Silenciosa a voluntad, sin gastar espacios de hechizo." },
+  "beguiling-influence": { name: "Influencia Fascinante", description: "Obtienes competencia en las habilidades de Engaño y Persuasión." },
+  "eyes-of-the-rune-keeper": { name: "Ojos del Guardián de Runas", description: "Puedes leer cualquier escritura." },
+  "beast-speech": { name: "Hablar con Bestias", description: "Puedes lanzar Hablar con Animales a voluntad, sin gastar espacios de hechizo." },
+  "gaze-of-two-minds": { name: "Mirada de Dos Mentes", description: "Puedes usar tu acción para tocar a un humanoide voluntario y percibir a través de sus sentidos hasta el inicio de tu próximo turno." },
+  "thief-of-five-fates": { name: "Ladrón de Cinco Destinos", description: "Puedes lanzar Perdición una vez usando un espacio de Magia de Pacto. No puedes volver a hacerlo hasta el siguiente descanso largo." },
+  "mire-the-mind": { name: "Enlodar la Mente", description: "Puedes lanzar Lentitud una vez usando un espacio de Magia de Pacto. No puedes volver a hacerlo hasta el siguiente descanso largo." },
+  "sign-of-ill-omen": { name: "Señal de Mal Agüero", description: "Puedes lanzar Presagio Funesto una vez usando un espacio de Magia de Pacto. No puedes volver a hacerlo hasta el siguiente descanso largo." },
+  "one-with-shadows": { name: "Uno con las Sombras", description: "Cuando estás en un área de luz tenue u oscuridad, puedes usar tu acción para volverte invisible hasta que te muevas o realices una acción o reacción." },
+  "thirsting-blade": { name: "Hoja Sedienta", description: "Puedes atacar dos veces con tu arma de pacto cuando usas la acción Atacar.", requires: "Pacto de la Hoja" },
+  "dreadful-word": { name: "Palabra Horrible", description: "Puedes lanzar Confusión una vez usando un espacio de Magia de Pacto. No puedes volver a hacerlo hasta el siguiente descanso largo." },
+  "bewitching-whispers": { name: "Susurros Embelesadores", description: "Puedes lanzar Compulsión una vez usando un espacio de Magia de Pacto. No puedes volver a hacerlo hasta el siguiente descanso largo." },
+  "sculptor-of-flesh": { name: "Escultor de Carne", description: "Puedes lanzar Polimorfar una vez usando un espacio de Magia de Pacto. No puedes volver a hacerlo hasta el siguiente descanso largo." },
+  "voice-of-the-chain-master": { name: "Voz del Amo de la Cadena", description: "Puedes comunicarte telepáticamente con tu familiar, percibir a través de sus sentidos y hablar a través de él.", requires: "Pacto de la Cadena" },
+  "ascendant-step": { name: "Paso Ascendente", description: "Puedes lanzar Levitación sobre ti mismo a voluntad, sin gastar espacios de hechizo." },
+  "minions-of-chaos": { name: "Sirvientes del Caos", description: "Puedes lanzar Conjurar Elemental una vez usando un espacio de Magia de Pacto. No puedes volver a hacerlo hasta el siguiente descanso largo." },
+  "otherworldly-leap": { name: "Salto de Otro Mundo", description: "Puedes lanzar Salto sobre ti mismo a voluntad, sin gastar espacios de hechizo." },
+  "whispers-of-the-grave": { name: "Susurros de la Tumba", description: "Puedes lanzar Hablar con los Muertos a voluntad, sin gastar espacios de hechizo." },
+  "lifedrinker": { name: "Bebedor de Vida", description: "Cuando impactas a una criatura con tu arma de pacto, añades 1d6 + tu modificador de Carisma en daño necrótico.", requires: "Pacto de la Hoja" },
+  "chains-of-carceri": { name: "Cadenas de Carceri", description: "Puedes lanzar Mantener a una Persona Inmovilizada a voluntad sin gastar espacios de hechizo. Solo funciona contra celestiales, fiends o elementales.", requires: "Pacto de la Cadena" },
+  "visions-of-distant-realms": { name: "Visiones de Reinos Lejanos", description: "Puedes lanzar Ojo Arcano a voluntad, sin gastar espacios de hechizo." },
+  "witch-sight": { name: "Visión de Bruja", description: "Puedes ver la verdadera forma de cualquier cambiaformas u criatura oculta por magia a 30 pies." },
+};
+
 interface SpellLike {
   id: string;
   slug: string;
@@ -750,45 +790,64 @@ export function CharacterSheetPDF({
       </Page>
 
       {/* ── PAGE 2 — Features ───────────────────────────────── */}
-      {computed.features.length > 0 && (
-        <Page size="A4" style={s.page}>
-          <View style={s.bgBorder} fixed />
-          <View style={s.bgBorderInner} fixed />
+      {(() => {
+        // Build extra warlock features from player choices
+        const extraFeatures: Array<{ name: string; source: string; description: string }> = [];
+        const pactBoonSlug = (state as CharacterState & { pact_boon?: string | null }).pact_boon;
+        const eldritchInvocations = (state as CharacterState & { eldritch_invocations?: string[] }).eldritch_invocations ?? [];
 
-          <View style={s.header}>
-            <Text style={s.name}>{character.name}</Text>
-            <Text style={[s.subtitle, { marginTop: 0 }]}>
-              Features & Traits
-            </Text>
-          </View>
+        if (pactBoonSlug && PACT_BOONS_PDF[pactBoonSlug]) {
+          const boon = PACT_BOONS_PDF[pactBoonSlug];
+          extraFeatures.push({ name: boon.name, source: "Don de Pacto", description: boon.description });
+        }
+        for (const slug of eldritchInvocations) {
+          const inv = INVOCATIONS_PDF[slug];
+          if (inv) extraFeatures.push({ name: inv.name, source: "Invocación Éldrica", description: inv.description + (inv.requires ? ` (Requiere: ${inv.requires})` : "") });
+        }
 
-          <View style={s.section}>
-            <Text style={s.sectionTitle}>Features & Traits</Text>
-            {computed.features.map((f, i) => (
-              <View key={i} style={s.featureItem} wrap={false}>
-                <Text style={s.featureName}>
-                  {f.name}
-                  <Text style={s.featureSource}> · {f.source}</Text>
-                </Text>
-                <Text style={s.featureDesc}>{f.description}</Text>
-              </View>
-            ))}
-          </View>
+        const allFeatures = [...extraFeatures, ...computed.features];
+        if (allFeatures.length === 0 && (!state.notes || !state.notes.trim())) return null;
 
-          {state.notes && state.notes.trim().length > 0 && (
-            <View style={[s.section, { marginTop: 8 }]}>
-              <Text style={s.sectionTitle}>Notes</Text>
-              <Text
-                style={{ fontSize: 9, color: C.ink, lineHeight: 1.35 }}
-              >
-                {state.notes}
+        return (
+          <Page size="A4" style={s.page}>
+            <View style={s.bgBorder} fixed />
+            <View style={s.bgBorderInner} fixed />
+
+            <View style={s.header}>
+              <Text style={s.name}>{character.name}</Text>
+              <Text style={[s.subtitle, { marginTop: 0 }]}>
+                Features & Traits
               </Text>
             </View>
-          )}
 
-          <PageFooter characterName={character.name} pageLabel="II" />
-        </Page>
-      )}
+            {allFeatures.length > 0 && (
+              <View style={s.section}>
+                <Text style={s.sectionTitle}>Features & Traits</Text>
+                {allFeatures.map((f, i) => (
+                  <View key={i} style={s.featureItem} wrap={false}>
+                    <Text style={s.featureName}>
+                      {f.name}
+                      <Text style={s.featureSource}> · {f.source}</Text>
+                    </Text>
+                    <Text style={s.featureDesc}>{f.description}</Text>
+                  </View>
+                ))}
+              </View>
+            )}
+
+            {state.notes && state.notes.trim().length > 0 && (
+              <View style={[s.section, { marginTop: 8 }]}>
+                <Text style={s.sectionTitle}>Notes</Text>
+                <Text style={{ fontSize: 9, color: C.ink, lineHeight: 1.35 }}>
+                  {state.notes}
+                </Text>
+              </View>
+            )}
+
+            <PageFooter characterName={character.name} pageLabel="II" />
+          </Page>
+        );
+      })()}
 
       {/* ── PAGE 3 — Spells ────────────────────────────────── */}
       {isCaster && (
@@ -829,7 +888,12 @@ export function CharacterSheetPDF({
 
               {Object.keys(computed.spellSlotsByLevel).length > 0 && (
                 <View style={s.section}>
-                  <Text style={s.sectionTitle}>Spell Slots</Text>
+                  <Text style={s.sectionTitle}>{character.class?.slug === "warlock" ? "Pact Magic" : "Spell Slots"}</Text>
+                  {character.class?.slug === "warlock" && (
+                    <Text style={{ fontSize: 7, color: C.inkFaded, fontStyle: "italic", marginBottom: 3 }}>
+                      Slots se recuperan con descanso corto
+                    </Text>
+                  )}
                   {Object.entries(computed.spellSlotsByLevel)
                     .sort((a, b) => Number(a[0]) - Number(b[0]))
                     .map(([lvl, total]) => {

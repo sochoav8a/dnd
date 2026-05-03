@@ -22,6 +22,7 @@ export function getCasterKind(classSlug: string): CasterKind {
     case "cleric":
     case "druid":
     case "paladin":
+    case "artificer":
       return "prepared";
     case "wizard":
       return "spellbook";
@@ -70,16 +71,21 @@ const SLOT_TABLES: Record<string, number[][]> = {
   ],
 };
 
-function maxSpellLevelFor(type: ClassData["spell_casting"] extends infer T ? T : never, level: number): number {
+function maxSpellLevelFor(type: ClassData["spell_casting"] extends infer T ? T : never, level: number, customSlots?: number[][]): number {
+  // If the class has its own slot table (e.g. Artificer), use it directly.
+  if (customSlots && customSlots.length > 0) {
+    const row = customSlots[Math.max(0, Math.min(customSlots.length - 1, level - 1))] ?? [];
+    let max = 0;
+    for (let i = 0; i < row.length; i++) if ((row[i] ?? 0) > 0) max = i + 1;
+    return max;
+  }
   // SRD quick ref: lv1→1, 3→2, 5→3 (full); 2→1, 5→2, 9→3 (half); warlock uses slot level directly.
-  // We derive from class slot table if available.
   const t = (type as { type?: string } | null)?.type ?? "full";
   const table = SLOT_TABLES[t] ?? SLOT_TABLES["full"]!;
   const row = table[Math.max(0, Math.min(19, level - 1))] ?? [];
   let max = 0;
   for (let i = 0; i < row.length; i++) if ((row[i] ?? 0) > 0) max = i + 1;
   if (t === "warlock") {
-    // Warlock slots by pact magic; top slot unlocks at levels 1,3,5,7,9
     if (level >= 9) max = 5;
     else if (level >= 7) max = 4;
     else if (level >= 5) max = 3;
@@ -112,9 +118,12 @@ export function getSpellCaps(
     spellsKnown = sc.spells_known?.[idx] ?? 0;
   } else if (kind === "prepared") {
     // "cantidad preparada" = nivel por clase + mod habilidad (min 1)
-    // Para paladín/ranger half-caster el cálculo redondeado hacia abajo.
+    // Artificer: ceil(level/2) + INT mod. Paladin/Ranger: floor(level/2) + mod.
     if (sc.type === "half") {
-      spellsKnown = Math.max(1, Math.floor(level / 2) + abilityMod);
+      const halfLevel = classSlug === "artificer"
+        ? Math.ceil(level / 2)
+        : Math.floor(level / 2);
+      spellsKnown = Math.max(1, halfLevel + abilityMod);
     } else {
       spellsKnown = Math.max(1, level + abilityMod);
     }
@@ -127,6 +136,6 @@ export function getSpellCaps(
   return {
     cantripsKnown,
     spellsKnown,
-    maxSpellLevel: maxSpellLevelFor(sc, level),
+    maxSpellLevel: maxSpellLevelFor(sc, level, sc.spell_slots),
   };
 }

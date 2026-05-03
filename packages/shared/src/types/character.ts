@@ -37,6 +37,10 @@ export interface CharacterState {
   custom_modifiers: import("./modifiers.js").Modifier[];
   /** Slug of the spell the character is currently concentrating on, if any. */
   concentrating_on?: string | null;
+  /** Warlock: slugs of chosen Eldritch Invocations */
+  eldritch_invocations?: string[];
+  /** Warlock: chosen Pact Boon (pact-of-the-blade | pact-of-the-chain | pact-of-the-tome) */
+  pact_boon?: string | null;
 }
 
 export interface Character {

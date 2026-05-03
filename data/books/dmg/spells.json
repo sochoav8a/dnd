@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "ray-of-sickness",
+    "name": "Rayo Nauseabundo",
+    "description": "Lanzas un rayo verdoso contra una criatura dentro del alcance. Haz un ataque de conjuro a distancia contra el objetivo. Si impactas, el objetivo recibe 2d8 puntos de daño de veneno y debe superar una tirada de salvación de Constitución o quedará envenenado hasta el final de tu próximo turno.",
+    "data": {
+      "level": 1,
+      "school": "necromancy",
+      "casting_time": "1 acción",
+      "range": "60 pies",
+      "components": {
+        "V": true,
+        "S": true
+      },
+      "duration": "Instantáneo",
+      "concentration": false,
+      "classes": [
+        "sorcerer",
+        "wizard"
+      ],
+      "description": "Lanzas un rayo verdoso contra una criatura dentro del alcance. Haz un ataque de conjuro a distancia contra el objetivo. Si impactas, el objetivo recibe 2d8 puntos de daño de veneno y debe superar una tirada de salvación de Constitución o quedará envenenado hasta el final de tu próximo turno.\n\nA niveles superiores. Cuando lanzas este conjuro utilizando un espacio de conjuro de nivel 2 o superior, el daño aumenta en 1d8 por cada nivel por encima de 1.",
+      "damage": {
+        "base": "2d8",
+        "type": "poison",
+        "higher_levels": "+1d8 por cada nivel por encima de 1"
+      },
+      "save": {
+        "ability": "CON",
+        "effect": "envenenado hasta el final de tu próximo turno"
+      }
+    },
+    "metadata": {
+      "source_pdf": "Manual del Jugador.pdf",
+      "extractor": "manual"
+    }
+  }
+]

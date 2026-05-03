@@ -2,7 +2,10 @@
   "permissions": {
     "allow": [
       "Bash(node -e ' *)",
-      "Bash(node --experimental-strip-types -e ' *)"
+      "Bash(node --experimental-strip-types -e ' *)",
+      "Bash(python3 -c ' *)",
+      "Bash(pnpm --filter web tsc --noEmit)",
+      "Bash(pnpm --filter web exec tsc --noEmit)"
     ]
   }
 }
